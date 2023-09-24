@@ -1,0 +1,110 @@
+political_decisions= { 
+form_steppe ={
+picture = steppe
+potential = {
+OR = {
+primary_culture = turkic
+primary_culture = mongol
+primary_culture = hungarian
+primary_culture = xianbei
+}
+NOT = { tag = NWI }
+NOT = { 
+	has_country_flag = steppe_empire
+}
+}
+allow ={
+			MGL = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+							OR = { 
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+			}
+			HEP = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+							OR = { 
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+			}
+			AVR = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+							OR = { 
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+			}
+			HNN = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+							OR = { 
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+			}
+		}
+effect = {
+
+prestige = 30
+
+any_country = {
+limit = {
+	OR = {
+	   	tag = MGL
+		tag = HEP
+		tag = HNN
+		tag = AVR
+		tag = HUN
+		}
+		OR = { 
+			in_sphere = THIS
+			vassal_of = THIS
+			}
+		NOT = {
+		tag = THIS
+		}
+		}
+		annex_to = THIS
+
+}
+set_global_flag = steppe_empire
+set_country_flag = steppe_empire
+change_tag = SKY
+add_accepted_culture = mongol
+add_accepted_culture = hungarian
+primary_culture = turkic
+MGL = { all_core = { add_core = THIS } }
+HEP = { all_core = { add_core = THIS } }
+HNN = { all_core = { add_core = THIS } }
+AVR = { all_core = { add_core = THIS } }
+HUN = { all_core = { add_core = THIS } }
+MGL = { all_core = { remove_core = MGL } }
+HEP = { all_core = { remove_core = HEP } }
+HNN = { all_core = { remove_core = HNN } }
+AVR = { all_core = { remove_core = AVR } }
+}}
+}

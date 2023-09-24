@@ -1,0 +1,34 @@
+#Southern Melanesia (2400) #see Vanuatu.txt for balance of region
+#uncolonized in 183
+#New Caledonia (2400/600 POPS) 
+1097 = {
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 5
+	}
+
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 30
+	}
+
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 7
+	}
+
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 547
+	}
+}

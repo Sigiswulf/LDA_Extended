@@ -1,0 +1,609 @@
+#Senegambia.txt includes modern Senegal and Gambia
+#Senegambia Region (44400)
+#uncolonized in 183/ruled by Damel of Wolof
+#Dakar (800/200 POPS)
+1783 = {
+	aristocrats = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 2
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 5
+	}
+
+	artisans = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 10
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 2
+
+	}
+
+	farmers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 180
+	}
+}
+#Linguere (21600/5400 POPS)
+1786 = {
+	aristocrats = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 110
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 55
+	}
+
+	artisans = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 215
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 130
+
+	}
+
+	farmers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 4100
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 800
+	}
+}
+#Diourbel (8800/2200 POPS)
+1787 = {
+	aristocrats = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 40
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 20
+	}
+
+	artisans = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 90
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 25
+
+	}
+
+	farmers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 1625
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 400
+	}
+}
+#Kaolack (16000/4000 POPS) #kingdom of the Sereer
+1788 = {
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 30
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 135
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 100
+
+	}
+
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 1835
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 800
+	}
+
+	aristocrats = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 25
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 65
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 10
+
+	}
+
+	farmers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 940
+	}
+}
+#Mboul (14400/3600 POPS)
+2573 = {
+	aristocrats = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 65
+	}
+
+	bureaucrats = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 5
+	}
+
+	officers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 10
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 35
+	}
+
+	artisans = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 145
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 140
+
+	}
+
+	farmers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 1800
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 1400
+	}
+}
+#uncolonized/French have trade post in 183
+#Saint-Louis (2400/600 POPS)
+1784 = {
+	aristocrats = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 5
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 7
+	}
+
+	artisans = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 15
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 2
+
+	}
+
+	farmers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 270
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 110
+	}
+
+	aristocrats = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 5
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 7
+	}
+
+	artisans = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 15
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 2
+
+	}
+
+	farmers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 170
+	}
+}
+#uncolonized/British have trade post in 183
+#Banjul (10800/2700 POPS) #now part of Gambia
+1785 = {
+	aristocrats = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 35
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 20
+	}
+
+	artisans = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 95
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 20
+
+	}
+
+	farmers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 1730
+	}
+
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 15
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 7
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 40
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 7
+
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 727
+	}
+}
+#Futa Region (32800)
+#uncolonized in 183/ruled by Emir of Tukulor
+#Podor (34800/8700 POPS)
+1789 = {
+	aristocrats = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 165
+	}
+
+	bureaucrats = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 7
+	}
+
+	officers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 15
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 90
+	}
+
+	artisans = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 352
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 170
+
+	}
+
+	farmers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 6400
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 1500
+	}
+}
+#Matam (21600/5400 POPS)
+1790 = {
+	aristocrats = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 97
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 52
+	}
+
+	artisans = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 217
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 132
+
+	}
+
+	farmers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 3400
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 1500
+	}
+}
+#Bakel (14000/3500 POPS)
+1791 = {
+	aristocrats = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 57
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 30
+	}
+
+	artisans = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 117
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 30
+
+	}
+
+	farmers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 2165
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 5
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 30
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 7
+
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 557
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 500
+	}
+}
+#Casamance Region (22400) #see Guinea Bissau.txt and Guinea.txt for balance of Region
+#under the rule of Gabu in 183
+#Ziguinchour (24000/6000 POPS)
+1792 = {
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 115
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 60
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 240
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 110
+
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 4075
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 1400
+	}
+}
+#Velingara (10400/2600 POPS
+1793 = {
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 25
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 105
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 27
+
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 1992
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 400
+	}
+
+}

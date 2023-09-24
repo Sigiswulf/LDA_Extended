@@ -1,0 +1,398 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+color = { 26  68  156 }
+graphical_culture = Generic
+
+party = {
+	name = "MIN_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = residency
+	war_policy = pacifism
+}
+
+party = {
+	name = "MIN_conservative"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "MIN_socialist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	economic_policy = state_capitalism
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "MIN_reactionary"
+start_date = 500.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "MIN_anarcho_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "MIN_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "MIN_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		Minneapolis "Saint Paul" Rochester Duluth Bloomington Plymouth "St. Cloud" Eagan Woodbury "Maple Grove" "Eden Prairie" Burnsville Blaine Lakeville Minnetonka Edina Mankato Maplewood Moorhead Shakopee Roseville Andover
+	}
+	ironclad = {
+        Minneapolis "Saint Paul" Rochester Duluth Bloomington Plymouth "St. Cloud" Eagan Woodbury "Maple Grove" "Eden Prairie" Burnsville Blaine Lakeville Minnetonka Edina Mankato Maplewood Moorhead Shakopee Roseville Andover
+	}
+	manowar = {
+		Minneapolis "Saint Paul" Rochester Duluth Bloomington Plymouth "St. Cloud" Eagan Woodbury "Maple Grove" "Eden Prairie" Burnsville Blaine Lakeville Minnetonka Edina Mankato Maplewood Moorhead Shakopee Roseville Andover
+	}
+	cruiser = {
+		Minneapolis "Saint Paul" Rochester Duluth Bloomington Plymouth "St. Cloud" Eagan Woodbury "Maple Grove" "Eden Prairie" Burnsville Blaine Lakeville Minnetonka Edina Mankato Maplewood Moorhead Shakopee Roseville Andover
+	}
+	frigate = {
+		Minneapolis "Saint Paul" Rochester Duluth Bloomington Plymouth "St. Cloud" Eagan Woodbury "Maple Grove" "Eden Prairie" Burnsville Blaine Lakeville Minnetonka Edina Mankato Maplewood Moorhead Shakopee Roseville Andover
+	}
+	monitor = {
+		Minneapolis "Saint Paul" Rochester Duluth Bloomington Plymouth "St. Cloud" Eagan Woodbury "Maple Grove" "Eden Prairie" Burnsville Blaine Lakeville Minnetonka Edina Mankato Maplewood Moorhead Shakopee Roseville Andover
+	}
+	clipper_transport = { 
+		Minneapolis "Saint Paul" Rochester Duluth Bloomington Plymouth "St. Cloud" Eagan Woodbury "Maple Grove" "Eden Prairie" Burnsville Blaine Lakeville Minnetonka Edina Mankato Maplewood Moorhead Shakopee Roseville Andover
+	}
+	steam_transport = { 
+		Minneapolis "Saint Paul" Rochester Duluth Bloomington Plymouth "St. Cloud" Eagan Woodbury "Maple Grove" "Eden Prairie" Burnsville Blaine Lakeville Minnetonka Edina Mankato Maplewood Moorhead Shakopee Roseville Andover
+	}
+	commerce_raider = {
+		Minneapolis "Saint Paul" Rochester Duluth Bloomington Plymouth "St. Cloud" Eagan Woodbury "Maple Grove" "Eden Prairie" Burnsville Blaine Lakeville Minnetonka Edina Mankato Maplewood Moorhead Shakopee Roseville Andover
+	}
+=======
+=======
+>>>>>>> sirbuddyguytest3
+color = { 26  68  156 }
+graphical_culture = Generic
+
+party = {
+	name = "MIN_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = residency
+	war_policy = pacifism
+}
+
+party = {
+	name = "MIN_conservative"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "MIN_socialist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	economic_policy = state_capitalism
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "MIN_reactionary"
+start_date = 500.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "MIN_anarcho_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "MIN_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "MIN_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		Minneapolis "Saint Paul" Rochester Duluth Bloomington Plymouth "St. Cloud" Eagan Woodbury "Maple Grove" "Eden Prairie" Burnsville Blaine Lakeville Minnetonka Edina Mankato Maplewood Moorhead Shakopee Roseville Andover
+	}
+	ironclad = {
+        Minneapolis "Saint Paul" Rochester Duluth Bloomington Plymouth "St. Cloud" Eagan Woodbury "Maple Grove" "Eden Prairie" Burnsville Blaine Lakeville Minnetonka Edina Mankato Maplewood Moorhead Shakopee Roseville Andover
+	}
+	manowar = {
+		Minneapolis "Saint Paul" Rochester Duluth Bloomington Plymouth "St. Cloud" Eagan Woodbury "Maple Grove" "Eden Prairie" Burnsville Blaine Lakeville Minnetonka Edina Mankato Maplewood Moorhead Shakopee Roseville Andover
+	}
+	cruiser = {
+		Minneapolis "Saint Paul" Rochester Duluth Bloomington Plymouth "St. Cloud" Eagan Woodbury "Maple Grove" "Eden Prairie" Burnsville Blaine Lakeville Minnetonka Edina Mankato Maplewood Moorhead Shakopee Roseville Andover
+	}
+	frigate = {
+		Minneapolis "Saint Paul" Rochester Duluth Bloomington Plymouth "St. Cloud" Eagan Woodbury "Maple Grove" "Eden Prairie" Burnsville Blaine Lakeville Minnetonka Edina Mankato Maplewood Moorhead Shakopee Roseville Andover
+	}
+	monitor = {
+		Minneapolis "Saint Paul" Rochester Duluth Bloomington Plymouth "St. Cloud" Eagan Woodbury "Maple Grove" "Eden Prairie" Burnsville Blaine Lakeville Minnetonka Edina Mankato Maplewood Moorhead Shakopee Roseville Andover
+	}
+	clipper_transport = { 
+		Minneapolis "Saint Paul" Rochester Duluth Bloomington Plymouth "St. Cloud" Eagan Woodbury "Maple Grove" "Eden Prairie" Burnsville Blaine Lakeville Minnetonka Edina Mankato Maplewood Moorhead Shakopee Roseville Andover
+	}
+	steam_transport = { 
+		Minneapolis "Saint Paul" Rochester Duluth Bloomington Plymouth "St. Cloud" Eagan Woodbury "Maple Grove" "Eden Prairie" Burnsville Blaine Lakeville Minnetonka Edina Mankato Maplewood Moorhead Shakopee Roseville Andover
+	}
+	commerce_raider = {
+		Minneapolis "Saint Paul" Rochester Duluth Bloomington Plymouth "St. Cloud" Eagan Woodbury "Maple Grove" "Eden Prairie" Burnsville Blaine Lakeville Minnetonka Edina Mankato Maplewood Moorhead Shakopee Roseville Andover
+	}
+<<<<<<< HEAD
+=======
+=======
+color = { 26  68  156 }
+graphical_culture = Generic
+
+party = {
+	name = "MIN_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = residency
+	war_policy = pacifism
+}
+
+party = {
+	name = "MIN_conservative"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "MIN_socialist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	economic_policy = state_capitalism
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "MIN_reactionary"
+start_date = 500.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "MIN_anarcho_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "MIN_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "MIN_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		Minneapolis "Saint Paul" Rochester Duluth Bloomington Plymouth "St. Cloud" Eagan Woodbury "Maple Grove" "Eden Prairie" Burnsville Blaine Lakeville Minnetonka Edina Mankato Maplewood Moorhead Shakopee Roseville Andover
+	}
+	ironclad = {
+        Minneapolis "Saint Paul" Rochester Duluth Bloomington Plymouth "St. Cloud" Eagan Woodbury "Maple Grove" "Eden Prairie" Burnsville Blaine Lakeville Minnetonka Edina Mankato Maplewood Moorhead Shakopee Roseville Andover
+	}
+	manowar = {
+		Minneapolis "Saint Paul" Rochester Duluth Bloomington Plymouth "St. Cloud" Eagan Woodbury "Maple Grove" "Eden Prairie" Burnsville Blaine Lakeville Minnetonka Edina Mankato Maplewood Moorhead Shakopee Roseville Andover
+	}
+	cruiser = {
+		Minneapolis "Saint Paul" Rochester Duluth Bloomington Plymouth "St. Cloud" Eagan Woodbury "Maple Grove" "Eden Prairie" Burnsville Blaine Lakeville Minnetonka Edina Mankato Maplewood Moorhead Shakopee Roseville Andover
+	}
+	frigate = {
+		Minneapolis "Saint Paul" Rochester Duluth Bloomington Plymouth "St. Cloud" Eagan Woodbury "Maple Grove" "Eden Prairie" Burnsville Blaine Lakeville Minnetonka Edina Mankato Maplewood Moorhead Shakopee Roseville Andover
+	}
+	monitor = {
+		Minneapolis "Saint Paul" Rochester Duluth Bloomington Plymouth "St. Cloud" Eagan Woodbury "Maple Grove" "Eden Prairie" Burnsville Blaine Lakeville Minnetonka Edina Mankato Maplewood Moorhead Shakopee Roseville Andover
+	}
+	clipper_transport = { 
+		Minneapolis "Saint Paul" Rochester Duluth Bloomington Plymouth "St. Cloud" Eagan Woodbury "Maple Grove" "Eden Prairie" Burnsville Blaine Lakeville Minnetonka Edina Mankato Maplewood Moorhead Shakopee Roseville Andover
+	}
+	steam_transport = { 
+		Minneapolis "Saint Paul" Rochester Duluth Bloomington Plymouth "St. Cloud" Eagan Woodbury "Maple Grove" "Eden Prairie" Burnsville Blaine Lakeville Minnetonka Edina Mankato Maplewood Moorhead Shakopee Roseville Andover
+	}
+	commerce_raider = {
+		Minneapolis "Saint Paul" Rochester Duluth Bloomington Plymouth "St. Cloud" Eagan Woodbury "Maple Grove" "Eden Prairie" Burnsville Blaine Lakeville Minnetonka Edina Mankato Maplewood Moorhead Shakopee Roseville Andover
+	}
+>>>>>>> sirbuddyguytest3
+>>>>>>> sirbuddyguytest2
+}

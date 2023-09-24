@@ -1,0 +1,7 @@
+owner = VAK
+controller = VAK
+add_core = VAK
+trade_goods = cotton
+life_rating = 32
+
+set_province_flag = farm

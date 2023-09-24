@@ -1,0 +1,7 @@
+owner = JUT
+controller = JUT
+add_core = JUT
+trade_goods = cattle
+life_rating = 35
+
+set_province_flag = farm

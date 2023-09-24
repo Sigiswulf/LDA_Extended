@@ -1,0 +1,8 @@
+owner = VAK
+controller = VAK
+add_core = VAK
+trade_goods = grain
+life_rating = 32
+1861.1.1 = { railroad = 3 }
+
+set_province_flag = farm

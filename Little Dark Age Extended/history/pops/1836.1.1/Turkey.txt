@@ -1,0 +1,3681 @@
+#Thrace Region (291199) #see Greece.txt for balance of region 
+#under the rule of Ottoman Empire in 1468
+#Edirne (137599/34399 POPS)
+828 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 720
+	}
+
+	bureaucrats = {
+culture = greek
+religion = catholic
+		size = 180
+	}
+
+	officers = {
+culture = greek
+religion = catholic
+		size = 98
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 139
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 7039
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 1200
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 6180
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 139
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 6240
+	}
+
+	soldiers = {
+		culture = greek
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 3780
+	}
+
+	clergymen = {
+		culture = bulgarian
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+		culture = bulgarian
+religion = catholic
+		size = 1598
+	}
+
+	soldiers = {
+		culture = bulgarian
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = bulgarian
+religion = catholic
+		size = 7080
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 19
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 780
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 79
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 1440
+	}
+
+	craftsmen = {
+		culture = greek
+		religion = catholic
+		size = 500
+	}
+
+	craftsmen = {
+		culture = greek
+religion = catholic
+		size = 500
+	}
+
+	craftsmen = {
+culture = greek
+religion = catholic
+		size = 500
+	}
+}
+#Kirklareli (89599/22399 POPS)
+858 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 439
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 98
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 600
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 158
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 9019
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 79
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 439
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 5599
+	}
+
+	clergymen = {
+		culture = bulgarian
+religion = catholic
+		size = 60
+	}
+
+	artisans = {
+		culture = bulgarian
+religion = catholic
+		size = 79
+	}
+
+	soldiers = {
+		culture = bulgarian
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = bulgarian
+religion = catholic
+		size = 4658
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 199
+	}
+	
+	craftsmen = {
+		culture = greek
+religion = catholic
+		size = 500
+	}
+
+	craftsmen = {
+culture = greek
+religion = catholic
+		size = 79
+	}
+}
+#Gelibolu (63998/15998 POPS)
+859 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 300
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 79
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 439
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 158
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 7819
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 60
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 360
+	}
+
+	soldiers = {
+		culture = greek
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 6420
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 2
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 194
+	}
+
+	craftsmen = {
+		culture = greek
+religion = catholic
+		size = 500
+	}
+
+	craftsmen = {
+culture = greek
+religion = catholic
+		size = 79
+	}
+}
+#Istanbul Region (1014398)
+#under the rule of Ottoman Empire in 1468
+#Istanbul (611198/152798 POPS)
+860 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 6000
+	}
+
+	bureaucrats = {
+culture = greek
+religion = catholic
+		size = 5590
+	}
+
+	officers = {
+culture = greek
+religion = catholic
+		size = 3600
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 900
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 7999
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 7999
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 7999
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 7999
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 7999
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 7999
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 3998
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 3600
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 17340
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 4800
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 17999
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 71999
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 17999
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 17838
+	}
+
+	clerks = {
+		culture = greek
+religion = catholic
+		size = 1179
+	}
+
+	soldiers = {
+		culture = greek
+religion = catholic
+		size = 158
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 64639
+	}
+
+	clergymen = {
+		culture = bulgarian
+religion = catholic
+		size = 191
+	}
+
+	artisans = {
+		culture = bulgarian
+religion = catholic
+		size = 1999
+	}
+
+	farmers = {
+		culture = bulgarian
+religion = catholic
+		size = 1379
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 1180
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 17999
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 17999
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 4399
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 3019
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 6000
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 7538
+	}
+
+	clergymen = {
+		culture = roman
+		religion = catholic
+		size = 11900
+	}
+
+	artisans = {
+		culture = roman
+		religion = catholic
+		size = 17579
+	}
+
+	craftsmen = {
+		culture = greek
+religion = catholic
+		size = 11999
+	}
+
+	craftsmen = {
+culture = greek
+religion = catholic
+		size = 11999
+	}
+
+	craftsmen = {
+		culture = armenian
+religion = catholic
+		size = 3980
+	}
+
+	craftsmen = {
+		culture = sephardic
+		religion = jewish
+		size = 500
+	}
+}
+#Uskudar (150398/37598 POPS)
+861 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 360
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 240
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 2239
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 1680
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 18600
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 98
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 2640
+	}
+
+	soldiers = {
+		culture = greek
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 6619
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 1838
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 2760
+	}
+
+	craftsmen = {
+		culture = armenian
+religion = catholic
+		size = 500
+	}
+	
+	craftsmen = {
+		culture = greek
+religion = catholic
+		size = 500
+	}
+
+	craftsmen = {
+culture = greek
+religion = catholic
+		size = 500
+	}
+}
+#Izmit (252799/63199 POPS)
+862 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 878
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 458
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 2700
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 1440
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 39398
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 60
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 360
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 6780
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 98
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 559
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 10699
+	}
+}
+#Hudavendigar Region (588799)
+#under the rule of Ottoman Empire in 1468
+#Bursa (319999/79999 POPS)
+863 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 919
+	}
+
+	bureaucrats = {
+culture = greek
+religion = catholic
+		size = 259
+	}
+
+	officers = {
+culture = greek
+religion = catholic
+		size = 158
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 600
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 4800
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 1598
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 51739
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 120
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 4399
+	}
+
+	soldiers = {
+		culture = greek
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 7800
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 60
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 1999
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 5138
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 7
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 391
+	}
+}
+#Balikesir (163200/40800 POPS)
+864 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 518
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 338
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 1680
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 1358
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 29700
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 60
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 360
+	}
+
+	soldiers = {
+		culture = greek
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 6698
+	}
+}
+#Chanakkale (105600/26400 POPS)
+865 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 278
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 218
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 1200
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 259
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 22080
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 120
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 2239
+	}
+}
+#Karahisar Region (268800)
+#under the rule of Ottoman Empire in 1468
+#Afyon (67200/16800 POPS)
+866 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 218
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 139
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 758
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 158
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 13920
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 14
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 38
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 744
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 14
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 38
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 878
+	}
+}
+#Kutahya (89599/22399 POPS)
+867 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 300
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 218
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 1080
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 218
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 19778
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 14
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 38
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 744
+	}
+}
+#Eskisehir (111998/27998 POPS)
+868 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 360
+	}
+
+	bureaucrats = {
+culture = greek
+religion = catholic
+		size = 420
+	}
+
+	officers = {
+culture = greek
+religion = catholic
+		size = 79
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 218
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 1320
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 1478
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 22440
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 14
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 38
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 744
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 14
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 38
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 878
+	}
+}
+#Aydin Region (790399)
+#under the rule of Ottoman Empire in 1468
+#Izmir (271999/67999 POPS)
+869 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 458
+	}
+
+	bureaucrats = {
+culture = greek
+religion = catholic
+		size = 338
+	}
+
+	officers = {
+culture = greek
+religion = catholic
+		size = 199
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 439
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 7999
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 1579
+	}
+
+	clerks = {
+culture = greek
+religion = catholic
+		size = 19
+	}
+
+	craftsmen = {
+culture = greek
+religion = catholic
+		size = 799
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 3199
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 29078
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 199
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 7999
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 7118
+	}
+
+	clerks = {
+		culture = greek
+religion = catholic
+		size = 79
+	}
+
+	craftsmen = {
+		culture = greek
+religion = catholic
+		size = 799
+	}
+
+	soldiers = {
+		culture = greek
+religion = catholic
+		size = 398
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 4279
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 14
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 782
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 38
+	}
+
+	craftsmen = {
+		culture = sephardic
+		religion = jewish
+		size = 500
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 2280
+	}
+}
+#Manisa (195199/48799 POPS)
+870 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 439
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 439
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 6000
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 1598
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 35520
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 79
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 2798
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 1838
+	}
+}
+#Denizli (246398/61598 POPS)
+871 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 720
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 578
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 2918
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 1560
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 2639
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 79
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 158
+	}
+
+	soldiers = {
+		culture = greek
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 2880
+	}
+}
+#Mugla (76800/19200 POPS)
+872 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 218
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 158
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 878
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 199
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 16140
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 19
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 1500
+	}
+}
+#Karaman Region (655999)
+#under the rule of Ottoman Empire in 1468
+#Konya (332798/83198 POPS)
+873 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 919
+	}
+
+	bureaucrats = {
+culture = greek
+religion = catholic
+		size = 240
+	}
+
+	officers = {
+culture = greek
+religion = catholic
+		size = 180
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 758
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 3079
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 3240
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 8378
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 79
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 278
+	}
+
+	soldiers = {
+		culture = greek
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 5539
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 14
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 38
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 744
+	}
+}
+#Burdur (159998/39998 POPS)
+874 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 518
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 379
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 1879
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 1358
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 33458
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 19
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 1500
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 14
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 38
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 744
+	}
+}
+#Antalya (163200/40800 POPS)
+875 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 458
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 379
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 1920
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 1380
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 34260
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 79
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 79
+	}
+
+	soldiers = {
+		culture = greek
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 2160
+	}
+}
+#Central Anatolia Region (553598)
+#under the rule of Ottoman Empire in 1468
+#Ankara (192000/48000 POPS)
+876 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 559
+	}
+
+	bureaucrats = {
+culture = greek
+religion = catholic
+		size = 199
+	}
+
+	officers = {
+culture = greek
+religion = catholic
+		size = 158
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 420
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 1759
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 1598
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 8498
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 19
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 38
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 739
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 79
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 158
+	}
+
+	soldiers = {
+		culture = armenian
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 679
+	}
+}
+#Amasya (105600/26400 POPS)
+877 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 540
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 240
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 1200
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 259
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 21758
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 19
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 38
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 739
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 19
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 1500
+	}
+}
+#Kayseri (76800/19200 POPS)
+878 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 240
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 98
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 480
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 2779
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 198
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 199
+	}
+
+	soldiers = {
+		culture = greek
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 3679
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 60
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 278
+	}
+
+	soldiers = {
+		culture = armenian
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 5179
+	}
+}
+#Sivas (179198/44798 POPS)
+879 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 480
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 360
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 1800
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 1598
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 32558
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 19
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 1500
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 60
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 360
+	}
+
+	soldiers = {
+		culture = armenian
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 6698
+	}
+}
+#Kastamonu Region (313598)
+#under the rule of Ottoman Empire in 1468
+#Kastamonu (236798/59198 POPS)
+880 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 660
+	}
+
+	bureaucrats = {
+culture = greek
+religion = catholic
+		size = 98
+	}
+
+	officers = {
+culture = greek
+religion = catholic
+		size = 79
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 578
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 2918
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 1399
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 52658
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 19
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 38
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 739
+	}
+}
+#Bolu (76800/19200 POPS)
+881 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 199
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 180
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 919
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 199
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 16898
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 19
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 38
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 739
+	}
+}
+#Trebizonde Region (432000)
+#under the rule of Ottoman Empire in 1468
+#Trabzon (166399/41599 POPS)
+882 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 439
+	}
+
+	bureaucrats = {
+culture = greek
+religion = catholic
+		size = 139
+	}
+
+	officers = {
+culture = greek
+religion = catholic
+		size = 120
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 278
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 1399
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 1598
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 24019
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 98
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 518
+	}
+
+
+	soldiers = {
+		culture = greek
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 9698
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 199
+	}
+
+	soldiers = {
+		culture = armenian
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 3679
+	}
+}
+#Sinop (153600/38400 POPS)
+883 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 420
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 338
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 1718
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 1598
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 30240
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 199
+	}
+
+	soldiers = {
+		culture = greek
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 3758
+	}
+}
+#Giresun (111998/27998 POPS)
+884 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 319
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 199
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 998
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 319
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 18079
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 79
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 319
+	}
+
+	soldiers = {
+		culture = greek
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 6000
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 19
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 1500
+	}
+}
+#Kars Region (684799) #see Georgia.txt for balance of region 
+#under the rule of Ottoman Empire in 1468
+#Kars (326400/81600 POPS)
+885 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 480
+	}
+
+	bureaucrats = {
+culture = greek
+religion = catholic
+		size = 158
+	}
+
+	officers = {
+culture = greek
+religion = catholic
+		size = 120
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 398
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 1999
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 1598
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 35239
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 240
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 1200
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 22560
+	}
+
+	aristocrats = {
+culture = armenian
+religion = catholic
+		size = 360
+	}
+
+	bureaucrats = {
+culture = armenian
+religion = catholic
+		size = 38
+	}
+
+	officers = {
+culture = armenian
+religion = catholic
+		size = 60
+	}
+
+	clergymen = {
+culture = armenian
+religion = catholic
+		size = 158
+	}
+
+	artisans = {
+culture = armenian
+religion = catholic
+		size = 878
+	}
+
+	soldiers = {
+culture = armenian
+religion = catholic
+		size = 218
+	}
+
+	farmers = {
+culture = armenian
+religion = catholic
+		size = 15960
+	}
+}
+#Ardahan (358399/89599 POPS)
+886 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 518
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 338
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 1718
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 1418
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 30398
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 240
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 1200
+	}
+
+	soldiers = {
+		culture = armenian
+religion = catholic
+		size = 158
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 22399
+	}
+
+	aristocrats = {
+culture = armenian
+religion = catholic
+		size = 439
+	}
+
+	clergymen = {
+culture = armenian
+religion = catholic
+		size = 300
+	}
+
+	artisans = {
+culture = armenian
+religion = catholic
+		size = 1560
+	}
+
+	soldiers = {
+culture = armenian
+religion = catholic
+		size = 300
+	}
+
+	farmers = {
+culture = armenian
+religion = catholic
+		size = 28598
+	}
+}
+#Eastern Anatolia Region (540799)
+#under the rule of Ottoman Empire in 1468
+#Erzurum (134400/33600 POPS)
+887 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 158
+	}
+
+	bureaucrats = {
+culture = greek
+religion = catholic
+		size = 120
+	}
+
+	officers = {
+culture = greek
+religion = catholic
+		size = 79
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 98
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 518
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 319
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 9259
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 79
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 360
+	}
+
+	soldiers = {
+		culture = armenian
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 6998
+	}
+
+	aristocrats = {
+culture = armenian
+religion = catholic
+		size = 240
+	}
+
+	bureaucrats = {
+culture = armenian
+religion = catholic
+		size = 38
+	}
+
+	officers = {
+culture = armenian
+religion = catholic
+		size = 79
+	}
+
+	clergymen = {
+culture = armenian
+religion = catholic
+		size = 158
+	}
+
+	artisans = {
+culture = armenian
+religion = catholic
+		size = 878
+	}
+
+	soldiers = {
+culture = armenian
+religion = catholic
+		size = 240
+	}
+
+	farmers = {
+culture = armenian
+religion = catholic
+		size = 14520
+	}
+}
+#Erzincan (249600/62400 POPS)
+888 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 360
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 180
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 919
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 240
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 16778
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 278
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 1440
+	}
+
+	soldiers = {
+		culture = armenian
+religion = catholic
+		size = 319
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 26760
+	}
+
+	aristocrats = {
+culture = armenian
+religion = catholic
+		size = 319
+	}
+
+	clergymen = {
+culture = armenian
+religion = catholic
+		size = 158
+	}
+
+	artisans = {
+culture = armenian
+religion = catholic
+		size = 758
+	}
+
+	soldiers = {
+culture = armenian
+religion = catholic
+		size = 240
+	}
+
+	farmers = {
+culture = armenian
+religion = catholic
+		size = 13800
+	}
+}
+#Malatya (156799/39199 POPS) #mashriqi catholic = Assyrians  
+889 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 139
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 79
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 398
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 8119
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 79
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 480
+	}
+
+	soldiers = {
+		culture = armenian
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 8959
+	}
+
+	clergymen = {
+culture = aramaic
+		religion = catholic
+		size = 60
+	}
+
+	artisans = {
+culture = aramaic
+		religion = catholic
+		size = 158
+	}
+
+	farmers = {
+culture = aramaic
+		religion = catholic
+		size = 2978
+	}
+
+	aristocrats = {
+culture = armenian
+religion = catholic
+		size = 300
+	}
+
+	clergymen = {
+culture = armenian
+religion = catholic
+		size = 180
+	}
+
+	artisans = {
+culture = armenian
+religion = catholic
+		size = 919
+	}
+
+	soldiers = {
+culture = armenian
+religion = catholic
+		size = 278
+	}
+
+	farmers = {
+culture = armenian
+religion = catholic
+		size = 16718
+	}
+}
+#Kurdistan Region (576000)
+#under the rule of Ottoman Empire in 1468
+#Van (230400/57600 POPS)
+890 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 139
+	}
+
+	bureaucrats = {
+culture = greek
+religion = catholic
+		size = 98
+	}
+
+	officers = {
+culture = greek
+religion = catholic
+		size = 98
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 79
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 439
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 7920
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 139
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 758
+	}
+
+	soldiers = {
+		culture = armenian
+religion = catholic
+		size = 139
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 14160
+	}
+
+	clergymen = {
+culture = aramaic
+		religion = catholic
+		size = 79
+	}
+
+	artisans = {
+culture = aramaic
+		religion = catholic
+		size = 240
+	}
+
+	farmers = {
+culture = aramaic
+		religion = catholic
+		size = 4478
+	}
+
+	aristocrats = {
+culture = armenian
+religion = catholic
+		size = 439
+	}
+
+	bureaucrats = {
+culture = armenian
+religion = catholic
+		size = 60
+	}
+
+	officers = {
+culture = armenian
+religion = catholic
+		size = 60
+	}
+
+	clergymen = {
+culture = armenian
+religion = catholic
+		size = 278
+	}
+
+	artisans = {
+culture = armenian
+religion = catholic
+		size = 1440
+	}
+
+	soldiers = {
+culture = armenian
+religion = catholic
+		size = 1320
+	}
+
+	farmers = {
+culture = armenian
+religion = catholic
+		size = 25200
+	}
+}
+#Bitlis (60799/15199 POPS)
+891 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 79
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 79
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 158
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 2880
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 278
+	}
+
+	soldiers = {
+		culture = armenian
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 5198
+	}
+
+	clergymen = {
+culture = aramaic
+		religion = catholic
+		size = 19
+	}
+
+	artisans = {
+culture = aramaic
+		religion = catholic
+		size = 79
+	}
+
+	farmers = {
+culture = aramaic
+		religion = catholic
+		size = 1500
+	}
+
+	aristocrats = {
+culture = armenian
+religion = catholic
+		size = 79
+	}
+
+	clergymen = {
+culture = armenian
+religion = catholic
+		size = 79
+	}
+
+	artisans = {
+culture = armenian
+religion = catholic
+		size = 240
+	}
+
+	soldiers = {
+culture = armenian
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+culture = armenian
+religion = catholic
+		size = 4320
+	}
+}
+#Hakkari (73598/18398 POPS)
+892 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 38
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 60
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 120
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 60
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 2119
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 79
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 240
+	}
+
+	soldiers = {
+		culture = armenian
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 5198
+	}
+
+	clergymen = {
+culture = aramaic
+		religion = catholic
+		size = 19
+	}
+
+	artisans = {
+culture = aramaic
+		religion = catholic
+		size = 79
+	}
+
+	farmers = {
+culture = aramaic
+		religion = catholic
+		size = 1500
+	}
+
+	aristocrats = {
+culture = armenian
+religion = catholic
+		size = 120
+	}
+
+	clergymen = {
+culture = armenian
+religion = catholic
+		size = 79
+	}
+
+	artisans = {
+culture = armenian
+religion = catholic
+		size = 439
+	}
+
+	soldiers = {
+culture = armenian
+religion = catholic
+		size = 139
+	}
+
+	farmers = {
+culture = armenian
+religion = catholic
+		size = 8018
+	}
+}
+#Diyarbakir (211200/52800 POPS)
+893 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 19
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 158
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 158
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 1800
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 158
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 840
+	}
+
+	soldiers = {
+		culture = armenian
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 16519
+	}
+
+	clergymen = {
+culture = aramaic
+		religion = catholic
+		size = 60
+	}
+
+	artisans = {
+culture = aramaic
+		religion = catholic
+		size = 319
+	}
+
+	farmers = {
+culture = aramaic
+		religion = catholic
+		size = 6019
+	}
+
+	aristocrats = {
+culture = armenian
+religion = catholic
+		size = 518
+	}
+
+	clergymen = {
+culture = armenian
+religion = catholic
+		size = 278
+	}
+
+	artisans = {
+culture = armenian
+religion = catholic
+		size = 1399
+	}
+
+	soldiers = {
+culture = armenian
+religion = catholic
+		size = 1320
+	}
+
+	farmers = {
+culture = armenian
+religion = catholic
+		size = 24480
+	}
+}
+#Cilicia Region (432000)
+#under the rule of Ottoman Empire in 1468
+#Adana (201600/50400 POPS)
+894 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 518
+	}
+
+	bureaucrats = {
+culture = greek
+religion = catholic
+		size = 120
+	}
+
+	officers = {
+culture = greek
+religion = catholic
+		size = 120
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 398
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 2040
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 1459
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 36060
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 120
+	}
+
+	soldiers = {
+		culture = greek
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 2239
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 60
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 360
+	}
+
+	soldiers = {
+		culture = armenian
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 6698
+	}
+}
+#Mersin (76800/19200 POPS)
+895 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 218
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 180
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 878
+	}
+
+	artisans = {
+culture = armenian
+religion = catholic
+		size = 3023
+	}
+
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 98
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 16219
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 19
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 1500
+	}
+}
+#Marash (153600/38400 POPS)
+896 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 420
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 338
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 1680
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 1058
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 30019
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 240
+	}
+
+	soldiers = {
+		culture = armenian
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 4519
+	}
+}
+#Halab Region (604800) #see Syria.txt for balance of region 
+#under the rule of Egypt in 1468
+#Antep (198398/49598 POPS)
+898 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 360
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 278
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 1399
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 338
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 25620
+	}
+
+	aristocrats = {
+culture = armenian
+religion = catholic
+		size = 199
+	}
+
+	clergymen = {
+culture = armenian
+religion = catholic
+		size = 139
+	}
+
+	artisans = {
+culture = armenian
+religion = catholic
+		size = 679
+	}
+
+	soldiers = {
+culture = armenian
+religion = catholic
+		size = 158
+	}
+
+	farmers = {
+culture = armenian
+religion = catholic
+		size = 12420
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 60
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 398
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 7538
+	}
+}
+#Urfa (278400/69600 POPS)
+899 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 199
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 139
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 720
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 60
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 13279
+	}
+
+	aristocrats = {
+culture = armenian
+religion = catholic
+		size = 278
+	}
+
+	clergymen = {
+culture = armenian
+religion = catholic
+		size = 218
+	}
+
+	artisans = {
+culture = armenian
+religion = catholic
+		size = 1118
+	}
+
+	soldiers = {
+culture = armenian
+religion = catholic
+		size = 259
+	}
+
+	farmers = {
+culture = armenian
+religion = catholic
+		size = 20520
+	}
+
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 319
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 218
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 1358
+	}
+
+	soldiers = {
+culture = aramaic
+religion = catholic
+		size = 1260
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 25560
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 278
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 5198
+	}
+}
+#Antioch (127999/31999 POPS)
+900 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 240
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 120
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 638
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 180
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 11618
+	}
+
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 158
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 79
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 439
+	}
+
+	soldiers = {
+culture = aramaic
+religion = catholic
+		size = 139
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 7980
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 60
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 360
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 6780
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 60
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 158
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 2978
+	}
+
+}

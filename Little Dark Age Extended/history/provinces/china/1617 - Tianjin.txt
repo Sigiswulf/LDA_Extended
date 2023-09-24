@@ -1,0 +1,10 @@
+owner = NWI
+controller = NWI
+add_core = NWI
+trade_goods = silk
+life_rating = 32
+1861.1.1 = {
+	fort = 1
+}
+
+set_province_flag = farm

@@ -1,0 +1,1217 @@
+#Lower Swahili Coast Region (56000)
+#ruled by kingdom of Oman in 183
+#Dar es Salaam (22000/5500 POPS)
+2036 = {
+	aristocrats = {
+		culture = bantu
+religion = zoroastrianism
+		size = 95
+	}
+
+	bureaucrats = {
+		culture = bantu
+religion = zoroastrianism
+		size = 7
+	}
+
+	officers = {
+		culture = bantu
+religion = zoroastrianism
+		size = 12
+	}
+
+	clergymen = {
+		culture = bantu
+religion = zoroastrianism
+		size = 52
+	}
+
+	artisans = {
+		culture = bantu
+religion = zoroastrianism
+		size = 200
+	}
+
+	soldiers = {
+		culture = bantu
+religion = zoroastrianism
+		size = 50
+	}
+
+	farmers = {
+		culture = bantu
+religion = zoroastrianism
+		size = 3282
+	}
+
+	slaves = {
+		culture = bantu
+		religion = animist
+		size = 1400
+	}
+
+	aristocrats = {
+		culture = bantu
+religion = zoroastrianism
+		size = 5
+	}
+
+	clergymen = {
+		culture = bantu
+religion = zoroastrianism
+		size = 5
+	}
+
+	artisans = {
+		culture = bantu
+religion = zoroastrianism
+		size = 20
+	}
+
+	soldiers = {
+		culture = bantu
+religion = zoroastrianism
+		size = 5
+	}
+
+	farmers = {
+		culture = bantu
+religion = zoroastrianism
+		size = 365
+	}
+}
+#Tanga (8800/2200 POPS)
+2037 = {
+	aristocrats = {
+		culture = bantu
+religion = zoroastrianism
+		size = 32
+	}
+
+	clergymen = {
+		culture = bantu
+religion = zoroastrianism
+		size = 17
+	}
+
+	artisans = {
+		culture = bantu
+religion = zoroastrianism
+		size = 72
+	}
+
+	soldiers = {
+		culture = bantu
+religion = zoroastrianism
+		size = 17
+	}
+
+	farmers = {
+		culture = bantu
+religion = zoroastrianism
+		size = 1160
+	}
+
+	slaves = {
+		culture = bantu
+		religion = animist
+		size = 600
+	}
+
+	aristocrats = {
+		culture = bantu
+religion = zoroastrianism
+		size = 5
+	}
+
+	clergymen = {
+		culture = bantu
+religion = zoroastrianism
+		size = 5
+	}
+
+	artisans = {
+		culture = bantu
+religion = zoroastrianism
+		size = 20
+	}
+
+	soldiers = {
+		culture = bantu
+religion = zoroastrianism
+		size = 5
+	}
+
+	farmers = {
+		culture = bantu
+religion = zoroastrianism
+		size = 265
+	}
+}
+#Kilwa (18800/4700 POPS)
+2038 = {
+	aristocrats = {
+		culture = bantu
+religion = zoroastrianism
+		size = 55
+	}
+
+	clergymen = {
+		culture = bantu
+religion = zoroastrianism
+		size = 27
+	}
+
+	artisans = {
+		culture = bantu
+religion = zoroastrianism
+		size = 112
+	}
+
+	soldiers = {
+		culture = bantu
+religion = zoroastrianism
+		size = 30
+	}
+
+	farmers = {
+		culture = bantu
+religion = zoroastrianism
+		size = 1475
+	}
+
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 35
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 20
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 95
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 20
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 1730
+	}
+
+	slaves = {
+		culture = bantu
+		religion = animist
+		size = 1100
+	}
+}
+#Lindi (6400/1600 POPS)
+2039 = {
+	aristocrats = {
+		culture = bantu
+religion = zoroastrianism
+		size = 30
+	}
+
+	clergymen = {
+		culture = bantu
+religion = zoroastrianism
+		size = 15
+	}
+
+	artisans = {
+		culture = bantu
+religion = zoroastrianism
+		size = 65
+	}
+
+	soldiers = {
+		culture = bantu
+religion = zoroastrianism
+		size = 17
+	}
+
+	farmers = {
+		culture = bantu
+religion = zoroastrianism
+		size = 1072
+	}
+
+	slaves = {
+		culture = bantu
+		religion = animist
+		size = 400
+	}
+}
+#Ruvuma-Rufiji Region (56800)
+#uncolonized in 183
+#Songea (13600/3400 POPS)
+2040 = {
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 37
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 20
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 80
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 20
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 1542
+	}
+
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 22
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 12
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 60
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 12
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 1092
+	}
+
+	slaves = {
+		culture = bantu
+		religion = animist
+		size = 300
+	}
+
+	slaves = {
+		culture = bantu
+		religion = animist
+		size = 200
+	}
+}
+#Masasi (13200/3300 POPS)
+2041 = {
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 47
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 25
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 110
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 1512
+	}
+
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 15
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 7
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 40
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 7
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 727
+	}
+
+	slaves = {
+		culture = bantu
+		religion = animist
+		size = 800
+	}
+}
+#Iringa (30000/7500 POPS)
+2042 = {
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 37
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 20
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 80
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 20
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 1322
+	}
+
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 45
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 22
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 115
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 22
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 2095
+	}
+
+	slaves = {
+		culture = bantu
+		religion = animist
+		size = 1300
+	}
+
+	aristocrats = {
+		culture = bantu
+religion = zoroastrianism
+		size = 5
+	}
+
+	clergymen = {
+		culture = bantu
+religion = zoroastrianism
+		size = 5
+	}
+
+	artisans = {
+		culture = bantu
+religion = zoroastrianism
+		size = 20
+	}
+
+	soldiers = {
+		culture = bantu
+religion = zoroastrianism
+		size = 5
+	}
+
+	farmers = {
+		culture = bantu
+religion = zoroastrianism
+		size = 365
+	}
+
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 52
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 27
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 110
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 27
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 1782
+	}
+}
+#Tanganyikia Region (127600)
+#uncolonized in 183/dominated by the Unyamwezi
+#Tabora (26000/6500 POPS)
+2043 = {
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 107
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 55
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 220
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 55
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 3762
+	}
+
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 15
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 7
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 35
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 7
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 632
+	}
+
+	slaves = {
+		culture = bantu
+		religion = animist
+		size = 700
+	}
+
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 5
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 7
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 15
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 2
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 270
+	}
+
+	slaves = {
+		culture = bantu
+		religion = animist
+		size = 600
+	}
+}
+#Mwanza (36800/9200 POPS)
+2044 = {
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 47
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 25
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 110
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 902
+	}
+
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 27
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 15
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 60
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 15
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 382
+	}
+
+	slaves = {
+		culture = bantu
+		religion = animist
+		size = 2400
+	}
+
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 92
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 47
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 235
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 47
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 4277
+	}
+
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 1
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 2
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 5
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 1
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 90
+	}
+
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 5
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 7
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 15
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 2
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 270
+	}
+}
+#Morogoro (23200/5800 POPS)
+2045 = {
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 67
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 35
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 140
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 35
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 2022
+	}
+
+	aristocrats = {
+		culture = bantu
+religion = zoroastrianism
+		size = 10
+	}
+
+	clergymen = {
+		culture = bantu
+religion = zoroastrianism
+		size = 5
+	}
+
+	artisans = {
+		culture = bantu
+religion = zoroastrianism
+		size = 25
+	}
+
+	soldiers = {
+		culture = bantu
+religion = zoroastrianism
+		size = 7
+	}
+
+	farmers = {
+		culture = bantu
+religion = zoroastrianism
+		size = 352
+	}
+
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 27
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 15
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 70
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 15
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 1282
+	}
+
+	slaves = {
+		culture = bantu
+		religion = animist
+		size = 1400
+	}
+
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 5
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 7
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 15
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 2
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 270
+	}
+}
+#Ujiji (33600/8400 POPS)
+2046 = {
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 107
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 55
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 220
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 55
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 3142
+	}
+
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 47
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 25
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 125
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 2277
+	}
+
+	slaves = {
+		culture = bantu
+		religion = animist
+		size = 1200
+	}
+
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 5
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 5
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 20
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 5
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 365
+	}
+}
+#Arusha (8000/2000 POPS)
+2047 = {
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 5
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 30
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 7
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 547
+	}
+
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 12
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 7
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 40
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 10
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 727
+	}
+
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 5
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 30
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 7
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 547
+	}
+}
+#Zanzibar Region (15600)
+#ruled by Oman in 183
+#Zanzibar (15600/3900 POPS)
+2048 = {
+	aristocrats = {
+		culture = bantu
+religion = zoroastrianism
+		size = 25
+	}
+
+	clergymen = {
+		culture = bantu
+religion = zoroastrianism
+		size = 12
+	}
+
+	artisans = {
+		culture = bantu
+religion = zoroastrianism
+		size = 52
+	}
+
+	soldiers = {
+		culture = bantu
+religion = zoroastrianism
+		size = 110
+	}
+
+	farmers = {
+		culture = bantu
+religion = zoroastrianism
+		size = 710
+	}
+
+	aristocrats = {
+culture = aramaic
+religion = zoroastrianism
+		size = 15
+	}
+
+	bureaucrats = {
+culture = aramaic
+religion = zoroastrianism
+		size = 7
+	}
+
+	officers = {
+culture = aramaic
+religion = zoroastrianism
+		size = 7
+	}
+
+	clergymen = {
+culture = aramaic
+religion = zoroastrianism
+		size = 5
+	}
+
+	artisans = {
+culture = aramaic
+religion = zoroastrianism
+		size = 20
+	}
+
+	soldiers = {
+culture = aramaic
+religion = zoroastrianism
+		size = 45
+	}
+
+	aristocrats = {
+		culture = bantu
+religion = zoroastrianism
+		size = 40
+	}
+
+	clergymen = {
+		culture = bantu
+religion = zoroastrianism
+		size = 20
+	}
+
+	artisans = {
+		culture = bantu
+religion = zoroastrianism
+		size = 105
+	}
+
+	soldiers = {
+		culture = bantu
+religion = zoroastrianism
+		size = 22
+	}
+
+	farmers = {
+		culture = bantu
+religion = zoroastrianism
+		size = 1912
+	}
+
+	slaves = {
+		culture = bantu
+		religion = animist
+		size = 800
+	}
+
+}

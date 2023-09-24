@@ -1,0 +1,1691 @@
+#Bahari Region (2131200)
+#under the rule of Egypt in 1468
+#Cairo (803678/200918 POPS)
+1745 = {
+	aristocrats = {
+culture = coptic
+religion = catholic
+		size = 60
+	}
+
+	bureaucrats = {
+culture = coptic
+religion = catholic
+		size = 98
+	}
+
+	officers = {
+culture = coptic
+religion = catholic
+		size = 158
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 699
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 799
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 699
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 999
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 999
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 600
+	}
+
+	craftsmen = {
+culture = coptic
+religion = catholic
+		size = 5000
+	}
+	
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 3598
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 2559
+	}
+
+	bureaucrats = {
+culture = coptic
+religion = catholic
+		size = 19
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 278
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 33
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 1200
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 610
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 19
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 979
+	}
+
+	slaves = {
+		culture = afro_asiatic
+		religion = animist
+		size = 7200
+	}
+}
+#Dumyat (322080/80520 POPS)
+1746 = {
+	aristocrats = {
+		culture = greek
+religion = catholic
+		size = 319
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 458
+	}
+
+	aristocrats = {
+culture = coptic
+religion = catholic
+		size = 1200
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 739
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 3840
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 2798
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 68299
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 120
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 2239
+	}
+}
+#Tanta (273278/68318 POPS)
+1747 = {
+	aristocrats = {
+		culture = greek
+religion = catholic
+		size = 518
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 458
+	}
+
+	aristocrats = {
+culture = coptic
+religion = catholic
+		size = 679
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 660
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 3278
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 1680
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 59378
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 1478
+	}
+}
+#Mansura (204960/51240 POPS)
+1748 = {
+	aristocrats = {
+		culture = greek
+religion = catholic
+		size = 398
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 319
+	}
+
+	aristocrats = {
+culture = coptic
+religion = catholic
+		size = 559
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 480
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 2438
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 1680
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 43519
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 1478
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 2
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 194
+	}
+}
+#Ziqaziq (218078/54518 POPS)
+1749 = {
+	aristocrats = {
+		culture = greek
+religion = catholic
+		size = 439
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 338
+	}
+
+	aristocrats = {
+culture = coptic
+religion = catholic
+		size = 559
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 518
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 2599
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 1680
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 46639
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 1478
+	}
+}
+#Giza (309120/77280 POPS)
+1750 = {
+	aristocrats = {
+		culture = greek
+religion = catholic
+		size = 679
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 439
+	}
+
+	aristocrats = {
+culture = coptic
+religion = catholic
+		size = 878
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 638
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 3240
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 1680
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 58735
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 120
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 2239
+	}
+}
+#Alexandria Region (588799)
+#under the rule of Egypt in 1468
+#Alexandria (511999/127999 POPS)
+1751 = {
+	aristocrats = {
+		culture = greek
+religion = catholic
+		size = 5198
+	}
+
+	bureaucrats = {
+		culture = greek
+religion = catholic
+		size = 1200
+	}
+
+	officers = {
+		culture = greek
+religion = catholic
+		size = 1580
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 1140
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 6998
+	}
+
+	craftsmen = {
+		culture = greek
+religion = catholic
+		size = 5600
+	}
+	
+	soldiers = {
+		culture = greek
+religion = catholic
+		size = 18999
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 99980
+	}
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 7980
+	}
+	bureaucrats = {
+		culture = greek
+religion = catholic
+		size = 200
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 98
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 1000
+	}
+
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 980
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 19600
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 1700
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 2000
+	}
+
+	clergymen = {
+		culture = berber
+		religion = catholic
+		size = 38
+	}
+
+
+
+	slaves = {
+		culture = afro_asiatic
+		religion = animist
+		size = 4800
+	}
+}
+#Matruh (48000/12000 POPS)
+1752 = {
+	aristocrats = {
+culture = coptic
+religion = catholic
+		size = 180
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 98
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 480
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 878
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 8119
+	}
+
+	aristocrats = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 60
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 120
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 19
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 2160
+	}
+}
+#Sidi Barrani (15998/3998 POPS)
+1753 = {
+	aristocrats = {
+culture = coptic
+religion = catholic
+		size = 60
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 199
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 3660
+	}
+}
+#Siwa (12799/3199 POPS)
+1754 = {
+	aristocrats = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 158
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 2918
+	}
+}
+#Sinai Region (79999)
+#under the rule of Egypt in 1468
+#Suez (57600/14400 POPS)
+1755 = {
+	aristocrats = {
+culture = coptic
+religion = catholic
+		size = 278
+	}
+
+	bureaucrats = {
+culture = coptic
+religion = catholic
+		size = 7
+	}
+
+	officers = {
+culture = coptic
+religion = catholic
+		size = 19
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 139
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 720
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 158
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 13070
+	}
+}
+#Al Arish (12799/3199 POPS)
+1756 = {
+	aristocrats = {
+culture = coptic
+religion = catholic
+		size = 19
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 79
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 19
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 1440
+	}
+
+	aristocrats = {
+culture = coptic
+religion = catholic
+		size = 19
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 79
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 19
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 1440
+	}
+}
+#Sharm al Shaykh (9600/2400 POPS)
+1757 = {
+	aristocrats = {
+culture = coptic
+religion = catholic
+		size = 12
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 19
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 7
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 720
+	}
+
+	aristocrats = {
+culture = coptic
+religion = catholic
+		size = 19
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 79
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 19
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 1440
+	}
+}
+#Hariga Region (44798)
+#uncolonized in 1468
+#Farafra (6398/1598 POPS)
+1758 = {
+	aristocrats = {
+culture = coptic
+religion = catholic
+		size = 19
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 79
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 19
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 1440
+	}
+}
+#Bawiti (9600/2400 POPS)
+1759 = {
+	aristocrats = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 60
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 120
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 19
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 2160
+	}
+}
+#Mut (15998/3998 POPS)
+1760 = {
+	aristocrats = {
+culture = coptic
+religion = catholic
+		size = 60
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 199
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 3660
+	}
+}
+#Baris (12799/3199 POPS)
+1761 = {
+	aristocrats = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 158
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 2918
+	}
+}
+#Vostani Region (537600)
+#under the rule of Egypt in 1468
+#Asyut (156799/39199 POPS)
+1762 = {
+	aristocrats = {
+culture = coptic
+religion = catholic
+		size = 499
+	}
+
+	bureaucrats = {
+culture = coptic
+religion = catholic
+		size = 86
+	}
+
+	officers = {
+culture = coptic
+religion = catholic
+		size = 139
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 240
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 1238
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 598
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 10990
+	}
+
+	bureaucrats = {
+culture = coptic
+religion = catholic
+		size = 12
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 120
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 720
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 3548
+	}
+}
+#Bani Suwayf (60799/15199 OPS) }
+1763 = {
+	aristocrats = {
+culture = coptic
+religion = catholic
+		size = 218
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 120
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 638
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 158
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 11659
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 120
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 2239
+	}
+}
+#Minya (83198/20798 POPS)
+1764 = {
+	aristocrats = {
+culture = coptic
+religion = catholic
+		size = 300
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 158
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 840
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 1598
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 13860
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 199
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 3758
+	}
+}
+#Fayyum (153600/38400 POPS)
+1765 = {
+	aristocrats = {
+culture = coptic
+religion = catholic
+		size = 638
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 338
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 680
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 1598
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 9340
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 240
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 4519
+	}
+}
+#Suhaj (76800/19200 POPS)
+2559 = {
+	aristocrats = {
+culture = coptic
+religion = catholic
+		size = 319
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 180
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 878
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 199
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 16020
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 1478
+	}
+}
+#Said Region (195199)
+#under the rule of Egypt in 1468
+#Aswan (38400/9600 POPS)
+1766 = {
+	aristocrats = {
+culture = coptic
+religion = catholic
+		size = 139
+	}
+
+	bureaucrats = {
+culture = coptic
+religion = catholic
+		size = 36
+	}
+
+	officers = {
+culture = coptic
+religion = catholic
+		size = 60
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 79
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 398
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 98
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 7183
+	}
+
+	bureaucrats = {
+culture = coptic
+religion = catholic
+		size = 2
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 1478
+	}
+}
+#Luxor (54398/13598 POPS)
+1767 = {
+	aristocrats = {
+culture = coptic
+religion = catholic
+		size = 180
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 98
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 480
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 139
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 8700
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 199
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 3758
+	}
+}
+#Idfu (60799/15199 POPS)
+1768 = {
+	aristocrats = {
+culture = coptic
+religion = catholic
+		size = 240
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 139
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 679
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 158
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 12379
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 1478
+	}
+}
+#Qina (41599/10399 POPS)
+1769 = {
+	aristocrats = {
+culture = coptic
+religion = catholic
+		size = 158
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 79
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 439
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 120
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 7999
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 1478
+	}
+}
+#Red Sea Region (35198) #see Sudan.txt for balance of the region  
+#under the rule of Egypt in 1468
+#Qusayr (9600/2400 POPS)
+1770 = {
+	aristocrats = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 60
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 120
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 19
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 2160
+	}
+}
+#Marsa Alam (15998/3998 POPS)
+1771 = {
+	aristocrats = {
+culture = coptic
+religion = catholic
+		size = 12
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 19
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 7
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 720
+	}
+
+	aristocrats = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 158
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 2918
+	}
+}
+#Ras Gharib (9600/2400 POPS)
+1772 = {
+	aristocrats = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 60
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 120
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 19
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 2160
+	}
+
+}
+
+#Elepehantine
+3274 = {
+	aristocrats = {
+culture = coptic
+religion = catholic
+		size = 139
+	}
+
+	bureaucrats = {
+culture = coptic
+religion = catholic
+		size = 36
+	}
+
+	officers = {
+culture = coptic
+religion = catholic
+		size = 60
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 79
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 398
+	}
+
+	soldiers = {
+culture = coptic
+religion = catholic
+		size = 98
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 7183
+	}
+
+	bureaucrats = {
+culture = coptic
+religion = catholic
+		size = 2
+	}
+
+	clergymen = {
+culture = coptic
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+culture = coptic
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+culture = coptic
+religion = catholic
+		size = 1478
+	}
+}

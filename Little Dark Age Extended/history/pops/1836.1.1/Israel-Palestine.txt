@@ -1,0 +1,444 @@
+#Bayrut Region (124796)  #see Lebanon.txt for balance of region
+#under the rule of Egypt in 4404
+#Acre (124796/31196 POPS) #now part of Israel-Palestine  mashriqi-animist = druze 
+916 = {
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 180
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 114
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 596
+	}
+	craftsmen = {
+culture = aramaic
+religion = catholic
+		size = 596
+	}
+
+	soldiers = {
+culture = aramaic
+religion = catholic
+		size = 114
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 10980
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 56
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 236
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 4500
+	}
+
+	clergymen = {
+culture = sephardic
+		religion = jewish
+		size = 114
+	}
+
+	artisans = {
+culture = sephardic
+		religion = jewish
+		size = 474
+	}
+
+	farmers = {
+culture = sephardic
+		religion = jewish
+		size = 9000
+	}
+
+	clergymen = {
+culture = sephardic
+religion = jewish
+		size = 114
+	}
+
+	artisans = {
+culture = sephardic
+religion = jewish
+		size = 2360
+	}
+
+	farmers = {
+culture = sephardic
+religion = jewish
+		size = 4434
+	}
+}
+#Palestine Region (566394)  #see Jordan.txt for balance of region
+#under the rule of Egypt in 4404
+#Jerusalem (163194/40794 POPS)
+917 = {
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 474
+	}
+
+	bureaucrats = {
+culture = aramaic
+religion = catholic
+		size = 114
+	}
+
+	officers = {
+culture = aramaic
+religion = catholic
+		size = 180
+	}
+
+	clergymen = {
+culture = sephardic
+religion = jewish
+		size = 236
+	}
+
+	artisans = {
+culture = sephardic
+religion = jewish
+		size = 5514
+	}
+
+	soldiers = {
+culture = aramaic
+religion = catholic
+		size = 416
+	}
+		craftsmen = {
+culture = aramaic
+religion = catholic
+		size = 596
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 29440
+	}
+
+	clergymen = {
+culture = sephardic
+		religion = jewish
+		size = 180
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 1980
+	}
+
+	farmers = {
+culture = sephardic
+		religion = jewish
+		size = 7436
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 1140
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 2494
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 5214
+	}
+}
+#Nablus (105594/26394 POPS)
+918 = {
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 294
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 236
+	}
+
+	artisans = {
+culture = sephardic
+religion = jewish
+		size = 2454
+	}
+
+	soldiers = {
+culture = aramaic
+religion = catholic
+		size = 294
+	}
+		craftsmen = {
+culture = aramaic
+religion = catholic
+		size = 596
+	}
+
+	farmers = {
+culture = sephardic
+religion = jewish
+		size = 18294
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 56
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 294
+	}
+
+	farmers = {
+culture = sephardic
+		religion = jewish
+		size = 2036
+	}
+
+	clergymen = {
+culture = aramaic
+		religion = animist
+		size = 56
+	}
+
+	artisans = {
+culture = aramaic
+		religion = catholic
+		size = 236
+	}
+
+	farmers = {
+culture = aramaic
+		religion = catholic
+		size = 2094
+	}
+}
+#Jaffa (115200/28800 POPS)
+919 = {
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 294
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 236
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 2634
+	}
+
+	soldiers = {
+culture = aramaic
+religion = catholic
+		size = 294
+	}
+
+	farmers = {
+culture = sephardic
+religion = jewish
+		size = 18114
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 56
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 236
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 2094
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 560
+	}
+		craftsmen = {
+culture = aramaic
+religion = catholic
+		size = 596
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 7200
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 4216
+	}
+}
+#Gaza (105594/26394 POPS)
+920 = {
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 294
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 236
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 2994
+	}
+
+	soldiers = {
+culture = aramaic
+religion = catholic
+		size = 294
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 17754
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 560
+	}
+
+	artisans = {
+culture = sephardic
+		religion = jewish
+		size = 596
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 4140
+	}
+}
+#Beersheba (86400/21600 POPS)
+921 = {
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 1800
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 1140
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 8340
+	}
+
+	soldiers = {
+culture = aramaic
+religion = catholic
+		size = 2360
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 5
+	}
+
+	aristocrats = {
+		culture = aramaic
+religion = catholic
+		size = 5600
+	}
+
+	clergymen = {
+		culture = aramaic
+religion = catholic
+		size = 5600
+	}
+
+	artisans = {
+		culture = aramaic
+religion = catholic
+		size = 180
+	}
+		craftsmen = {
+culture = aramaic
+religion = catholic
+		size = 596
+	}
+
+	soldiers = {
+		culture = sephardic
+religion = jewish
+		size = 560
+	}
+
+	farmers = {
+		culture = sephardic
+religion = jewish
+		size = 1400
+	}
+
+}

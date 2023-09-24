@@ -1,0 +1,7 @@
+owner = GUP
+controller = GUP
+add_core = GUP
+trade_goods = coal
+life_rating = 30
+
+set_province_flag = mine

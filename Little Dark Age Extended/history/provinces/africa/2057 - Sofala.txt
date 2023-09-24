@@ -1,0 +1,4 @@
+trade_goods = tobacco
+life_rating = 29
+set_province_flag = farm
+add_core = BNT

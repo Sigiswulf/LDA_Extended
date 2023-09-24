@@ -1,0 +1,21 @@
+country_event = {
+
+	id = 673409
+	title = "Migration Fix NewWorld"
+	desc = "Migration Fix NewWorld"
+	picture = "dixie"
+	
+
+	trigger = {
+	has_country_flag = new_world_nation
+	NOT = { has_country_flag = migration_rf }
+	} 
+mean_time_to_happen = {
+		months = 1 
+	}
+option = {
+name = "Good for us!"
+set_country_flag = migration_rf
+political_reform = proportional_representation
+}
+}

@@ -1,0 +1,8 @@
+owner = NWI
+controller = NWI
+add_core = NWI
+#add_core = XBI
+trade_goods = timber
+life_rating = 32
+
+set_province_flag = mine

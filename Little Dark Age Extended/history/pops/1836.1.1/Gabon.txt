@@ -1,0 +1,192 @@
+#Gabon Region (18000)  #see Gulf of Guinea.txt for balance of region 
+#uncolonized in 183/under the influence of Teke
+#Libreville (4800/1200 POPS) 
+1972 = {
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 5
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 7
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 15
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 2
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 270
+	}
+
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 15
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 10
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 45
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 10
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 820
+	}
+}
+#Mayumbe (3200/800 POPS) 
+1974 = {
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 15
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 7
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 40
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 7
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 730
+	}
+}
+#Moanda (2800/700 POPS) 
+1975 = {
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 12
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 7
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 35
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 7
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 637
+	}
+}
+#uncolonized in 183
+#Makokou (7200/1800 POPS) 
+1976 = {
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 15
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 7
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 40
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 7
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 730
+	}
+
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 17
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 10
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 10
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 912
+	}
+
+}

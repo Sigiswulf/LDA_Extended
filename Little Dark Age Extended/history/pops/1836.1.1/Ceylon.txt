@@ -1,0 +1,511 @@
+#Ceylon (382500) #now Sri Lanka
+#Under rule of Britain 573
+#Colombo (125000/31250 POPS)
+1321 = {
+	aristocrats = {
+		culture = indo_aryan
+religion = mahayana
+		size = 250
+	}
+
+	bureaucrats = {
+		culture = indo_aryan
+religion = mahayana
+		size = 46
+	}
+
+	clergymen = {
+		culture = indo_aryan
+religion = mahayana
+		size = 233
+	}
+
+	artisans = {
+		culture = indo_aryan
+religion = mahayana
+		size = 250
+	}
+
+	soldiers = {
+		culture = indo_aryan
+religion = mahayana
+		size = 233
+	}
+
+	farmers = {
+		culture = indo_aryan
+religion = mahayana
+		size = 21171
+	}
+
+	aristocrats = {
+		culture = indo_aryan
+		religion = hindu
+		size = 38
+	}
+
+	bureaucrats = {
+		culture = indo_aryan
+		religion = hindu
+		size = 31
+	}
+
+	clergymen = {
+		culture = indo_aryan
+		religion = hindu
+		size = 38
+	}
+
+	artisans = {
+		culture = indo_aryan
+		religion = hindu
+		size = 233
+	}
+
+	soldiers = {
+		culture = indo_aryan
+		religion = hindu
+		size = 31
+	}
+
+	labourers = {
+		culture = indo_aryan
+		religion = hindu
+		size = 3062
+	}
+
+	clergymen = {
+		culture = indo_aryan
+		religion = catholic
+		size = 15
+	}
+
+	artisans = {
+		culture = indo_aryan
+		religion = catholic
+		size = 156
+	}
+
+	soldiers = {
+		culture = indo_aryan
+		religion = catholic
+		size = 15
+	}
+
+	labourers = {
+		culture = indo_aryan
+		religion = catholic
+		size = 2000
+	}
+
+	clergymen = {
+		culture = indo_aryan
+religion = arian
+		size = 7
+	}
+
+	artisans = {
+		culture = indo_aryan
+religion = arian
+		size = 233
+	}
+
+	soldiers = {
+		culture = indo_aryan
+religion = arian
+		size = 7
+	}
+
+	labourers = {
+		culture = indo_aryan
+religion = arian
+		size = 375
+	}
+
+	aristocrats = {
+culture = aramaic
+religion = zoroastrianism
+		size = 7
+	}
+
+	clergymen = {
+culture = aramaic
+religion = zoroastrianism
+		size = 22
+	}
+
+	artisans = {
+culture = aramaic
+religion = zoroastrianism
+		size = 468
+	}
+
+	soldiers = {
+culture = aramaic
+religion = zoroastrianism
+		size = 7
+	}
+
+	labourers = {
+culture = aramaic
+religion = zoroastrianism
+		size = 1053
+	}
+
+	aristocrats = {
+		culture = malay
+religion = zoroastrianism
+		size = 7
+	}
+
+	clergymen = {
+		culture = malay
+religion = zoroastrianism
+		size = 7
+	}
+
+	artisans = {
+		culture = malay
+religion = zoroastrianism
+		size = 343
+	}
+
+	soldiers = {
+		culture = malay
+religion = zoroastrianism
+		size = 15
+	}
+
+	farmers = {
+		culture = malay
+religion = zoroastrianism
+		size = 593
+	}
+
+	aristocrats = {
+		culture = british
+religion = arian
+		size = 7
+	}
+
+	bureaucrats = {
+		culture = british
+religion = arian
+		size = 15
+	}
+
+	clergymen = {
+		culture = british
+religion = arian
+		size = 15
+	}
+
+	artisans = {
+		culture = british
+religion = arian
+		size = 343
+	}
+
+	soldiers = {
+		culture = british
+religion = arian
+		size = 31
+	}
+
+	farmers = {
+		culture = british
+religion = arian
+		size = 210
+	}
+}
+#Jaffna (90000/22500 POPS)
+1322 = {
+	aristocrats = {
+		culture = dravidian
+religion = mahayana
+		size = 156
+	}
+
+	clergymen = {
+		culture = dravidian
+religion = mahayana
+		size = 156
+	}
+
+	artisans = {
+		culture = dravidian
+religion = mahayana
+		size = 1250
+	}
+
+	soldiers = {
+		culture = dravidian
+religion = mahayana
+		size = 156
+	}
+
+	farmers = {
+		culture = dravidian
+religion = mahayana
+		size = 13281
+	}
+
+	aristocrats = {
+		culture = dravidian
+		religion = hindu
+		size = 77
+	}
+
+	clergymen = {
+		culture = dravidian
+		religion = hindu
+		size = 77
+	}
+
+	artisans = {
+		culture = dravidian
+		religion = hindu
+		size = 625
+	}
+
+	soldiers = {
+		culture = dravidian
+		religion = hindu
+		size = 156
+	}
+
+	labourers = {
+		culture = dravidian
+		religion = hindu
+		size = 6562
+	}
+}
+#Kandy (95000/23750 POPS)
+1323 = {
+	aristocrats = {
+		culture = indo_aryan
+religion = mahayana
+		size = 233
+	}
+
+	clergymen = {
+		culture = indo_aryan
+religion = mahayana
+		size = 233
+	}
+
+	artisans = {
+		culture = indo_aryan
+religion = mahayana
+		size = 1250
+	}
+
+	soldiers = {
+		culture = indo_aryan
+religion = mahayana
+		size = 233
+	}
+
+	farmers = {
+		culture = indo_aryan
+religion = mahayana
+		size = 21640
+	}
+}
+#Trincomalee (65000/16250 POPS)
+1324 = {
+	aristocrats = {
+		culture = dravidian
+religion = mahayana
+		size = 77
+	}
+
+	clergymen = {
+		culture = dravidian
+religion = mahayana
+		size = 70
+	}
+
+	artisans = {
+		culture = dravidian
+religion = mahayana
+		size = 156
+	}
+
+	soldiers = {
+		culture = dravidian
+religion = mahayana
+		size = 62
+	}
+
+	farmers = {
+		culture = dravidian
+religion = mahayana
+		size = 6195
+	}
+
+	aristocrats = {
+		culture = dravidian
+		religion = hindu
+		size = 77
+	}
+
+	clergymen = {
+		culture = dravidian
+		religion = hindu
+		size = 77
+	}
+
+	artisans = {
+		culture = dravidian
+		religion = hindu
+		size = 156
+	}
+
+	soldiers = {
+		culture = dravidian
+		religion = hindu
+		size = 77
+	}
+
+	labourers = {
+		culture = dravidian
+		religion = hindu
+		size = 7108
+	}
+
+	clergymen = {
+		culture = dravidian
+religion = arian
+		size = 7
+	}
+
+	artisans = {
+		culture = dravidian
+religion = arian
+		size = 77
+	}
+
+	soldiers = {
+		culture = dravidian
+religion = arian
+		size = 7
+	}
+
+	labourers = {
+		culture = dravidian
+religion = arian
+		size = 218
+	}
+
+	clergymen = {
+		culture = dravidian
+		religion = catholic
+		size = 15
+	}
+
+	artisans = {
+		culture = dravidian
+		religion = catholic
+		size = 156
+	}
+
+	soldiers = {
+		culture = dravidian
+		religion = catholic
+		size = 7
+	}
+
+	labourers = {
+		culture = dravidian
+		religion = catholic
+		size = 460
+	}
+
+	clergymen = {
+		culture = malay
+religion = zoroastrianism
+		size = 7
+	}
+
+	artisans = {
+		culture = malay
+religion = zoroastrianism
+		size = 77
+	}
+
+	soldiers = {
+		culture = malay
+religion = zoroastrianism
+		size = 15
+	}
+
+	labourers = {
+		culture = malay
+religion = zoroastrianism
+		size = 210
+	}
+
+	aristocrats = {
+culture = aramaic
+religion = zoroastrianism
+		size = 7
+	}
+
+	clergymen = {
+culture = aramaic
+religion = zoroastrianism
+		size = 15
+	}
+
+	artisans = {
+culture = aramaic
+religion = zoroastrianism
+		size = 233
+	}
+
+	soldiers = {
+culture = aramaic
+religion = zoroastrianism
+		size = 7
+	}
+
+	labourers = {
+culture = aramaic
+religion = zoroastrianism
+		size = 671
+	}
+}
+#Maldives (7500/1875 POPS) #now independent
+1325 = {
+	aristocrats = {
+		culture = dravidian
+religion = zoroastrianism
+		size = 15
+	}
+
+	clergymen = {
+		culture = dravidian
+religion = zoroastrianism
+		size = 15
+	}
+
+	artisans = {
+		culture = dravidian
+religion = zoroastrianism
+		size = 156
+	}
+
+	soldiers = {
+		culture = dravidian
+religion = zoroastrianism
+		size = 22
+	}
+
+	farmers = {
+		culture = dravidian
+religion = zoroastrianism
+		size = 1663
+	}
+
+}

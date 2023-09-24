@@ -1,0 +1,373 @@
+#Suriye Region (22666)  #see Syria.txt & Jordan.txt for balance of region
+#under the rule of Egypt in 612  
+#Baalbeck (22666/5666 POPS) #now part of Lebanon
+912 = {
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 58
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 33
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 166
+	}
+
+	soldiers = {
+culture = aramaic
+religion = catholic
+		size = 58
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 3016
+	}
+
+	clergymen = {
+culture = aramaic
+religion = zoroastrianism
+		size = 16
+	}
+
+	artisans = {
+culture = aramaic
+religion = zoroastrianism
+		size = 100
+	}
+
+	farmers = {
+culture = aramaic
+religion = zoroastrianism
+		size = 1816
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 8
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 16
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 308
+	}
+}
+#Bayrut Region (86666)  #see Israel-Palestine.txt for balance of region
+#under the rule of Egypt in 612  
+#Beirut (42666/10666 POPS) #mashriqi-animist = druze; mashriqi-catholic = maronites
+913 = {
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 500
+	}
+
+	bureaucrats = {
+culture = aramaic
+religion = catholic
+		size = 2500
+	}
+
+	officers = {
+culture = aramaic
+religion = catholic
+		size = 1600
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 5000
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 2330
+	}
+
+	soldiers = {
+culture = aramaic
+religion = catholic
+		size = 8080
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 14016
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 2500
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 83
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 1558
+	}
+
+	aristocrats = {
+culture = aramaic
+		religion = catholic
+		size = 3300
+	}
+
+	clergymen = {
+culture = aramaic
+		religion = catholic
+		size = 33
+	}
+
+	artisans = {
+culture = aramaic
+		religion = catholic
+		size = 150
+	}
+
+	farmers = {
+culture = aramaic
+		religion = catholic
+		size = 12783
+	}
+
+	clergymen = {
+culture = aramaic
+		religion = animist
+		size = 8
+	}
+
+	artisans = {
+culture = aramaic
+		religion = animist
+		size = 33
+	}
+
+	farmers = {
+culture = aramaic
+		religion = animist
+		size = 625
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 8354
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 3322
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 6251
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 3000
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 1630
+	}
+}
+#Askaleh (16000/4000 POPS) 
+914 = {
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 141
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 133
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 366
+	}
+
+	soldiers = {
+culture = aramaic
+religion = catholic
+		size = 3333
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 7058
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 800
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 1133
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 12625
+	}
+}
+#Sidon (28000/7000 POPS) 
+915 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 800
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 1600
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 3300
+	}
+
+	soldiers = {
+culture = aramaic
+religion = catholic
+		size = 800
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 6660
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 800
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 160
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 21308
+	}
+
+	aristocrats = {
+culture = aramaic
+		religion = catholic
+		size = 25
+	}
+
+	clergymen = {
+culture = aramaic
+		religion = catholic
+		size = 16
+	}
+
+	artisans = {
+culture = aramaic
+		religion = catholic
+		size = 83
+	}
+
+	farmers = {
+culture = aramaic
+		religion = catholic
+		size = 1683
+	}
+
+	clergymen = {
+culture = aramaic
+		religion = animist
+		size = 25
+	}
+
+	artisans = {
+culture = aramaic
+		religion = animist
+		size = 66
+	}
+
+	farmers = {
+culture = aramaic
+		religion = animist
+		size = 1241
+	}
+
+	aristocrats = {
+culture = sephardic
+religion = jewish
+		size = 33
+	}
+
+	clergymen = {
+culture = sephardic
+religion = jewish
+		size = 25
+	}
+
+	artisans = {
+culture = sephardic
+religion = jewish
+		size = 150
+	}
+
+	farmers = {
+culture = sephardic
+religion = jewish
+		size = 2783
+	}
+
+}

@@ -1,0 +1,8 @@
+owner = VPS
+controller = VPS
+add_core = VPS
+trade_goods = grain
+life_rating = 35
+
+set_province_flag = farm
+add_core = SIB

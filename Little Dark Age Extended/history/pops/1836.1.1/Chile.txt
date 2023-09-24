@@ -1,0 +1,876 @@
+#Atacama Region (1640) #see Peru.txt for balance of Region
+#Ruled by Bolivia 18
+#Antofagasta (800/200 POPS)
+2305 = {
+    aristocrats = {
+culture = south_andean
+religion = animist
+        size = 14
+    }
+
+    bureaucrats = {
+culture = south_andean
+religion = animist
+        size = 0
+    }
+
+    officers = {
+culture = south_andean
+religion = animist
+        size = 0
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 5
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 13
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 2
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 234
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 1
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 20
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 4
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 381
+    }
+}
+#Calama (320/80 POPS)
+2309 = {
+    aristocrats = {
+culture = south_andean
+religion = animist
+        size = 5
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 1
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 1
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 87
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 1
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 8
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 1
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 159
+    }
+}
+#Ruled by Peru 18
+#Iquique (320/80 POPS)
+2307 = {
+    aristocrats = {
+culture = south_andean
+religion = animist
+        size = 5
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 1
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 3
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 56
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 1
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 10
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 2
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 189
+    }
+}
+#Arica (200/50 POPS)
+2308 = {
+    aristocrats = {
+culture = south_andean
+religion = animist
+        size = 4
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 2
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 1
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 25
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 0
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 6
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 1
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 126
+    }
+}
+#Chile Norte Region (1160)
+#Ruled by Chile 18
+#Copiapo (520/130 POPS)
+2322 = {
+    aristocrats = {
+culture = south_andean
+religion = animist
+        size = 9
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 4
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 22
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 4
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 402
+    }
+}
+#La Serena (640/160 POPS)
+2323 = {
+    aristocrats = {
+culture = south_andean
+religion = animist
+        size = 11
+    }
+
+    bureaucrats = {
+culture = south_andean
+religion = animist
+        size = 1
+    }
+
+    officers = {
+culture = south_andean
+religion = animist
+        size = 0
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 5
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 27
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 5
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 491
+    }
+}
+#Valle Central Region (6400)
+#Ruled by Chile 18
+#Santiago (4200/1050 POPS)
+2324 = {
+    aristocrats = {
+culture = south_andean
+religion = animist
+        size = 74
+    }
+
+    bureaucrats = {
+culture = south_andean
+religion = animist
+        size = 10
+    }
+
+    officers = {
+culture = south_andean
+religion = animist
+        size = 5
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 35
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 340
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 255
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 136
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 2712
+    }
+}
+#Valparaiso (1280/320 POPS)
+2325 = {
+    aristocrats = {
+culture = south_andean
+religion = animist
+        size = 22
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 11
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 340
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 68
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 37
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 612
+    }
+}
+#Vina del Mar (720/180 POPS)
+2326 = {
+    aristocrats = {
+culture = south_andean
+religion = animist
+        size = 12
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 5
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 30
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 37
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 528
+    }
+}
+#Talca (200/50 POPS)
+2327 = {
+    aristocrats = {
+culture = south_andean
+religion = animist
+        size = 4
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 1
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 8
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 1
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 153
+    }
+}
+#Bio-Bio Region (2320)
+#Ruled by Chile 18
+#Valdivia (920/230 POPS)
+2328 = {
+    aristocrats = {
+culture = south_andean
+religion = animist
+        size = 11
+    }
+
+    bureaucrats = {
+culture = south_andean
+religion = animist
+        size = 1
+    }
+
+    officers = {
+culture = south_andean
+religion = animist
+        size = 1
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 5
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 28
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 37
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 494
+    }
+
+    aristocrats = {
+culture = south_andean
+religion = animist
+        size = 3
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 1
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 10
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 2
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 186
+    }
+}
+#Temuco (360/90 POPS)
+2329 = {
+    aristocrats = {
+culture = south_andean
+religion = animist
+        size = 4
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 1
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 8
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 1
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 153
+    }
+
+    aristocrats = {
+culture = south_andean
+religion = animist
+        size = 1
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 2
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 6
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 1
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 123
+    }
+}
+#Cauquenes (680/170 POPS)
+2330 = {
+    aristocrats = {
+culture = south_andean
+religion = animist
+        size = 11
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 5
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 28
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 37
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 498
+    }
+}
+#Chillan (360/90 POPS)
+2331 = {
+    aristocrats = {
+culture = south_andean
+religion = animist
+        size = 5
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 2
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 11
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 2
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 215
+    }
+
+    aristocrats = {
+culture = south_andean
+religion = animist
+        size = 0
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 1
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 3
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 61
+    }
+}
+#Magellanes Region (920)
+#Ruled by Chile 18
+#Osorno (680/170 POPS)
+2332 = {
+    aristocrats = {
+culture = south_andean
+religion = animist
+        size = 9
+    }
+
+    bureaucrats = {
+culture = south_andean
+religion = animist
+        size = 0
+    }
+
+    officers = {
+culture = south_andean
+religion = animist
+        size = 0
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 4
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 22
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 4
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 401
+    }
+
+    aristocrats = {
+culture = south_andean
+religion = animist
+        size = 2
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 2
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 6
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 1
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 122
+    }
+}
+#uncolonized/claimed by Chile 18
+#Puerto Aisen (120/30 POPS)
+2333 = {
+    aristocrats = {
+culture = south_andean
+religion = animist
+        size = 1
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 2
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 91
+    }
+}
+#Punta Arenas (80/20 POPS)
+2334 = {
+    aristocrats = {
+culture = south_andean
+religion = animist
+        size = 0
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 1
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 3
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 61
+    }
+}
+#Porvenir (40/10 POPS)
+2335 = {
+    aristocrats = {
+culture = south_andean
+religion = animist
+        size = 0
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 0
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 1
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 30
+    }
+}

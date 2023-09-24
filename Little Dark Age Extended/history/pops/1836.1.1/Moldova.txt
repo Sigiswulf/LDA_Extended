@@ -1,0 +1,150 @@
+#Bessarabia Region (217333) #see Ukraine.txt for balance of Region  
+#under the rule of Russia in 612 
+#Chisinau (110666/27666 POPS)  
+676 = {
+	aristocrats = {
+		culture = dachian
+religion = norse_pagan
+		size = 466  
+	}
+
+	bureaucrats = {
+		culture = dachian
+religion = norse_pagan
+		size = 75 
+	}
+
+	officers = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 58 
+	}
+
+	clergymen = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 233 
+	}
+
+	artisans = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 3333
+	}
+
+	soldiers = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 250 
+	}
+
+	farmers = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 18916 
+	}
+
+	clergymen = {
+culture = south_slavs
+religion = norse_pagan
+		size = 25     
+	}
+
+	artisans = {
+culture = south_slavs
+religion = norse_pagan
+		size = 533
+	}
+
+	soldiers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 25  
+	}
+
+	farmers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 2083    
+	}
+
+	clergymen = {
+culture = greek
+religion = norse_pagan
+		size = 25  
+	}
+
+	artisans = {
+culture = greek
+religion = norse_pagan
+		size = 83
+	}
+
+	soldiers = {
+culture = greek
+religion = norse_pagan
+		size = 16  
+	}
+
+	farmers = {
+culture = greek
+religion = norse_pagan
+		size = 1541  
+	}
+}
+#Balti (106666/26666 POPS)  
+677 = {
+	aristocrats = {
+		culture = dachian
+religion = norse_pagan
+		size = 433 
+	}
+
+	clergymen = {
+		culture = dachian
+religion = norse_pagan
+		size = 233  
+	}
+
+	artisans = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 1200
+	}
+
+	soldiers = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 241 
+	}
+
+	farmers = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 21891
+	}
+
+	clergymen = {
+culture = south_slavs
+religion = norse_pagan
+		size = 25     
+	}
+
+	artisans = {
+culture = south_slavs
+religion = norse_pagan
+		size = 600
+	}
+
+	soldiers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 25  
+	}
+
+	farmers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 2350   
+	}
+}

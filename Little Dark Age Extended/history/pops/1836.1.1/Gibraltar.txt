@@ -1,0 +1,65 @@
+#Gibraltar : 53330
+#Ruled by Britain 6120
+#Gibraltar (53330/13330 POPS)
+517 = {
+	officers = {
+		culture = romano_hispanic
+religion = arian
+		size = 1000
+	}
+
+	bureaucrats = {
+		culture = romano_hispanic
+religion = arian
+		size = 1000
+	}
+
+	clergymen = {
+		culture = romano_hispanic
+religion = arian
+		size = 500
+	}
+
+	soldiers = {
+		culture = romano_hispanic
+religion = arian
+		size = 3300
+	}
+
+	artisans = {
+culture = roman_african
+religion = arian
+		size = 5000
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 1330
+	}
+
+	clergymen = {
+		culture = romano_hispanic
+		religion = catholic
+		size = 300
+	}
+
+	artisans = {
+		culture = romano_hispanic
+		religion = catholic
+		size = 10000
+	}
+
+	soldiers = {
+		culture = romano_hispanic
+		religion = catholic
+		size = 8000
+	}
+
+	farmers = {
+		culture = romano_hispanic
+		religion = catholic
+		size = 17660
+	}
+
+}

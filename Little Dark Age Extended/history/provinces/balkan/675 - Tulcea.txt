@@ -1,0 +1,14 @@
+owner = BYZ
+controller = BYZ
+add_core = BYZ
+add_core = BUL
+#add_core = ROM
+ 
+trade_goods = coal
+life_rating = 35
+1861.1.1 = {
+	remove_core = WAL
+}
+
+set_province_flag = mine
+add_core = DAC

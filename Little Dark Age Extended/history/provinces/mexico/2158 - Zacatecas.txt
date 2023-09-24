@@ -1,0 +1,8 @@
+add_core = MEX
+owner = MEX
+controller = MEX
+trade_goods = grain
+life_rating = 30
+
+set_province_flag = farm
+add_core = AMR

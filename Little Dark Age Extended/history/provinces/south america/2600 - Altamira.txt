@@ -1,0 +1,6 @@
+
+trade_goods = rubber
+life_rating = 30
+
+set_province_flag = mine
+add_core = SMR

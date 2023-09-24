@@ -1,0 +1,25 @@
+#Christmas-Cocos Region (56) 
+#uncolonized in 183
+#Christmas Island (6/1POPS) 
+2244 = {
+	farmers = {
+		culture = malay
+religion = animist
+		size = 1
+	}
+}
+#Cocos Islands (50/12 POPS) #british trade post 183 
+2406 = {
+	aristocrats = {
+		culture = malay
+religion = animist
+		size = 0
+	}
+
+	farmers = {
+		culture = malay
+religion = animist
+		size = 12
+	}
+
+}

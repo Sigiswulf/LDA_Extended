@@ -1,0 +1,398 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+color = { 236  180  171 }
+graphical_culture = Generic
+
+party = {
+	name = "CRN_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "CRN_conservative"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pacifism
+}
+
+party = {
+	name = "CRN_socialist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	economic_policy = state_capitalism
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "CRN_reactionary"
+start_date = 500.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "CRN_anarcho_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "CRN_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "CRN_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		Charlotte Raleigh Greensboro Winston-Salem Durham Fayetteville Cary Wilmington "High Point" Asheville Greenville Concord Gastonia Jacksonville "Rocky Mount" "Chapel Hill" Burlington Wilson Huntersville Kannapolis Hickory Apex Goldsboro Salisbury
+	}
+	ironclad = {
+        	Charlotte Raleigh Greensboro Winston-Salem Durham Fayetteville Cary Wilmington "High Point" Asheville Greenville Concord Gastonia Jacksonville "Rocky Mount" "Chapel Hill" Burlington Wilson Huntersville Kannapolis Hickory Apex Goldsboro Salisbury
+	}
+	manowar = {
+		Charlotte Raleigh Greensboro Winston-Salem Durham Fayetteville Cary Wilmington "High Point" Asheville Greenville Concord Gastonia Jacksonville "Rocky Mount" "Chapel Hill" Burlington Wilson Huntersville Kannapolis Hickory Apex Goldsboro Salisbury
+	}
+	cruiser = {
+		Charlotte Raleigh Greensboro Winston-Salem Durham Fayetteville Cary Wilmington "High Point" Asheville Greenville Concord Gastonia Jacksonville "Rocky Mount" "Chapel Hill" Burlington Wilson Huntersville Kannapolis Hickory Apex Goldsboro Salisbury
+	}
+	frigate = {
+		Charlotte Raleigh Greensboro Winston-Salem Durham Fayetteville Cary Wilmington "High Point" Asheville Greenville Concord Gastonia Jacksonville "Rocky Mount" "Chapel Hill" Burlington Wilson Huntersville Kannapolis Hickory Apex Goldsboro Salisbury
+	}
+	monitor = {
+		Charlotte Raleigh Greensboro Winston-Salem Durham Fayetteville Cary Wilmington "High Point" Asheville Greenville Concord Gastonia Jacksonville "Rocky Mount" "Chapel Hill" Burlington Wilson Huntersville Kannapolis Hickory Apex Goldsboro Salisbury
+	}
+	clipper_transport = { 
+		Charlotte Raleigh Greensboro Winston-Salem Durham Fayetteville Cary Wilmington "High Point" Asheville Greenville Concord Gastonia Jacksonville "Rocky Mount" "Chapel Hill" Burlington Wilson Huntersville Kannapolis Hickory Apex Goldsboro Salisbury
+	}
+	steam_transport = { 
+		Charlotte Raleigh Greensboro Winston-Salem Durham Fayetteville Cary Wilmington "High Point" Asheville Greenville Concord Gastonia Jacksonville "Rocky Mount" "Chapel Hill" Burlington Wilson Huntersville Kannapolis Hickory Apex Goldsboro Salisbury
+	}
+	commerce_raider = {
+		Charlotte Raleigh Greensboro Winston-Salem Durham Fayetteville Cary Wilmington "High Point" Asheville Greenville Concord Gastonia Jacksonville "Rocky Mount" "Chapel Hill" Burlington Wilson Huntersville Kannapolis Hickory Apex Goldsboro Salisbury
+	}
+=======
+=======
+>>>>>>> sirbuddyguytest3
+color = { 236  180  171 }
+graphical_culture = Generic
+
+party = {
+	name = "CRN_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "CRN_conservative"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pacifism
+}
+
+party = {
+	name = "CRN_socialist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	economic_policy = state_capitalism
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "CRN_reactionary"
+start_date = 500.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "CRN_anarcho_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "CRN_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "CRN_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		Charlotte Raleigh Greensboro Winston-Salem Durham Fayetteville Cary Wilmington "High Point" Asheville Greenville Concord Gastonia Jacksonville "Rocky Mount" "Chapel Hill" Burlington Wilson Huntersville Kannapolis Hickory Apex Goldsboro Salisbury
+	}
+	ironclad = {
+        	Charlotte Raleigh Greensboro Winston-Salem Durham Fayetteville Cary Wilmington "High Point" Asheville Greenville Concord Gastonia Jacksonville "Rocky Mount" "Chapel Hill" Burlington Wilson Huntersville Kannapolis Hickory Apex Goldsboro Salisbury
+	}
+	manowar = {
+		Charlotte Raleigh Greensboro Winston-Salem Durham Fayetteville Cary Wilmington "High Point" Asheville Greenville Concord Gastonia Jacksonville "Rocky Mount" "Chapel Hill" Burlington Wilson Huntersville Kannapolis Hickory Apex Goldsboro Salisbury
+	}
+	cruiser = {
+		Charlotte Raleigh Greensboro Winston-Salem Durham Fayetteville Cary Wilmington "High Point" Asheville Greenville Concord Gastonia Jacksonville "Rocky Mount" "Chapel Hill" Burlington Wilson Huntersville Kannapolis Hickory Apex Goldsboro Salisbury
+	}
+	frigate = {
+		Charlotte Raleigh Greensboro Winston-Salem Durham Fayetteville Cary Wilmington "High Point" Asheville Greenville Concord Gastonia Jacksonville "Rocky Mount" "Chapel Hill" Burlington Wilson Huntersville Kannapolis Hickory Apex Goldsboro Salisbury
+	}
+	monitor = {
+		Charlotte Raleigh Greensboro Winston-Salem Durham Fayetteville Cary Wilmington "High Point" Asheville Greenville Concord Gastonia Jacksonville "Rocky Mount" "Chapel Hill" Burlington Wilson Huntersville Kannapolis Hickory Apex Goldsboro Salisbury
+	}
+	clipper_transport = { 
+		Charlotte Raleigh Greensboro Winston-Salem Durham Fayetteville Cary Wilmington "High Point" Asheville Greenville Concord Gastonia Jacksonville "Rocky Mount" "Chapel Hill" Burlington Wilson Huntersville Kannapolis Hickory Apex Goldsboro Salisbury
+	}
+	steam_transport = { 
+		Charlotte Raleigh Greensboro Winston-Salem Durham Fayetteville Cary Wilmington "High Point" Asheville Greenville Concord Gastonia Jacksonville "Rocky Mount" "Chapel Hill" Burlington Wilson Huntersville Kannapolis Hickory Apex Goldsboro Salisbury
+	}
+	commerce_raider = {
+		Charlotte Raleigh Greensboro Winston-Salem Durham Fayetteville Cary Wilmington "High Point" Asheville Greenville Concord Gastonia Jacksonville "Rocky Mount" "Chapel Hill" Burlington Wilson Huntersville Kannapolis Hickory Apex Goldsboro Salisbury
+	}
+<<<<<<< HEAD
+=======
+=======
+color = { 236  180  171 }
+graphical_culture = Generic
+
+party = {
+	name = "CRN_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "CRN_conservative"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pacifism
+}
+
+party = {
+	name = "CRN_socialist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	economic_policy = state_capitalism
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "CRN_reactionary"
+start_date = 500.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "CRN_anarcho_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "CRN_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "CRN_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		Charlotte Raleigh Greensboro Winston-Salem Durham Fayetteville Cary Wilmington "High Point" Asheville Greenville Concord Gastonia Jacksonville "Rocky Mount" "Chapel Hill" Burlington Wilson Huntersville Kannapolis Hickory Apex Goldsboro Salisbury
+	}
+	ironclad = {
+        	Charlotte Raleigh Greensboro Winston-Salem Durham Fayetteville Cary Wilmington "High Point" Asheville Greenville Concord Gastonia Jacksonville "Rocky Mount" "Chapel Hill" Burlington Wilson Huntersville Kannapolis Hickory Apex Goldsboro Salisbury
+	}
+	manowar = {
+		Charlotte Raleigh Greensboro Winston-Salem Durham Fayetteville Cary Wilmington "High Point" Asheville Greenville Concord Gastonia Jacksonville "Rocky Mount" "Chapel Hill" Burlington Wilson Huntersville Kannapolis Hickory Apex Goldsboro Salisbury
+	}
+	cruiser = {
+		Charlotte Raleigh Greensboro Winston-Salem Durham Fayetteville Cary Wilmington "High Point" Asheville Greenville Concord Gastonia Jacksonville "Rocky Mount" "Chapel Hill" Burlington Wilson Huntersville Kannapolis Hickory Apex Goldsboro Salisbury
+	}
+	frigate = {
+		Charlotte Raleigh Greensboro Winston-Salem Durham Fayetteville Cary Wilmington "High Point" Asheville Greenville Concord Gastonia Jacksonville "Rocky Mount" "Chapel Hill" Burlington Wilson Huntersville Kannapolis Hickory Apex Goldsboro Salisbury
+	}
+	monitor = {
+		Charlotte Raleigh Greensboro Winston-Salem Durham Fayetteville Cary Wilmington "High Point" Asheville Greenville Concord Gastonia Jacksonville "Rocky Mount" "Chapel Hill" Burlington Wilson Huntersville Kannapolis Hickory Apex Goldsboro Salisbury
+	}
+	clipper_transport = { 
+		Charlotte Raleigh Greensboro Winston-Salem Durham Fayetteville Cary Wilmington "High Point" Asheville Greenville Concord Gastonia Jacksonville "Rocky Mount" "Chapel Hill" Burlington Wilson Huntersville Kannapolis Hickory Apex Goldsboro Salisbury
+	}
+	steam_transport = { 
+		Charlotte Raleigh Greensboro Winston-Salem Durham Fayetteville Cary Wilmington "High Point" Asheville Greenville Concord Gastonia Jacksonville "Rocky Mount" "Chapel Hill" Burlington Wilson Huntersville Kannapolis Hickory Apex Goldsboro Salisbury
+	}
+	commerce_raider = {
+		Charlotte Raleigh Greensboro Winston-Salem Durham Fayetteville Cary Wilmington "High Point" Asheville Greenville Concord Gastonia Jacksonville "Rocky Mount" "Chapel Hill" Burlington Wilson Huntersville Kannapolis Hickory Apex Goldsboro Salisbury
+	}
+>>>>>>> sirbuddyguytest3
+>>>>>>> sirbuddyguytest2
+}

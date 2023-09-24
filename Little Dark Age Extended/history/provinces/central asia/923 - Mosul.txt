@@ -1,0 +1,14 @@
+owner = PER
+controller = PER
+add_core = PER
+add_core = IRQ
+trade_goods = sulphur
+life_rating = 35
+
+set_province_flag = mine
+
+state_building = {
+	level = 1
+	building = ammunition_factory
+	upgrade = yes
+}

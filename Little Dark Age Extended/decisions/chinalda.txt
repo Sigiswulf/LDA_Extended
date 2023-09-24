@@ -1,0 +1,50 @@
+political_decisions = {
+
+unify_zhongguo = {
+
+potential = {
+OR = {
+tag = NWI
+tag = QII
+}
+NOT = { has_country_flag = zhonguoform } 
+}
+
+
+allow = {NOT {war = yes}
+
+
+
+
+OR = {
+AND = { owns = 2221 owns = 1510 owns = 1612 owns = 1482 owns = 1609}
+AND = {QII = {OR = {
+is_our_vassal = THIS
+	all_core = {
+	OR = {
+	owned_by = THIS
+	owner = {
+	in_sphere = THIS}}}}}
+NWI = {OR = {
+is_our_vassal = THIS
+all_core = {
+OR = {
+owned_by = THIS
+owner = {
+in_sphere = THIS
+}}}}}}}
+
+}
+
+
+
+effect = {
+prestige = 30
+set_country_flag = zhonguoform
+add_accepted_culture = nanfaren
+add_accepted_culture = beifaren
+NWI = { all_core = { add_core = THIS } }
+QII = { all_core = { add_core = THIS } }
+
+
+}}}

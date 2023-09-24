@@ -1,0 +1,677 @@
+#Halab Region (457598)  #see Turkey.txt for balance of region
+#under the rule of Egypt in 1468
+#Aleppo (252799/63199 POPS) #now part of Syria 
+897 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 98
+	}
+
+	bureaucrats = {
+culture = greek
+religion = catholic
+		size = 19
+	}
+
+	officers = {
+culture = greek
+religion = catholic
+		size = 98
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 60
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 758
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 6180
+	}
+
+	aristocrats = {
+		culture = aramaic
+religion = catholic
+		size = 139
+	}
+
+	bureaucrats = {
+		culture = aramaic
+religion = catholic
+		size = 19
+	}
+
+	officers = {
+		culture = aramaic
+religion = catholic
+		size = 79
+	}
+
+	clergymen = {
+		culture = aramaic
+religion = catholic
+		size = 98
+	}
+
+	artisans = {
+		culture = aramaic
+religion = catholic
+		size = 1080
+	}
+
+	soldiers = {
+		culture = aramaic
+religion = catholic
+		size = 120
+	}
+
+	farmers = {
+		culture = aramaic
+religion = catholic
+		size = 8940
+	}
+
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 480
+	}
+
+	bureaucrats = {
+culture = aramaic
+religion = catholic
+		size = 278
+	}
+
+	officers = {
+culture = aramaic
+religion = catholic
+		size = 98
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 439
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 4358
+	}
+
+	soldiers = {
+culture = aramaic
+religion = catholic
+		size = 439
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 35198
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 60
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 600
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 2539
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 38
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 1159
+	}
+}
+#Dayr al-Zour (204799/51199 POPS) #now part of Syria  mashriqi-catholic = assyrian
+901 = {
+	aristocrats = {
+		culture = aramaic
+religion = catholic
+		size = 120
+	}
+
+	clergymen = {
+		culture = aramaic
+religion = catholic
+		size = 98
+	}
+
+	artisans = {
+		culture = aramaic
+religion = catholic
+		size = 518
+	}
+
+	soldiers = {
+		culture = aramaic
+religion = catholic
+		size = 139
+	}
+
+	farmers = {
+		culture = aramaic
+religion = catholic
+		size = 1038
+	}
+
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 360
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 278
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 1440
+	}
+
+	soldiers = {
+culture = aramaic
+religion = catholic
+		size = 338
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 6378
+	}
+
+	aristocrats = {
+		culture = aramaic
+religion = catholic
+		size = 38
+	}
+
+	clergymen = {
+		culture = aramaic
+religion = catholic
+		size = 60
+	}
+
+	artisans = {
+		culture = aramaic
+religion = catholic
+		size = 79
+	}
+
+	soldiers = {
+		culture = aramaic
+religion = catholic
+		size = 38
+	}
+
+	farmers = {
+		culture = aramaic
+religion = catholic
+		size = 2978
+	}
+
+	clergymen = {
+culture = aramaic
+		religion = catholic
+		size = 79
+	}
+
+	artisans = {
+culture = aramaic
+		religion = catholic
+		size = 439
+	}
+
+	farmers = {
+culture = aramaic
+		religion = catholic
+		size = 3280
+	}
+}
+#Suriye Region (576000)  #see Jordan.txt & Lebanon.txt for balance of region
+#under the rule of Egypt in 1468
+#Damascus (262399/65599 POPS)
+902 = {
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 720
+	}
+
+	bureaucrats = {
+culture = aramaic
+religion = catholic
+		size = 218
+	}
+
+	officers = {
+culture = aramaic
+religion = catholic
+		size = 180
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 458
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 999
+	}
+
+	soldiers = {
+culture = aramaic
+religion = catholic
+		size = 660
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 158
+	}
+
+	clergymen = {
+culture = aramaic
+religion = zoroastrianism
+		size = 38
+	}
+
+	artisans = {
+culture = aramaic
+religion = zoroastrianism
+		size = 398
+	}
+
+	farmers = {
+culture = aramaic
+religion = zoroastrianism
+		size = 1159
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 139
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 4399
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 1460
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 38
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 1560
+	}
+}
+#Homs (63998/15998 POPS)
+903 = {
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 199
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 139
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 679
+	}
+
+	soldiers = {
+culture = aramaic
+religion = catholic
+		size = 158
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 12420
+	}
+
+	clergymen = {
+culture = aramaic
+religion = zoroastrianism
+		size = 38
+	}
+
+	artisans = {
+culture = aramaic
+religion = zoroastrianism
+		size = 79
+	}
+
+	farmers = {
+culture = aramaic
+religion = zoroastrianism
+		size = 1478
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 19
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 38
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 780
+	}
+}
+#Hama (86400/21600 POPS)
+904 = {
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 240
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 120
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 638
+	}
+
+	soldiers = {
+culture = aramaic
+religion = catholic
+		size = 218
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 11580
+	}
+
+	clergymen = {
+culture = aramaic
+religion = zoroastrianism
+		size = 60
+	}
+
+	artisans = {
+culture = aramaic
+religion = zoroastrianism
+		size = 360
+	}
+
+	farmers = {
+culture = aramaic
+religion = zoroastrianism
+		size = 6780
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 19
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 1500
+	}
+}
+#Latakia (89599/22399 POPS)
+905 = {
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 1240
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 1158
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 1878
+	}
+
+	soldiers = {
+culture = aramaic
+religion = catholic
+		size = 218
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 24580
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 60
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 319
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 16019
+	}
+}
+#Suwayda (73598/18398 POPS)
+906 = {
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 180
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 139
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 758
+	}
+
+	soldiers = {
+culture = aramaic
+religion = catholic
+		size = 199
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 13920
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 60
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 158
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 2978
+	}
+}
+#Badiyat al-Sham Region (355200)  #see Jordan.txt, Iraq.txt & Saudi Arabia.txt for balance of region
+#under the "rule" of Egypt in 1468
+#Palmyra (35198/8798 POPS)
+907 = {
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 19
+	}
+
+	bureaucrats = {
+culture = aramaic
+religion = catholic
+		size = 12
+	}
+
+	officers = {
+culture = aramaic
+religion = catholic
+		size = 2
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 79
+	}
+
+	soldiers = {
+culture = aramaic
+religion = catholic
+		size = 26
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 1416
+	}
+
+	aristocrats = {
+		culture = aramaic
+religion = catholic
+		size = 79
+	}
+
+	clergymen = {
+		culture = aramaic
+religion = catholic
+		size = 60
+	}
+
+	artisans = {
+		culture = aramaic
+religion = catholic
+		size = 278
+	}
+
+	soldiers = {
+		culture = aramaic
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = aramaic
+religion = catholic
+		size = 6780
+	}
+
+}

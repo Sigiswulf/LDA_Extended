@@ -1,0 +1,228 @@
+#East Papua (8920) 
+#uncolonized in 18
+#Port Moresby (2120/530 POPS) 
+2528 = {
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 5
+	}
+
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 26
+	}
+
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 5
+	}
+
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 483
+	}
+}
+#Kerema (1160/290 POPS) 
+2529 = {
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 5
+	}
+
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 3
+	}
+
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 14
+	}
+
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 3
+	}
+
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 264
+	}
+}
+#Lae (2640/660 POPS) 
+2530 = {
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 13
+	}
+
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 6
+	}
+
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 33
+	}
+
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 6
+	}
+
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 600
+	}
+}
+#Madang (3000/750 POPS) 
+2531 = {
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 14
+	}
+
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 7
+	}
+
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 37
+	}
+
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 7
+	}
+
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 683
+	}
+}
+#Northern Melanesia (2260) 
+#uncolonized in 18}
+#New Ireland (1040/POPS) 
+1531 = {
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 5
+	}
+
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 2
+	}
+
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 13
+	}
+
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 2
+	}
+
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 236
+	}
+}
+#New Britain (1440/POPS) 
+2537 = {
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 7
+	}
+
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 3
+	}
+
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 18
+	}
+
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 3
+	}
+
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 327
+	}
+}
+#Bougainville (560/POPS) 
+2539 = {
+	aristocrats = {
+		culture = melanesian
+		religion = animist
+		size = 2
+	}
+
+	clergymen = {
+		culture = melanesian
+		religion = animist
+		size = 1
+	}
+
+	artisans = {
+		culture = melanesian
+		religion = animist
+		size = 7
+	}
+
+	soldiers = {
+		culture = melanesian
+		religion = animist
+		size = 1
+	}
+
+	farmers = {
+		culture = melanesian
+		religion = animist
+		size = 127
+	}
+}

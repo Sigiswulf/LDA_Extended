@@ -1,0 +1,1036 @@
+#Tripolitania Region (132000)  
+#under the rule of Ottoman Empire in 612  
+#Tripoli (57333/14333 POPS) 
+1731 = {
+	aristocrats = {
+culture = roman_african
+religion = catholic
+		size = 1830
+	}
+
+	bureaucrats = {
+culture = roman_african
+religion = catholic
+		size = 160
+	}
+
+	officers = {
+culture = roman_african
+religion = catholic
+		size = 250
+	}
+		craftsmen = {
+culture = roman_african
+religion = catholic
+		size = 6747
+	}
+
+	clergymen = {
+culture = roman_african
+religion = catholic
+		size = 810
+	}
+	clergymen = {
+culture = roman_african
+religion = arian
+		size = 110
+	}
+	artisans = {
+culture = roman_african
+religion = catholic
+		size = 2050
+	}
+
+	soldiers = {
+culture = roman_african
+religion = catholic
+		size = 2366
+	}
+
+	farmers = {
+culture = roman_african
+religion = catholic
+		size = 50000
+	}
+	farmers = {
+culture = roman_african
+religion = arian
+		size = 10000
+	}
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 17100
+	}
+
+	clergymen = {
+culture = roman_african
+religion = catholic
+		size = 25
+	}
+
+	artisans = {
+culture = roman_african
+religion = catholic
+		size = 116
+	}
+
+	soldiers = {
+culture = roman_african
+religion = catholic
+		size = 25
+	}
+
+	farmers = {
+culture = berber
+religion = catholic
+		size = 40025
+	}
+	farmers = {
+culture = berber
+religion = arian
+		size = 4025
+	}
+	slaves = {
+		culture = berber
+		religion = animist
+		size = 2166
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 800
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 3910
+	}
+}
+#Gharyan (13333/3333 POPS)
+1732 = {
+	aristocrats = {
+culture = roman_african
+religion = catholic
+		size = 16
+	}
+
+	clergymen = {
+culture = berber
+religion = catholic
+		size = 25
+	}
+
+	artisans = {
+culture = berber
+religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+culture = berber
+religion = catholic
+		size = 366
+	}
+
+	farmers = {
+culture = berber
+religion = catholic
+		size = 575
+	}
+
+	aristocrats = {
+culture = berber
+religion = catholic
+		size = 25
+	}
+
+	clergymen = {
+culture = berber
+religion = catholic
+		size = 25
+	}
+
+	artisans = {
+culture = berber
+religion = catholic
+		size = 83
+	}
+
+	soldiers = {
+culture = berber
+religion = catholic
+		size = 16
+	}
+
+	farmers = {
+culture = berber
+religion = catholic
+		size = 1516
+	}
+
+	slaves = {
+		culture = berber
+		religion = animist
+		size = 666
+	}
+}
+#Misratah (28000/7000 POPS)
+1733 = {
+	aristocrats = {
+culture = berber
+religion = catholic
+		size = 58
+	}
+
+	clergymen = {
+culture = berber
+religion = catholic
+		size = 33
+	}
+
+	artisans = {
+culture = berber
+religion = catholic
+		size = 166
+	}
+
+	soldiers = {
+culture = berber
+religion = catholic
+		size = 33
+	}
+
+	farmers = {
+culture = berber
+religion = catholic
+		size = 3075
+	}
+	farmers = {
+culture = berber
+religion = arian
+		size = 375
+	}
+	aristocrats = {
+culture = berber
+religion = catholic
+		size = 41
+	}
+
+	clergymen = {
+culture = berber
+religion = catholic
+		size = 16
+	}
+
+	artisans = {
+culture = berber
+religion = catholic
+		size = 91
+	}
+
+	soldiers = {
+culture = berber
+religion = catholic
+		size = 366
+	}
+
+	farmers = {
+culture = berber
+religion = catholic
+		size = 1416
+	}
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 3
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 163
+	}
+}
+#Sirt (33333/8333 POPS)
+1734 = {
+	aristocrats = {
+culture = berber
+religion = catholic
+		size = 50
+	}
+
+	clergymen = {
+culture = berber
+religion = catholic
+		size = 25
+	}
+
+	artisans = {
+culture = berber
+religion = catholic
+		size = 133
+	}
+
+	soldiers = {
+culture = berber
+religion = catholic
+		size = 25
+	}
+
+	farmers = {
+culture = berber
+religion = catholic
+		size = 2433
+	}
+
+	aristocrats = {
+culture = berber
+religion = catholic
+		size = 75
+	}
+
+	clergymen = {
+culture = berber
+religion = catholic
+		size = 41
+	}
+
+	artisans = {
+culture = berber
+religion = catholic
+		size = 216
+	}
+
+	soldiers = {
+culture = berber
+religion = catholic
+		size = 366
+	}
+
+	farmers = {
+culture = berber
+religion = catholic
+		size = 3666
+	}
+
+}
+#Cyrenaica Region (77333)  
+#under the rule of Ottoman Empire in 612  
+#Benghazi (41333/10333 POPS)
+1735 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 91
+	}
+
+	bureaucrats = {
+culture = greek
+religion = catholic
+		size = 80
+	}
+
+	officers = {
+culture = greek
+religion = catholic
+		size = 80
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 75
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 245
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 66
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 240
+	}
+
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 58
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 25
+	}
+
+	artisans = {
+culture = berber
+religion = catholic
+		size = 160
+	}
+
+	soldiers = {
+culture = berber
+religion = catholic
+		size = 330
+	}
+
+	farmers = {
+culture = berber
+religion = catholic
+		size = 1050
+	}
+	farmers = {
+culture = greek
+religion = catholic
+		size = 100
+	}
+
+	slaves = {
+		culture = berber
+		religion = animist
+		size = 1000
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 50
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 810
+	}
+}
+#Darnah (20000/5000 POPS)
+1736 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 1250
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 160
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 2000
+	}
+
+	soldiers = {
+culture = berber
+religion = catholic
+		size = 2600
+	}
+
+	farmers = {
+culture = berber
+religion = catholic
+		size = 1525
+	}
+
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 6100
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 250
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 7330
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 7000
+	}
+
+	farmers = {
+culture = berber
+religion = catholic
+		size = 12441
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 48441
+	}
+	slaves = {
+		culture = berber
+		religion = animist
+		size = 1666
+	}
+}
+#Tobruk (16000/4000 POPS)
+1737 = {
+	aristocrats = {
+culture = berber
+religion = catholic
+		size = 8
+	}
+
+	clergymen = {
+culture = berber
+religion = catholic
+		size = 16
+	}
+
+	artisans = {
+culture = berber
+religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+culture = berber
+religion = catholic
+		size = 8
+	}
+
+	farmers = {
+culture = berber
+religion = catholic
+		size = 900
+	}
+
+	aristocrats = {
+culture = berber
+religion = catholic
+		size = 33
+	}
+
+	clergymen = {
+culture = berber
+religion = catholic
+		size = 16
+	}
+
+	artisans = {
+culture = berber
+religion = catholic
+		size = 100
+	}
+
+	soldiers = {
+culture = berber
+religion = catholic
+		size = 16
+	}
+
+	farmers = {
+culture = berber
+religion = catholic
+		size = 1833
+	}
+
+	slaves = {
+		culture = berber
+		religion = animist
+		size = 1000
+	}
+}
+#Kufrah Region (16000)  
+#uncolonized in 612
+#Jaghbub (4000/1000 POPS)
+1738 = {
+	aristocrats = {
+culture = berber
+religion = catholic
+		size = 8
+	}
+
+	clergymen = {
+culture = berber
+religion = catholic
+		size = 16
+	}
+
+	artisans = {
+culture = berber
+religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+culture = berber
+religion = catholic
+		size = 8
+	}
+
+	farmers = {
+culture = berber
+religion = catholic
+		size = 916
+	}
+}
+#Kufra (5333/1333 POPS)
+1739 = {
+	aristocrats = {
+culture = berber
+religion = catholic
+		size = 8
+	}
+
+	clergymen = {
+culture = berber
+religion = catholic
+		size = 16
+	}
+
+	artisans = {
+culture = berber
+religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+culture = berber
+religion = catholic
+		size = 8
+	}
+
+	farmers = {
+culture = berber
+religion = catholic
+		size = 916
+	}
+
+	aristocrats = {
+		culture = berber
+religion = catholic
+		size = 5
+	}
+
+	clergymen = {
+		culture = berber
+religion = catholic
+		size = 8
+	}
+
+	artisans = {
+		culture = berber
+religion = catholic
+		size = 16
+	}
+
+	soldiers = {
+		culture = berber
+religion = catholic
+		size = 3
+	}
+
+	farmers = {
+		culture = berber
+religion = catholic
+		size = 300
+	}
+}
+#Waddan (5333/1333 POPS)
+1740 = {
+	aristocrats = {
+culture = berber
+religion = catholic
+		size = 8
+	}
+
+	clergymen = {
+culture = berber
+religion = catholic
+		size = 16
+	}
+
+	artisans = {
+culture = berber
+religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+culture = berber
+religion = catholic
+		size = 8
+	}
+
+	farmers = {
+culture = berber
+religion = catholic
+		size = 916
+	}
+
+	aristocrats = {
+		culture = berber
+religion = catholic
+		size = 5
+	}
+
+	clergymen = {
+		culture = berber
+religion = catholic
+		size = 8
+	}
+
+	artisans = {
+		culture = berber
+religion = catholic
+		size = 16
+	}
+
+	soldiers = {
+		culture = berber
+religion = catholic
+		size = 3
+	}
+
+	farmers = {
+		culture = berber
+religion = catholic
+		size = 300
+	}
+}
+#Matan al Sarah (1333/333 POPS)
+2585 = {
+	aristocrats = {
+		culture = berber
+religion = catholic
+		size = 5
+	}
+
+	clergymen = {
+		culture = berber
+religion = catholic
+		size = 8
+	}
+
+	artisans = {
+		culture = berber
+religion = catholic
+		size = 16
+	}
+
+	soldiers = {
+		culture = berber
+religion = catholic
+		size = 3
+	}
+
+	farmers = {
+		culture = berber
+religion = catholic
+		size = 300
+	}
+}
+#Fezzan Region (23333)  
+#under the indirect rule of Ottoman Empire in 612  
+#Murzuk (5333/1333 POPS)
+1741 = {
+	aristocrats = {
+culture = berber
+religion = catholic
+		size = 5
+	}
+
+	bureaucrats = {
+culture = berber
+religion = catholic
+		size = 1
+	}
+
+	officers = {
+culture = berber
+religion = catholic
+		size = 5
+	}
+
+	clergymen = {
+culture = berber
+religion = catholic
+		size = 8
+	}
+
+	artisans = {
+culture = berber
+religion = catholic
+		size = 16
+	}
+
+	soldiers = {
+culture = berber
+religion = catholic
+		size = 3
+	}
+
+	farmers = {
+culture = berber
+religion = catholic
+		size = 293
+	}
+
+	aristocrats = {
+		culture = berber
+religion = catholic
+		size = 8
+	}
+
+	clergymen = {
+		culture = berber
+religion = catholic
+		size = 8
+	}
+
+	artisans = {
+		culture = berber
+religion = catholic
+		size = 33
+	}
+
+	soldiers = {
+		culture = berber
+religion = catholic
+		size = 8
+	}
+
+	farmers = {
+		culture = berber
+religion = catholic
+		size = 625
+	}
+
+	slaves = {
+		culture = berber
+		religion = animist
+		size = 366
+	}
+}
+#Sabha (4666/1166 POPS)
+1742 = {
+	aristocrats = {
+culture = berber
+religion = catholic
+		size = 5
+	}
+
+	clergymen = {
+culture = berber
+religion = catholic
+		size = 8
+	}
+
+	artisans = {
+culture = berber
+religion = catholic
+		size = 16
+	}
+
+	soldiers = {
+culture = berber
+religion = catholic
+		size = 3
+	}
+
+	farmers = {
+culture = berber
+religion = catholic
+		size = 300
+	}
+
+	aristocrats = {
+		culture = berber
+religion = catholic
+		size = 8
+	}
+
+	clergymen = {
+		culture = berber
+religion = catholic
+		size = 8
+	}
+
+	artisans = {
+		culture = berber
+religion = catholic
+		size = 33
+	}
+
+	soldiers = {
+		culture = berber
+religion = catholic
+		size = 8
+	}
+
+	farmers = {
+		culture = berber
+religion = catholic
+		size = 625
+	}
+
+	slaves = {
+		culture = berber
+		religion = animist
+		size = 166
+	}
+}
+#Ghat (5333/1333 POPS)
+1743 = {
+	aristocrats = {
+culture = berber
+religion = catholic
+		size = 5
+	}
+
+	clergymen = {
+culture = berber
+religion = catholic
+		size = 8
+	}
+
+	artisans = {
+culture = berber
+religion = catholic
+		size = 16
+	}
+
+	soldiers = {
+culture = berber
+religion = catholic
+		size = 3
+	}
+
+	farmers = {
+culture = berber
+religion = catholic
+		size = 300
+	}
+
+	aristocrats = {
+		culture = berber
+religion = catholic
+		size = 8
+	}
+
+	clergymen = {
+		culture = berber
+religion = catholic
+		size = 8
+	}
+
+	artisans = {
+		culture = berber
+religion = catholic
+		size = 33
+	}
+
+	soldiers = {
+		culture = berber
+religion = catholic
+		size = 366
+	}
+
+	farmers = {
+		culture = berber
+religion = catholic
+		size = 300
+	}
+
+	slaves = {
+		culture = berber
+		religion = animist
+		size = 366
+	}
+}
+#Ghadamis (8000/2000 POPS)
+1744 = {
+	aristocrats = {
+culture = berber
+religion = catholic
+		size = 16
+	}
+
+	clergymen = {
+culture = berber
+religion = catholic
+		size = 16
+	}
+
+	artisans = {
+culture = berber
+religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+culture = berber
+religion = catholic
+		size = 366
+	}
+
+	farmers = {
+culture = berber
+religion = catholic
+		size = 583
+	}
+
+	aristocrats = {
+		culture = berber
+religion = catholic
+		size = 5
+	}
+
+	clergymen = {
+		culture = berber
+religion = catholic
+		size = 8
+	}
+
+	artisans = {
+		culture = berber
+religion = catholic
+		size = 16
+	}
+
+	soldiers = {
+		culture = berber
+religion = catholic
+		size = 3
+	}
+
+	farmers = {
+		culture = berber
+religion = catholic
+		size = 300
+	}
+
+	slaves = {
+		culture = berber
+		religion = animist
+		size = 666
+	}
+
+}

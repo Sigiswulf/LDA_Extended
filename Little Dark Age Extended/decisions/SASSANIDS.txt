@@ -1,0 +1,41 @@
+political_decisions = {
+
+
+    get_levant = {
+		picture = persia
+        potential = {
+			tag = PER
+			NOT = { 
+			has_country_flag = get_levant 
+			}
+			
+		}
+		allow = {
+			owns = 926
+			owns = 913
+			owns = 917
+			owns = 900
+		}
+		effect = { 
+            IRQ = { all_core = { add_core = THIS }}
+            SYR = { all_core = { add_core = THIS }}
+            ISR = { all_core = { add_core = THIS }}
+			set_country_flag = get_levant
+	}}
+
+
+    get_levant_accepted = {
+
+        potential = {tag = PER
+		not = { has_country_flag = semite_gang }
+		}
+		allow = {
+			nationalism_n_imperialism = 1 
+		}
+		effect = {
+			add_accepted_culture = aramaic
+            add_accepted_culture = sephardic
+			set_country_flag = semite_gang
+		}
+	}
+    }

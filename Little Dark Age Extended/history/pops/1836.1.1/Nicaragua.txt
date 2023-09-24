@@ -1,0 +1,192 @@
+#Nicaragua Region (29200)
+#Ruled by Central America 183
+#Managua (19200/4800 POPS)
+2197 = {
+    aristocrats = {
+culture = native_american_minor
+religion = animist
+        size = 178
+        militancy = 0
+    }
+
+    bureaucrats = {
+culture = native_american_minor
+religion = animist
+        size = 17
+        militancy = 0
+    }
+
+    officers = {
+culture = native_american_minor
+religion = animist
+        size = 12
+        militancy = 0
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 80
+        militancy = 0
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 408
+        militancy = 0
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 80
+        militancy = 0
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 7382
+        militancy = 0
+    }
+}
+#Rivas (4000/1000 POPS)
+2198 = {
+    aristocrats = {
+culture = native_american_minor
+religion = animist
+        size = 46
+        militancy = 0
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 17
+        militancy = 0
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 85
+        militancy = 0
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 17
+        militancy = 0
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 1534
+        militancy = 0
+    }
+}
+#Esteli (4800/1200 POPS)
+2199 = {
+    aristocrats = {
+culture = native_american_minor
+religion = animist
+        size = 55
+        militancy = 0
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 21
+        militancy = 0
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 102
+        militancy = 0
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 21
+        militancy = 0
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 2010
+        militancy = 0
+    }
+}
+#Bluefields (1200/300 POPS)
+2200 = {
+    aristocrats = {
+culture = native_american_minor
+religion = animist
+        size = 2
+        militancy = 0
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 4
+        militancy = 0
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 8
+        militancy = 0
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 1
+        militancy = 0
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 153
+        militancy = 0
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 5
+        militancy = 0
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 10
+        militancy = 0
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 5
+        militancy = 0
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 180
+        militancy = 0
+    }
+}

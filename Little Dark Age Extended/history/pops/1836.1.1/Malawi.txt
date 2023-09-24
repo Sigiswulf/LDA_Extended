@@ -1,0 +1,169 @@
+#Nyasaland Region (36800)  
+#uncolonized in 183/dominated by the Yao
+#Zomba (20800/5200 POPS) 
+2066 = {
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 55
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 30
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 145
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 30
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 2640
+	}
+
+	slaves = {
+		culture = bantu
+		religion = animist
+		size = 300
+	}
+
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 27
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 15
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 75
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 15
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 1367
+	}
+
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 12
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 7
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 40
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 10
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 427
+	}
+}
+#Lilongwe (16000/4000 POPS)/dominated by Kazembe 
+2067 = {
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 35
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 20
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 95
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 20
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 1730
+	}
+
+	slaves = {
+		culture = bantu
+		religion = animist
+		size = 400
+	}
+
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 40
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 20
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 85
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 22
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 1512
+	}
+
+}

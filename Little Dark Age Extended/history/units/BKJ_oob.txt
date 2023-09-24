@@ -1,0 +1,193 @@
+army = {
+	name = "Baekje Imperial Army"
+	location = 1636
+	regiment = {
+		name= "1. Royal Guard"
+		type = infantry
+		home = 1636
+	}
+
+	regiment = {
+		name= "2. Royal Guard"
+		type = infantry
+		home = 1636
+	}
+
+	regiment = {
+		name= "3. Royal Guard"
+		type = infantry
+		home = 1636
+	}
+
+	regiment = {
+		name= "4. Royal Guard"
+		type = infantry
+		home = 1636
+	}
+
+	regiment = {
+		name= "1.Cavalry"
+		type = cavalry
+		home = 3300
+	}
+
+	regiment = {
+		name= "1.Hwacha"
+		type = artillery
+		home = 1624
+	}
+
+	regiment = {
+		name= "2.Hwacha"
+		type = artillery
+		home = 1624
+	}
+
+	regiment = {
+		name= "3.Hwacha"
+		type = artillery
+		home = 1624
+	}
+
+	regiment = {
+		name= "4.Hwacha"
+		type = artillery
+		home = 1628
+	}
+
+	regiment = {
+		name= "5.Hwacha"
+		type = artillery
+		home = 1628
+	}
+}
+
+army = {
+	name = "Southern Army"
+	location = 1635
+	regiment = {
+		name= "1.Infantry"
+		type = infantry
+		home = 3299
+	}
+
+	regiment = {
+		name= "2.Infantry"
+		type = infantry
+		home = 3299
+	}
+
+	regiment = {
+		name= "3.Infantry"
+		type = infantry
+		home = 3299
+	}
+
+	regiment = {
+		name= "4.Infantry"
+		type = infantry
+		home = 3299
+	}
+
+	regiment = {
+		name= "1.Cavalry"
+		type = cavalry
+		home = 3300
+	}
+
+	regiment = {
+		name= "1.Hwacha"
+		type = artillery
+		home = 1628
+	}
+
+	regiment = {
+		name= "2.Hwacha"
+		type = artillery
+		home = 1635
+	}
+
+	regiment = {
+		name= "3.Hwacha"
+		type = artillery
+		home = 1635
+	}
+
+	regiment = {
+		name= "4.Hwacha"
+		type = artillery
+		home = 1635
+	}
+
+	regiment = {
+		name= "5.Hwacha"
+		type = artillery
+		home = 1635
+	}
+
+}
+
+navy = {
+	name = "Imperial Baekje Fleet"
+	location = 1636
+	ship = {
+		name= "Man o' Chungus"
+		type = manowar
+	}
+
+	ship = {
+		name= "Fat Man"
+		type = manowar
+	}
+
+	ship = {
+		name= "Little Boy"
+		type = manowar
+	}
+
+	ship = {
+		name= "Baekje Blast"
+		type = manowar
+	}
+
+	ship = {
+		name= "Bacon"
+		type = manowar
+	}
+
+	ship = {
+		name= "Blahaj"
+		type = manowar
+	}
+
+	ship = {
+		name= "Incinerator"
+		type = manowar
+	}
+
+	ship = {
+		name= "Ram"
+		type = manowar
+	}
+
+	ship = {
+		name= "Big Boom Bob"
+		type = manowar
+	}
+
+	ship = {
+		name= "Bussy Saka"
+		type = manowar
+	}
+
+	ship = {
+		name= "Biden"
+		type = manowar
+	}
+
+	ship = {
+		name= "Han Giggler"
+		type = manowar
+	}
+}
+

@@ -1,0 +1,9 @@
+#Cape Verde Region (7600) 
+#Ruled by Portugal 183
+#Cape Verde (7600/1900 POPS)
+1876 = {
+	artisans = {
+		culture = berber
+		religion = catholic
+		size = 10
+	}

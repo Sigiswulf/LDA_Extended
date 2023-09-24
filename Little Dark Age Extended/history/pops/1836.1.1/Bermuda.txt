@@ -1,0 +1,65 @@
+#Bermuda Region - 900  
+#Ruled by Britain 183
+#Bermuda (900/225 POPS)
+203 = {
+	clergymen = {
+		culture = native_american_minor
+religion = animist
+		size = 1
+	}
+
+	artisans = {
+		culture = native_american_minor
+religion = animist
+		size = 10
+	}
+
+	soldiers = {
+		culture = native_american_minor
+religion = animist
+		size = 2
+	}
+
+	farmers = {
+		culture = native_american_minor
+religion = animist
+		size = 111
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+religion = animist
+		size = 2
+	}
+
+	bureaucrats = {
+		culture = native_american_minor
+religion = animist
+		size = 0
+	}
+
+	clergymen = {
+		culture = native_american_minor
+religion = animist
+		size = 2
+	}
+
+	artisans = {
+		culture = native_american_minor
+religion = animist
+		size = 15
+	}
+
+	soldiers = {
+		culture = native_american_minor
+religion = animist
+		size = 2
+	}
+
+	farmers = {
+		culture = native_american_minor
+religion = animist
+		size = 78
+	}
+
+}

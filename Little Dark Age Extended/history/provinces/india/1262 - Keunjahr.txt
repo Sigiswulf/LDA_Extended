@@ -1,0 +1,7 @@
+owner = GUP
+controller = GUP
+add_core = GUP
+trade_goods = grain
+life_rating = 32
+
+set_province_flag = farm

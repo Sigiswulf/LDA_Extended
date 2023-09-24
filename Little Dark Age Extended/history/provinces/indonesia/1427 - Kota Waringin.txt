@@ -1,0 +1,11 @@
+owner = VIJ
+controller = VIJ
+add_core = VIJ
+trade_goods = iron
+life_rating = 35
+
+
+
+
+set_province_flag = mine
+add_core = IDO

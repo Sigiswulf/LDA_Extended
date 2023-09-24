@@ -1,0 +1,8 @@
+bookmark =
+{
+	name = "LDA_NAME"
+	desc = "LDA_DESC"
+	date = 500.1.1
+	cameraX = 2950 
+	cameraY = 1550
+}

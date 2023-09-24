@@ -1,0 +1,9 @@
+owner = WHA
+#controller = IRE
+add_core = IRE
+
+trade_goods = fish
+life_rating = 30
+
+
+set_province_flag = farm

@@ -1,0 +1,240 @@
+#Montenegro Region (64000)  
+#under the rule of Ottoman Empire in 612  
+#Ulcinj (12000/3000 POPS) 
+800 = {
+	clergymen = {
+culture = romano_illyrian
+religion = catholic
+		size = 16
+	}
+
+	artisans = {
+culture = romano_illyrian
+religion = catholic
+		size = 133
+	}
+
+	farmers = {
+culture = romano_illyrian
+religion = catholic
+		size = 2516
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 8
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 16
+	}
+
+	soldiers = {
+		culture = greek
+religion = catholic
+		size = 33
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 275
+	}
+}
+#Niksic (17333/4333 POPS) 
+2569 = {
+	clergymen = {
+culture = romano_illyrian
+religion = catholic
+		size = 33
+	}
+
+	artisans = {
+culture = romano_illyrian
+religion = catholic
+		size = 166
+	}
+
+	farmers = {
+culture = romano_illyrian
+religion = catholic
+		size = 3800
+	}
+
+	aristocrats = {
+culture = romano_illyrian
+religion = catholic
+		size = 83
+	}
+
+	clergymen = {
+culture = romano_illyrian
+religion = catholic
+		size = 8
+	}
+
+	artisans = {
+culture = romano_illyrian
+religion = catholic
+		size = 25
+	}
+
+	soldiers = {
+culture = romano_illyrian
+religion = catholic
+		size = 41
+	}
+
+	farmers = {
+culture = romano_illyrian
+religion = catholic
+		size = 1941
+	}
+}
+#under the rule of Montenegro in 612  
+#Cetinje (34666/8666 POPS) 
+2583 = {
+	bureaucrats = {
+culture = romano_illyrian
+religion = catholic
+		size = 8
+	}
+
+	officers = {
+culture = romano_illyrian
+religion = catholic
+		size = 8
+	}
+
+	clergymen = {
+culture = romano_illyrian
+religion = catholic
+		size = 91
+	}
+
+	artisans = {
+culture = romano_illyrian
+religion = catholic
+		size = 433
+	}
+
+	soldiers = {
+culture = romano_illyrian
+religion = catholic
+		size = 366
+	}
+
+	farmers = {
+culture = romano_illyrian
+religion = catholic
+		size = 7791
+	}
+}
+#Kosovo-Sanjak Region (17333)  #see Serbia.txt for balance of region 
+#under the rule of Ottoman Empire in 612  
+#Pljevlja (17333/4333 POPS) #now part of Montenegro
+2577 = {
+	clergymen = {
+culture = romano_illyrian
+religion = catholic
+		size = 25
+	}
+
+	artisans = {
+culture = romano_illyrian
+religion = catholic
+		size = 83
+	}
+
+	farmers = {
+culture = romano_illyrian
+religion = catholic
+		size = 2725
+	}
+
+	aristocrats = {
+culture = romano_illyrian
+religion = catholic
+		size = 83
+	}
+
+	clergymen = {
+culture = romano_illyrian
+religion = catholic
+		size = 16
+	}
+
+	artisans = {
+culture = romano_illyrian
+religion = catholic
+		size = 133
+	}
+
+	soldiers = {
+culture = romano_illyrian
+religion = catholic
+		size = 50
+	}
+
+	farmers = {
+culture = romano_illyrian
+religion = catholic
+		size = 1216
+	}
+}
+#Dalmatia Region (21333) #see Croatia.txt for balance of region 
+#under the rule of Austria in 612  
+#Kotor (21333/5333 POPS) 
+2582 = {
+	clergymen = {
+		culture = greek
+		religion = catholic
+		size = 116
+	}
+
+	artisans = {
+		culture = greek
+		religion = catholic
+		size = 183
+	}
+
+	soldiers = {
+		culture = greek
+		religion = catholic
+		size = 160
+	}
+
+	farmers = {
+		culture = greek
+		religion = catholic
+		size = 1550
+	}
+
+	clergymen = {
+culture = romano_illyrian
+religion = catholic
+		size = 33
+	}
+
+	artisans = {
+culture = romano_illyrian
+religion = catholic
+		size = 183
+	}
+
+	soldiers = {
+culture = romano_illyrian
+religion = catholic
+		size = 41
+	}
+
+	farmers = {
+culture = romano_illyrian
+religion = catholic
+		size = 3408
+	}
+
+}

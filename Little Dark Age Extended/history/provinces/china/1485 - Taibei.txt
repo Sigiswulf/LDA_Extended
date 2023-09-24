@@ -1,0 +1,5 @@
+#add_core = TPG
+trade_goods = tea
+life_rating = 32
+
+set_province_flag = farm

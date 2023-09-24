@@ -1,0 +1,64 @@
+army = {
+	name = "Army of the Principality of Wallachia"
+	location = 669
+	regiment = {
+		name= "1st Wallachia Infantry"
+		type = cavalry
+		home = 664
+	}
+
+	regiment = {
+		name= "2nd Wallachia Infantry"
+		type = infantry_offensive
+		home = 668
+	}
+
+	regiment = {
+		name= "3rd Wallachia Infantry"
+		type = infantry_offensive
+		home = 669
+	}
+	
+	regiment = {
+		name= "4th Wallachia Infantry"
+		type = infantry_offensive
+		home = 664
+	}
+
+	regiment = {
+		name= "5th Wallachia Infantry"
+		type = infantry_offensive
+		home = 665
+	}
+	
+	regiment = {
+		name= "6th Wallachia Infantry"
+		type = infantry_defensive
+		home = 666
+	}
+	
+	regiment = {
+		name= "7th Wallachia Infantry"
+		type = infantry_defensive
+		home = 667
+	}
+	
+	regiment = {
+		name= "8th Wallachia Infantry"
+		type = infantry_defensive
+		home = 668
+	}
+	
+	regiment = {
+		name= "9th Wallachia Infantry"
+		type = infantry_defensive
+		home = 668
+	}
+	
+	regiment = {
+		name= "10th Wallachia Infantry"
+		type = infantry_defensive
+		home = 669
+	}
+}
+

@@ -1,0 +1,9 @@
+owner = QII
+controller = QII
+add_core = QII
+#add_core = TPG
+#add_core = GNG
+trade_goods = precious_metal
+life_rating = 40
+
+set_province_flag = mine

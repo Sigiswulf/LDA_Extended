@@ -1,0 +1,150 @@
+political_decisions = {	
+	create_gothic_empire = {
+	picture = unitegoth
+		potential = {
+			NOT = { has_country_flag = gothic_empire }
+			OR = { 
+				tag = ITA
+				tag = SPA
+			}
+		}	
+		allow = {
+			NOT = { war = yes }
+			NOT = { part_of_sphere = yes }
+			is_greater_power = yes
+			owns = 515
+			owns = 505
+			owns = 489
+			owns = 495
+			owns = 498
+			owns = 459
+			owns = 455
+			owns = 461
+			owns = 467
+			owns = 723
+			owns = 730
+			owns = 743
+			owns = 745
+			owns = 749
+			owns = 753
+		}
+		
+		effect = {
+			prestige = 30
+			add_accepted_culture = roman
+			add_accepted_culture = romano_hispanic
+			any_country = {
+				limit = {
+					OR = {
+						tag = ITA 
+						tag = SPA 
+					}
+					in_sphere = THIS
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			change_tag = GOT
+			any_owned = {
+				limit = {
+					is_core = ITA
+				}
+				add_core = THIS
+			}
+			any_owned = {
+				limit = {
+					is_core = SPA
+				}
+				add_core = THIS
+			}
+			has_country_flag = gothic_empire
+			ITA = { all_core = { add_core = THIS } }
+			SPA = { all_core = { add_core = THIS } }
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+create_seventh_province = {
+picture = Suebiprov
+potential = {
+tag = SPA
+}
+
+allow = {
+POR = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+primary_culture = romano_hispanic
+}
+
+effect = {
+prestige = 10
+add_accepted_culture = suebi
+any_owned = {
+	limit = {
+	is_core = POR
+	}
+	add_core = THIS
+	}
+
+}}
+gaulic_domination_goths={
+
+potential = {
+has_country_flag
+tag = SPA
+has_core = FRA_435
+has_core = FRA_438
+has_core = FRA_442
+has_core = FRA_445
+has_core = FRA_448
+has_core = FRA_458
+has_core = FRA_455
+}
+
+allow = {revolution_n_counterrevolution = 1
+owns = 434
+owns = 439
+owns = 445
+owns = 448
+owns = 458
+owns = 455
+
+}
+
+effect = { 
+		FRA_435 = { 
+					remove_core  = FRA
+			}
+		FRA_438 = { 
+					remove_core  = FRA
+			}
+		FRA_442 = { 
+					remove_core  = FRA
+			}
+		FRA_445 = { 
+					remove_core  = FRA
+			}
+		FRA_448 = { 
+					remove_core  = FRA
+			}
+		FRA_458 = { 
+					remove_core  = FRA
+			}
+		FRA_455 = { 
+					remove_core  = FRA
+			}
+}
+}
+}

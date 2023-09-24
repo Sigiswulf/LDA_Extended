@@ -1,0 +1,10 @@
+owner = HUN
+controller = HUN
+add_core = HUN
+trade_goods = iron
+life_rating = 33
+
+
+
+set_province_flag = mine
+add_core = SIB

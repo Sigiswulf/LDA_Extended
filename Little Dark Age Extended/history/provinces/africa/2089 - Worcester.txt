@@ -1,0 +1,7 @@
+add_core = SAF
+trade_goods = fruit
+life_rating = 35
+1836.1.2 = {
+}
+set_province_flag = farm
+add_core = SFR

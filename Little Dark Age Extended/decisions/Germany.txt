@@ -1,0 +1,215 @@
+political_decisions = {
+	ems_dispatch = {
+		potential = {
+			NOT = {
+				has_country_flag = ems_dispatch_sent
+			}
+			OR = {
+				tag = PRU
+				tag = NGF
+			}
+			exists = FRA
+			government = absolute_monarchy
+			owns = 570
+		}
+		
+		allow = {
+			prestige = 30
+			steel_breech_loaded_artillery = 1
+			NOT = {
+				relation = {
+					who = FRA
+					value = 0
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 5
+			FRA = {
+				country_event = { id=19200 days=0 }
+			}
+			set_country_flag = ems_dispatch_sent
+		}
+		
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					war_exhaustion = 1
+				}
+			}
+		}
+	}
+	
+	construct_germania_werft = {
+		potential = {
+			NOT = {
+				has_global_flag = germania_werft_has_been_built
+			}
+			OR = {
+				tag = PRU
+				tag = GER
+				tag = NGF
+			}
+			owns = 369
+		}
+		
+		allow = {
+			steel_steamers = 1
+		}
+		
+		effect = {
+			set_global_flag = germania_werft_has_been_built
+			prestige = 1
+			369 = {
+				add_province_modifier = {
+					name = germania_werft
+					duration = -1
+				}
+			}
+		}
+	}
+	
+	support_ruhr_industrialism = {
+		potential = {
+			has_global_flag = ruhr_boom_has_happened
+			OR = {
+				tag = PRU
+				tag = GER
+				tag = NGF
+			}
+			NOT = {
+				tech_school = prussian_tech_school
+			}
+		}
+		
+		allow = {
+			cheap_steel = 1
+			iron_breech_loaded_artillery = 1
+			state_n_government = 1
+			industrial_score = 500
+			owns = 577
+			owns = 578
+			owns = 2561
+			owns = 576
+			owns = 575
+			575 = {
+				state_scope = {
+					has_building = steel_factory
+				}
+			}
+		}
+		
+		effect = {
+			tech_school = prussian_tech_school
+			prestige = 5
+		}
+	}	
+	
+	die_wacht_am_rhein = {
+		picture = GER_west
+		potential = {
+				tag = GER
+			NOT = {
+				has_country_flag = watching_the_rhine
+			}
+		}
+		allow = {
+			state_n_government = 1 
+			NOT = {
+				badboy = 0.8
+			} 
+		}
+		effect = {
+			prestige = 5
+			badboy = 11
+			set_country_flag = watching_the_rhine
+				HES_2560 = { 
+					add_core  = THIS
+			} 
+				PRU_578 = { 
+					add_core  = THIS
+			} 
+			PRU_578 = { 
+					add_core  = THIS
+			} 
+			BAD_586 = { 
+					add_core  = THIS
+			} 
+			BAV_595 = { 
+					add_core  = THIS
+			} 
+			BAV_597 = { 
+					add_core  = THIS
+			} 
+			relation = {
+					who = FRA
+					value = -100
+			}
+		}
+	}
+	
+		GER_alps_claim = {
+		picture = GER_alps
+		potential = {
+				tag = GER
+			NOT = {
+				has_country_flag = alps_claimed
+			}
+		}
+		allow = {
+			state_n_government = 1 
+			NOT = {
+				badboy = 0.6
+			} 
+		}
+		effect = {
+			prestige = 5
+			badboy = 5
+			set_country_flag = alps_claimed
+			add_accepted_culture = raetian
+			AUS_619 = { 
+					add_core  = THIS
+			} 
+			AUS_734  = { 
+					add_core  = THIS
+			} 
+			SWI_603 = { 
+					add_core  = THIS
+			} 
+			relation = {
+					who = ITA
+					value = -100
+			}
+		}
+	}
+	
+	GER_ost_claim = {
+		picture = GER_ost
+		potential = {
+				tag = GER
+			NOT = {
+				has_country_flag = ost_claimed
+			}
+		}
+		allow = {
+			state_n_government = 1 
+			NOT = {
+				badboy = 0.8
+			} 
+		}
+		effect = {
+			prestige = 5
+			badboy = 9
+			set_country_flag = ost_claimed
+				PRU_682 = { 
+					add_core  = THIS
+			} 
+			AUS_626 = { 
+					add_core  = THIS
+			} 
+		}
+	}
+}

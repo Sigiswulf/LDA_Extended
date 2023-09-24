@@ -1,0 +1,7 @@
+owner = ALO
+controller = ALO
+add_core = ALO
+trade_goods = timber
+life_rating = 35
+
+set_province_flag = mine

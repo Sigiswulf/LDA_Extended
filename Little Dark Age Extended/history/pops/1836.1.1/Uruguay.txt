@@ -1,0 +1,220 @@
+#Uruguay Region (20000)
+#Under rule of Uruguay 183
+#Montevideo (11200/2800 POPS)
+2344 = {
+    aristocrats = {
+culture = native_american_minor
+religion = animist
+        size = 195
+    }
+
+    bureaucrats = {
+culture = native_american_minor
+religion = animist
+        size = 17
+    }
+
+    officers = {
+culture = native_american_minor
+religion = animist
+        size = 17
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 85
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 333
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 374
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 6832
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 8
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 42
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 8
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 535
+    }
+
+    slaves = {
+culture = native_american_minor
+religion = animist
+        size = 255
+    }
+}
+#Paysandu (3600/900 POPS)
+2345 = {
+    aristocrats = {
+culture = native_american_minor
+religion = animist
+        size = 68
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 25
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 153
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 374
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 2473
+    }
+}
+#Tacumba (1200/300 POPS)
+2346 = {
+    aristocrats = {
+culture = native_american_minor
+religion = animist
+        size = 8
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 17
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 34
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 8
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 612
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 2
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 8
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 1
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 157
+    }
+}
+#Melo (4000/1000 POPS)
+2347 = {
+    aristocrats = {
+culture = native_american_minor
+religion = animist
+        size = 51
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 17
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 119
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 374
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 1853
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 8
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 25
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 4
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 471
+    }
+}

@@ -1,0 +1,128 @@
+political_decisions = {
+
+christian_india = {
+
+potential = {
+OR = {primary_culture = indo_aryan primary_culture = dravidian}
+NOT = {has_country_flag = christian_india}
+NOT = {has_country_flag =zoroastrian_india}
+}
+
+allow = {
+state_n_government = 1
+civilized = yes
+}
+
+effect = {
+
+religion = catholic
+prestige = 20
+relation = {
+with = BYZ
+value = 200}
+set_country_flag  = christian_india 
+
+
+}
+		ai_will_do = {
+			factor = 0
+		}
+		}
+
+
+zoroastrian_india = {
+
+potential = {
+OR = {primary_culture = indo_aryan primary_culture = dravidian}
+NOT = {has_country_flag = christian_india}
+NOT = {has_country_flag =zoroastrian_india}
+}
+
+allow = {
+state_n_government = 1
+civilized = yes
+has_pop_religion = zoroastrianism
+}
+
+effect = {
+
+religion = zoroastrianism
+prestige = 20
+relation = {
+with = PER
+value = 200}
+set_country_flag  = zoroastrian_india 
+
+
+}		ai_will_do = {
+			factor = 0
+		}
+		}
+
+christian_steppe = {
+
+potential = {
+OR = {primary_culture = turkic primary_culture = mongol primary_culture = hungarian }
+NOT = {has_country_flag =zoroastrian_steppe}
+NOT = {has_country_flag =christian_steppe}
+NOT = {tag = NWI}
+}
+
+allow = {
+state_n_government = 1
+civilized = yes
+}
+
+effect = {
+
+religion = catholic
+prestige = 20
+relation = {
+with = BYZ
+value = 200}
+set_country_flag  = christian_steppe
+
+
+}
+		ai_will_do = {
+			factor = 0
+		}
+		}
+
+
+zoroastrian_steppe = {
+
+potential = {
+OR = {primary_culture = turkic primary_culture = mongol primary_culture = hungarian}
+NOT = {has_country_flag =zoroastrian_steppe}
+NOT = {has_country_flag =christian_steppe}
+NOT = {tag = NWI}
+}
+
+allow = {
+state_n_government = 1
+civilized = yes
+}
+
+effect = {
+
+religion = zoroastrianism
+prestige = 20
+relation = {
+with = PER
+value = 200}
+set_country_flag  = zoroastrian_steppe 
+
+
+}
+		ai_will_do = {
+			factor = 0
+		}
+		}
+
+
+
+
+
+
+}

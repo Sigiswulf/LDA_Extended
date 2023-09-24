@@ -1,0 +1,6 @@
+trade_goods = iron
+life_rating = 0
+owner = GHO
+
+
+set_province_flag = mine

@@ -1,0 +1,585 @@
+#Latvia Region (498520) 
+#under the rule of Russia in 740  
+#Riga (88732/22182 POPS)  
+354 = {
+	clergymen = {
+culture = balts
+religion = norse_pagan
+		size = 130
+	}
+
+	artisans = {
+culture = balts
+religion = norse_pagan
+		size = 605
+	}
+
+	soldiers = {
+culture = balts
+religion = norse_pagan
+		size = 5000
+	}
+
+	farmers = {
+culture = balts
+religion = norse_pagan
+		size = 45739
+	}
+
+	aristocrats = {
+		culture = balts
+religion = norse_pagan
+		size = 261
+	}
+
+	bureaucrats = {
+		culture = balts
+religion = norse_pagan
+		size = 79
+	}
+
+	officers = {
+		culture = balts
+religion = norse_pagan
+		size = 100
+	}
+
+	clergymen = {
+		culture = balts
+religion = norse_pagan
+		size = 30
+	}
+
+	artisans = {
+		culture = balts
+religion = norse_pagan
+		size = 7711
+	}
+
+	soldiers = {
+		culture = balts
+religion = norse_pagan
+		size = 39
+	}
+
+	aristocrats = {
+		culture = russian
+religion = norse_pagan
+		size = 39
+	}
+
+	bureaucrats = {
+		culture = russian
+religion = norse_pagan
+		size = 30
+	}
+
+	officers = {
+		culture = russian
+religion = norse_pagan
+		size = 39
+	}
+
+	clergymen = {
+		culture = russian
+religion = norse_pagan
+		size = 30
+	}
+
+	artisans = {
+		culture = russian
+religion = norse_pagan
+		size = 605
+	}
+
+	soldiers = {
+		culture = russian
+religion = norse_pagan
+		size = 60
+	}
+
+	clergymen = {
+culture = balts
+religion = norse_pagan
+		size = 30
+	}
+
+	artisans = {
+culture = balts
+religion = norse_pagan
+		size = 1158
+	}
+
+	soldiers = {
+culture = balts
+religion = norse_pagan
+		size = 19
+	}
+}
+#Valmeira (208120/52030 POPS)  
+355 = {
+	clergymen = {
+culture = balts
+religion = norse_pagan
+		size = 442
+	}
+
+	artisans = {
+culture = balts
+religion = norse_pagan
+		size = 1350
+	}
+
+	soldiers = {
+culture = balts
+religion = norse_pagan
+		size = 4634
+	}
+
+	farmers = {
+culture = balts
+religion = norse_pagan
+		size = 26455
+	}
+
+	aristocrats = {
+		culture = balts
+religion = norse_pagan
+		size = 503
+	}
+
+	clergymen = {
+		culture = balts
+religion = norse_pagan
+		size = 19
+	}
+
+	artisans = {
+		culture = balts
+religion = norse_pagan
+		size = 2420
+	}
+
+	soldiers = {
+		culture = balts
+religion = norse_pagan
+		size = 39
+	}
+
+	clergymen = {
+culture = balts
+religion = norse_pagan
+		size = 30
+	}
+
+	artisans = {
+culture = balts
+religion = norse_pagan
+		size = 442
+	}
+
+	soldiers = {
+culture = balts
+religion = norse_pagan
+		size = 19
+	}
+
+	farmers = {
+culture = balts
+religion = norse_pagan
+		size = 1562
+	}
+
+	aristocrats = {
+		culture = russian
+religion = norse_pagan
+		size = 100
+	}
+
+	clergymen = {
+		culture = russian
+religion = norse_pagan
+		size = 19
+	}
+
+	artisans = {
+		culture = russian
+religion = norse_pagan
+		size = 39
+	}
+
+	soldiers = {
+		culture = russian
+religion = norse_pagan
+		size = 19
+	}
+
+	farmers = {
+		culture = russian
+religion = norse_pagan
+		size = 624
+	}
+
+	aristocrats = {
+culture = slavs
+religion = norse_pagan
+		size = 200
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 60
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 160
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 30
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 2772
+	}
+}
+#Daugavpils (54852/13712 POPS)  
+356 = {
+	clergymen = {
+culture = balts
+religion = norse_pagan
+		size = 69
+	}
+
+	artisans = {
+culture = balts
+religion = norse_pagan
+		size = 2613
+	}
+
+	soldiers = {
+culture = balts
+religion = norse_pagan
+		size = 100
+	}
+
+	farmers = {
+culture = balts
+religion = norse_pagan
+		size = 22858
+	}
+
+	aristocrats = {
+		culture = balts
+religion = norse_pagan
+		size = 2819
+	}
+
+	clergymen = {
+		culture = balts
+religion = norse_pagan
+		size = 19
+	}
+
+	artisans = {
+		culture = balts
+religion = norse_pagan
+		size = 11776
+	}
+
+	soldiers = {
+		culture = balts
+religion = norse_pagan
+		size = 3146
+	}
+
+	clergymen = {
+culture = balts
+religion = norse_pagan
+		size = 19
+	}
+
+	artisans = {
+		culture = balts
+religion = norse_pagan
+		size = 1612
+	}
+
+	soldiers = {
+culture = balts
+religion = norse_pagan
+		size = 9
+	}
+
+	farmers = {
+culture = balts
+religion = norse_pagan
+		size = 614
+	}
+
+	aristocrats = {
+		culture = russian
+religion = norse_pagan
+		size = 19
+	}
+
+	clergymen = {
+		culture = russian
+religion = norse_pagan
+		size = 9
+	}
+
+	artisans = {
+		culture = russian
+religion = norse_pagan
+		size = 30
+	}
+
+	soldiers = {
+		culture = russian
+religion = norse_pagan
+		size = 19
+	}
+
+	farmers = {
+		culture = russian
+religion = norse_pagan
+		size = 423
+	}
+}
+#Jelgava (51625/12905 POPS)  
+357 = {
+	clergymen = {
+culture = balts
+religion = norse_pagan
+		size = 90
+	}
+
+	artisans = {
+culture = balts
+religion = norse_pagan
+		size = 12043
+	}
+
+	soldiers = {
+culture = balts
+religion = norse_pagan
+		size = 100
+	}
+
+	farmers = {
+culture = balts
+religion = norse_pagan
+		size = 35604
+	}
+
+	aristocrats = {
+		culture = balts
+religion = norse_pagan
+		size = 463
+	}
+
+	clergymen = {
+		culture = balts
+religion = norse_pagan
+		size = 19
+	}
+
+	artisans = {
+		culture = balts
+religion = norse_pagan
+		size = 302
+	}
+
+	soldiers = {
+		culture = balts
+religion = norse_pagan
+		size = 19
+	}
+
+	clergymen = {
+culture = balts
+religion = norse_pagan
+		size = 9
+	}
+
+	artisans = {
+culture = balts
+religion = norse_pagan
+		size = 79
+	}
+
+	soldiers = {
+culture = balts
+religion = norse_pagan
+		size = 9
+	}
+
+	farmers = {
+culture = balts
+religion = norse_pagan
+		size = 302
+	}
+}
+#Ventspils (56465/14115 POPS) #uralic = Livonian 
+358 = {
+	clergymen = {
+		culture = ugrian
+religion = norse_pagan
+		size = 90
+	}
+
+	artisans = {
+culture = balts
+religion = norse_pagan
+		size = 1210
+	}
+
+	soldiers = {
+culture = balts
+religion = norse_pagan
+		size = 11011
+	}
+
+	farmers = {
+culture = balts
+religion = norse_pagan
+		size = 23977
+	}
+
+	aristocrats = {
+		culture = balts
+religion = norse_pagan
+		size = 484
+	}
+
+	clergymen = {
+		culture = balts
+religion = norse_pagan
+		size = 19
+	}
+
+	artisans = {
+		culture = balts
+religion = norse_pagan
+		size = 14919
+	}
+
+	soldiers = {
+		culture = balts
+religion = norse_pagan
+		size = 19
+	}
+
+	farmers = {
+culture = finnish
+religion = norse_pagan
+		size = 3025
+	}
+
+	clergymen = {
+		culture = balts
+religion = norse_pagan
+		size = 96
+	}
+
+	artisans = {
+culture = balts
+religion = norse_pagan
+		size = 100
+	}
+
+	soldiers = {
+culture = balts
+religion = norse_pagan
+		size = 9
+	}
+
+	farmers = {
+culture = balts
+religion = norse_pagan
+		size = 382
+	}
+}
+#Liepaja (38720/9680 POPS)  
+359 = {
+	clergymen = {
+culture = balts
+religion = norse_pagan
+		size = 69
+	}
+
+	artisans = {
+culture = balts
+religion = norse_pagan
+		size = 6050
+	}
+
+	soldiers = {
+culture = balts
+religion = norse_pagan
+		size = 7986
+	}
+
+	farmers = {
+culture = balts
+religion = norse_pagan
+		size = 20760
+	}
+
+	aristocrats = {
+		culture = balts
+religion = norse_pagan
+		size = 221
+	}
+
+	clergymen = {
+		culture = balts
+religion = norse_pagan
+		size = 9
+	}
+
+	artisans = {
+		culture = balts
+religion = norse_pagan
+		size = 13709
+	}
+
+	soldiers = {
+		culture = balts
+religion = norse_pagan
+		size = 2178
+	}
+
+	clergymen = {
+culture = balts
+religion = norse_pagan
+		size = 9
+	}
+
+	artisans = {
+culture = balts
+religion = norse_pagan
+		size = 79
+	}
+
+	soldiers = {
+culture = balts
+religion = norse_pagan
+		size = 9
+	}
+
+	farmers = {
+		culture = balts
+religion = norse_pagan
+		size = 302
+	}
+
+}

@@ -1,0 +1,1220 @@
+#Pegu Region (334000)
+#Under rule of Burma 459
+#Rangoon (86000/21500 POPS)
+1330 = {
+    aristocrats = {
+        culture = burmese
+        religion = hindu
+        size = 50
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = hindu
+        size = 62
+    }
+
+    artisans = {
+        culture = burmese
+        religion = hindu
+        size = 300
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = hindu
+        size = 62
+    }
+
+    farmers = {
+        culture = burmese
+        religion = hindu
+        size = 5500
+    }
+
+    aristocrats = {
+        culture = burmese #Mon
+        religion = hindu
+        size = 25
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = hindu
+        size = 37
+    }
+
+    artisans = {
+        culture = burmese
+        religion = hindu
+        size = 275
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = hindu
+        size = 37
+    }
+
+    aristocrats = {
+        culture = burmese
+        religion = hindu
+        size = 125
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = hindu
+        size = 118
+    }
+
+    artisans = {
+        culture = burmese
+        religion = hindu
+        size = 587
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = hindu
+        size = 1000
+    }
+
+    farmers = {
+        culture = burmese
+        religion = hindu
+        size = 9675
+    }
+}
+#Bassein (31000/7750 POPS)
+1331 = {
+    aristocrats = {
+        culture = burmese
+        religion = hindu
+        size = 75
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = hindu
+        size = 68
+    }
+
+    artisans = {
+        culture = burmese
+        religion = hindu
+        size = 337
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = hindu
+        size = 75
+    }
+
+    farmers = {
+        culture = burmese
+        religion = hindu
+        size = 6193
+    }
+
+    aristocrats = {
+        culture = burmese #Mon
+        religion = hindu
+        size = 6
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = hindu
+        size = 18
+    }
+
+    artisans = {
+        culture = burmese
+        religion = hindu
+        size = 50
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = hindu
+        size = 12
+    }
+}
+#Pegu (140000/35000 POPS)
+1332 = {
+    aristocrats = {
+        culture = burmese
+        religion = hindu
+        size = 100
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = hindu
+        size = 125
+    }
+
+    artisans = {
+        culture = burmese
+        religion = hindu
+        size = 600
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = hindu
+        size = 125
+    }
+
+    farmers = {
+        culture = burmese
+        religion = hindu
+        size = 11050
+    }
+
+    aristocrats = {
+        culture = burmese #Mon
+        religion = hindu
+        size = 25
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = hindu
+        size = 37
+    }
+
+    artisans = {
+        culture = burmese
+        religion = hindu
+        size = 212
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = hindu
+        size = 37
+    }
+
+    aristocrats = {
+        culture = burmese
+        religion = hindu
+        size = 212
+    }
+
+    bureaucrats = {
+        culture = burmese
+        religion = hindu
+        size = 150
+    }
+
+    officers = {
+        culture = burmese
+        religion = hindu
+        size = 100
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = hindu
+        size = 200
+    }
+
+    artisans = {
+        culture = burmese
+        religion = hindu
+        size = 1000
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = hindu
+        size = 1000
+    }
+
+    farmers = {
+        culture = burmese
+        religion = hindu
+        size = 16825
+    }
+}
+#Toungoo (77000/19250 POPS)
+1333 = {
+    aristocrats = {
+        culture = burmese
+        religion = hindu
+        size = 75
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = hindu
+        size = 81
+    }
+
+    artisans = {
+        culture = burmese
+        religion = hindu
+        size = 400
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = hindu
+        size = 87
+    }
+
+    farmers = {
+        culture = burmese
+        religion = hindu
+        size = 7356
+    }
+
+    aristocrats = {
+        culture = burmese
+        religion = hindu
+        size = 125
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = hindu
+        size = 125
+    }
+
+    artisans = {
+        culture = burmese
+        religion = hindu
+        size = 562
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = hindu
+        size = 1000
+    }
+
+    farmers = {
+        culture = burmese
+        religion = hindu
+        size = 9687
+    }
+}
+#Kyaukse Region (268000)
+#Under rule of Burma in 459
+#Mandalay (60000/17500 POPS)
+1334 = {
+    aristocrats = {
+        culture = burmese
+        religion = hindu
+        size = 125
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = hindu
+        size = 125
+    }
+
+    artisans = {
+        culture = burmese
+        religion = hindu
+        size = 600
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = hindu
+        size = 1000
+    }
+
+    farmers = {
+        culture = burmese
+        religion = hindu
+        size = 9900
+    }
+
+    aristocrats = {
+        culture = burmese
+        religion = animist
+        size = 12
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = animist
+        size = 12
+    }
+
+    artisans = {
+        culture = burmese
+        religion = animist
+        size = 62
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = animist
+        size = 12
+    }
+
+    farmers = {
+        culture = burmese
+        religion = animist
+        size = 1400
+    }
+
+    aristocrats = {
+        culture = burmese
+        religion = hindu
+        size = 18
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = hindu
+        size = 18
+    }
+
+    artisans = {
+        culture = burmese
+        religion = hindu
+        size = 87
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = hindu
+        size = 18
+    }
+
+    farmers = {
+        culture = burmese
+        religion = hindu
+        size = 1606
+    }
+}
+#Kyaukse (118000/29500 POPS)
+1335 = {
+    aristocrats = {
+        culture = burmese
+        religion = hindu
+        size = 287
+    }
+
+    bureaucrats = {
+        culture = burmese
+        religion = hindu
+        size = 106
+    }
+
+    officers = {
+        culture = burmese
+        religion = hindu
+        size = 75
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = hindu
+        size = 281
+    }
+
+    artisans = {
+        culture = burmese
+        religion = hindu
+        size = 1375
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = hindu
+        size = 1000
+    }
+
+    farmers = {
+        culture = burmese
+        religion = hindu
+        size = 25125
+    }
+
+    aristocrats = {
+        culture = burmese
+        religion = hindu
+        size = 12
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = hindu
+        size = 12
+    }
+
+    artisans = {
+        culture = burmese
+        religion = hindu
+        size = 62
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = hindu
+        size = 12
+    }
+
+    farmers = {
+        culture = burmese
+        religion = hindu
+        size = 1150
+    }
+}
+#Magwe (30000/7500 POPS)
+1336 = {
+    aristocrats = {
+        culture = burmese
+        religion = hindu
+        size = 81
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = hindu
+        size = 75
+    }
+
+    artisans = {
+        culture = burmese
+        religion = hindu
+        size = 375
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = hindu
+        size = 275
+    }
+
+    farmers = {
+        culture = burmese
+        religion = hindu
+        size = 6718
+    }
+}
+#Prome (60000/15000 POPS)
+1337 = {
+    aristocrats = {
+        culture = burmese
+        religion = hindu
+        size = 156
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = hindu
+        size = 156
+    }
+
+    artisans = {
+        culture = burmese
+        religion = hindu
+        size = 750
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = hindu
+        size = 275
+    }
+
+    farmers = {
+        culture = burmese
+        religion = hindu
+        size = 13712
+    }
+}
+#Shan Region (170000)
+#Under Burma rule 459
+#Taunggye (104000/26000 POPS)
+1338 = {
+    aristocrats = {
+        culture = burmese
+        religion = hindu
+        size = 225
+    }
+
+    bureaucrats = {
+        culture = burmese
+        religion = hindu
+        size = 56
+    }
+
+    officers = {
+        culture = burmese
+        religion = hindu
+        size = 43
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = hindu
+        size = 212
+    }
+
+    artisans = {
+        culture = burmese
+        religion = hindu
+        size = 1062
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = hindu
+        size = 212
+    }
+
+    farmers = {
+        culture = burmese
+        religion = hindu
+        size = 19187
+    }
+
+    aristocrats = {
+        culture = burmese
+        religion = hindu
+        size = 37
+    }
+
+    bureaucrats = {
+        culture = burmese
+        religion = hindu
+        size = 25
+    }
+
+    officers = {
+        culture = burmese
+        religion = hindu
+        size = 6
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = hindu
+        size = 50
+    }
+
+    artisans = {
+        culture = burmese
+        religion = hindu
+        size = 275
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = hindu
+        size = 56
+    }
+
+    farmers = {
+        culture = burmese
+        religion = hindu
+        size = 4575
+    }
+}
+#Lashio (66000/16500 POPS)
+1340 = {
+    aristocrats = {
+        culture = burmese
+        religion = hindu
+        size = 125
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = hindu
+        size = 125
+    }
+
+    artisans = {
+        culture = burmese
+        religion = hindu
+        size = 625
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = hindu
+        size = 125
+    }
+
+    farmers = {
+        culture = burmese
+        religion = hindu
+        size = 11500
+    }
+
+    aristocrats = {
+        culture = burmese
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = burmese
+        religion = animist
+        size = 137
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = animist
+        size = 37
+    }
+
+    farmers = {
+        culture = burmese
+        religion = animist
+        size = 2525
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = hindu
+        size = 18
+    }
+
+    artisans = {
+        culture = burmese
+        religion = hindu
+        size = 87
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = hindu
+        size = 25
+    }
+
+    farmers = {
+        culture = burmese
+        religion = hindu
+        size = 1618
+    }
+}
+#Kachin Region (217000)
+#Under rule of Burma 459
+#Haka (72000/18000 POPS)
+1339 = {
+    aristocrats = {
+        culture = burmese
+        religion = hindu
+        size = 12
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = hindu
+        size = 12
+    }
+
+    artisans = {
+        culture = burmese
+        religion = hindu
+        size = 62
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = hindu
+        size = 275
+    }
+
+    farmers = {
+        culture = burmese
+        religion = hindu
+        size = 912
+    }
+
+    aristocrats = {
+        culture = burmese #Chin
+        religion = animist
+        size = 125
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = animist
+        size = 125
+    }
+
+    artisans = {
+        culture = burmese
+        religion = animist
+        size = 750
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = animist
+        size = 125
+    }
+
+    aristocrats = {
+        culture = burmese
+        religion = animist
+        size = 18
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = animist
+        size = 87
+    }
+
+    artisans = {
+        culture = burmese
+        religion = animist
+        size = 200
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = animist
+        size = 50
+    }
+
+    farmers = {
+        culture = burmese
+        religion = animist
+        size = 3893
+    }
+}
+#Putao (54000/13500 POPS)
+1341 = {
+    aristocrats = {
+        culture = burmese
+        religion = animist
+        size = 137
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = animist
+        size = 137
+    }
+
+    artisans = {
+        culture = burmese
+        religion = animist
+        size = 625
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = animist
+        size = 137
+    }
+
+    farmers = {
+        culture = burmese
+        religion = animist
+        size = 12462
+    }
+}
+#Myitkyina (91000/22750 POPS)
+1342 = {
+    aristocrats = {
+        culture = burmese
+        religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = burmese
+        religion = animist
+        size = 500
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = burmese
+        religion = animist
+        size = 9450
+    }
+
+    aristocrats = {
+        culture = burmese
+        religion = hindu
+        size = 62
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = hindu
+        size = 62
+    }
+
+    artisans = {
+        culture = burmese
+        religion = hindu
+        size = 300
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = hindu
+        size = 62
+    }
+
+    farmers = {
+        culture = burmese
+        religion = hindu
+        size = 5262
+    }
+
+    aristocrats = {
+        culture = burmese
+        religion = hindu
+        size = 75
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = hindu
+        size = 75
+    }
+
+    artisans = {
+        culture = burmese
+        religion = hindu
+        size = 337
+    }
+
+    bureaucrats = {
+        culture = burmese
+        religion = hindu
+        size = 25
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = hindu
+        size = 1000
+    }
+
+    farmers = {
+        culture = burmese
+        religion = hindu
+        size = 5237
+    }
+}
+#Tenasserim Region - 151000
+#Under rule of Britain 459
+#Moulmein (68000/17000 POPS)
+1343 = {
+    aristocrats = {
+        culture = burmese
+        religion = hindu
+        size = 100
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = hindu
+        size = 87
+    }
+
+    artisans = {
+        culture = burmese
+        religion = hindu
+        size = 275
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = hindu
+        size = 75
+    }
+
+    farmers = {
+        culture = burmese
+        religion = hindu
+        size = 7737
+    }
+
+    aristocrats = {
+        culture = burmese #Mon
+        religion = hindu
+        size = 50
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = hindu
+        size = 93
+    }
+
+    artisans = {
+        culture = burmese
+        religion = hindu
+        size = 343
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = hindu
+        size = 62
+    }
+
+    aristocrats = {
+        culture = burmese
+        religion = hindu
+        size = 25
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = hindu
+        size = 18
+    }
+
+    artisans = {
+        culture = burmese
+        religion = hindu
+        size = 375
+    }
+
+    bureaucrats = {
+        culture = burmese
+        religion = hindu
+        size = 25
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = hindu
+        size = 37
+    }
+
+    farmers = {
+        culture = burmese
+        religion = hindu
+        size = 1268
+    }
+
+    bureaucrats = {
+        culture = british
+religion = arian
+        size = 6
+    }
+}
+#Mergui (83000/20750 POPS)
+1344 = {
+    aristocrats = {
+        culture = burmese
+        religion = hindu
+        size = 100
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = hindu
+        size = 93
+    }
+
+    artisans = {
+        culture = burmese
+        religion = hindu
+        size = 275
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = hindu
+        size = 100
+    }
+
+    farmers = {
+        culture = burmese
+        religion = hindu
+        size = 8706
+    }
+
+    aristocrats = {
+        culture = thai
+        religion = hindu
+        size = 25
+    }
+
+    clergymen = {
+        culture = thai
+        religion = hindu
+        size = 50
+    }
+
+    artisans = {
+        culture = thai
+        religion = hindu
+        size = 312
+    }
+
+    soldiers = {
+        culture = thai
+        religion = hindu
+        size = 50
+    }
+
+    farmers = {
+        culture = thai
+        religion = hindu
+        size = 4312
+    }
+
+    aristocrats = {
+        culture = burmese
+        religion = hindu
+        size = 87
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = hindu
+        size = 75
+    }
+
+    artisans = {
+        culture = burmese
+        religion = hindu
+        size = 500
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = hindu
+        size = 75
+    }
+
+    farmers = {
+        culture = burmese
+        religion = hindu
+        size = 6012
+    }
+}
+#Arakan Region : 44000
+#Under rule of Britain 459
+#Sittwe (44000/11000 POPS)
+1345 = {
+    bureaucrats = {
+        culture = british
+religion = arian
+        size = 2
+    }
+
+    aristocrats = {
+        culture = burmese
+religion = hindu
+        size = 25
+    }
+
+    clergymen = {
+        culture = burmese
+religion = hindu
+        size = 31
+    }
+
+    artisans = {
+        culture = burmese
+religion = hindu
+        size = 687
+    }
+
+    soldiers = {
+        culture = burmese
+religion = hindu
+        size = 37
+    }
+
+    farmers = {
+        culture = burmese
+religion = hindu
+        size = 2968
+    }
+
+    aristocrats = {
+        culture = burmese
+        religion = hindu
+        size = 62
+    }
+
+    bureaucrats = {
+        culture = burmese
+        religion = hindu
+        size = 12
+    }
+
+    clergymen = {
+        culture = burmese
+        religion = hindu
+        size = 93
+    }
+
+    artisans = {
+        culture = burmese
+        religion = hindu
+        size = 1562
+    }
+
+    soldiers = {
+        culture = burmese
+        religion = hindu
+        size = 62
+    }
+
+    farmers = {
+        culture = burmese
+        religion = hindu
+        size = 4706
+    }
+
+    clergymen = {
+        culture = burmese #Chin
+        religion = animist
+        size = 6
+    }
+
+    farmers = {
+        culture = burmese
+        religion = animist
+        size = 237
+    }
+
+    clergymen = {
+        culture = burmese
+religion = hindu
+        size = 12
+    }
+
+    farmers = {
+        culture = burmese
+religion = hindu
+        size = 487
+    }
+}

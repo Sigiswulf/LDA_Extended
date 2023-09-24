@@ -1,0 +1,9 @@
+owner = ANU
+controller = ANU
+add_core = ANU
+trade_goods = iron
+life_rating = 35
+
+
+
+set_province_flag = mine

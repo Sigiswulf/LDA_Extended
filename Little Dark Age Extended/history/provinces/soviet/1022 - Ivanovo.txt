@@ -1,0 +1,8 @@
+owner = MRD
+controller = MRD
+add_core = MRD
+trade_goods = timber
+life_rating = 35
+
+set_province_flag = mine
+add_core = SIB

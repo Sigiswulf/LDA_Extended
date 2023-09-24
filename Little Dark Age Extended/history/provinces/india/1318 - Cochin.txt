@@ -1,0 +1,7 @@
+owner = KLA
+controller = KLA
+add_core = KLA
+trade_goods = grain
+life_rating = 32
+
+set_province_flag = farm

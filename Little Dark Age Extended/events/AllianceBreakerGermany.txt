@@ -1,0 +1,97 @@
+country_event = {
+	id = 10273
+	title = "Alliances Broken!"
+	desc = "We can not trust them!"
+	picture = "Administration"
+	
+	trigger = {
+		ai = yes 
+		is_independent = yes 
+		OR = { 
+			primary_culture = north_german
+			primary_culture = south_german
+			primary_culture = czech
+		}
+		OR = {
+			alliance_with = FRA
+			alliance_with = ITA
+		}
+	}
+	mean_time_to_happen = {
+        months = 0.0000001
+    }
+	option = {
+		name = "Indeed."
+		FRA = {
+			limit = {
+				exists = yes
+				alliance_with = THIS
+			}
+			leave_alliance = THIS
+		}
+		FRA = {
+			limit = {
+				exists = yes
+				relation = { 
+					who = THIS 
+					value = -200
+				}
+			}
+			relation = { 
+				who = THIS 
+				value = -400 
+			}
+		}
+		FRA = {
+			limit = {
+				exists = yes
+				is_sphere_leader_of = THIS
+			}
+		}
+		ITA = {
+			limit = {
+				exists = yes
+				alliance_with = THIS
+			}
+			leave_alliance = THIS
+		}
+		ITA = {
+			limit = {
+				exists = yes
+				relation = { 
+					who = THIS 
+					value = -200
+				}
+			}
+			relation = { 
+				who = THIS 
+				value = -400 
+			}
+		}
+		ITA = {
+			limit = {
+				exists = yes
+				is_sphere_leader_of = THIS
+			}
+		}
+		FRA = { country_event = {id = 10274 days = 0}}
+		ITA = { country_event = {id = 10274 days = 0}}
+	}
+}
+
+country_event = {
+	
+id = 10274
+	
+	title = "$FROMCOUNTRY$ Drifts Away"
+	
+	desc = "The tribes of Germania view us with great distrust. If we seek to establish treaties with them, we must first vassalise them."
+	
+	allow_multiple_instances = yes		
+	
+	is_triggered_only = yes
+	option = {	
+		name = "They'll bend the knee one way or the other"
+	}
+
+}

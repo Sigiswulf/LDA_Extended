@@ -1,0 +1,440 @@
+#Quito Region (5120)
+#Ruled by Ecuador 18
+#Quito (3040/760 POPS)
+2279 = {
+    aristocrats = {
+culture = south_andean
+religion = animist
+        size = 26
+    }
+
+    bureaucrats = {
+culture = south_andean
+religion = animist
+        size = 3
+    }
+
+    officers = {
+culture = south_andean
+religion = animist
+        size = 2
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 10
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 100
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 18
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 367
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 2
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 69
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 18
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 675
+    }
+}
+#Zamora (1760/440 POPS)
+2283 = {
+    aristocrats = {
+culture = south_andean
+religion = animist
+        size = 15
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 4
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 7
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 1
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 123
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 2
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 29
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 18
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 540
+    }
+}
+#Tena (320/80 POPS)
+2284 = {
+    aristocrats = {
+culture = south_andean
+religion = animist
+        size = 1
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 1
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 2
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 44
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 0
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 1
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 31
+    }
+
+    aristocrats = {
+culture = south_andean
+religion = animist
+        size = 0
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 1
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 2
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 45
+    }
+}
+#Guayaquil Region (3280)
+#Ruled by Ecuador 18
+#Guayaquil (800/200 POPS)
+2280 = {
+    aristocrats = {
+culture = south_andean
+religion = animist
+        size = 7
+    }
+
+    bureaucrats = {
+culture = south_andean
+religion = animist
+        size = 1
+    }
+
+    officers = {
+culture = south_andean
+religion = animist
+        size = 1
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 2
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 14
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 2
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 257
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 0
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 2
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 30
+    }
+
+    slaves = {
+culture = south_andean
+religion = animist
+        size = 18
+    }
+}
+#Esmereldas (880/220 POPS)
+2281 = {
+    aristocrats = {
+culture = south_andean
+religion = animist
+        size = 7
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 2
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 1
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 115
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 1
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 12
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 2
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 102
+    }
+
+    slaves = {
+culture = south_andean
+religion = animist
+        size = 136
+    }
+}
+#Loja (1600/400 POPS)
+2282 = {
+    aristocrats = {
+culture = south_andean
+religion = animist
+        size = 14
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 4
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 12
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 2
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 221
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 1
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 21
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 4
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 397
+    }
+}
+#Galapagos Region (3)
+#Ruled by Ecuador 18
+#Galapagos (3/0 POPS)
+2285 = {
+    bureaucrats = {
+culture = south_andean
+religion = animist
+        size = 0
+    }
+
+    clergymen = {
+culture = south_andean
+religion = animist
+        size = 0
+    }
+
+    artisans = {
+culture = south_andean
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+culture = south_andean
+religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = south_andean
+religion = animist
+        size = 0
+    }
+}

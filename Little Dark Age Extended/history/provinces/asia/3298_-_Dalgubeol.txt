@@ -1,0 +1,9 @@
+owner = GAY
+controller = GAY
+add_core = GAY
+trade_goods = grain
+life_rating = 35
+fort = 1
+naval_base = 1
+
+set_province_flag = farm

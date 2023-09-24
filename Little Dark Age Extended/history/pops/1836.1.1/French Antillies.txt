@@ -1,0 +1,133 @@
+#French Antilles (31920)
+#Ruled by France 183
+#Martinique (19080/2745 POPS)
+2228 = {
+	aristocrats = {
+culture = native_american_minor
+religion = animist
+		size = 75
+	}
+
+	bureaucrats = {
+culture = native_american_minor
+religion = animist
+		size = 10
+	}
+
+	clergymen = {
+culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	artisans = {
+culture = native_american_minor
+religion = animist
+		size = 90
+	}
+
+	soldiers = {
+culture = native_american_minor
+religion = animist
+		size = 25
+	}
+
+	farmers = {
+culture = native_american_minor
+religion = animist
+		size = 40
+	}
+
+	clergymen = {
+culture = native_american_minor
+religion = animist
+		size = 12
+	}
+
+	artisans = {
+culture = native_american_minor
+religion = animist
+		size = 125
+	}
+
+	soldiers = {
+culture = native_american_minor
+religion = animist
+		size = 25
+	}
+
+	farmers = {
+culture = native_american_minor
+religion = animist
+		size = 340
+	}
+
+	slaves = {
+culture = native_american_minor
+religion = animist
+		size = 2000
+	}
+}
+#Guadeloupe (12840/3210 POPS)
+2230 = {
+	aristocrats = {
+culture = native_american_minor
+religion = animist
+		size = 85
+	}
+
+	clergymen = {
+culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	artisans = {
+culture = native_american_minor
+religion = animist
+		size = 130
+	}
+
+	soldiers = {
+culture = native_american_minor
+religion = animist
+		size = 30
+	}
+
+	farmers = {
+culture = native_american_minor
+religion = animist
+		size = 60
+	}
+
+	clergymen = {
+culture = native_american_minor
+religion = animist
+		size = 15
+	}
+
+	artisans = {
+culture = native_american_minor
+religion = animist
+		size = 150
+	}
+
+	soldiers = {
+culture = native_american_minor
+religion = animist
+		size = 30
+	}
+
+	farmers = {
+culture = native_american_minor
+religion = animist
+		size = 305
+	}
+
+	slaves = {
+culture = native_american_minor
+religion = animist
+		size = 2400
+	}
+
+}

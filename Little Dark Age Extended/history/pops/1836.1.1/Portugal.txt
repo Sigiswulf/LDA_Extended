@@ -1,0 +1,402 @@
+#Galicia-Asturias Region (1091662)
+#La Coruna (552772/138191 POPS)
+474 = {
+	aristocrats = {
+culture = romano_hispanic
+		religion = catholic
+		size = 1522
+	}
+
+	officers = {
+culture = romano_hispanic
+		religion = catholic
+		size = 311
+	}
+
+	bureaucrats = {
+culture = romano_hispanic
+		religion = catholic
+		size = 450
+	}
+
+	clergymen = {
+culture = romano_hispanic
+		religion = catholic
+		size = 1087
+	}
+	clergymen = {
+culture = romano_hispanic
+		religion = arian
+		size = 387
+	}
+	artisans = {
+culture = romano_hispanic
+		religion = catholic
+		size = 4372
+	}
+
+	clerks = {
+culture = romano_hispanic
+		religion = catholic
+		size = 30
+	}
+	
+	craftsmen = {
+culture = romano_hispanic
+		religion = catholic
+		size = 4162
+	}
+	
+	soldiers = {
+culture = romano_hispanic
+		religion = catholic
+		size = 2500
+	}
+
+	farmers = {
+culture = romano_hispanic
+		religion = catholic
+		size = 93016
+	}
+		farmers = {
+culture = romano_hispanic
+		religion = arian
+		size = 13016
+	}
+}
+#Oviedo (311107/77775 POPS)
+475 = {
+	aristocrats = {
+culture = romano_hispanic
+		religion = catholic
+		size = 761
+	}
+
+	clergymen = {
+culture = romano_hispanic
+		religion = catholic
+		size = 523
+	}
+	clergymen = {
+culture = romano_hispanic
+		religion = catholic
+		size = 223
+	}
+	artisans = {
+culture = romano_hispanic
+		religion = catholic
+		size = 3468
+	}
+
+	soldiers = {
+culture = romano_hispanic
+		religion = catholic
+		size = 2000
+	}
+
+	farmers = {
+culture = romano_hispanic
+		religion = catholic
+		size = 6530
+	}
+		farmers = {
+culture = romano_hispanic
+		religion = catholic
+		size = 1530
+	}
+
+	clergymen = {
+		culture = basque
+		religion = catholic
+		size = 30
+	}
+
+	soldiers = {
+		culture = basque
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+		culture = basque
+		religion = catholic
+		size = 2003
+	}
+		farmers = {
+		culture = basque
+		religion = arian
+		size = 703
+	}
+}
+#Vigo (227775/56943 POPS)
+476 = {
+	aristocrats = {
+culture = romano_hispanic
+		religion = catholic
+		size = 480
+	}
+
+	clergymen = {
+culture = romano_hispanic
+		religion = catholic
+		size = 451
+	}
+	clergymen = {
+culture = romano_hispanic
+		religion = arian
+		size = 151
+	}
+	artisans = {
+culture = romano_hispanic
+		religion = catholic
+		size = 2775
+	}
+
+	soldiers = {
+culture = romano_hispanic
+		religion = catholic
+		size = 1500
+	}
+
+	farmers = {
+culture = romano_hispanic
+		religion = catholic
+		size = 42425
+	}
+	farmers = {
+culture = romano_hispanic
+		religion = arian
+		size = 12425
+	}
+}
+#Leon Region (616661)
+#Leon (194441/48607 POPS)
+477 = {
+	aristocrats = {
+culture = romano_hispanic
+		religion = catholic
+		size = 551
+	}
+
+	officers = {
+culture = romano_hispanic
+		religion = catholic
+		size = 206
+	}
+
+	bureaucrats = {
+culture = romano_hispanic
+		religion = catholic
+		size = 273
+	}
+
+	clergymen = {
+culture = romano_hispanic
+		religion = catholic
+		size = 380
+	}
+	clergymen = {
+culture = romano_hispanic
+		religion = arian
+		size = 80
+	}
+	artisans = {
+culture = romano_hispanic
+		religion = catholic
+		size = 2426
+	}
+
+	soldiers = {
+culture = romano_hispanic
+		religion = catholic
+		size = 1500
+	}
+
+	farmers = {
+culture = romano_hispanic
+		religion = catholic
+		size = 40163
+	}
+		farmers = {
+culture = romano_hispanic
+		religion = arian
+		size = 4163
+	}
+}
+
+#Valladolid (134718/33675 POPS)
+480 = {
+	aristocrats = {
+culture = romano_hispanic
+		religion = catholic
+		size = 412
+	}
+
+	clergymen = {
+culture = romano_hispanic
+		religion = catholic
+		size = 301
+	}
+		clergymen = {
+culture = romano_hispanic
+		religion = arian
+		size = 41
+	}
+
+	artisans = {
+culture = romano_hispanic
+		religion = catholic
+		size = 4162
+	}
+
+	soldiers = {
+culture = romano_hispanic
+		religion = catholic
+		size = 1500
+	}
+
+	farmers = {
+culture = romano_hispanic
+		religion = catholic
+		size = 20398
+	}
+	farmers = {
+culture = romano_hispanic
+		religion = catholic
+		size = 8398
+	}
+
+}
+#Duoro e Minho Region (1537032)
+#Oporto (711107/177775 POPS)
+518 = {
+	aristocrats = {
+		culture = suebian
+		religion = arian
+		size = 1387
+	}
+
+	officers = {
+		culture = suebian
+		religion = arian
+		size = 457
+	}
+
+	bureaucrats = {
+		culture = suebian
+		religion = arian
+		size = 737
+	}
+
+	clergymen = {
+		culture = suebian
+		religion = arian
+		size = 1015
+	}
+
+	artisans = {
+		culture = suebian
+		religion = arian
+		size = 9255
+	}
+
+	artisans = {
+		culture = suebian
+		religion = arian
+		size = 5090
+	}
+	
+	soldiers = {
+		culture = suebian
+		religion = arian
+		size = 5000
+	}
+
+	farmers = {
+		culture = suebian
+		religion = arian
+		size = 157590
+	}
+}
+#Vila Real (300000/75000) POPS
+519 = {
+	aristocrats = {
+culture = romano_hispanic
+		religion = catholic
+		size = 782
+	}
+
+	clergymen = {
+culture = romano_hispanic
+		religion = catholic
+		size = 505
+	}
+	clergymen = {
+culture = romano_hispanic
+		religion = arian
+		size = 75
+	}
+	artisans = {
+culture = romano_hispanic
+		religion = catholic
+		size = 3930
+	}
+
+	soldiers = {
+culture = romano_hispanic
+		religion = catholic
+		size = 3000
+	}
+
+	farmers = {
+culture = romano_hispanic
+		religion = catholic
+		size = 60767
+	}
+	farmers = {
+culture = romano_hispanic
+		religion = arian
+		size = 8767
+	}
+}
+#Covilha (525925/131477 POPS)
+520 = {
+	aristocrats = {
+culture = romano_hispanic
+		religion = catholic
+		size = 1152
+	}
+
+	clergymen = {
+culture = romano_hispanic
+		religion = catholic
+		size = 1307
+	}
+	clergymen = {
+culture = romano_hispanic
+		religion = arian
+		size = 387
+	}
+	artisans = {
+culture = romano_hispanic
+		religion = catholic
+		size = 6707
+	}
+
+	soldiers = {
+culture = romano_hispanic
+		religion = catholic
+		size = 3000
+	}
+
+	farmers = {
+culture = romano_hispanic
+		religion = catholic
+		size = 100830
+	}
+	farmers = {
+culture = romano_hispanic
+		religion = arian
+		size = 20830
+	}
+}

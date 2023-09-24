@@ -1,0 +1,99 @@
+army = {
+	name = "Silla Imperial Army"
+	location = 1632
+	regiment = {
+		name= "1. Royal Guard"
+		type = infantry
+		home = 1634
+	}
+
+	regiment = {
+		name= "2. Royal Guard"
+		type = infantry
+		home = 1634
+	}
+
+	regiment = {
+		name= "3. Royal Guard"
+		type = infantry
+		home = 1634
+	}
+
+	regiment = {
+		name= "4. Royal Guard"
+		type = infantry
+		home = 1634
+	}
+
+	regiment = {
+		name= "1.Cavalry"
+		type = cavalry
+		home = 1633
+	}
+
+	regiment = {
+		name= "1.Hwacha"
+		type = artillery
+		home = 1632
+	}
+
+	regiment = {
+		name= "2.Hwacha"
+		type = artillery
+		home = 1632
+	}
+
+	regiment = {
+		name= "3.Hwacha"
+		type = artillery
+		home = 1632
+	}
+
+	regiment = {
+		name= "4.Hwacha"
+		type = artillery
+		home = 1632
+	}
+
+	regiment = {
+		name= "5.Hwacha"
+		type = artillery
+		home = 1633
+	}
+
+}
+
+navy = {
+	name = "Busan Fleet"
+	location = 1632
+	ship = {
+		name= "Plankton"
+		type = manowar
+	}
+
+	ship = {
+		name= "Trunk a'lot"
+		type = manowar
+	}
+
+	ship = {
+		name= "Wee Boy"
+		type = manowar
+	}
+
+	ship = {
+		name= "Little Baka"
+		type = manowar
+	}
+
+	ship = {
+		name= "Big Baka"
+		type = manowar
+	}
+
+	ship = {
+		name= "Not Sea"
+		type = manowar
+	}
+}
+

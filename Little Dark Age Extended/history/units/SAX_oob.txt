@@ -1,0 +1,204 @@
+leader = {
+	name = "Generic General 1"
+	picture = spa_gen_luiscordova
+	type = land
+	date="497.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Generic General 2"
+	picture = spa_gen_jauregui
+	type = land
+	date="497.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+leader = {
+	name = "Generic General 3"
+	picture = spa_adm_vigodet
+	type = sea
+	date="500.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+}
+
+army = {
+	name = "Generic Army"
+	location = 585
+	
+	regiment = {
+		name= "4. Brigada de Infantería 'San Jorge'"
+		type = cavalry
+		home = 581
+	}
+
+	regiment = {
+		name= "1. Brigada de Artillería"
+		type = infantry_offensive
+		home = 580
+	}
+	
+	regiment = {
+		name= "5. Brigada de Infantería"
+		type = infantry_offensive
+		home = 582
+	}
+	
+	regiment = {
+		name= "6. Brigada de Infantería 'La Granja'"
+		type = infantry_offensive
+		home = 584
+	}
+
+	regiment = {
+		name= "7. Brigada de Infantería"
+		type = infantry_offensive
+		home = 585
+	}
+
+	regiment = {
+		name= "8. Brigada de Infantería"
+		type = infantry_defensive
+		home = 585
+	}
+
+	regiment = {
+		name= "9. Brigada de Infantería"
+		type = infantry_defensive
+		home = 585
+	}
+
+	regiment = {
+		name= "10. Brigada de Infantería"
+		type = infantry_defensive
+		home = 585
+	}
+
+	regiment = {
+		name= "11. Brigada de Infantería"
+		type = infantry_defensive
+		home = 585
+	}
+	
+	regiment = {
+		name= "12. Brigada de Infantería"
+		type = artillery
+		home = 584
+	}
+}
+
+army = {
+	name = "Generic Army 2"
+	location = 544
+	
+	regiment = {
+		name= "4. Brigada de Infantería 'San Jorge'"
+		type = cavalry
+		home = 544
+	}
+
+	regiment = {
+		name= "1. Brigada de Artillería"
+		type = infantry_offensive
+		home = 544
+	}
+	
+	regiment = {
+		name= "5. Brigada de Infantería"
+		type = infantry_offensive
+		home = 544
+	}
+	
+	regiment = {
+		name= "6. Brigada de Infantería 'La Granja'"
+		type = infantry_offensive
+		home = 555
+	}
+
+	regiment = {
+		name= "7. Brigada de Infantería"
+		type = infantry_offensive
+		home = 555
+	}
+
+	regiment = {
+		name= "8. Brigada de Infantería"
+		type = infantry_defensive
+		home = 555
+	}
+
+	regiment = {
+		name= "9. Brigada de Infantería"
+		type = infantry_defensive
+		home = 553
+	}
+
+	regiment = {
+		name= "10. Brigada de Infantería"
+		type = infantry_defensive
+		home = 531
+	}
+
+	regiment = {
+		name= "11. Brigada de Infantería"
+		type = infantry_defensive
+		home = 531
+	}
+	
+	regiment = {
+		name= "12. Brigada de Infantería"
+		type = artillery
+		home = 531
+	}
+}
+navy = {
+	name = "Generic Fleet"
+	location = 539
+	
+	ship = {
+		name= "Ceres"
+		type = frigate
+	}
+
+	ship = {
+		name= "Gloria"
+		type = frigate
+	}
+
+	ship = {
+		name= "Nuestra Señora de  Asunción"
+		type = frigate
+	}
+
+	ship = {
+		name= "Nuestra Señora de  Atocha"
+		type = frigate
+	}
+
+	ship = {
+		name= "Santa Sabina"
+		type = frigate
+	}
+
+	ship = {
+		name= "1a Flotilla de  Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2a Flotilla de  Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3a Flotilla de  Transporte"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "4a Flotilla de  Transporte"
+		type = clipper_transport
+	}
+}

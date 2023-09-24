@@ -1,0 +1,7 @@
+add_core = LIB
+trade_goods = iron
+life_rating = 32
+
+
+set_province_flag = mine
+add_core = NGR

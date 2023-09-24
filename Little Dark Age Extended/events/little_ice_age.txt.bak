@@ -1,0 +1,197 @@
+
+#### PLAUGE OF JUSTINIAN ####
+
+country_event = {
+	id = 536002
+title = "A plauge has been spreading throughout our nation, its destruction leaves no one untouched"
+	desc = "Population growth will be extremely affected."
+	picture = "plauge"
+
+trigger = {
+year = 541
+NOT = { has_country_flag = two_degree}
+NOT = { has_country_flag = had_two_degree }
+NOT = { has_country_flag = had_three_degree }
+}
+
+mean_time_to_happen = { 
+months = 6}
+
+
+option = {
+name = "This is bad"
+set_country_flag = two_degree
+
+
+any_owned = { 
+
+limit = {
+OR = {
+trade_goods = fruit
+trade_goods = grain
+}}
+
+add_province_modifier = { name = two_degree duration = -1}}}}
+
+country_event = {
+	id = 536003
+title = "A plauge has been spreading throughout our nation, it has now receeded and lives are begining to be normal once more"
+	desc = "Population growth will be extremely positively affected."
+	picture = "plauge"
+
+trigger = {
+year = 548
+has_country_flag = two_degree}
+NOT = { has_country_flag = had_two_degree }
+NOT = { has_country_flag = had_three_degree }
+
+mean_time_to_happen = { 
+months = 12}
+
+
+option = {
+name = "This is good"
+remove_country_flag = two_degree
+set_country_flag = had_two_degree
+
+any_owned = { 
+
+limit = {
+OR = {
+trade_goods = fruit
+trade_goods = grain
+}}
+
+remove_province_modifier = two_degree
+}}}
+
+
+
+
+
+
+
+##### LITTLE ICE AGE #####
+
+
+
+country_event = {
+	id = 536004
+title = "ice_age"
+	picture = "plauge"
+
+trigger = {
+year = 536
+NOT = { has_country_flag = one_degree}
+NOT = { has_country_flag = had_one_degree }
+NOT = { has_country_flag = had_three_degree }
+}
+
+mean_time_to_happen = { 
+months = 6}
+
+
+option = {
+name = "This is bad"
+set_country_flag = one_degree
+
+
+any_owned = { 
+
+limit = {
+OR = {
+trade_goods = fruit
+trade_goods = grain
+}}
+
+add_province_modifier = { name = one_degree duration = -1}}}}
+
+country_event = {
+	id = 536005
+title = "ice_age_receeding"
+	picture = "plauge"
+
+trigger = {
+year = 560
+has_country_flag = one_degree
+NOT = { has_country_flag = had_three_degree }
+}
+mean_time_to_happen = { 
+months = 12}
+
+
+option = {
+name = "This is good"
+remove_country_flag = one_degree
+set_country_flag = had_one_degree
+
+
+any_owned = { 
+
+limit = {
+OR = {
+trade_goods = fruit
+trade_goods = grain
+}}
+
+remove_province_modifier = one_degree}}}
+
+
+
+country_event = {
+	id = 536006
+title = "ice_age"
+	picture = "plauge"
+
+trigger = {
+year = 545
+NOT = { has_country_flag = three_degree}
+NOT = { has_country_flag = had_three_degree }
+}
+mean_time_to_happen = { 
+months = 6}
+
+
+option = {
+name = "This is bad"
+set_country_flag = three_degree
+
+
+any_owned = { 
+
+limit = {
+OR = {
+trade_goods = fruit
+trade_goods = grain
+}}
+
+add_province_modifier = { name = three_degree duration = -1}}}}
+
+country_event = {
+	id = 536007
+title = "ice_age_receeding"
+	picture = "plauge"
+
+trigger = {
+year = 560
+has_country_flag = three_degree
+NOT = { has_country_flag = had_three_degree }
+}
+mean_time_to_happen = { 
+months = 12}
+
+
+option = {
+name = "This is good"
+remove_country_flag = three_degree
+set_country_flag = had_three_degree
+
+any_owned = { 
+
+limit = {
+OR = {
+trade_goods = fruit
+trade_goods = grain
+}}
+
+remove_province_modifier = three_degree}}}

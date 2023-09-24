@@ -1,0 +1,397 @@
+#file includes modern Somalia and Djibouti
+#Benadir Region (39200)
+#under the loose rule of Muscat in 183
+#Mogadishu (21600/5400 POPS)
+1868 = {
+	aristocrats = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 105
+	}
+
+	bureaucrats = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 2
+	}
+
+	officers = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 7
+	}
+
+	clergymen = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 55
+	}
+
+	artisans = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 217
+	}
+
+	soldiers = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 55
+	}
+
+	farmers = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 4357
+	}
+
+	slaves = {
+		culture = afro_asiatic
+		religion = animist
+		size = 600
+	}
+}
+#Kismayo (8400/2100 POPS)
+1870 = {
+	aristocrats = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 27
+	}
+
+	clergymen = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 15
+	}
+
+	artisans = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 65
+	}
+
+	soldiers = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 15
+	}
+
+	farmers = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 1377
+	}
+
+	aristocrats = {
+		culture = afro_asiatic
+		religion = animist
+		size = 7
+	}
+
+	clergymen = {
+		culture = afro_asiatic
+		religion = animist
+		size = 5
+	}
+
+	artisans = {
+		culture = afro_asiatic
+		religion = animist
+		size = 25
+	}
+
+	soldiers = {
+		culture = afro_asiatic
+		religion = animist
+		size = 5
+	}
+
+	farmers = {
+		culture = afro_asiatic
+		religion = animist
+		size = 457
+	}
+
+	slaves = {
+		culture = afro_asiatic
+		religion = animist
+		size = 110
+	}
+}
+#uncolonized/ruled by the Sultan of Geledi in 183
+#Baidoa (9200/2300 POPS)
+1869 = {
+	aristocrats = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 45
+	}
+
+	clergymen = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 22
+	}
+
+	artisans = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 115
+	}
+
+	soldiers = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 22
+	}
+
+	farmers = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 2095
+	}
+}
+#Majerteyn Region (19200)
+#under the loose rule of Muscat via Sultan of Majerteyn in 183
+#Hobye (7600/1900 POPS)
+1871 = {
+	aristocrats = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 35
+	}
+
+	clergymen = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 17
+	}
+
+	artisans = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 77
+	}
+
+	soldiers = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 20
+	}
+
+	farmers = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 1550
+	}
+
+	slaves = {
+		culture = afro_asiatic
+		religion = animist
+		size = 200
+	}
+}
+#Busaso (11600/2900 POPS)
+1872 = {
+	aristocrats = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 54
+	}
+
+	bureaucrats = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 1
+	}
+
+	officers = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 5
+	}
+
+	clergymen = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 27
+	}
+
+	artisans = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 117
+	}
+
+	soldiers = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 30
+	}
+
+	farmers = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 2165
+	}
+
+	slaves = {
+		culture = afro_asiatic
+		religion = animist
+		size = 500
+	}
+}
+#Adal Region (24400)
+#under the loose rule of Egypt 183
+#Berbera (18400/4600 POPS)
+1873 = {
+	aristocrats = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 89
+	}
+
+	bureaucrats = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 1
+	}
+
+	officers = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 5
+	}
+
+	clergymen = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 45
+	}
+
+	artisans = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 185
+	}
+
+	soldiers = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 47
+	}
+
+	farmers = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 3327
+	}
+
+	slaves = {
+		culture = afro_asiatic
+		religion = animist
+		size = 700
+	}
+
+	slaves = {
+		culture = afro_asiatic
+		religion = animist
+		size = 300
+	}
+}
+#Zayla (3200/800 POPS)
+1874 = {
+	aristocrats = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 15
+	}
+
+	clergymen = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 7
+	}
+
+	artisans = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 40
+	}
+
+	soldiers = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 7
+	}
+
+	farmers = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 730
+	}
+}
+#Jibuti (2800/700 POPS) #now part of Djibouti  
+1875 = {
+	aristocrats = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 5
+	}
+
+	clergymen = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 7
+	}
+
+	artisans = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 15
+	}
+
+	soldiers = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 2
+	}
+
+	farmers = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 270
+	}
+
+	aristocrats = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 5
+	}
+
+	clergymen = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 7
+	}
+
+	artisans = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 20
+	}
+
+	soldiers = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 5
+	}
+
+	farmers = {
+		culture = afro_asiatic
+religion = zoroastrianism
+		size = 362
+	}
+
+}

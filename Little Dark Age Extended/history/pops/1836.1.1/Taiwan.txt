@@ -1,0 +1,169 @@
+#Taiwan Region (149000) 
+#under the rule of China in 91  
+#Taipei (72600/18150 POPS) #now part of Taiwan   
+1485 = {
+	aristocrats = {
+		culture = micronesian
+		religion = mahayana
+		size = 75
+	}
+
+	bureaucrats = {
+		culture = micronesian
+		religion = mahayana
+		size = 20
+	}
+
+	officers = {
+		culture = micronesian
+		religion = mahayana
+		size = 36
+	}
+
+	clergymen = {
+		culture = micronesian
+		religion = mahayana
+		size = 61
+	}
+
+	artisans = {
+		culture = micronesian
+		religion = mahayana
+		size = 307
+	}
+
+	soldiers = {
+		culture = micronesian
+		religion = mahayana
+		size = 62
+	}
+
+	farmers = {
+		culture = micronesian
+		religion = animist
+		size = 5531
+	}
+
+	aristocrats = {
+		culture = micronesian
+		religion = animist
+		size = 150
+	}
+
+	clergymen = {
+		culture = micronesian
+		religion = animist
+		size = 120
+	}
+
+	artisans = {
+		culture = micronesian
+		religion = animist
+		size = 500
+	}
+
+	artisans = {
+		culture = micronesian
+		religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = micronesian
+		religion = animist
+		size = 120
+	}
+
+	farmers = {
+		culture = micronesian
+		religion = animist
+		size = 11010
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = animist
+		size = 2
+	}
+
+	officers = {
+		culture = manchu
+		religion = animist
+		size = 1
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = animist
+		size = 2
+	}
+}
+#Tainan (76400/19100 POPS) #now part of Taiwan  
+2562 = {
+	aristocrats = {
+		culture = micronesian
+		religion = animist
+		size = 76
+	}
+
+	clergymen = {
+		culture = micronesian
+		religion = animist
+		size = 66
+	}
+
+	artisans = {
+		culture = micronesian
+		religion = animist
+		size = 330
+	}
+
+	soldiers = {
+		culture = micronesian
+		religion = animist
+		size = 66
+	}
+
+	farmers = {
+		culture = micronesian
+		religion = animist
+		size = 6061
+	}
+
+	aristocrats = {
+		culture = micronesian
+		religion = animist
+		size = 175
+	}
+
+	clergymen = {
+		culture = micronesian
+		religion = animist
+		size = 125
+	}
+
+	artisans = {
+		culture = micronesian
+		religion = animist
+		size = 500
+	}
+
+	artisans = {
+		culture = micronesian
+		religion = animist
+		size = 125
+	}
+
+	soldiers = {
+		culture = micronesian
+		religion = animist
+		size = 125
+	}
+
+	farmers = {
+		culture = micronesian
+		religion = animist
+		size = 11450
+	}
+
+}

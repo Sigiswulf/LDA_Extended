@@ -1,0 +1,15 @@
+owner = ITA
+controller = ITA
+add_core = ITA  
+ 
+
+trade_goods = iron
+life_rating = 33
+1861.1.1 = {
+	controller = ITA
+	owner = ITA
+ 
+}
+
+
+set_province_flag = mine

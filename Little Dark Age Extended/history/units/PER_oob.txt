@@ -1,0 +1,530 @@
+leader = {
+	name = "Alexandros Dousmanis"
+	picture = spa_gen_espartero
+	type = land
+	date="1834.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+
+leader = {
+	name = "Abolghasem Shirazi"
+	picture = gre_gen_kolokotronis
+	type = land
+	date="500.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Esmail Shahbakhti"
+	picture = spa_gen_vanhalen
+	type = land
+	date="1823.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.2
+}
+leader = {
+	name = "Mozzafer Esfahani"
+	picture = gre_gen_soutsos
+	type = land
+	date="497.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Nosret Airom"
+	picture = gre_gen_papadiamantopoulosdemetrios
+	type = land
+	date="497.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+leader = {
+	name = "Reza Airom"
+	picture = gre_adm_kriezis
+	type = sea
+	date="500.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+}
+
+#Army
+army = {
+	name = "Army of Ctesiphon"
+	location = 926
+	regiment = {
+		name= "1. Imperial Guard"
+		type = dragoon
+		home = 923
+	}
+
+	regiment = {
+		name= "2. Imperial Guard"
+		type = infantry_offensive
+		home = 923
+	}
+
+	regiment = {
+		name= "3. Corinth Guard"
+		type = infantry_offensive
+		home = 925
+	}
+
+	regiment = {
+		name= "1. Cohort Infantry 'El Ramillete'"
+		type = infantry_offensive
+		home = 926
+	}
+
+	regiment = {
+		name= "2. Cohort Infantry"
+		type = infantry_offensive
+		home = 926
+	}
+
+	regiment = {
+		name= "3. Cohort Infantry"
+		type = infantry_defensive
+		home = 926
+	}
+
+	regiment = {
+		name= "1. Siege Century"
+		type = artillery
+		home = 926
+	}
+
+	regiment = {
+		name= "1. Imperial Guard"
+		type = infantry_defensive
+		home = 926
+	}
+
+	regiment = {
+		name= "2. Imperial Guard"
+		type = infantry_defensive
+		home = 926
+	}
+
+	regiment = {
+		name= "3. Imperial Guard"
+		type = infantry_defensive
+		home = 926
+	}
+}
+
+army = {
+	name = "Army of the Tigris"
+	location = 932
+	
+	regiment = {
+		name= "4. Cohort Infantry"
+		type = cavalry
+		home = 926
+	}
+
+	regiment = {
+		name= "1. Cohort Infantry"
+		type = infantry_offensive
+		home = 926
+	}
+	
+	regiment = {
+		name= "5. Cohort Infantry"
+		type = infantry_offensive
+		home = 926
+	}
+	
+	regiment = {
+		name= "6. Cohort Infantry"
+		type = infantry_offensive
+		home = 926
+	}
+
+	regiment = {
+		name= "7. Cohort Infantry"
+		type = infantry_offensive
+		home = 932
+	}
+
+	regiment = {
+		name= "8. Cohort Infantry"
+		type = infantry_defensive
+		home = 932
+	}
+
+	regiment = {
+		name= "9. Cohort Infantry"
+		type = infantry_defensive
+		home = 932
+	}
+
+	regiment = {
+		name= "10. Cohort Infantry"
+		type = infantry_defensive
+		home = 932
+	}
+
+	regiment = {
+		name= "11. Cohort Infantry"
+		type = infantry_defensive
+		home = 932
+	}
+	
+	regiment = {
+		name= "12. Cohort Infantry"
+		type = artillery
+		home = 932
+	}
+}
+army = {
+	name = "Horsemen of Zagros"
+	location = 1117
+	regiment = {
+		name= "1.7 Legion Cuirassier"
+		type = cuirassier
+		home = 1117
+	}
+	
+	regiment = {
+		name= "1.4 Legion Cuirassier"
+		type = cuirassier
+		home = 1117
+	}
+
+	regiment = {
+		name= "2.4 Legion Cuirassier"
+		type = cuirassier
+		home = 1117
+	}
+
+	regiment = {
+		name= "3.4 Legion Cuirassier"
+		type = cuirassier
+		home = 1117
+	}
+
+	regiment = {
+		name= "1.5 Legion Cuirassier"
+		type = cuirassier
+		home = 1117
+	}
+
+	regiment = {
+		name= "2.5 Legion Cuirassier"
+		type = cuirassier
+		home = 1132
+	}
+
+	regiment = {
+		name= "3.5 Legion Cuirassier"
+		type = cuirassier
+		home = 1137
+	}
+
+	regiment = {
+		name= "1.6 Legion Cuirassier"
+		type = cuirassier
+		home = 1137
+	}
+
+	regiment = {
+		name= "2.6 Legion Cuirassier"
+		type = cuirassier
+		home = 1135
+	}
+
+	regiment = {
+		name= "3.6 Legion Cuirassier"
+		type = cuirassier
+		home = 1135
+	}
+	
+	regiment = {
+		name= "1.1 cuirassier"
+		type = cuirassier
+		home = 1135
+	}
+	
+	regiment = {
+		name= "4.1 cuirassier"
+		type = cuirassier
+		home = 1135
+	}
+}
+army = {
+	name = "Army of Alborz"
+	location = 1108
+	regiment = {
+		name= "1. Imperial Guard"
+		type = dragoon
+		home = 1108
+	}
+
+	regiment = {
+		name= "2. Imperial Guard"
+		type = infantry_offensive
+		home = 1108
+	}
+
+	regiment = {
+		name= "3. Corinth Guard"
+		type = infantry_offensive
+		home = 1108
+	}
+
+	regiment = {
+		name= "1. Cohort Infantry 'El Ramillete'"
+		type = infantry_offensive
+		home = 1107
+	}
+
+	regiment = {
+		name= "2. Cohort Infantry"
+		type = infantry_offensive
+		home = 1107
+	}
+
+	regiment = {
+		name= "3. Cohort Infantry"
+		type = infantry_defensive
+		home = 1107
+	}
+
+	regiment = {
+		name= "1. Siege Century"
+		type = artillery
+		home = 1135
+	}
+
+	regiment = {
+		name= "1. Imperial Guard"
+		type = infantry_defensive
+		home = 1135
+	}
+
+	regiment = {
+		name= "2. Imperial Guard"
+		type = infantry_defensive
+		home = 1135
+	}
+
+	regiment = {
+		name= "3. Imperial Guard"
+		type = infantry_defensive
+		home = 1135
+	}
+}
+
+army = {
+	name = "Army of Tehran"
+	location = 1121
+	regiment = {
+		name= "1. Imperial Guard"
+		type = dragoon
+		home = 1121
+	}
+
+	regiment = {
+		name= "2. Imperial Guard"
+		type = infantry_offensive
+		home = 1121
+	}
+
+	regiment = {
+		name= "3. Corinth Guard"
+		type = infantry_offensive
+		home = 1121
+	}
+
+	regiment = {
+		name= "1. Cohort Infantry 'El Ramillete'"
+		type = infantry_offensive
+		home = 1129
+	}
+
+	regiment = {
+		name= "2. Cohort Infantry"
+		type = infantry_offensive
+		home = 1127
+	}
+
+	regiment = {
+		name= "3. Cohort Infantry"
+		type = infantry_defensive
+		home = 1127
+	}
+
+	regiment = {
+		name= "1. Siege Century"
+		type = artillery
+		home = 1127
+	}
+
+	regiment = {
+		name= "1. Imperial Guard"
+		type = infantry_defensive
+		home = 1129
+	}
+
+	regiment = {
+		name= "2. Imperial Guard"
+		type = infantry_defensive
+		home = 1150
+	}
+
+	regiment = {
+		name= "3. Imperial Guard"
+		type = infantry_defensive
+		home = 1150
+	}
+}
+
+army = {
+	name = "Horsemen of Baluchistan"
+	location = 1219
+	regiment = {
+		name= "1.7 Legion Cuirassier"
+		type = cuirassier
+		home = 1219
+	}
+	
+	regiment = {
+		name= "1.4 Legion Cuirassier"
+		type = cuirassier
+		home = 1221
+	}
+
+	regiment = {
+		name= "2.4 Legion Cuirassier"
+		type = cuirassier
+		home = 1221
+	}
+
+	regiment = {
+		name= "3.4 Legion Cuirassier"
+		type = cuirassier
+		home = 1222
+	}
+
+	regiment = {
+		name= "1.5 Legion Cuirassier"
+		type = cuirassier
+		home = 1220
+	}
+
+	regiment = {
+		name= "2.5 Legion Cuirassier"
+		type = cuirassier
+		home = 1220
+	}
+
+	regiment = {
+		name= "3.5 Legion Cuirassier"
+		type = cuirassier
+		home = 1215
+	}
+
+	regiment = {
+		name= "1.6 Legion Cuirassier"
+		type = cuirassier
+		home = 1215
+	}
+
+	regiment = {
+		name= "2.6 Legion Cuirassier"
+		type = cuirassier
+		home = 1214
+	}
+
+	regiment = {
+		name= "3.6 Legion Cuirassier"
+		type = cuirassier
+		home = 1214
+	}
+	
+	regiment = {
+		name= "1.1 cuirassier"
+		type = cuirassier
+		home = 1148
+	}
+	
+	regiment = {
+		name= "4.1 cuirassier"
+		type = cuirassier
+		home = 1148
+	}
+}
+navy = {
+	name = "Imperial Navy"
+	location = 932
+	
+	ship = {
+		name = "Santiago"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Hespéride s"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Centinela"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Santiago"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Centinela"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Isla de  Cuba"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Cristóbal Colón"
+		type = frigate
+	}
+	
+	ship = {
+		name= "1a Flotilla de  Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2a Flotilla de  Transporte"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name = "Alerta"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Victoria"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Nuestra Señora de l Patrocinio"
+		type = frigate
+	}
+	
+	ship = {
+		name= "1a Flotilla de  Transporte"
+		type = clipper_transport
+	}
+
+}

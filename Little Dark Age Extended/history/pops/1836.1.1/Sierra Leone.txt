@@ -1,0 +1,282 @@
+#Sierra Leone Region (75200) 
+#uncolonized in 183/Britain has trade post in 183
+#Freetown (40000/10000 POPS) 
+1884 = {
+	artisans = {
+		culture = niger_congo_a
+religion = arian
+		size = 25
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+religion = arian
+		size = 5
+	}
+
+	farmers = {
+		culture = niger_congo_a
+religion = arian
+		size = 470
+	}
+
+	aristocrats = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 67
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 35
+	}
+
+	artisans = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 165
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 35
+	}
+
+	farmers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 3197
+	}
+
+	aristocrats = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 87
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 45
+	}
+
+	artisans = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 230
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 45
+	}
+
+	farmers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 4202
+	}
+
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 25
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 15
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 70
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 15
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 1275
+	}
+}
+#uncolonized in 183
+#Bo (35200/8800 POPS) 
+1886 = {
+	aristocrats = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 90
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 47
+	}
+
+	artisans = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 187
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 47
+	}
+
+	farmers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 3627
+	}
+
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 80
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 40
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 200
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 42
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 3737
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 700
+	}
+}
+#Jallon Region (38400) #see Guinea.txt for balance of Region
+#uncolonized in 183
+#Falaba (38400/9600 POPS) #now part of Sierra Leone 
+1885 = {
+	aristocrats = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 92
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 47
+	}
+
+	artisans = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 190
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 47
+	}
+
+	farmers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 3622
+	}
+
+	aristocrats = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 80
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 40
+	}
+
+	artisans = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 165
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 42
+	}
+
+	farmers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 3172
+	}
+
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 12
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 7
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 40
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 10
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 730
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 1300
+	}
+
+}

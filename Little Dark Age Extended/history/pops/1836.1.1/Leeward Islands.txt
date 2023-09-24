@@ -1,0 +1,221 @@
+#Leeward Islands Region - 6160
+#Ruled by Britain 183
+#Antigua (2500/625 POPS) #now independent
+2224 = {
+	aristocrats = {
+		culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	bureaucrats = {
+		culture = native_american_minor
+religion = animist
+		size = 3
+	}
+
+	clergymen = {
+		culture = native_american_minor
+religion = animist
+		size = 1
+	}
+
+	artisans = {
+		culture = native_american_minor
+religion = animist
+		size = 20
+	}
+
+	soldiers = {
+		culture = native_american_minor
+religion = animist
+		size = 1
+	}
+
+	farmers = {
+		culture = native_american_minor
+religion = animist
+		size = 20
+	}
+
+	clergymen = {
+		culture = native_american_minor
+religion = animist
+		size = 7
+	}
+
+	artisans = {
+		culture = native_american_minor
+religion = animist
+		size = 15
+	}
+
+	soldiers = {
+		culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	farmers = {
+		culture = native_american_minor
+religion = animist
+		size = 547
+	}
+}
+#Montserrat (530/132 POPS) #still British Colony
+2225 = {
+	aristocrats = {
+		culture = native_american_minor
+religion = animist
+		size = 1
+	}
+
+	clergymen = {
+		culture = native_american_minor
+religion = animist
+		size = 0
+	}
+
+	artisans = {
+		culture = native_american_minor
+religion = animist
+		size = 3
+	}
+
+	farmers = {
+		culture = native_american_minor
+religion = animist
+		size = 3
+	}
+
+	clergymen = {
+		culture = native_american_minor
+religion = animist
+		size = 1
+	}
+
+	artisans = {
+		culture = native_american_minor
+religion = animist
+		size = 4
+	}
+
+	soldiers = {
+		culture = native_american_minor
+religion = animist
+		size = 1
+	}
+
+	farmers = {
+		culture = native_american_minor
+religion = animist
+		size = 138
+	}
+}
+#Tortola (480/120 POPS) #still British Colony
+2226 = {
+	aristocrats = {
+		culture = native_american_minor
+religion = animist
+		size = 1
+	}
+
+	clergymen = {
+		culture = native_american_minor
+religion = animist
+		size = 1
+	}
+
+	artisans = {
+		culture = native_american_minor
+religion = animist
+		size = 4
+	}
+
+	farmers = {
+		culture = native_american_minor
+religion = animist
+		size = 4
+	}
+
+	clergymen = {
+		culture = native_american_minor
+religion = animist
+		size = 1
+	}
+
+	artisans = {
+		culture = native_american_minor
+religion = animist
+		size = 3
+	}
+
+	soldiers = {
+		culture = native_american_minor
+religion = animist
+		size = 1
+	}
+
+	farmers = {
+		culture = native_american_minor
+religion = animist
+		size = 104
+	}
+}
+#Saint Kitts (2650/662 POPS) #now independent
+2227 = {
+	aristocrats = {
+		culture = native_american_minor
+religion = animist
+		size = 7
+	}
+
+	clergymen = {
+		culture = native_american_minor
+religion = animist
+		size = 1
+	}
+
+	artisans = {
+		culture = native_american_minor
+religion = animist
+		size = 22
+	}
+
+	soldiers = {
+		culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	farmers = {
+		culture = native_american_minor
+religion = animist
+		size = 26
+	}
+
+	clergymen = {
+		culture = native_american_minor
+religion = animist
+		size = 7
+	}
+
+	artisans = {
+		culture = native_american_minor
+religion = animist
+		size = 15
+	}
+
+	soldiers = {
+		culture = native_american_minor
+religion = animist
+		size = 7
+	}
+
+	farmers = {
+		culture = native_american_minor
+religion = animist
+		size = 590
+	}
+
+}

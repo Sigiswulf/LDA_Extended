@@ -1,0 +1,8 @@
+owner = SLO
+controller = SLO
+add_core = SLO
+trade_goods = cattle
+life_rating = 37
+
+set_province_flag = farm
+add_core = SIB

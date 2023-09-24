@@ -1,0 +1,95 @@
+#Puerto Rico (35600)	
+#Ruled by Spain 183 
+#Puerto Rico (35600/8900 POPS)
+2222 = {
+	aristocrats = {
+culture = native_american_minor
+religion = animist
+		size = 25
+	}
+
+	bureaucrats = {
+culture = native_american_minor
+religion = animist
+		size = 7
+	}
+
+	clergymen = {
+culture = native_american_minor
+religion = animist
+		size = 30
+	}
+
+	artisans = {
+culture = native_american_minor
+religion = animist
+		size = 80
+	}
+
+	soldiers = {
+culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	aristocrats = {
+culture = native_american_minor
+religion = animist
+		size = 110
+	}
+
+	bureaucrats = {
+culture = native_american_minor
+religion = animist
+		size = 2
+	}
+
+	clergymen = {
+culture = native_american_minor
+religion = animist
+		size = 20
+	}
+
+	artisans = {
+culture = native_american_minor
+religion = animist
+		size = 300
+	}
+
+	soldiers = {
+culture = native_american_minor
+religion = animist
+		size = 45
+	}
+
+	farmers = {
+culture = native_american_minor
+religion = animist
+		size = 4085
+	}
+
+	artisans = {
+culture = native_american_minor
+religion = animist
+		size = 110
+	}
+
+	soldiers = {
+culture = native_american_minor
+religion = animist
+		size = 40
+	}
+
+	farmers = {
+culture = native_american_minor
+religion = animist
+		size = 3060
+	}
+
+	slaves = {
+culture = native_american_minor
+religion = animist
+		size = 1000
+	}
+
+}

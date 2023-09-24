@@ -1,0 +1,1503 @@
+#Odenburg Region (525000) #see Austria.txt for balance of region
+#under the rule of Austria in 1003  
+#Sopron (54686/13671 POPS) #part of Hungary today
+623 = {
+	aristocrats = {
+		culture = goths
+religion = arian
+		size = 66 
+	}
+
+	bureaucrats = {
+	culture = goths
+religion = arian
+		size = 217 
+	}
+
+	officers = {
+		culture = goths
+religion = arian
+		size = 107 
+	}
+
+	clergymen = {
+		culture = goths
+religion = arian
+		size = 40 
+	}
+
+	artisans = {
+		culture = goths
+religion = arian
+		size = 819
+	}
+
+	soldiers = {
+		culture = goths
+religion = arian
+		size = 500 
+	}
+
+	farmers = {
+		culture = goths
+religion = arian
+		size = 3609 
+	}
+
+	aristocrats = {
+		culture = goths
+religion = arian
+		size = 189 
+	}
+
+	bureaucrats = {
+		culture = goths
+religion = arian
+		size = 66 
+	}
+
+	officers = {
+		culture = goths
+religion = arian
+		size = 81 
+	}
+
+	clergymen = {
+		culture = goths
+religion = arian
+		size = 66
+	}
+
+	artisans = {
+		culture = goths
+religion = arian
+		size = 600
+	}
+
+	soldiers = {
+		culture = goths
+religion = arian
+		size = 500
+	}
+
+	farmers = {
+		culture = goths
+religion = arian
+		size = 5536 
+	}
+
+	clergymen = {
+		culture = goths
+religion = arian
+		size = 32 
+	}
+
+	artisans = {
+		culture = goths
+religion = arian
+		size = 600
+	}
+
+	soldiers = {
+		culture = goths
+religion = arian
+		size = 1000 
+	}
+
+	farmers = {
+		culture = goths
+religion = arian
+		size = 1497   
+	}
+}
+#Zalaegerszeg (470310/117576 POPS) #part of Hungary today
+639 = {
+	aristocrats = {
+		culture = goths
+religion = arian
+		size = 245 
+	}
+
+	clergymen = {
+		culture = goths
+religion = arian
+		size = 163 
+	}
+
+	bureaucrats = {
+		culture = goths
+religion = arian
+		size = 217 
+	}
+	
+	artisans = {
+		culture = goths
+religion = arian
+		size = 819
+	}
+
+	soldiers = {
+		culture = goths
+religion = arian
+		size = 1500 
+	}
+
+	farmers = {
+		culture = goths
+religion = arian
+		size = 15011 
+	}
+
+	aristocrats = {
+		culture = goths
+religion = arian
+		size = 2050 
+	}
+
+	clergymen = {
+		culture = goths
+religion = arian
+		size = 682
+	}
+
+	artisans = {
+		culture = goths
+religion = arian
+		size = 3281
+	}
+
+	soldiers = {
+		culture = goths
+religion = arian
+		size = 7000 
+	}
+
+	farmers = {
+		culture = goths
+religion = arian
+		size = 62205
+	}
+
+	aristocrats = {
+		culture = goths
+religion = arian
+		size = 354 
+	}
+
+	clergymen = {
+		culture = goths
+religion = arian
+		size = 122 
+	}
+
+	artisans = {
+		culture = goths
+religion = arian
+		size = 955
+	}
+
+	soldiers = {
+		culture = goths
+religion = arian
+		size = 1200 
+	}
+
+	farmers = {
+		culture = goths
+religion = arian
+		size = 15898  
+	}
+
+	clergymen = {
+		culture = goths
+religion = arian
+		size = 26 
+	}
+
+	artisans = {
+		culture = goths
+religion = arian
+		size = 1092
+	}
+
+	soldiers = {
+		culture = goths
+religion = arian
+		size = 1000 
+	}
+
+	farmers = {
+		culture = goths
+religion = arian
+		size = 1584   
+	}
+
+	clergymen = {
+		culture = goths
+religion = arian
+		size = 81 
+	}
+
+	artisans = {
+		culture = goths
+religion = arian
+		size = 409
+	}
+
+	soldiers = {
+		culture = goths
+religion = arian
+		size = 2000 
+	}
+
+	farmers = {
+		culture = goths
+religion = arian
+		size = 7628 
+	}
+
+	clergymen = {
+culture = romano_illyrian
+religion = catholic
+		size = 26 
+	}
+
+	artisans = {
+culture = romano_illyrian
+religion = catholic
+		size = 189
+	}
+
+	soldiers = {
+culture = romano_illyrian
+religion = catholic
+		size = 400  
+	}
+
+	farmers = {
+culture = romano_illyrian
+religion = catholic
+		size = 3567 
+	}
+}
+#Baranya Region (126874) #see Croatia.txt for balance of Region
+#under the rule of Austria in 1003  
+#Pecs (126874/31717 POPS) 
+640 = {
+	aristocrats = {
+culture = romano_illyrian
+religion = catholic
+		size = 354 
+	}
+
+	bureaucrats = {
+culture = romano_illyrian
+religion = catholic
+		size = 53 
+	}
+
+	officers = {
+culture = romano_illyrian
+religion = catholic
+		size = 42 
+	}
+
+	clergymen = {
+culture = romano_illyrian
+religion = catholic
+		size = 135
+	}
+
+	artisans = {
+culture = romano_illyrian
+religion = catholic
+		size = 682
+	}
+
+	soldiers = {
+culture = romano_illyrian
+religion = catholic
+		size = 1200 
+	}
+
+	farmers = {
+culture = romano_illyrian
+religion = catholic
+		size = 11849
+	}
+
+	clergymen = {
+culture = romano_illyrian
+religion = catholic
+		size = 40  
+	}
+
+	artisans = {
+culture = romano_illyrian
+religion = catholic
+		size = 135
+	}
+
+	soldiers = {
+culture = romano_illyrian
+religion = catholic
+		size = 50   
+	}
+
+	farmers = {
+culture = romano_illyrian
+religion = catholic
+		size = 2527    
+	}
+
+	aristocrats = {
+culture = romano_illyrian
+religion = catholic
+		size = 272 
+	}
+
+	bureaucrats = {
+culture = romano_illyrian
+religion = catholic
+		size = 40 
+	}
+
+	officers = {
+culture = romano_illyrian
+religion = catholic
+		size = 15 
+	}
+
+	clergymen = {
+culture = romano_illyrian
+religion = catholic
+		size = 94
+	}
+
+	artisans = {
+culture = romano_illyrian
+religion = catholic
+		size = 600
+	}
+
+	soldiers = {
+culture = romano_illyrian
+religion = catholic
+		size = 250  
+	}
+
+	farmers = {
+culture = romano_illyrian
+religion = catholic
+		size = 10140
+	}
+
+	officers = {
+culture = romano_illyrian
+religion = catholic
+		size = 7 
+	}
+
+	clergymen = {
+culture = romano_illyrian
+religion = catholic
+		size = 40
+	}
+
+	artisans = {
+culture = romano_illyrian
+religion = catholic
+		size = 217
+	}
+
+	soldiers = {
+culture = romano_illyrian
+religion = catholic
+		size = 80   
+	}
+
+	farmers = {
+culture = romano_illyrian
+religion = catholic
+		size = 4065 
+	}
+}
+#Dunautul Region (1034685)  
+#under the rule of Austria in 1003  
+#Budapest (352185/88045 POPS) 
+641 = {
+	aristocrats = {
+		culture = gepid
+religion = norse_pagan
+		size = 1502 
+	}
+
+	bureaucrats = {
+		culture = gepid
+religion = norse_pagan
+		size = 328 
+	}
+	
+	bureaucrats = {
+		culture = gepid
+religion = norse_pagan
+		size = 328 
+	}
+
+	officers = {
+		culture = gepid
+religion = norse_pagan
+		size = 176 
+	}
+
+	clergymen = {
+		culture = gepid
+religion = norse_pagan
+		size = 450
+	}
+
+	artisans = {
+		culture = gepid
+religion = norse_pagan
+		size = 4921
+	}
+
+	clerks = {
+		culture = gepid
+religion = norse_pagan
+		size = 26
+	}
+
+	craftsmen = {
+		culture = gepid
+religion = norse_pagan
+		size = 819
+	}
+	
+	soldiers = {
+		culture = gepid
+religion = norse_pagan
+		size = 1200 
+	}
+
+	farmers = {
+		culture = gepid
+religion = norse_pagan
+		size = 33632
+	}
+
+	aristocrats = {
+		culture = gepid
+religion = norse_pagan
+		size = 272 
+	}
+
+	clergymen = {
+		culture = gepid
+religion = norse_pagan
+		size = 245  
+	}
+
+	artisans = {
+		culture = gepid
+religion = norse_pagan
+		size = 4101
+	}
+
+	clerks = {
+		culture = gepid
+religion = norse_pagan
+		size = 26
+	}
+
+	craftsmen = {
+		culture = gepid
+religion = norse_pagan
+		size = 819
+	}
+	
+	soldiers = {
+		culture = gepid
+religion = norse_pagan
+		size = 1200    
+	}
+
+	farmers = {
+		culture = gepid
+religion = norse_pagan
+		size =  21053    
+	}
+
+	clergymen = {
+		culture = gepid
+religion = norse_pagan
+		size = 26 
+	}
+
+	artisans = {
+		culture = gepid
+religion = norse_pagan
+		size = 2732
+	}
+
+	soldiers = {
+		culture = gepid
+religion = norse_pagan
+		size = 80  
+	}
+
+	farmers = {
+		culture = gepid
+religion = norse_pagan
+		size = 476    
+	}
+
+	aristocrats = {
+		culture = gepid
+religion = norse_pagan
+		size = 435  
+	}
+
+	bureaucrats = {
+		culture = gepid
+religion = norse_pagan
+		size = 272  
+	}
+
+	officers = {
+		culture = gepid
+religion = norse_pagan
+		size = 94  
+	}
+
+	clergymen = {
+		culture = gepid
+religion = norse_pagan
+		size = 135
+	}
+
+	artisans = {
+		culture = gepid
+religion = norse_pagan
+		size = 4101
+	}
+
+	soldiers = {
+		culture = gepid
+religion = norse_pagan
+		size = 300   
+	}
+
+	farmers = {
+		culture = gepid
+religion = norse_pagan
+		size = 9023
+	}
+}
+#Gyor (210000/52500 POPS) 
+642 = {
+	aristocrats = {
+culture = romano_illyrian
+religion = catholic
+		size = 1230 
+	}
+
+	clergymen = {
+culture = romano_illyrian
+religion = catholic
+		size = 312
+	}
+
+	artisans = {
+culture = romano_illyrian
+religion = catholic
+		size = 1502
+	}
+
+	soldiers = {
+culture = romano_illyrian
+religion = catholic
+		size = 1200 
+	}
+
+	farmers = {
+culture = romano_illyrian
+religion = catholic
+		size = 26481
+	}
+
+	clergymen = {
+culture = romano_illyrian
+religion = catholic
+		size = 40   
+	}
+
+	artisans = {
+culture = romano_illyrian
+religion = catholic
+		size = 189
+	}
+
+	soldiers = {
+culture = romano_illyrian
+religion = catholic
+		size = 50    
+	}
+
+	farmers = {
+culture = romano_illyrian
+religion = catholic
+		size =  2473   
+	}
+
+	clergymen = {
+culture = romano_illyrian
+religion = catholic
+		size = 26 
+	}
+
+	artisans = {
+culture = romano_illyrian
+religion = catholic
+		size = 600
+	}
+
+	soldiers = {
+culture = romano_illyrian
+religion = catholic
+		size = 50  
+	}
+
+	farmers = {
+culture = romano_illyrian
+religion = catholic
+		size = 450     
+	}
+
+	clergymen = {
+culture = romano_illyrian
+religion = catholic
+		size = 13 
+	}
+
+	artisans = {
+culture = romano_illyrian
+religion = catholic
+		size = 81
+	}
+
+	soldiers = {
+culture = romano_illyrian
+religion = catholic
+		size = 50   
+	}
+
+	farmers = {
+culture = romano_illyrian
+religion = catholic
+		size = 984 
+	}
+
+	clergymen = {
+culture = lombard
+religion = norse_pagan
+		size = 148
+	}
+
+	artisans = {
+culture = lombard
+religion = norse_pagan
+		size = 819
+	}
+
+	soldiers = {
+culture = lombard
+religion = norse_pagan
+		size = 300   
+	}
+
+	farmers = {
+culture = lombard
+religion = norse_pagan
+		size = 16364 
+	}
+}
+#Szekesfehervar (199061/49764 POPS) 
+643 = {
+	aristocrats = {
+culture = romano_illyrian
+religion = catholic
+		size = 1148 
+	}
+
+	clergymen = {
+culture = romano_illyrian
+religion = catholic
+		size = 2732 
+	}
+
+	artisans = {
+culture = romano_illyrian
+religion = catholic
+		size = 1283
+	}
+
+	soldiers = {
+culture = romano_illyrian
+religion = catholic
+		size = 1200 
+	}
+
+	farmers = {
+culture = romano_illyrian
+religion = catholic
+		size =  22420
+	}
+
+	aristocrats = {
+culture = romano_illyrian
+religion = catholic
+		size = 272 
+	}
+
+	clergymen = {
+culture = romano_illyrian
+religion = catholic
+		size = 81  
+	}
+
+	artisans = {
+culture = romano_illyrian
+religion = catholic
+		size = 491
+	}
+
+	soldiers = {
+culture = romano_illyrian
+religion = catholic
+		size = 180    
+	}
+
+	farmers = {
+culture = romano_illyrian
+religion = catholic
+		size = 8899    
+	}
+
+	aristocrats = {
+culture = romano_illyrian
+religion = catholic
+		size = 148 
+	}
+
+	clergymen = {
+culture = romano_illyrian
+religion = catholic
+		size = 135 
+	}
+
+	artisans = {
+culture = romano_illyrian
+religion = catholic
+		size = 709
+	}
+
+	soldiers = {
+culture = romano_illyrian
+religion = catholic
+		size = 300   
+	}
+
+	farmers = {
+culture = romano_illyrian
+religion = catholic
+		size = 13069
+	}
+}
+#Kaposvar (214373/53592 POPS) 
+644 = {
+	aristocrats = {
+		culture = goths
+religion = arian
+		size = 1092 
+	}
+	craftsmen = {
+		culture = goths
+religion = arian
+		size = 5000
+	}
+
+	clergymen = {
+		culture = goths
+religion = arian
+		size = 409
+	}
+
+	artisans = {
+		culture = goths
+religion = arian
+		size = 2022
+	}
+
+	soldiers = {
+		culture = goths
+religion = arian
+		size = 1200 
+	}
+
+	farmers = {
+		culture = goths
+religion = arian
+		size = 36393
+	}
+
+	aristocrats = {
+		culture = goths
+religion = arian
+		size = 245 
+	}
+
+	clergymen = {
+		culture = goths
+religion = arian
+		size = 66 
+	}
+
+	artisans = {
+		culture = goths
+religion = arian
+		size = 409
+	}
+
+	soldiers = {
+		culture = goths
+religion = arian
+		size = 160    
+	}
+
+	farmers = {
+		culture = goths
+religion = arian
+		size = 7395     
+	}
+
+	clergymen = {
+		culture = goths
+religion = arian
+		size = 26 
+	}
+
+	artisans = {
+		culture = goths
+religion = arian
+		size = 600
+	}
+
+	soldiers = {
+		culture = goths
+religion = arian
+		size = 30  
+	}
+
+	farmers = {
+		culture = goths
+religion = arian
+		size = 450     
+	}
+
+	clergymen = {
+		culture = goths
+religion = arian
+		size = 26
+	}
+
+	artisans = {
+		culture = goths
+religion = arian
+		size = 189
+	}
+
+	soldiers = {
+		culture = goths
+religion = arian
+		size = 80   
+	}
+
+	farmers = {
+		culture = goths
+religion = arian
+		size = 3567
+	}
+}
+#Kecskemet (59062/14765 POPS) 
+645 = {
+	aristocrats = {
+		culture = gepid
+religion = norse_pagan
+		size = 217 
+	}
+
+	clergymen = {
+		culture = gepid
+religion = norse_pagan
+		size = 66 
+	}
+
+	artisans = {
+		culture = gepid
+religion = norse_pagan
+		size = 1748
+	}
+
+	soldiers = {
+		culture = gepid
+religion = norse_pagan
+		size = 160 
+	}
+
+	farmers = {
+		culture = gepid
+religion = norse_pagan
+		size = 4988 
+	}
+
+	aristocrats = {
+		culture = gepid
+religion = norse_pagan
+		size = 148 
+	}
+
+	clergymen = {
+		culture = gepid
+religion = norse_pagan
+		size = 40  
+	}
+
+	artisans = {
+		culture = gepid
+religion = norse_pagan
+		size = 1640
+	}
+
+	soldiers = {
+		culture = gepid
+religion = norse_pagan
+		size = 100    
+	}
+
+	farmers = {
+		culture = gepid
+religion = norse_pagan
+		size = 3034     
+	}
+
+	clergymen = {
+		culture = gepid
+religion = norse_pagan
+		size = 26  
+	}
+
+	artisans = {
+		culture = gepid
+religion = norse_pagan
+		size = 902
+	}
+
+	soldiers = {
+		culture = gepid
+religion = norse_pagan
+		size = 30  
+	}
+
+	farmers = {
+		culture = gepid
+religion = norse_pagan
+		size = 696   
+	}
+
+	clergymen = {
+		culture = gepid
+religion = norse_pagan
+		size = 13 
+	}
+
+	artisans = {
+		culture = gepid
+religion = norse_pagan
+		size = 81
+	}
+
+	soldiers = {
+		culture = gepid
+religion = norse_pagan
+		size = 30   
+	}
+
+	farmers = {
+		culture = gepid
+religion = norse_pagan
+		size = 435 
+	}
+}
+#Felvidek Region (174998) #see Slovakia.txt and Ukraine.txt for balance of Region
+#under the rule of Austria in 1003  
+#Miskolc (174998/43748 POPS) #Part of Hungary Today
+646 = {
+	aristocrats = {
+		culture = gepid
+religion = norse_pagan
+		size = 955  
+	}
+
+	clergymen = {
+		culture = gepid
+religion = norse_pagan
+		size = 231  
+	}
+	
+	bureaucrats = {
+		culture = gepid
+religion = norse_pagan
+		size = 381 
+	}
+
+	artisans = {
+		culture = gepid
+religion = norse_pagan
+		size = 2050
+	}
+
+	soldiers = {
+		culture = gepid
+religion = norse_pagan
+		size = 500 
+	}
+
+	farmers = {
+		culture = gepid
+religion = norse_pagan
+		size = 20028 
+	}
+
+	clergymen = {
+		culture = gepid
+religion = norse_pagan
+		size = 135  
+	}
+
+	artisans = {
+		culture = gepid
+religion = norse_pagan
+		size = 1338
+	}
+
+	soldiers = {
+		culture = gepid
+religion = norse_pagan
+		size = 300  
+	}
+
+	farmers = {
+		culture = gepid
+religion = norse_pagan
+		size = 13191   
+	}
+
+	clergymen = {
+		culture = gepid
+religion = norse_pagan
+		size = 26  
+	}
+
+	artisans = {
+		culture = gepid
+religion = norse_pagan
+		size = 874
+	}
+
+	soldiers = {
+		culture = gepid
+religion = norse_pagan
+		size = 30 
+	}
+
+	farmers = {
+		culture = gepid
+religion = norse_pagan
+		size = 722    
+	}
+
+	clergymen = {
+culture = lombard
+religion = norse_pagan
+		size = 26 
+	}
+
+	artisans = {
+culture = lombard
+religion = norse_pagan
+		size = 163
+	}
+
+	soldiers = {
+culture = lombard
+religion = norse_pagan
+		size = 50 
+	}
+
+	farmers = {
+culture = lombard
+religion = norse_pagan
+		size = 3609 
+	}
+}
+#Partium Region (608123) #See Romania.txt for balance of region 
+#under the rule of Austria in 1003  
+#Debrecen (85312/21328 POPS) 
+648 = {
+	aristocrats = {
+		culture = gepid
+religion = norse_pagan
+		size = 368 
+	}
+
+	clergymen = {
+		culture = gepid
+religion = norse_pagan
+		size = 135
+	}
+
+	bureaucrats = {
+		culture = gepid
+religion = norse_pagan
+		size = 272 
+	}
+	
+	artisans = {
+		culture = gepid
+religion = norse_pagan
+		size = 1830
+	}
+
+	soldiers = {
+		culture = gepid
+religion = norse_pagan
+		size = 1200
+	}
+
+	farmers = {
+		culture = gepid
+religion = norse_pagan
+		size = 10238
+	}
+
+	aristocrats = {
+		culture = gepid
+religion = norse_pagan
+		size = 163
+	}
+
+	clergymen = {
+		culture = gepid
+religion = norse_pagan
+		size = 53    
+	}
+
+	artisans = {
+		culture = gepid
+religion = norse_pagan
+		size = 1365
+	}
+
+	soldiers = {
+		culture = gepid
+religion = norse_pagan
+		size = 120    
+	}
+
+	farmers = {
+		culture = gepid
+religion = norse_pagan
+		size = 4906    
+	}
+
+	clergymen = {
+		culture = gepid
+religion = norse_pagan
+		size = 26 
+	}
+
+	artisans = {
+		culture = gepid
+religion = norse_pagan
+		size = 600
+	}
+
+	soldiers = {
+		culture = gepid
+religion = norse_pagan
+		size = 30  
+	}
+
+	farmers = {
+		culture = gepid
+religion = norse_pagan
+		size = 450     
+	}
+
+	clergymen = {
+culture = lombard
+religion = norse_pagan
+		size = 4  
+	}
+
+	artisans = {
+culture = lombard
+religion = norse_pagan
+		size = 26
+	}
+
+	soldiers = {
+culture = lombard
+religion = norse_pagan
+		size = 30  
+	}
+
+	farmers = {
+culture = lombard
+religion = norse_pagan
+		size = 499 
+	}
+}
+#Szeged (343436/85858 POPS) 
+649 = {
+	aristocrats = {
+		culture = gepid
+religion = norse_pagan
+		size = 819 
+	}
+	
+	bureaucrats = {
+		culture = gepid
+religion = norse_pagan
+		size = 328 
+	}
+
+	clergymen = {
+		culture = gepid
+religion = norse_pagan
+		size = 341 
+	}
+
+	artisans = {
+		culture = gepid
+religion = norse_pagan
+		size = 1365
+	}
+
+	soldiers = {
+		culture = gepid
+religion = norse_pagan
+		size = 1200 
+	}
+
+	farmers = {
+		culture = gepid
+religion = norse_pagan
+		size = 29736 
+	}
+
+	aristocrats = {
+		culture = gepid
+religion = norse_pagan
+		size = 1365
+	}
+
+	clergymen = {
+		culture = gepid
+religion = norse_pagan
+		size = 463   
+	}
+
+	artisans = {
+		culture = gepid
+religion = norse_pagan
+		size = 2132
+	}
+
+	soldiers = {
+		culture = gepid
+religion = norse_pagan
+		size = 1000     
+	}
+
+	farmers = {
+		culture = gepid
+religion = norse_pagan
+		size = 44214    
+	}
+
+	clergymen = {
+		culture = gepid
+religion = norse_pagan
+		size = 26 
+	}
+
+	artisans = {
+		culture = gepid
+religion = norse_pagan
+		size = 600
+	}
+
+	soldiers = {
+		culture = gepid
+religion = norse_pagan
+		size = 30  
+	}
+
+	farmers = {
+		culture = gepid
+religion = norse_pagan
+		size = 450     
+	}
+
+	clergymen = {
+		culture = gepid
+religion = norse_pagan
+		size = 26  
+	}
+
+	artisans = {
+		culture = gepid
+religion = norse_pagan
+		size = 272
+	}
+
+	soldiers = {
+		culture = gepid
+religion = norse_pagan
+		size = 80    
+	}
+
+	farmers = {
+		culture = gepid
+religion = norse_pagan
+		size = 2937  
+	}
+}
+#Bekescsab (179374/44842 POPS) 
+650 = {
+	aristocrats = {
+		culture = gepid
+religion = norse_pagan
+		size = 600 
+	}
+
+	bureaucrats = {
+		culture = gepid
+religion = norse_pagan
+		size = 328 
+	}
+	
+	clergymen = {
+		culture = gepid
+religion = norse_pagan
+		size = 163
+	}
+
+	artisans = {
+		culture = gepid
+religion = norse_pagan
+		size = 1037
+	}
+
+	soldiers = {
+		culture = gepid
+religion = norse_pagan
+		size = 300 
+	}
+
+	farmers = {
+		culture = gepid
+religion = norse_pagan
+		size = 14970
+	}
+
+	aristocrats = {
+		culture = gepid
+religion = norse_pagan
+		size = 518
+	}
+
+	clergymen = {
+		culture = gepid
+religion = norse_pagan
+		size = 231    
+	}
+
+	artisans = {
+		culture = gepid
+religion = norse_pagan
+		size = 1230
+	}
+
+	soldiers = {
+		culture = gepid
+religion = norse_pagan
+		size = 500    
+	}
+
+	farmers = {
+		culture = gepid
+religion = norse_pagan
+		size = 23473    
+	}
+
+	clergymen = {
+		culture = gepid
+religion = norse_pagan
+		size = 26 
+	}
+
+	artisans = {
+		culture = gepid
+religion = norse_pagan
+		size = 600
+	}
+
+	soldiers = {
+		culture = gepid
+religion = norse_pagan
+		size = 30  
+	}
+
+	farmers = {
+		culture = gepid
+religion = norse_pagan
+		size = 450     
+	}
+
+	clergymen = {
+		culture = gepid
+religion = norse_pagan
+		size = 26  
+	}
+
+	artisans = {
+		culture = gepid
+religion = norse_pagan
+		size = 135
+	}
+
+	soldiers = {
+		culture = gepid
+religion = norse_pagan
+		size = 30    
+	}
+
+	farmers = {
+		culture = gepid
+religion = norse_pagan
+		size = 915  
+	}
+}

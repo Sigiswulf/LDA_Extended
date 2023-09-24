@@ -1,0 +1,1011 @@
+#Friuli-Istria Region (70498) #see Italy.txt for balance of region
+#under the rule of Austria in 688
+#Pola (70498/17623 POPS) #now part of romano-illyriania 
+770 = {
+	aristocrats = {
+culture = romano_illyrian
+		religion = catholic
+		size = 280
+	}
+
+	clergymen = {
+culture = romano_illyrian
+		religion = catholic
+		size = 73
+	}
+
+	artisans = {
+culture = romano_illyrian
+		religion = catholic
+		size = 542
+	}
+
+	soldiers = {
+culture = romano_illyrian
+		religion = catholic
+		size = 160
+	}
+
+	farmers = {
+culture = romano_illyrian
+		religion = catholic
+		size = 7827
+	}
+
+	clergymen = {
+culture = romano_illyrian
+		religion = catholic
+		size = 83
+	}
+		craftsmen = {
+		culture = romano_illyrian
+		religion = catholic
+		size = 5000
+	}
+
+
+	artisans = {
+culture = romano_illyrian
+		religion = catholic
+		size = 337
+	}
+
+	soldiers = {
+culture = romano_illyrian
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+culture = romano_illyrian
+		religion = catholic
+		size = 8858
+	}
+}
+#Croatia Region (326250)
+#under the rule of Austria in 688
+#Zagreb (83998/20998 POPS)
+771 = {
+	aristocrats = {
+culture = goths
+		religion = arian
+		size = 168
+	}
+
+	bureaucrats = {
+culture = goths
+		religion = arian
+		size = 92
+	}
+	
+	bureaucrats = {
+culture = goths
+		religion = arian
+		size = 186
+	}
+
+	officers = {
+culture = goths
+		religion = arian
+		size = 36
+	}
+
+	clergymen = {
+culture = goths
+		religion = arian
+		size = 168
+	}
+
+	artisans = {
+culture = goths
+		religion = arian
+		size = 936
+	}
+
+	soldiers = {
+culture = goths
+		religion = arian
+		size = 850
+	}
+
+	farmers = {
+culture = romano_illyrian
+		religion = catholic
+		size = 14717
+	}
+
+	aristocrats = {
+culture = goths
+		religion = arian
+		size = 261
+	}
+
+	bureaucrats = {
+culture = goths
+		religion = arian
+		size = 3600
+	}
+
+	officers = {
+culture = goths
+		religion = arian
+		size = 55
+	}
+
+	clergymen = {
+culture = goths
+		religion = arian
+		size = 1800
+	}
+
+	artisans = {
+culture = goths
+		religion = arian
+		size = 2610
+	}
+
+	soldiers = {
+culture = goths
+		religion = arian
+		size = 3600
+	}
+
+	farmers = {
+culture = goths
+		religion = arian
+		size = 1217
+	}
+
+	bureaucrats = {
+culture = goths
+		religion = arian
+		size = 18
+	}
+
+	clergymen = {
+culture = goths
+		religion = arian
+		size = 27
+	}
+
+	artisans = {
+culture = goths
+		religion = arian
+		size = 112
+	}
+
+	soldiers = {
+culture = goths
+		religion = arian
+		size = 100
+	}
+
+	farmers = {
+culture = goths
+		religion = arian
+		size = 2436
+	}
+}
+#Sisak (43498/10873 POPS)
+772 = {
+	aristocrats = {
+culture = goths
+		religion = arian
+		size = 130
+	}
+
+	clergymen = {
+culture = goths
+		religion = arian
+		size = 64
+	}
+
+	artisans = {
+culture = goths
+		religion = arian
+		size = 337
+	}
+
+	soldiers = {
+culture = goths
+		religion = arian
+		size = 200
+	}
+
+	farmers = {
+culture = goths
+		religion = arian
+		size = 6148
+	}
+
+	clergymen = {
+culture = goths
+religion = arian
+		size = 36
+	}
+
+	artisans = {
+culture = goths
+religion = arian
+		size = 404
+	}
+
+	soldiers = {
+culture = goths
+religion = arian
+		size = 1000
+	}
+
+	farmers = {
+culture = goths
+religion = arian
+		size = 6834
+	}
+}
+#Karlovac (68999/17249 POPS)
+773 = {
+	aristocrats = {
+culture = goths
+		religion = arian
+		size = 204
+	}
+
+	clergymen = {
+culture = goths
+		religion = arian
+		size = 130
+	}
+
+	artisans = {
+culture = romano_illyrian
+		religion = catholic
+		size = 636
+	}
+
+	soldiers = {
+culture = romano_illyrian
+		religion = catholic
+		size = 900
+	}
+
+	farmers = {
+culture = romano_illyrian
+		religion = catholic
+		size = 11399
+	}
+
+	clergymen = {
+culture = romano_illyrian
+religion = catholic
+		size = 45
+	}
+
+	artisans = {
+culture = romano_illyrian
+religion = catholic
+		size = 225
+	}
+
+	soldiers = {
+culture = romano_illyrian
+religion = catholic
+		size = 100
+	}
+
+	farmers = {
+culture = romano_illyrian
+religion = catholic
+		size = 4171
+	}
+}
+#Senj (36000/9000 POPS)
+774 = {
+	aristocrats = {
+culture = romano_illyrian
+		religion = catholic
+		size = 101
+	}
+
+	clergymen = {
+culture = romano_illyrian
+		religion = catholic
+		size = 45
+	}
+
+	artisans = {
+culture = romano_illyrian
+		religion = catholic
+		size = 243
+	}
+
+	soldiers = {
+culture = romano_illyrian
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+culture = romano_illyrian
+		religion = catholic
+		size = 4320
+	}
+
+	clergymen = {
+culture = romano_illyrian
+religion = catholic
+		size = 36
+	}
+
+	artisans = {
+culture = romano_illyrian
+religion = catholic
+		size = 204
+	}
+
+	soldiers = {
+culture = romano_illyrian
+religion = catholic
+		size = 100
+	}
+
+	farmers = {
+culture = romano_illyrian
+religion = catholic
+		size = 3834
+	}
+}
+#Varadzin (25498/6373 POPS)
+775 = {
+	aristocrats = {
+culture = goths
+		religion = arian
+		size = 73
+	}
+
+	clergymen = {
+culture = goths
+		religion = arian
+		size = 64
+	}
+
+	artisans = {
+culture = goths
+		religion = arian
+		size = 317
+	}
+
+	soldiers = {
+culture = goths
+		religion = arian
+		size = 100
+	}
+
+	farmers = {
+culture = goths
+		religion = arian
+		size = 5850
+	}
+}
+#Bjelovar (19499/4874 POPS)
+776 = {
+	clergymen = {
+culture = goths
+		religion = arian
+		size = 18
+	}
+
+	artisans = {
+culture = goths
+		religion = arian
+		size = 55
+	}
+
+	soldiers = {
+culture = goths
+		religion = arian
+		size = 100
+	}
+
+	farmers = {
+culture = goths
+		religion = arian
+		size = 1001
+	}
+
+	clergymen = {
+culture = goths
+religion = arian
+		size = 18
+	}
+
+	artisans = {
+culture = goths
+religion = arian
+		size = 92
+	}
+
+	soldiers = {
+culture = goths
+religion = arian
+		size = 100
+	}
+
+	farmers = {
+culture = goths
+religion = arian
+		size = 1733
+	}
+
+	clergymen = {
+culture = goths
+		religion = arian
+		size = 18
+	}
+
+	artisans = {
+culture = goths
+		religion = arian
+		size = 92
+	}
+
+	soldiers = {
+culture = goths
+		religion = arian
+		size = 100
+	}
+
+	farmers = {
+culture = goths
+		religion = arian
+		size = 1743
+	}
+}
+#Pozega (29998/7498 POPS)
+777 = {
+	aristocrats = {
+culture = goths
+		religion = arian
+		size = 83
+	}
+
+	clergymen = {
+culture = goths
+		religion = arian
+		size = 73
+	}
+
+	artisans = {
+culture = goths
+		religion = arian
+		size = 411
+	}
+
+	soldiers = {
+culture = goths
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+culture = goths
+		religion = catholic
+		size = 6890
+	}
+}
+#Fiume (19499/4874 POPS)
+778 = {
+	clergymen = {
+culture = romano_illyrian
+		religion = catholic
+		size = 18
+	}
+
+	artisans = {
+culture = romano_illyrian
+		religion = catholic
+		size = 450
+	}
+
+	soldiers = {
+culture = romano_illyrian
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+culture = romano_illyrian
+		religion = catholic
+		size = 1761
+	}
+
+	aristocrats = {
+culture = romano_illyrian
+		religion = catholic
+		size = 55
+	}
+
+	clergymen = {
+culture = romano_illyrian
+		religion = catholic
+		size = 18
+	}
+
+	artisans = {
+culture = romano_illyrian
+		religion = catholic
+		size = 486
+	}
+
+	soldiers = {
+culture = romano_illyrian
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+culture = romano_illyrian
+		religion = catholic
+		size = 1658
+	}
+
+	clergymen = {
+culture = goths
+		religion = catholic
+		size = 9
+	}
+
+	artisans = {
+culture = goths
+		religion = catholic
+		size = 92
+	}
+
+	soldiers = {
+culture = goths
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+culture = goths
+		religion = catholic
+		size = 261
+	}
+}
+#Baranya Region (67500) #see Hungary.txt for balance of Region
+#under the rule of Austria in 688  
+#Osijek (67500/16875 POPS) 
+779 = {
+	clergymen = {
+culture = romano_illyrian
+		religion = catholic
+		size = 92 
+	}
+
+	artisans = {
+culture = romano_illyrian
+		religion = catholic
+		size = 486
+	}
+
+	soldiers = {
+culture = romano_illyrian
+		religion = catholic
+		size = 200  
+	}
+
+	farmers = {
+culture = romano_illyrian
+		religion = catholic
+		size = 9064   
+	}
+
+	clergymen = {
+culture = romano_illyrian
+religion = catholic
+		size = 18  
+	}
+
+	artisans = {
+culture = romano_illyrian
+religion = catholic
+		size = 130
+	}
+
+	soldiers = {
+culture = romano_illyrian
+religion = catholic
+		size = 361
+	}
+
+	farmers = {
+culture = romano_illyrian
+religion = catholic
+		size = 2436   
+	}
+
+	aristocrats = {
+culture = goths
+		religion = catholic
+		size = 204 
+	}
+
+	clergymen = {
+culture = goths
+		religion = catholic
+		size = 18
+	}
+
+	artisans = {
+culture = goths
+		religion = catholic
+		size = 112
+	}
+
+	soldiers = {
+culture = goths
+		religion = catholic
+		size = 100 
+	}
+
+	farmers = {
+culture = goths
+		religion = catholic
+		size = 1883
+	}
+
+	aristocrats = {
+culture = goths
+		religion = catholic
+		size = 130  
+	}
+
+	clergymen = {
+culture = goths
+		religion = catholic
+		size = 18 
+	}
+
+	artisans = {
+culture = goths
+		religion = catholic
+		size = 130
+	}
+
+	soldiers = {
+culture = goths
+		religion = catholic
+		size = 100  
+	}
+
+	farmers = {
+culture = goths
+		religion = catholic
+		size = 1986 
+	}
+}
+#Dalmatia Region (119998) #see Montenegro.txt for balance of region 
+#under the rule of Austria in 688
+#Split (52498/13123 POPS)
+780 = {
+	aristocrats = {
+culture = romano_illyrian
+		religion = catholic
+		size = 149
+	}
+
+	clergymen = {
+culture = romano_illyrian
+		religion = catholic
+		size = 130
+	}
+
+	artisans = {
+culture = romano_illyrian
+		religion = catholic
+		size = 748
+	}
+
+	soldiers = {
+culture = romano_illyrian
+		religion = catholic
+		size = 200
+	}
+
+	farmers = {
+culture = romano_illyrian
+		religion = catholic
+		size = 12880
+	}
+
+	clergymen = {
+culture = romano_illyrian
+		religion = catholic
+		size = 9
+	}
+
+	artisans = {
+culture = romano_illyrian
+		religion = catholic
+		size = 186
+	}
+
+	soldiers = {
+culture = romano_illyrian
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+culture = romano_illyrian
+		religion = catholic
+		size = 168
+	}
+}
+#Zadar (47998/11998 POPS)
+781 = {
+	aristocrats = {
+culture = romano_illyrian
+		religion = catholic
+		size = 92
+	}
+
+	bureaucrats = {
+culture = romano_illyrian
+		religion = catholic
+		size = 36
+	}
+
+	officers = {
+culture = romano_illyrian
+		religion = catholic
+		size = 27
+	}
+
+	clergymen = {
+culture = romano_illyrian
+		religion = catholic
+		size = 83
+	}
+
+	artisans = {
+culture = romano_illyrian
+		religion = catholic
+		size = 225
+	}
+
+	soldiers = {
+culture = romano_illyrian
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+culture = romano_illyrian
+		religion = catholic
+		size = 7695
+	}
+
+	bureaucrats = {
+culture = romano_illyrian
+		religion = catholic
+		size = 27
+	}
+
+	clergymen = {
+culture = romano_illyrian
+		religion = catholic
+		size = 27
+	}
+
+	artisans = {
+culture = romano_illyrian
+		religion = catholic
+		size = 261
+	}
+
+	soldiers = {
+culture = romano_illyrian
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+culture = romano_illyrian
+		religion = catholic
+		size = 796
+	}
+
+	clergymen = {
+culture = romano_illyrian
+religion = catholic
+		size = 27
+	}
+
+	artisans = {
+culture = romano_illyrian
+religion = catholic
+		size = 112
+	}
+
+	soldiers = {
+culture = romano_illyrian
+religion = catholic
+		size = 100
+	}
+
+	farmers = {
+culture = romano_illyrian
+religion = catholic
+		size = 2454
+	}
+}
+#Dubrovnik (19499/4874 POPS)
+782 = {
+	aristocrats = {
+culture = romano_illyrian
+		religion = catholic
+		size = 27
+	}
+
+	clergymen = {
+culture = romano_illyrian
+		religion = catholic
+		size = 36
+	}
+
+	artisans = {
+culture = romano_illyrian
+		religion = catholic
+		size = 186
+	}
+
+	soldiers = {
+culture = romano_illyrian
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+culture = romano_illyrian
+		religion = catholic
+		size = 3458
+	}
+
+	aristocrats = {
+culture = romano_illyrian
+		religion = catholic
+		size = 18
+	}
+
+	clergymen = {
+culture = romano_illyrian
+		religion = catholic
+		size = 9
+	}
+
+	artisans = {
+culture = romano_illyrian
+		religion = catholic
+		size = 186
+	}
+
+	soldiers = {
+culture = romano_illyrian
+		religion = catholic
+		size = 100
+	}
+
+	farmers = {
+culture = romano_illyrian
+		religion = catholic
+		size = 149
+	}
+
+	clergymen = {
+culture = romano_illyrian
+religion = catholic
+		size = 18
+	}
+
+	artisans = {
+culture = romano_illyrian
+religion = catholic
+		size = 36
+	}
+
+	soldiers = {
+culture = romano_illyrian
+religion = catholic
+		size = 100
+	}
+
+	farmers = {
+culture = romano_illyrian
+religion = catholic
+		size = 684
+	}
+
+}
+#Banat-Bacska Region (38998) #See Serbia.txt and Romania.txt for balance of region 
+#under the rule of Austria in 688  
+#Vukovar (38998/9748 POPS) #part of Croatia today
+793 = {
+	clergymen = {
+culture = romano_illyrian
+		religion = catholic
+		size = 55
+	}
+
+	artisans = {
+culture = romano_illyrian
+		religion = catholic
+		size = 298
+	}
+
+	soldiers = {
+culture = romano_illyrian
+		religion = catholic
+		size = 641
+	}
+
+	farmers = {
+culture = romano_illyrian
+		religion = catholic
+		size = 5577  
+	}
+
+	clergymen = {
+culture = romano_illyrian
+religion = catholic
+		size = 27  
+	}
+
+	artisans = {
+culture = romano_illyrian
+religion = catholic
+		size = 130
+	}
+
+	soldiers = {
+culture = romano_illyrian
+religion = catholic
+		size = 361
+	}
+
+	farmers = {
+culture = romano_illyrian
+religion = catholic
+		size = 2801 
+	}
+
+	aristocrats = {
+culture = goths
+		religion = catholic
+		size = 18  
+	}
+
+	clergymen = {
+culture = goths
+		religion = catholic
+		size = 14   
+	}
+
+	artisans = {
+culture = goths
+		religion = catholic
+		size = 36
+	}
+
+	soldiers = {
+culture = goths
+		religion = catholic
+		size = 91
+	}
+
+	farmers = {
+culture = goths
+		religion = catholic
+		size = 668 
+	}
+}

@@ -1,0 +1,12 @@
+owner = KAL
+controller = KAL
+add_core = KAL
+trade_goods = grain
+life_rating = 32
+fort = 1
+naval_base = 1
+1861.1.1 = { 
+	naval_base = 2 
+}
+
+set_province_flag = farm

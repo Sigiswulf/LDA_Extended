@@ -1,0 +1,7 @@
+owner = YUC
+controller = YUC
+add_core = YUC
+life_rating = 30
+trade_goods = tropical_wood
+set_province_flag = farm
+add_core = SMR

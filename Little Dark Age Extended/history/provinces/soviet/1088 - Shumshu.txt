@@ -1,0 +1,7 @@
+owner = ANU
+add_core = ANU
+trade_goods = coal
+life_rating = 15
+
+set_province_flag = mine
+add_core = SIB

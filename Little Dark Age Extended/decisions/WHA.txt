@@ -1,0 +1,41 @@
+political_decisions = {
+
+gather_roundtable = {
+
+potential = { tag = WHA
+
+	    NOT = {has_country_flag = called_roundtable}}
+
+allow = {
+tag = WHA
+military_plans = 1}
+
+effect = {
+
+	country_event = 470700
+	set_country_flag = called_roundtable
+}
+}
+
+
+battle_of_camlann = {
+		potential = {
+			OR = {
+				tag = WHA
+			}
+			NOT = {
+				has_country_flag = battle_of_cam
+			}
+		}
+		allow = {
+			army_decision_making = 1
+			WHA = { war_with = ENL}
+		}
+		effect = {
+			add_country_modifier = {
+				name = battle_of_camlann_m
+				duration = 10950
+			}
+			prestige = 5
+			set_country_flag = battle_of_cam
+		}}}

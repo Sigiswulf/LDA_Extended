@@ -1,0 +1,2354 @@
+
+# Wales Region : 484999
+#Cardiff (189999/47499 POPS)
+273 = {
+	aristocrats = {
+		culture = brythonic
+religion = catholic
+		size = 249
+	}
+
+	capitalists = {
+		culture = brythonic
+religion = catholic
+		size = 49
+	}
+
+	bureaucrats = {
+		culture = brythonic
+religion = catholic
+		size = 312
+	}
+
+	officers = {
+		culture = brythonic
+religion = catholic
+		size = 174
+	}
+
+	clergymen = {
+		culture = brythonic
+religion = catholic
+		size = 187
+	}
+
+	clerks = {
+		culture = brythonic
+religion = catholic
+		size = 124
+	}
+
+	craftsmen = {
+		culture = brythonic
+religion = catholic
+		size = 1275
+	}
+
+	artisans = {
+		culture = brythonic
+religion = catholic
+		size = 1650
+	}
+
+	soldiers = {
+		culture = brythonic
+religion = catholic
+		size = 549
+	}
+
+	labourers = {
+		culture = brythonic
+religion = catholic
+		size = 42000
+	}
+}
+#Cardigan (84000/21000 POPS)
+274 = {
+	aristocrats = {
+		culture = brythonic
+religion = catholic
+		size = 124
+	}
+
+	clergymen = {
+		culture = brythonic
+religion = catholic
+		size = 61
+	}
+
+	soldiers = {
+		culture = brythonic
+religion = catholic
+		size = 549
+	}
+
+	artisans = {
+		culture = brythonic
+religion = catholic
+		size = 999
+	}
+
+	farmers = {
+		culture = brythonic
+religion = catholic
+		size = 19312
+	}
+}
+#Llandrindod (90999/22749 POPS)
+275 = {
+	aristocrats = {
+		culture = brythonic
+religion = catholic
+		size = 124
+	}
+
+	clergymen = {
+		culture = brythonic
+religion = catholic
+		size = 124
+	}
+
+	soldiers = {
+		culture = brythonic
+religion = catholic
+		size = 249
+	}
+
+	artisans = {
+		culture = brythonic
+religion = catholic
+		size = 1125
+	}
+
+	farmers = {
+		culture = brythonic
+religion = catholic
+		size = 21124
+	}
+}
+#Holyhead (120000/30000 POPS)
+276 = {
+	aristocrats = {
+		culture = brythonic
+religion = catholic
+		size = 124
+	}
+
+	clergymen = {
+		culture = brythonic
+religion = catholic
+		size = 124
+	}
+
+	soldiers = {
+		culture = brythonic
+religion = catholic
+		size = 375
+	}
+
+	clerks = {
+		culture = brythonic
+religion = catholic
+		size = 75
+	}
+
+	craftsmen = {
+		culture = brythonic
+religion = catholic
+		size = 750
+	}
+
+	artisans = {
+		culture = brythonic
+religion = catholic
+		size = 1549
+	}
+
+	farmers = {
+		culture = brythonic
+religion = catholic
+		size = 25749
+	}
+
+}
+#Lancashire Region : 948000
+#Liverpool (468000/117000 POPS)
+277 = {
+	aristocrats = {
+		culture = brythonic
+religion = catholic
+		size = 549
+	}
+
+	officers = {
+		culture = brythonic
+religion = catholic
+		size = 249
+	}
+
+	bureaucrats = {
+		culture = brythonic
+religion = catholic
+		size = 574
+	}
+
+	clergymen = {
+		culture = brythonic
+religion = catholic
+		size = 549
+	}
+
+	capitalists = {
+		culture = brythonic
+religion = catholic
+		size = 624
+	}
+
+	clerks = {
+		culture = brythonic
+religion = catholic
+		size = 874
+	}
+
+	craftsmen = {
+		culture = brythonic
+religion = catholic
+		size = 1875
+	}
+
+	artisans = {
+		culture = brythonic
+religion = catholic
+		size = 12499
+	}
+
+	artisans = {
+		culture = brythonic
+religion = catholic
+		size = 4999
+	}
+
+	artisans = {
+		culture = brythonic
+religion = catholic
+		size = 1249
+	}
+
+	soldiers = {
+		culture = brythonic
+religion = catholic
+		size = 1500
+	}
+
+	labourers = {
+		culture = brythonic
+religion = catholic
+		size = 69424
+	}
+
+	clergymen = {
+		culture = brythonic
+		religion = catholic
+		size = 24
+	}
+
+	craftsmen = {
+		culture = brythonic
+		religion = catholic
+		size = 549
+	}
+
+	artisans = {
+		culture = brythonic
+		religion = catholic
+		size = 750
+	}
+
+	labourers = {
+		culture = brythonic
+		religion = catholic
+		size = 3225
+	}
+
+	clergymen = {
+		culture = brythonic
+		religion = catholic
+		size = 61
+	}
+
+	craftsmen = {
+		culture = brythonic
+		religion = catholic
+		size = 1125
+	}
+
+	artisans = {
+		culture = brythonic
+		religion = catholic
+		size = 4999
+	}
+
+	artisans = {
+		culture = brythonic
+		religion = catholic
+		size = 1875
+	}
+
+	farmers = {
+		culture = brythonic
+		religion = catholic
+		size = 3937
+	}
+}
+#Manchester (372000/93000 POPS)
+278 = {
+	aristocrats = {
+		culture = brythonic
+religion = catholic
+		size = 750
+	}
+
+	clergymen = {
+		culture = brythonic
+religion = catholic
+		size = 549
+	}
+
+	clerks = {
+		culture = brythonic
+religion = catholic
+		size = 774
+	}
+
+	craftsmen = {
+		culture = brythonic
+religion = catholic
+		size = 1500
+	}
+
+	artisans = {
+		culture = brythonic
+religion = catholic
+		size = 12499
+	}
+
+	artisans = {
+		culture = brythonic
+religion = catholic
+		size = 2550
+	}
+
+	soldiers = {
+		culture = brythonic
+religion = catholic
+		size = 1999
+	}
+
+	labourers = {
+		culture = brythonic
+religion = catholic
+		size = 62674
+	}
+
+	clergymen = {
+		culture = brythonic
+		religion = catholic
+		size = 37
+	}
+
+	clerks = {
+		culture = brythonic
+		religion = catholic
+		size = 24
+	}
+	
+	craftsmen = {
+		culture = brythonic
+		religion = catholic
+		size = 249
+	}
+	
+	labourers = {
+		culture = brythonic
+		religion = catholic
+		size = 4149
+	}
+
+	craftsmen = {
+		culture = brythonic
+		religion = catholic
+		size = 499
+	}
+	
+	artisans = {
+		culture = brythonic
+		religion = catholic
+		size = 499
+	}
+
+	labourers = {
+		culture = brythonic
+		religion = catholic
+		size = 1036
+	}
+}
+#Carlisle (108000/27000 POPS)
+279 = {
+	aristocrats = {
+		culture = brythonic
+religion = catholic
+		size = 124
+	}
+
+	clergymen = {
+		culture = brythonic
+religion = catholic
+		size = 124
+	}
+
+	artisans = {
+		culture = brythonic
+religion = catholic
+		size = 1999
+	}
+
+	soldiers = {
+		culture =brythonic
+religion = catholic
+		size = 249
+	}
+
+	farmers = {
+		culture = brythonic
+religion = catholic
+		size = 22999
+	}
+
+	farmers = {
+		culture = brythonic
+		religion = catholic
+		size = 999
+	}
+
+	artisans = {
+		culture = brythonic
+		religion = catholic
+		size = 375
+	}
+
+	farmers = {
+		culture = brythonic
+		religion = catholic
+		size = 124
+	}
+
+}
+#Yorkshire-Northumbria Region : 1095000
+#Newcastle-upon-Tyne (276000/69000 POPS)
+280 = {
+	aristocrats = {
+		culture = british
+religion = norse_pagan
+		size = 499
+	}
+
+	clergymen = {
+		culture = british
+religion = norse_pagan
+		size = 375
+	}
+
+	clerks = {
+		culture = british
+religion = norse_pagan
+		size = 199
+	}
+
+	craftsmen = {
+		culture = british
+religion = norse_pagan
+		size = 1125
+	}
+	
+	artisans = {
+		culture = british
+religion = norse_pagan
+		size = 4999
+	}
+
+	artisans = {
+		culture = british
+religion = norse_pagan
+		size = 1200
+	}
+
+	soldiers = {
+		culture = british
+religion = norse_pagan
+		size = 750
+	}
+
+	labourers = {
+		culture = british
+religion = norse_pagan
+		size = 53524
+	}
+
+	craftsmen = {
+		culture = british
+		religion = catholic
+		size = 99
+	}
+	
+	labourers = {
+		culture = british
+		religion = catholic
+		size = 1899
+	}
+}
+#Hull (255999/63999 POPS)
+281 = {
+	aristocrats = {
+		culture = british
+religion = catholic
+		size = 549
+	}
+
+	clergymen = {
+		culture = british
+religion = catholic
+		size = 375
+	}
+
+
+	artisans = {
+		culture = british
+religion = norse_pagan
+		size = 4999
+	}
+
+	artisans = {
+		culture = british
+religion = norse_pagan
+		size = 649
+	}
+
+	craftsmen = {
+		culture = british
+religion = norse_pagan
+		size = 1125
+	}
+	
+	soldiers = {
+		culture = british
+religion = norse_pagan
+		size = 549
+	}
+
+	labourers = {
+		culture = british
+religion = norse_pagan
+		size = 50574
+	}
+
+	craftsmen = {
+		culture = british
+		religion = catholic
+		size = 99
+	}
+	
+	labourers = {
+		culture = british
+		religion = catholic
+		size = 2400
+	}
+}
+#Leeds (234000/58500 POPS)
+282 = {
+	aristocrats = {
+		culture = british
+religion = catholic
+		size = 274
+	}
+
+	clergymen = {
+		culture = british
+religion = catholic
+		size = 312
+	}
+
+	clerks = {
+		culture = british
+religion = catholic
+		size = 199
+	}
+
+	craftsmen = {
+		culture = british
+religion = catholic
+		size = 1125
+	}
+	
+	artisans = {
+		culture = british
+religion = catholic
+		size = 4999
+	}
+
+	artisans = {
+		culture = british
+religion = catholic
+		size = 1275
+	}
+
+	soldiers = {
+		culture = british
+religion = catholic
+		size = 624
+	}
+
+	labourers = {
+		culture = brythonic
+religion = catholic
+		size = 45012
+	}
+
+	craftsmen = {
+		culture = brythonic
+		religion = catholic
+		size = 49
+	}
+	
+	farmers = {
+		culture = brythonic
+		religion = catholic
+		size = 1950
+	}
+}
+#Sheffield (328999/82249 POPS)
+283 = {
+	aristocrats = {
+		culture = british
+religion = catholic
+		size = 924
+	}
+
+	officers = {
+		culture = british
+religion = catholic
+		size = 624
+	}
+
+	bureaucrats = {
+		culture = british
+religion = catholic
+		size = 624
+	}
+
+	officers = {
+		culture = british
+religion = catholic
+		size = 549
+	}
+
+	clergymen = {
+		culture = british
+religion = catholic
+		size = 436
+	}
+
+	clerks = {
+		culture = british
+religion = catholic
+		size = 249
+	}
+
+	craftsmen = {
+		culture = british
+religion = catholic
+		size = 1125
+	}
+	
+	artisans = {
+		culture = british
+religion = catholic
+		size = 7999
+	}
+
+	artisans = {
+		culture = british
+religion = catholic
+		size = 1174
+	}
+
+	soldiers = {
+		culture = british
+religion = catholic
+		size = 750
+	}
+
+	labourers = {
+		culture = brythonic
+religion = catholic
+		size = 72661
+	}
+
+	craftsmen = {
+		culture = brythonic
+		religion = catholic
+		size = 99
+	}
+	
+	farmers = {
+		culture = brythonic
+		religion = catholic
+		size = 1899
+	}
+
+}
+#West Midlands Region : 879999
+#Birmingham (321999/80499 POPS)
+284 = {
+	aristocrats = {
+		culture = brythonic
+religion = catholic
+		size = 249
+	}
+
+	officers = {
+		culture = brythonic
+religion = catholic
+		size = 249
+	}
+
+	bureaucrats = {
+		culture = brythonic
+religion = catholic
+		size = 562
+	}
+
+	capitalists = {
+		culture = brythonic
+religion = catholic
+		size = 174
+	}
+
+	clergymen = {
+		culture = brythonic
+religion = catholic
+		size = 312
+	}
+
+	clerks = {
+		culture = brythonic
+religion = catholic
+		size = 1549
+	}
+
+	craftsmen = {
+		culture = brythonic
+religion = catholic
+		size = 1125
+	}
+
+	artisans = {
+		culture = brythonic
+religion = catholic
+		size = 7500
+	}
+
+	soldiers = {
+		culture = brythonic
+religion = catholic
+		size = 1500
+	}
+
+	labourers = {
+		culture = brythonic
+religion = catholic
+		size = 60949
+	}
+
+	craftsmen = {
+		culture = brythonic
+		religion = catholic
+		size = 99
+	}
+	
+	farmers = {
+		culture = brythonic
+		religion = catholic
+		size = 450
+	}
+
+	craftsmen = {
+		culture = brythonic
+		religion = catholic
+		size = 999
+	}
+	
+	farmers = {
+		culture = brythonic
+		religion = catholic
+		size = 499
+	}
+}
+#Chester (183999/45999 POPS)
+285 = {
+	aristocrats = {
+		culture = brythonic
+religion = catholic
+		size = 375
+	}
+
+	clergymen = {
+		culture = brythonic
+religion = catholic
+		size = 312
+	}
+
+	artisans = {
+		culture = brythonic
+religion = catholic
+		size = 2499
+	}
+
+	soldiers = {
+		culture = brythonic
+religion = catholic
+		size = 549
+	}
+
+	labourers = {
+		culture = brythonic
+religion = catholic
+		size = 41311
+	}
+
+	farmers = {
+		culture = brythonic
+		religion = catholic
+		size = 549
+	}
+
+	artisans = {
+		culture = brythonic
+		religion = catholic
+		size = 549
+	}
+}
+#Shrewsbury (157999/39499 POPS)
+286 = {
+	aristocrats = {
+		culture = brythonic
+religion = catholic
+		size = 249
+	}
+
+	clergymen = {
+		culture = brythonic
+religion = catholic
+		size = 187
+	}
+
+	craftsmen = {
+		culture = brythonic
+religion = catholic
+		size = 1125
+	}
+	
+	artisans = {
+		culture = brythonic
+religion = catholic
+		size = 3000
+	}
+
+	soldiers = {
+		culture = brythonic
+religion = catholic
+		size = 549
+	}
+
+	labourers = {
+		culture = brythonic
+religion = catholic
+		size = 34437
+	}
+}
+#Coventry (216000/54000 POPS)
+287 = {
+	aristocrats = {
+		culture = brythonic
+religion = catholic
+		size = 549
+	}
+
+	clergymen = {
+		culture = brythonic
+religion = catholic
+		size = 249
+	}
+
+	clerks = {
+		culture = brythonic
+religion = catholic
+		size = 549
+	}
+
+	craftsmen = {
+		culture = brythonic
+religion = catholic
+		size = 1875
+	}
+
+	artisans = {
+		culture = brythonic
+religion = catholic
+		size = 2499
+	}
+
+	soldiers = {
+		culture = brythonic
+religion = catholic
+		size = 549
+	}
+
+	labourers = {
+		culture = brythonic
+religion = catholic
+		size = 45499
+	}
+
+}
+#East Midlands Region : 612000
+#Nottingham (241999/60499 POPS)
+288 = {
+	aristocrats = {
+		culture = british
+religion = catholic
+		size = 375
+	}
+
+	officers = {
+		culture = british
+religion = catholic
+		size = 549
+	}
+
+	bureaucrats = {
+		culture = british
+religion = catholic
+		size = 375
+	}
+
+	clergymen = {
+		culture = british
+religion = catholic
+		size = 249
+	}
+
+	capitalists = {
+		culture =british
+religion = catholic
+		size = 49
+	}
+
+	clerks = {
+		culture = british
+religion = catholic
+		size = 99
+	}
+
+	craftsmen = {
+		culture = british
+religion = catholic
+		size = 1875
+	}
+
+	artisans = {
+		culture = british
+religion = catholic
+		size = 3499
+	}
+
+	soldiers = {
+		culture = british
+religion = catholic
+		size = 549
+	}
+
+	labourers = {
+		culture = brythonic
+religion = catholic
+		size = 48849
+	}
+
+	craftsmen = {
+		culture = brythonic
+		religion = catholic
+		size = 249
+	}
+	
+	farmers = {
+		culture = brythonic
+		religion = catholic
+		size = 2250
+	}
+}
+#Leicester (201999/50499 POPS)
+289 = {
+	aristocrats = {
+		culture = british
+religion = catholic
+		size = 124
+	}
+
+	clergymen = {
+		culture = british
+religion = catholic
+		size = 187
+	}
+
+	clerks = {
+		culture = british
+religion = catholic
+		size = 61
+	}
+
+	craftsmen = {
+		culture = british
+religion = catholic
+		size = 7500
+	}
+	
+	artisans = {
+		culture =british
+religion = catholic
+		size = 3750
+	}
+
+	soldiers = {
+		culture = british
+religion = catholic
+		size = 549
+	}
+
+	labourers = {
+		culture = brythonic
+religion = catholic
+		size = 44637
+	}
+}
+#Lincoln (168000/42000 POPS)
+290 = {
+	aristocrats = {
+		culture = british
+religion = norse_pagan
+		size = 249
+	}
+
+	clergymen = {
+		culture = british
+religion = norse_pagan
+		size = 249
+	}
+
+	craftsmen = {
+		culture = british
+religion = norse_pagan
+		size = 750
+	}
+	
+	artisans = {
+		culture = british
+religion = norse_pagan
+		size = 2499
+	}
+
+	soldiers = {
+		culture = british
+religion = norse_pagan
+		size = 549
+	}
+
+	labourers = {
+		culture = british
+religion = norse_pagan
+		size = 37749
+	}
+
+}
+#East Anglia Region : 630000
+#Cambridge (153999/38499 POPS)
+291 = {
+	aristocrats = {
+		culture = british
+religion = norse_pagan
+		size = 249
+	}
+
+	officers = {
+		culture = british
+religion = norse_pagan
+		size = 124
+	}
+
+	bureaucrats = {
+		culture = british
+religion = norse_pagan
+		size = 375
+	}
+
+	clergymen = {
+		culture = british
+religion = norse_pagan
+		size = 249
+	}
+
+	clerks = {
+		culture = british
+religion = norse_pagan
+		size = 49
+	}
+
+	craftsmen = {
+		culture = british
+religion = norse_pagan
+		size = 1500
+	}
+	
+	artisans = {
+		culture = british
+religion = norse_pagan
+		size = 2749
+	}
+
+	soldiers = {
+		culture = british
+religion = norse_pagan
+		size = 549
+	}
+
+	labourers = {
+		culture = british
+religion = norse_pagan
+		size = 34249
+	}
+}
+#Ipswich (337999/84499 POPS)
+292 = {
+	aristocrats = {
+		culture = british
+religion = norse_pagan
+		size = 750
+	}
+
+	clergymen = {
+		culture = british
+religion = norse_pagan
+		size = 549
+	}
+
+	clerks = {
+		culture = british
+religion = norse_pagan
+		size = 49
+	}
+
+	craftsmen = {
+		culture = british
+religion = norse_pagan
+		size = 1500
+	}
+	
+	artisans = {
+		culture = british
+religion = norse_pagan
+		size = 4200
+	}
+
+	soldiers = {
+		culture = british
+religion = norse_pagan
+		size = 750
+	}
+
+	labourers = {
+		culture = british
+religion = norse_pagan
+		size = 75249
+	}
+}
+#Chelmsford (138000/34500 POPS)
+293 = {
+	aristocrats = {
+		culture = british
+religion = norse_pagan
+		size = 249
+	}
+
+	clergymen = {
+		culture = british
+religion = norse_pagan
+		size = 187
+	}
+
+	clerks = {
+		culture = british
+religion = norse_pagan
+		size = 2400
+	}
+
+	craftsmen = {
+		culture = british
+religion = norse_pagan
+		size = 2625
+	}
+	
+	artisans = {
+		culture = british
+religion = norse_pagan
+		size = 11250
+	}
+
+	soldiers = {
+		culture = british
+religion = norse_pagan
+		size = 750
+	}
+
+	labourers = {
+		culture = british
+religion = norse_pagan
+		size = 28036
+	}
+
+	labourers = {
+		culture = british
+		religion = catholic
+		size = 999
+	}
+
+}
+#Oxfordshire/Buckinghamshire Region : 307999
+#147 : Oxford (151999/37999 POPS)
+294 = {
+	aristocrats = {
+		culture = british
+religion = norse_pagan
+		size = 375
+	}
+
+	officers = {
+		culture = british
+religion = norse_pagan
+		size = 124
+	}
+
+	bureaucrats = {
+		culture = british
+religion = norse_pagan
+		size = 187
+	}
+
+	clergymen = {
+		culture = british
+religion = norse_pagan
+		size = 249
+	}
+
+	artisans = {
+		culture = british
+religion = norse_pagan
+		size = 2749
+	}
+
+	craftsmen = {
+		culture = british
+religion = norse_pagan
+		size = 249
+	}
+	
+	soldiers = {
+		culture = british
+religion = norse_pagan
+		size = 750
+	}
+
+	labourers = {
+		culture = british
+religion = norse_pagan
+		size = 33312
+	}
+}
+#St. Albans (156000/39000 POPS)
+295 = {
+	aristocrats = {
+		culture = british
+religion = norse_pagan
+		size = 375
+	}
+
+	clergymen = {
+		culture = british
+religion = norse_pagan
+		size = 249
+	}
+
+	artisans = {
+		culture = british
+religion = norse_pagan
+		size = 1749
+	}
+
+	craftsmen = {
+		culture = british
+religion = norse_pagan
+		size = 249
+	}
+	
+	soldiers = {
+		culture = british
+religion = norse_pagan
+		size = 549
+	}
+
+	labourers = {
+		culture = british
+religion = norse_pagan
+		size = 35874
+	}
+
+}
+#Cornwall-Dorset Region : 1015999
+#Bristol (201999/50499 POPS)
+296 = {
+	aristocrats = {
+		culture = brythonic
+religion = catholic
+		size = 249
+	}
+
+	officers = {
+		culture = brythonic
+religion = catholic
+		size = 249
+	}
+
+	bureaucrats = {
+		culture = brythonic
+religion = catholic
+		size = 624
+	}
+
+	clergymen = {
+		culture = brythonic
+religion = catholic
+		size = 312
+	}
+
+	capitalists = {
+		culture = brythonic
+religion = catholic
+		size = 124
+	}
+
+	clerks = {
+		culture = brythonic
+religion = catholic
+		size = 799
+	}
+
+	craftsmen = {
+		culture = brythonic
+religion = catholic
+		size = 1875
+	}
+
+	artisans = {
+		culture = brythonic
+religion = catholic
+		size = 4999
+	}
+
+	artisans = {
+		culture = brythonic
+religion = catholic
+		size = 1999
+	}
+
+	soldiers = {
+		culture = brythonic
+religion = catholic
+		size = 549
+	}
+
+	labourers = {
+		culture = brythonic
+religion = catholic
+		size = 32137
+	}
+
+	farmers = {
+		culture = brythonic
+		religion = catholic
+		size = 999
+	}
+}
+#Salisbury (204000/51000 POPS)
+297 = {
+	aristocrats = {
+		culture = brythonic
+religion = catholic
+		size = 549
+	}
+
+	clergymen = {
+		culture = brythonic
+religion = catholic
+		size = 312
+	}
+
+	craftsmen = {
+		culture = brythonic
+religion = catholic
+		size = 1999
+	}
+
+	artisans = {
+		culture = brythonic
+religion = catholic
+		size = 2499
+	}
+
+	soldiers = {
+		culture = brythonic
+religion = catholic
+		size = 549
+	}
+
+	labourers = {
+		culture = brythonic
+religion = catholic
+		size = 45187
+	}
+}
+#Bath (204000/51000 POPS)
+298 = {
+	aristocrats = {
+		culture = brythonic
+religion = catholic
+		size = 375
+	}
+
+	clergymen = {
+		culture = brythonic
+religion = catholic
+		size = 312
+	}
+
+	craftsmen = {
+		culture = brythonic
+religion = catholic
+		size = 2499
+	}
+
+	artisans = {
+		culture = brythonic
+religion = catholic
+		size = 4999
+	}
+
+	artisans = {
+		culture = brythonic
+religion = catholic
+		size = 499
+	}
+
+	soldiers = {
+		culture = brythonic
+religion = catholic
+		size = 549
+	}
+
+	labourers = {
+		culture = brythonic
+religion = catholic
+		size = 41812
+	}
+}
+#Plymouth (405999/101499 POPS)
+299 = {
+	aristocrats = {
+		culture = brythonic
+religion = catholic
+		size = 750
+	}
+
+	clergymen = {
+		culture = brythonic
+religion = catholic
+		size = 624
+	}
+
+	clerks = {
+		culture = brythonic
+religion = catholic
+		size = 750
+	}
+
+	craftsmen = {
+		culture = brythonic
+religion = catholic
+		size = 3000
+	}
+
+	artisans = {
+		culture = brythonic
+religion = catholic
+		size = 3999
+	}
+
+	soldiers = {
+		culture = brythonic
+religion = catholic
+		size = 750
+	}
+
+	labourers = {
+		culture = brythonic
+religion = catholic
+		size = 88125
+	}
+
+	craftsmen = {
+		culture = brythonic
+		religion = catholic
+		size = 49
+	}
+	
+	farmers = {
+		culture = brythonic
+		religion = catholic
+		size = 499
+	}
+
+	craftsmen = {
+		culture = brythonic
+		religion = catholic
+		size = 300
+	}
+	
+	farmers = {
+		culture = brythonic
+		religion = catholic
+		size = 249
+	}
+
+}
+# Metro London Region - 1026000
+#London (1026000/256500 POPS)
+300 = {
+	aristocrats = {
+		culture = british
+religion = norse_pagan
+		size = 750
+	}
+
+	officers = {
+		culture = british
+religion = norse_pagan
+		size = 999
+	}
+
+	bureaucrats = {
+		culture = british
+religion = norse_pagan
+		size = 999
+	}
+
+	clergymen = {
+		culture = british
+religion = norse_pagan
+		size = 1624
+	}
+
+	capitalists = {
+		culture = british
+religion = norse_pagan
+		size = 1249
+	}
+
+	clerks = {
+		culture = british
+religion = norse_pagan
+		size = 4999
+	}
+
+	craftsmen = {
+		culture = british
+religion = norse_pagan
+		size = 1875
+	}
+
+	artisans = {
+		culture = british
+religion = norse_pagan
+		size = 4999
+	}
+
+	artisans = {
+		culture = british
+religion = norse_pagan
+		size = 4999
+	}
+
+	artisans = {
+		culture = british
+religion = norse_pagan
+		size = 4999
+	}
+
+	artisans = {
+		culture = british
+religion = norse_pagan
+		size = 4999
+	}
+
+	artisans = {
+		culture = british
+religion = norse_pagan
+		size = 4999
+	}
+
+	artisans = {
+		culture = british
+religion = norse_pagan
+		size = 4999
+	}
+
+	artisans = {
+		culture = british
+religion = norse_pagan
+		size = 4999
+	}
+
+	artisans = {
+		culture = british
+religion = norse_pagan
+		size = 4999
+	}
+
+	artisans = {
+		culture = british
+religion = norse_pagan
+		size = 4999
+	}
+
+	artisans = {
+		culture = british
+religion = norse_pagan
+		size = 4999
+	}
+
+	artisans = {
+		culture = british
+religion = norse_pagan
+		size = 4999
+	}
+
+	artisans = {
+		culture = british
+religion = norse_pagan
+		size = 4999
+	}
+
+	artisans = {
+		culture = british
+religion = norse_pagan
+		size = 4999
+	}
+
+	artisans = {
+		culture = british
+religion = norse_pagan
+		size = 4999
+	}
+
+	artisans = {
+		culture = british
+religion = norse_pagan
+		size = 4999
+	}
+
+	soldiers = {
+		culture = british
+religion = norse_pagan
+		size = 4500
+	}
+
+	labourers = {
+		culture = british
+religion = norse_pagan
+		size = 64125
+	}
+
+	clerks = {
+		culture = british
+		religion = catholic
+		size = 49
+	}
+	
+	craftsmen = {
+		culture = british
+		religion = catholic
+		size = 999
+	}
+	
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 3000
+	}
+
+	labourers = {
+		culture = british
+		religion = catholic
+		size = 8449
+	}
+
+	clerks = {
+		culture = british
+		religion = jewish
+		size = 49
+	}
+
+	craftsmen = {
+		culture = british
+		religion = jewish
+		size = 849
+	}
+
+	artisans = {
+		culture = british
+		religion = jewish
+		size = 1599
+	}
+
+	clergymen = {
+		culture = british
+		religion = catholic
+		size = 49
+	}
+	
+	craftsmen = {
+		culture = british
+		religion = catholic
+		size = 3150
+	}
+
+	artisans = {
+		culture = british
+		religion = catholic
+		size = 4800
+	}
+
+}
+#Sussex-Kent Region : 606000
+#Canterbury (237999/48999 POPS)
+301 = {
+	aristocrats = {
+		culture = british
+religion = norse_pagan
+		size = 375
+	}
+
+	bureaucrats = {
+		culture = british
+religion = norse_pagan
+		size = 375
+	}
+	
+	clergymen = {
+		culture = british
+religion = norse_pagan
+		size = 312
+	}
+
+	clerks = {
+		culture = british
+religion = norse_pagan
+		size = 1995
+	}
+	
+	craftsmen = {
+		culture = british
+religion = norse_pagan
+		size = 750
+	}
+	
+	artisans = {
+		culture = british
+religion = norse_pagan
+		size = 1999
+	}
+
+	soldiers = {
+		culture = british
+religion = norse_pagan
+		size = 549
+	}
+
+	labourers = {
+		culture = british
+religion = norse_pagan
+		size = 42687
+	}
+
+	craftsmen = {
+		culture = brythonic
+		religion = catholic
+		size = 49
+	}
+	
+	artisans = {
+		culture = brythonic
+		religion = catholic
+		size = 549
+	}
+}
+#Brighton (201999/50499 POPS)
+302 = {
+	aristocrats = {
+		culture = british
+religion = norse_pagan
+		size = 3750
+	}
+
+	clergymen = {
+		culture = british
+religion = norse_pagan
+		size = 249
+	}
+
+	clerks = {
+		culture = british
+religion = norse_pagan
+		size = 99
+	}
+	
+	craftsmen = {
+		culture = british
+religion = norse_pagan
+		size = 2625
+	}
+	
+	artisans = {
+		culture = british
+religion = norse_pagan
+		size = 4624
+	}
+
+	soldiers = {
+		culture = british
+religion = norse_pagan
+		size = 549
+	}
+
+	labourers = {
+		culture = british
+religion = norse_pagan
+		size = 42249
+	}
+}
+#Southampton (165999/41499 POPS)
+303 = {
+	aristocrats = {
+		culture = british
+religion = norse_pagan
+		size = 375
+	}
+
+	officers = {
+		culture = british
+religion = norse_pagan
+		size = 549
+	}
+
+	clergymen = {
+		culture = british
+religion = norse_pagan
+		size = 249
+	}
+
+	artisans = {
+		culture = british
+religion = norse_pagan
+		size = 2625
+	}
+
+	craftsmen = {
+		culture = british
+religion = norse_pagan
+		size = 1875
+	}
+	
+	soldiers = {
+		culture = british
+religion = norse_pagan
+		size = 549
+	}
+
+	labourers = {
+		culture = british
+religion = norse_pagan
+		size = 36499
+	}
+
+}
+#Isle Of Man Region - 22999
+#Douglas (22999/5749 POPS)
+304 = {
+	aristocrats = {
+		culture = brythonic
+religion = catholic
+		size = 49
+	}
+
+	bureaucrats = {
+		culture = brythonic
+religion = catholic
+		size = 12
+	}
+
+	clergymen = {
+		culture = brythonic
+religion = catholic
+		size = 61
+	}
+
+	artisans = {
+		culture = brythonic
+religion = catholic
+		size = 1624
+	}
+
+	soldiers = {
+		culture = brythonic
+religion = catholic
+		size = 49
+	}
+
+	labourers = {
+		culture = brythonic
+religion = catholic
+		size = 3799
+	}
+
+	labourers = {
+		culture = brythonic
+		religion = catholic
+		size = 150
+	}
+
+}
+#Normandie Region
+#Channel Islands (36000/9000 POPS)
+419 = {
+	aristocrats = {
+		culture = brythonic
+religion = norse_pagan
+		size = 49
+	}
+
+	bureaucrats = {
+		culture = brythonic
+religion = norse_pagan
+		size = 24
+	}
+
+	clergymen = {
+		culture = brythonic
+religion = norse_pagan
+		size = 61
+	}
+
+	artisans = {
+		culture = brythonic
+religion = norse_pagan
+		size = 1699
+	}
+
+	soldiers = {
+		culture = brythonic
+religion = norse_pagan
+		size = 124
+	}
+
+	farmers = {
+		culture = brythonic
+religion = norse_pagan
+		size = 7036
+	}
+
+}
+#Tayside-Highlands Region : 432000
+#Aberdeen (85999/21499 POPS)
+266 = {
+	farmers = {
+		culture = brythonic 
+		religion = catholic
+		size = 999
+	}
+
+	aristocrats = {
+		culture = brythonic 
+religion = norse_pagan
+		size = 49
+	}
+
+	officers = {
+		culture = brythonic 
+religion = norse_pagan
+		size = 249
+	}
+
+	soldiers = {
+		culture = brythonic 
+religion = norse_pagan
+		size = 1050
+	}
+
+	artisans = {
+		culture = brythonic 
+religion = norse_pagan
+		size = 4200
+	}
+
+	labourers = {
+		culture = brythonic 
+religion = norse_pagan
+		size = 15499
+	}
+}
+#Inverness (163999/40999 POPS)
+267 = {
+	aristocrats = {
+		culture = brythonic 
+religion = norse_pagan
+		size = 99
+	}
+
+	clergymen = {
+		culture = brythonic 
+religion = norse_pagan
+		size = 124
+	}
+
+	soldiers = {
+		culture = brythonic 
+religion = norse_pagan
+		size = 1950
+	}
+
+	artisans = {
+		culture = brythonic 
+religion = norse_pagan
+		size = 1999
+	}
+
+	farmers = {
+		culture = brythonic 
+religion = norse_pagan
+		size = 37774
+	}
+}
+#Dundee (181999/45499 POPS)
+268 = {
+	aristocrats = {
+		culture = brythonic 
+religion = norse_pagan
+		size = 150
+	}
+
+	bureaucrats = {
+		culture = brythonic 
+religion = norse_pagan
+		size = 249
+	}
+
+	artisans = {
+		culture = brythonic 
+religion = norse_pagan
+		size = 3999
+	}
+
+	soldiers = {
+		culture = brythonic 
+religion = norse_pagan
+		size = 1950
+	}
+
+	farmers = {
+		culture = brythonic 
+religion = norse_pagan
+		size = 39099
+	}
+
+}
+#Strathclyde-Lothian Region : 816000
+#Edinburgh (240000/60000 POPS)
+269 = {
+	aristocrats = {
+		culture = brythonic 
+religion = norse_pagan
+		size = 249
+	}
+
+	officers = {
+		culture = brythonic 
+religion = norse_pagan
+		size = 549
+	}
+
+	clergymen = {
+		culture = brythonic 
+religion = norse_pagan
+		size = 187
+	}
+
+	capitalists = {
+		culture = brythonic 
+religion = norse_pagan
+		size = 274
+	}
+
+	bureaucrats = {
+		culture = brythonic 
+religion = norse_pagan
+		size = 549
+	}
+
+	clerks = {
+		culture = brythonic 
+religion = norse_pagan
+		size = 199
+	}
+
+	craftsmen = {
+		culture = brythonic 
+religion = norse_pagan
+		size = 1999
+	}
+
+	artisans = {
+		culture = brythonic 
+religion = norse_pagan
+		size = 4999
+	}
+
+	artisans = {
+		culture = brythonic 
+religion = norse_pagan
+		size = 3000
+	}
+
+	soldiers = {
+		culture = brythonic 
+religion = norse_pagan
+		size = 1950
+	}
+
+	farmers = {
+		culture = brythonic 
+religion = norse_pagan
+		size = 28587
+	}
+
+	clergymen = {
+		culture = brythonic 
+		religion = catholic
+		size = 49
+	}
+
+	craftsmen = {
+		culture = brythonic 
+		religion = catholic
+		size = 750
+	}
+
+	artisans = {
+		culture = brythonic 
+		religion = catholic
+		size = 2499
+	}
+
+	farmers = {
+		culture = brythonic 
+		religion = catholic
+		size = 13200
+	}
+
+	craftsmen = {
+		culture = brythonic
+		religion = catholic
+		size = 49
+	}
+	
+	artisans = {
+		culture = brythonic
+		religion = catholic
+		size = 499
+	}
+}
+#Stirling (181999/45499 POPS)
+270 = {
+	aristocrats = {
+		culture = irish
+religion = norse_pagan
+		size = 99
+	}
+
+	clergymen = {
+		culture = irish
+religion = norse_pagan
+		size = 99
+	}
+
+	artisans = {
+		culture = irish
+religion = norse_pagan
+		size = 3249
+	}
+
+	soldiers = {
+		culture = irish
+religion = norse_pagan
+		size = 1050
+	}
+
+	farmers = {
+		culture = irish
+religion = norse_pagan
+		size = 39549
+	}
+
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 1999
+	}
+}
+#Glasgow (309999/77499 POPS)
+271 = {
+	aristocrats = {
+		culture = brythonic
+religion = norse_pagan
+		size = 249
+	}
+
+	clergymen = {
+		culture = brythonic
+religion = norse_pagan
+		size = 249
+	}
+
+	clerks = {
+		culture = brythonic
+religion = norse_pagan
+		size = 424
+	}
+
+	craftsmen = {
+		culture = brythonic 
+religion = norse_pagan
+		size = 1125
+	}
+
+	artisans = {
+		culture = brythonic
+religion = norse_pagan
+		size = 4999
+	}
+
+	artisans = {
+		culture = irish
+religion = norse_pagan
+		size = 4999
+	}
+
+	soldiers = {
+		culture = irish 
+religion = norse_pagan
+		size = 3750
+	}
+
+	farmers = {
+		culture =brythonic 
+religion = norse_pagan
+		size = 43824
+	}
+
+	clergymen = {
+		culture = brythonic
+		religion = catholic
+		size = 49
+	}
+
+	farmers = {
+		culture = irish
+		religion = catholic
+		size = 2449
+	}
+
+	craftsmen = {
+		culture =brythonic
+		religion = catholic
+		size = 1125
+	}
+
+	artisans = {
+		culture =brythonic
+		religion = catholic
+		size = 4999
+	}
+	
+	artisans = {
+		culture = irish
+		religion = catholic
+		size = 999
+	}
+}
+#Dumfries (84000/21000 POPS) 
+272 = {
+	aristocrats = {
+		culture = brythonic
+religion = catholic
+		size = 49
+	}
+
+	clergymen = {
+		culture = brythonic 
+religion = norse_pagan
+		size = 49
+	}
+
+	artisans = {
+		culture = brythonic
+religion = catholic
+		size = 1999
+	}
+
+	farmers = {
+		culture = brythonic
+religion = catholic
+		size = 16899
+	}
+
+	farmers = {
+		culture = brythonic
+		religion = catholic
+		size = 2499
+	}
+
+}

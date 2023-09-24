@@ -1,0 +1,28 @@
+#Iceland (41065)
+#Ruled by Denmark in 1346
+#Reykjavik (41065/10265 POPS)
+252 = {
+	bureaucrats = {
+culture = swedish
+religion = norse_pagan
+		size = 1700
+	}
+
+	clergymen = {
+culture = swedish
+religion = norse_pagan
+		size = 7200
+	}
+
+	artisans = {
+culture = swedish
+religion = norse_pagan
+		size = 37550
+	}
+
+	farmers = {
+culture = swedish
+religion = norse_pagan
+		size = 29625
+	}
+}

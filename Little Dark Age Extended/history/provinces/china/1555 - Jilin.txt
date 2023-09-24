@@ -1,0 +1,9 @@
+owner = GOG
+controller = GOG
+add_core = GOG
+trade_goods = iron
+life_rating = 32
+terrain = farmlands
+fort = 1
+
+set_province_flag = mine

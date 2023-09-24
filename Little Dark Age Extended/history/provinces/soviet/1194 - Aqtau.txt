@@ -1,0 +1,10 @@
+owner = HEP
+controller = HEP
+add_core = HEP
+trade_goods = opium
+life_rating = 25
+1861.1.1 = {
+	colonial = 2
+}
+set_province_flag = farm
+add_core = SIB

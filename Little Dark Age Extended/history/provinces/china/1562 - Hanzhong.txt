@@ -1,0 +1,9 @@
+owner = NWI
+controller = NWI
+add_core = NWI
+#add_core = TPG
+#add_core = XBI
+trade_goods = coal
+life_rating = 32
+
+set_province_flag = mine

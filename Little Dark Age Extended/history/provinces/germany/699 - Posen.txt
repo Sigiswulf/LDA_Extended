@@ -1,0 +1,12 @@
+owner = GMI
+controller = GMI
+add_core = GMI
+trade_goods = grain
+life_rating = 40
+fort = 1
+1861.1.1 = { 
+	railroad = 3
+	fort = 2
+}
+
+set_province_flag = farm

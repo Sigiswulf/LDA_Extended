@@ -1,0 +1,91 @@
+#Surinam : 5664
+#Ruled by The Netherlands 183
+#Paramaribo (4864/1216 POPS)
+2240 = {
+	aristocrats = {
+culture = native_american_minor
+religion = animist
+		size = 2
+	}
+
+	bureaucrats = {
+culture = native_american_minor
+religion = animist
+		size = 1
+	}
+
+	artisans = {
+culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	soldiers = {
+culture = native_american_minor
+religion = animist
+		size = 7
+	}
+
+	clergymen = {
+culture = native_american_minor
+religion = animist
+		size = 2
+	}
+
+	artisans = {
+culture = native_american_minor
+religion = animist
+		size = 175
+	}
+
+	farmers = {
+culture = native_american_minor
+religion = animist
+		size = 120
+	}
+
+	soldiers = {
+culture = native_american_minor
+religion = animist
+		size = 2
+	}
+
+	slaves = {
+culture = native_american_minor
+religion = animist
+		size = 900
+	}
+}
+#Aperina (800/200 POPS)
+2245 = {
+	aristocrats = {
+culture = native_american_minor
+religion = animist
+		size = 2
+	}
+
+	clergymen = {
+culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	artisans = {
+culture = native_american_minor
+religion = animist
+		size = 10
+	}
+
+	soldiers = {
+culture = native_american_minor
+religion = animist
+		size = 2
+	}
+
+	farmers = {
+culture = native_american_minor
+religion = animist
+		size = 175
+	}
+
+}

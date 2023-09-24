@@ -1,0 +1,285 @@
+#Albania Region (913332)
+#under the rule of Ottoman Empire in 1530
+#Tirana (246665/61665 POPS)
+849 = {
+	aristocrats = {
+culture = romano_illyrian
+religion = catholic
+		size = 1250
+	}
+
+	bureaucrats = {
+culture = romano_illyrian
+religion = catholic
+		size = 290
+	}
+
+	officers = {
+culture = romano_illyrian
+religion = catholic
+		size = 250
+	}
+
+	clergymen = {
+culture = romano_illyrian
+religion = catholic
+		size = 520
+	}
+
+	artisans = {
+culture = romano_illyrian
+religion = catholic
+		size = 2665
+	}
+
+	soldiers = {
+culture = romano_illyrian
+religion = catholic
+		size = 1665
+	}
+
+	farmers = {
+culture = romano_illyrian
+religion = catholic
+		size = 46687
+	}
+
+	clergymen = {
+culture = romano_illyrian
+religion = catholic
+		size = 62
+	}
+
+	artisans = {
+culture = romano_illyrian
+religion = catholic
+		size = 415
+	}
+
+	farmers = {
+culture = romano_illyrian
+religion = catholic
+		size = 7852
+	}
+}
+#Shkoder (340000/85000 POPS)
+850 = {
+	aristocrats = {
+		culture = greek
+religion = catholic
+		size = 1790
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 625
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 3165
+	}
+
+	soldiers = {
+culture = romano_illyrian
+religion = catholic
+		size = 1665
+	}
+
+	farmers = {
+culture = romano_illyrian
+religion = catholic
+		size = 56082
+	}
+
+	clergymen = {
+		culture = greek
+		religion = catholic
+		size = 187
+	}
+
+	artisans = {
+		culture = greek
+		religion = catholic
+		size = 875
+	}
+
+	farmers = {
+culture = romano_illyrian
+		religion = catholic
+		size = 20602
+	}
+}
+#Durres (100000/25000 POPS)
+851 = {
+	aristocrats = {
+		culture = greek
+religion = catholic
+		size = 500
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 187
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 1000
+	}
+
+	soldiers = {
+		culture = greek
+religion = catholic
+		size = 915
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 17562
+	}
+
+	clergymen = {
+		culture = greek
+		religion = catholic
+		size = 40
+	}
+
+	artisans = {
+		culture = greek
+		religion = catholic
+		size = 250
+	}
+
+	farmers = {
+culture = romano_illyrian
+		religion = catholic
+		size = 4540
+	}
+}
+#Vlore (226665/56665 POPS)
+852 = {
+	aristocrats = {
+		culture = greek
+religion = catholic
+		size = 1165
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 520
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 2707
+	}
+
+	soldiers = {
+		culture = greek
+religion = catholic
+		size = 582
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 46687
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 40
+	}
+
+	artisans = {
+culture = romano_illyrian
+religion = catholic
+		size = 250
+	}
+
+	farmers = {
+culture = romano_illyrian
+religion = catholic
+		size = 4540
+	}
+}
+#Epirus Region (140000) #see Greece.txt for balance of region 
+#under the rule of Ottoman Empire in 1530
+#Gjirokaster (140000/35000 POPS) #now part of Albania   
+853 = {
+	aristocrats = {
+		culture = greek
+religion = catholic
+		size = 625
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 207
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 582
+	}
+
+	soldiers = {
+		culture = greek
+religion = catholic
+		size = 352
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 19062
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 40
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 250
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 6540
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 102
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 915
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 7312
+	}
+
+}

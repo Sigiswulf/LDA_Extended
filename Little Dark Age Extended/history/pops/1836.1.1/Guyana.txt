@@ -1,0 +1,185 @@
+#Guyana (9960)
+#Ruled by Britain 183
+#Georgetown (5860/1465 POPS)
+2239 = {
+	aristocrats = {
+culture = native_american_minor
+religion = animist
+		size = 10
+	}
+
+	bureaucrats = {
+culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	clergymen = {
+culture = native_american_minor
+religion = animist
+		size = 2
+	}
+
+	artisans = {
+culture = native_american_minor
+religion = animist
+		size = 35
+	}
+
+	soldiers = {
+culture = native_american_minor
+religion = animist
+		size = 2
+	}
+
+	farmers = {
+culture = native_american_minor
+religion = animist
+		size = 10
+	}
+
+	clergymen = {
+culture = native_american_minor
+religion = animist
+		size = 7
+	}
+
+	artisans = {
+culture = native_american_minor
+religion = animist
+		size = 70
+	}
+
+	soldiers = {
+culture = native_american_minor
+religion = animist
+		size = 15
+	}
+
+	farmers = {
+culture = native_american_minor
+religion = animist
+		size = 1307
+	}
+}
+#Mahdia (400/100 POPS)
+2242 = {
+	aristocrats = {
+culture = native_american_minor
+religion = animist
+		size = 1
+	}
+
+	clergymen = {
+culture = native_american_minor
+religion = animist
+		size = 2
+	}
+
+	artisans = {
+culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	soldiers = {
+culture = native_american_minor
+religion = animist
+		size = 1
+	}
+
+	farmers = {
+culture = native_american_minor
+religion = animist
+		size = 90
+	}
+}
+#Essequibo (3300/825 POPS)
+2243 = {
+	aristocrats = {
+culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	clergymen = {
+culture = native_american_minor
+religion = animist
+		size = 2
+	}
+
+	artisans = {
+culture = native_american_minor
+religion = animist
+		size = 10
+	}
+
+	soldiers = {
+culture = native_american_minor
+religion = animist
+		size = 2
+	}
+
+	farmers = {
+culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	clergymen = {
+culture = native_american_minor
+religion = animist
+		size = 7
+	}
+
+	artisans = {
+culture = native_american_minor
+religion = animist
+		size = 30
+	}
+
+	soldiers = {
+culture = native_american_minor
+religion = animist
+		size = 7
+	}
+
+	farmers = {
+culture = native_american_minor
+religion = animist
+		size = 855
+	}
+}
+#Biloka (400/100 POPS)
+1979 = {
+	aristocrats = {
+culture = native_american_minor
+religion = animist
+		size = 1
+	}
+
+	clergymen = {
+culture = native_american_minor
+religion = animist
+		size = 2
+	}
+
+	artisans = {
+culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	soldiers = {
+culture = native_american_minor
+religion = animist
+		size = 1
+	}
+
+	farmers = {
+culture = native_american_minor
+religion = animist
+		size = 90
+	}
+
+}

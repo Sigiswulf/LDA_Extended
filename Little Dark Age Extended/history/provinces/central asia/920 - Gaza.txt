@@ -1,0 +1,11 @@
+owner = BYZ
+controller = BYZ
+add_core = BYZ
+add_core = ISR
+add_care = SYR
+trade_goods = grain
+life_rating = 35
+1861.1.1 = {
+}
+
+set_province_flag = farm

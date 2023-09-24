@@ -1,0 +1,9 @@
+owner = NWI
+controller = NWI
+add_core = NWI
+trade_goods = iron
+life_rating = 32
+
+
+
+set_province_flag = mine

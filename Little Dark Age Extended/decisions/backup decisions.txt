@@ -1,0 +1,25 @@
+roman_kingdom = {
+	potential = {
+			tag = ITA
+			NOT = { has_country_flag = roman_accepted } 
+}
+allow = { state_n_government = 1 }
+NOT = { war = yes }
+effect = {
+set_country_flag = roman_accepted
+add_accepted_culture = roman
+}
+}
+secure_the_adriatic = {
+potential = {
+tag = ITA
+NOT = { has_country_flag = balkans_accepted }
+}
+allow = { nationalism_n_imperialism = 1 
+NOT = { war = yes }
+}
+effect = {
+set_country_flag = balkans_accepted 
+add_accepted_culture = romano_illyrian
+}
+}

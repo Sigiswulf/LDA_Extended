@@ -1,0 +1,62 @@
+political_decisions = {
+
+unify_nihongo = {
+
+potential = {
+OR = {
+tag = JAP
+}
+NOT = { has_country_flag = japan_form } 
+}
+
+
+allow = {NOT {war = yes}
+
+
+
+
+ANU = {
+	all_core = {
+	OR = {
+	owned_by = THIS
+	owner = {
+	in_sphere = THIS}}}}
+JAP = {
+all_core = {
+OR = {
+owned_by = THIS
+owner = {
+in_sphere = THIS
+}}}}}
+
+effect = {
+prestige = 30
+ANU = {civilized = yes}
+inherit = ANU
+set_country_flag = japan_form
+any_owned = {
+
+limit = { is_core = ANU}
+add_core = THIS
+add_province_modifier = {
+	name = japan_assim
+	duration = 40125
+}
+}
+
+any_owned = {
+limit = { is_core = JAP}
+
+add_core = THIS
+}
+
+
+JAP = { all_core = { add_core = THIS } }
+ANU = { all_core = { add_core = THIS } }
+
+
+
+}}
+
+
+}

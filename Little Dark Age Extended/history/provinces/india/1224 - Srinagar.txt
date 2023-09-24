@@ -1,0 +1,13 @@
+owner = HNS
+controller = HNS
+add_core = HNS
+#add_core = KAS
+#add_core = HND
+trade_goods = silk
+life_rating = 32
+1861.1.1 = {
+	owner = KAS
+	controller = KAS
+}
+
+set_province_flag = farm

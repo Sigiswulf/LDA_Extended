@@ -1,0 +1,462 @@
+#Chaco Region (160) #see Argentina.txt for balance of region
+#Under loose authority of Paraguay 18
+#Fortin Falcon (80/20 POPS)
+2337 = {
+    aristocrats = {
+culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    clergymen = {
+culture = native_american_minor
+        religion = animist
+        size = 1
+    }
+
+    artisans = {
+culture = native_american_minor
+        religion = animist
+        size = 3
+    }
+
+    soldiers = {
+culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = native_american_minor
+        religion = animist
+        size = 61
+    }
+}
+#Puerto platinean (80/20 POPS)
+2338 = {
+    aristocrats = {
+culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    clergymen = {
+culture = native_american_minor
+        religion = animist
+        size = 1
+    }
+
+    artisans = {
+culture = native_american_minor
+        religion = animist
+        size = 3
+    }
+
+    soldiers = {
+culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = native_american_minor
+        religion = animist
+        size = 61
+    }
+}
+#Paraguay Region (6360) #see Brazil.txt & Argentina.txt for balance of region
+#Under rule of Paraguay 18
+#Asuncion (3680/920 POPS)
+2339 = {
+    aristocrats = {
+culture = native_american_minor
+        religion = catholic
+        size = 62
+    }
+
+    bureaucrats = {
+culture = native_american_minor
+        religion = catholic
+        size = 6
+    }
+
+    officers = {
+culture = native_american_minor
+        religion = catholic
+        size = 5
+    }
+
+    clergymen = {
+culture = native_american_minor
+        religion = catholic
+        size = 26
+    }
+
+    artisans = {
+culture = native_american_minor
+        religion = catholic
+        size = 108
+    }
+
+    soldiers = {
+culture = native_american_minor
+        religion = catholic
+        size = 374
+    }
+
+    farmers = {
+culture = native_american_minor
+        religion = catholic
+        size = 1932
+    }
+
+    clergymen = {
+culture = native_american_minor
+        religion = catholic
+        size = 4
+    }
+
+    artisans = {
+culture = native_american_minor
+        religion = catholic
+        size = 40
+    }
+
+    soldiers = {
+culture = native_american_minor
+        religion = catholic
+        size = 8
+    }
+
+    farmers = {
+culture = native_american_minor
+        religion = catholic
+        size = 762
+    }
+
+    clergymen = {
+culture = native_american_minor
+        religion = catholic
+        size = 0
+    }
+
+    artisans = {
+culture = native_american_minor
+        religion = catholic
+        size = 4
+    }
+
+    soldiers = {
+culture = native_american_minor
+        religion = catholic
+        size = 0
+    }
+
+    farmers = {
+culture = native_american_minor
+        religion = catholic
+        size = 53
+    }
+
+    slaves = {
+culture = native_american_minor
+        religion = catholic
+        size = 25
+    }
+}
+#Pilar (680/170 POPS)
+2340 = {
+    aristocrats = {
+culture = native_american_minor
+        religion = catholic
+        size = 11
+    }
+
+    clergymen = {
+culture = native_american_minor
+        religion = catholic
+        size = 3
+    }
+
+    artisans = {
+culture = native_american_minor
+        religion = catholic
+        size = 6
+    }
+
+    soldiers = {
+culture = native_american_minor
+        religion = catholic
+        size = 1
+    }
+
+    farmers = {
+culture = native_american_minor
+        religion = catholic
+        size = 112
+    }
+
+    clergymen = {
+culture = native_american_minor
+        religion = catholic
+        size = 1
+    }
+
+    artisans = {
+culture = native_american_minor
+        religion = catholic
+        size = 20
+    }
+
+    soldiers = {
+culture = native_american_minor
+        religion = catholic
+        size = 4
+    }
+
+    farmers = {
+culture = native_american_minor
+        religion = catholic
+        size = 381
+    }
+
+    clergymen = {
+culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    artisans = {
+culture = native_american_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = native_american_minor
+        religion = animist
+        size = 30
+    }
+}
+#Encarnacion (1000/250 POPS)
+2341 = {
+    aristocrats = {
+culture = native_american_minor
+        religion = catholic
+        size = 17
+    }
+
+    clergymen = {
+culture = native_american_minor
+        religion = catholic
+        size = 4
+    }
+
+    artisans = {
+culture = native_american_minor
+        religion = catholic
+        size = 6
+    }
+
+    soldiers = {
+culture = native_american_minor
+        religion = catholic
+        size = 1
+    }
+
+    farmers = {
+culture = native_american_minor
+        religion = catholic
+        size = 106
+    }
+
+    clergymen = {
+culture = native_american_minor
+        religion = catholic
+        size = 3
+    }
+
+    artisans = {
+culture = native_american_minor
+        religion = catholic
+        size = 37
+    }
+
+    soldiers = {
+culture = native_american_minor
+        religion = catholic
+        size = 37
+    }
+
+    farmers = {
+culture = native_american_minor
+        religion = catholic
+        size = 656
+    }
+
+    clergymen = {
+culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    artisans = {
+culture = native_american_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = native_american_minor
+        religion = animist
+        size = 30
+    }
+}
+#San Pedro (840/210 POPS)
+2342 = {
+    aristocrats = {
+culture = native_american_minor
+        religion = catholic
+        size = 14
+    }
+
+    clergymen = {
+culture = native_american_minor
+        religion = catholic
+        size = 4
+    }
+
+    artisans = {
+culture = native_american_minor
+        religion = catholic
+        size = 6
+    }
+
+    soldiers = {
+culture = native_american_minor
+        religion = catholic
+        size = 1
+    }
+
+    farmers = {
+culture = native_american_minor
+        religion = catholic
+        size = 108
+    }
+
+    clergymen = {
+culture = native_american_minor
+        religion = catholic
+        size = 2
+    }
+
+    artisans = {
+culture = native_american_minor
+        religion = catholic
+        size = 27
+    }
+
+    soldiers = {
+culture = native_american_minor
+        religion = catholic
+        size = 37
+    }
+
+    farmers = {
+culture = native_american_minor
+        religion = catholic
+        size = 480
+    }
+
+    clergymen = {
+culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    artisans = {
+culture = native_american_minor
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = native_american_minor
+        religion = animist
+        size = 30
+    }
+}
+#Concepcion (160/40 POPS)
+2343 = {
+    clergymen = {
+culture = native_american_minor
+        religion = catholic
+        size = 0
+    }
+
+    artisans = {
+culture = native_american_minor
+        religion = catholic
+        size = 1
+    }
+
+    soldiers = {
+culture = native_american_minor
+        religion = catholic
+        size = 0
+    }
+
+    farmers = {
+culture = native_american_minor
+        religion = catholic
+        size = 30
+    }
+
+    aristocrats = {
+culture = native_american_minor
+        religion = animist
+        size = 1
+    }
+
+    clergymen = {
+culture = native_american_minor
+        religion = animist
+        size = 2
+    }
+
+    artisans = {
+culture = native_american_minor
+        religion = animist
+        size = 5
+    }
+
+    soldiers = {
+culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = native_american_minor
+        religion = animist
+        size = 91
+    }
+}

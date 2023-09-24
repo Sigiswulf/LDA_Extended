@@ -1,0 +1,700 @@
+leader = {
+	name = "Alexandros Dousmanis"
+	picture = spa_gen_espartero
+	type = land
+	date="1834.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+leader = {
+	name = "Flavius Belisarius"
+	picture = gre_gen_kalergis
+	type = land
+	date="500.1.1"
+	personality = defence_4.1
+	background = attack_4.1
+}
+leader = {
+	name = "Sofoklis Tzavelas"
+	picture = gre_gen_kolokotronis
+	type = land
+	date="500.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Spyros Kriezis"
+	picture = spa_gen_vanhalen
+	type = land
+	date="1823.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.2
+}
+leader = {
+	name = "Adamantios Christakis-Zografos"
+	picture = gre_gen_soutsos
+	type = land
+	date="497.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Viktor Papoulas"
+	picture = gre_gen_papadiamantopoulosdemetrios
+	type = land
+	date="497.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+leader = {
+	name = "Charalambos Sarafis"
+	picture = gre_adm_kriezis
+	type = sea
+	date="500.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+}
+
+#Army
+army = {
+	name = "Army of Thrace"
+	location = 860
+	regiment = {
+		name= "1. Imperial Guard"
+		type = dragoon
+		home = 826
+	}
+
+	regiment = {
+		name= "2. Imperial Guard"
+		type = infantry_offensive
+		home = 825
+	}
+
+	regiment = {
+		name= "3. Corinth Guard"
+		type = infantry_offensive
+		home = 835
+	}
+
+	regiment = {
+		name= "1. Cohort Infantry 'El Ramillete'"
+		type = infantry_offensive
+		home = 834
+	}
+
+	regiment = {
+		name= "2. Cohort Infantry"
+		type = infantry_offensive
+		home = 834
+	}
+
+	regiment = {
+		name= "3. Cohort Infantry"
+		type = infantry_defensive
+		home = 840
+	}
+
+	regiment = {
+		name= "1. Siege Century"
+		type = artillery
+		home = 840
+	}
+
+	regiment = {
+		name= "1. Imperial Guard"
+		type = infantry_defensive
+		home = 840
+	}
+
+	regiment = {
+		name= "2. Imperial Guard"
+		type = infantry_defensive
+		home = 840
+	}
+
+	regiment = {
+		name= "3. Imperial Guard"
+		type = infantry_defensive
+		home = 848
+	}
+}
+
+army = {
+	name = "Army of the Danube"
+	location = 814
+	
+	regiment = {
+		name= "4. Cohort Infantry"
+		type = cavalry
+		home = 848
+	}
+
+	regiment = {
+		name= "1. Cohort Infantry"
+		type = infantry_offensive
+		home = 848
+	}
+	
+	regiment = {
+		name= "5. Cohort Infantry"
+		type = infantry_offensive
+		home = 848
+	}
+	
+	regiment = {
+		name= "6. Cohort Infantry"
+		type = infantry_offensive
+		home = 856
+	}
+
+	regiment = {
+		name= "7. Cohort Infantry"
+		type = infantry_offensive
+		home = 856
+	}
+
+	regiment = {
+		name= "8. Cohort Infantry"
+		type = infantry_defensive
+		home = 856
+	}
+
+	regiment = {
+		name= "9. Cohort Infantry"
+		type = infantry_defensive
+		home = 856
+	}
+
+	regiment = {
+		name= "10. Cohort Infantry"
+		type = infantry_defensive
+		home = 855
+	}
+
+	regiment = {
+		name= "11. Cohort Infantry"
+		type = infantry_defensive
+		home = 855
+	}
+	
+	regiment = {
+		name= "12. Cohort Infantry"
+		type = artillery
+		home = 845
+	}
+}
+army = {
+	name = "Horsemen of Greece"
+	location = 836
+	regiment = {
+		name= "1.7 Legion Cuirassier"
+		type = cuirassier
+		home = 845
+	}
+	
+	regiment = {
+		name= "1.4 Legion Cuirassier"
+		type = cuirassier
+		home = 845
+	}
+
+	regiment = {
+		name= "2.4 Legion Cuirassier"
+		type = cuirassier
+		home = 844
+	}
+
+	regiment = {
+		name= "3.4 Legion Cuirassier"
+		type = cuirassier
+		home = 844
+	}
+
+	regiment = {
+		name= "1.5 Legion Cuirassier"
+		type = cuirassier
+		home = 844
+	}
+
+	regiment = {
+		name= "2.5 Legion Cuirassier"
+		type = cuirassier
+		home = 843
+	}
+
+	regiment = {
+		name= "3.5 Legion Cuirassier"
+		type = cuirassier
+		home = 837
+	}
+
+	regiment = {
+		name= "1.6 Legion Cuirassier"
+		type = cuirassier
+		home = 839
+	}
+
+	regiment = {
+		name= "2.6 Legion Cuirassier"
+		type = cuirassier
+		home = 839
+	}
+
+	regiment = {
+		name= "3.6 Legion Cuirassier"
+		type = cuirassier
+		home = 839
+	}
+	
+	regiment = {
+		name= "1.1 cuirassier"
+		type = cuirassier
+		home = 839
+	}
+	
+	regiment = {
+		name= "4.1 cuirassier"
+		type = cuirassier
+		home = 504
+	}
+}
+army = {
+	name = "Army of Anatolia"
+	location = 875
+	regiment = {
+		name= "1. Imperial Guard"
+		type = dragoon
+		home = 844
+	}
+
+	regiment = {
+		name= "2. Imperial Guard"
+		type = infantry_offensive
+		home = 869
+	}
+
+	regiment = {
+		name= "3. Corinth Guard"
+		type = infantry_offensive
+		home = 848
+	}
+
+	regiment = {
+		name= "1. Cohort Infantry 'El Ramillete'"
+		type = infantry_offensive
+		home = 848
+	}
+
+	regiment = {
+		name= "2. Cohort Infantry"
+		type = infantry_offensive
+		home = 848
+	}
+
+	regiment = {
+		name= "3. Cohort Infantry"
+		type = infantry_defensive
+		home = 848
+	}
+
+	regiment = {
+		name= "1. Siege Century"
+		type = artillery
+		home = 871
+	}
+
+	regiment = {
+		name= "1. Imperial Guard"
+		type = infantry_defensive
+		home = 869
+	}
+
+	regiment = {
+		name= "2. Imperial Guard"
+		type = infantry_defensive
+		home = 869
+	}
+
+	regiment = {
+		name= "3. Imperial Guard"
+		type = infantry_defensive
+		home = 864
+	}
+}
+
+army = {
+	name = "Army of the Levant"
+	location = 913
+	
+	regiment = {
+		name= "4. Cohort Infantry"
+		type = cavalry
+		home = 913
+	}
+
+	regiment = {
+		name= "1. Cohort Infantry"
+		type = infantry_offensive
+		home = 913
+	}
+	
+	regiment = {
+		name= "5. Cohort Infantry"
+		type = infantry_offensive
+		home = 913
+	}
+	
+	regiment = {
+		name= "6. Cohort Infantry"
+		type = infantry_offensive
+		home = 913
+	}
+
+	regiment = {
+		name= "7. Cohort Infantry"
+		type = infantry_offensive
+		home = 913
+	}
+
+	regiment = {
+		name= "8. Cohort Infantry"
+		type = infantry_defensive
+		home = 915
+	}
+
+	regiment = {
+		name= "9. Cohort Infantry"
+		type = infantry_defensive
+		home = 914
+	}
+
+	regiment = {
+		name= "10. Cohort Infantry"
+		type = infantry_defensive
+		home = 914
+	}
+
+	regiment = {
+		name= "11. Cohort Infantry"
+		type = infantry_defensive
+		home = 921
+	}
+	
+	regiment = {
+		name= "12. Cohort Infantry"
+		type = artillery
+		home = 921
+	}
+}
+army = {
+	name = "Horsemen of Egypt"
+	location = 1745
+	regiment = {
+		name= "1.7 Legion Cuirassier"
+		type = cuirassier
+		home = 1745
+	}
+	
+	regiment = {
+		name= "1.4 Legion Cuirassier"
+		type = cuirassier
+		home = 1736
+	}
+
+	regiment = {
+		name= "2.4 Legion Cuirassier"
+		type = cuirassier
+		home = 1736
+	}
+
+	regiment = {
+		name= "3.4 Legion Cuirassier"
+		type = cuirassier
+		home = 1736
+	}
+
+	regiment = {
+		name= "1.5 Legion Cuirassier"
+		type = cuirassier
+		home = 1752
+	}
+
+	regiment = {
+		name= "2.5 Legion Cuirassier"
+		type = cuirassier
+		home = 1751
+	}
+
+	regiment = {
+		name= "3.5 Legion Cuirassier"
+		type = cuirassier
+		home = 1751
+	}
+
+	regiment = {
+		name= "1.6 Legion Cuirassier"
+		type = cuirassier
+		home = 1751
+	}
+
+	regiment = {
+		name= "2.6 Legion Cuirassier"
+		type = cuirassier
+		home = 1751
+	}
+
+	regiment = {
+		name= "3.6 Legion Cuirassier"
+		type = cuirassier
+		home = 1747
+	}
+	
+	regiment = {
+		name= "1.1 cuirassier"
+		type = cuirassier
+		home = 1750
+	}
+	
+	regiment = {
+		name= "4.1 cuirassier"
+		type = cuirassier
+		home = 1749
+	}
+}
+navy = {
+	name = "Imperial Navy"
+	location = 860
+	
+	ship = {
+		name = "Santiago"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Hespéride s"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Centinela"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Santiago"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Hespéride s"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Centinela"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Centinela"
+		type = manowar
+	}
+	ship = {
+		name = "Isla de  Cuba"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Cristóbal Colón"
+		type = frigate
+	}
+	
+	ship = {
+		name= "1a Flotilla de  Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2a Flotilla de  Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3a Flotilla de  Transporte"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name = "Alerta"
+		type = manowar
+	}
+	
+	ship = {
+		name = "San Fernando"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Legazpi"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Victoria"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Nuestra Señora de l Patrocinio"
+		type = frigate
+	}
+	
+	ship = {
+		name= "1a Flotilla de  Transporte"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name = "Santiago"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Hespéride s"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Centinela"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Isla de  Cuba"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Cristóbal Colón"
+		type = frigate
+	}
+	
+	ship = {
+		name= "1a Flotilla de  Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2a Flotilla de  Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3a Flotilla de  Transporte"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name = "Alerta"
+		type = manowar
+	}
+	
+	ship = {
+		name = "San Fernando"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Legazpi"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Victoria"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Nuestra Señora de l Patrocinio"
+		type = frigate
+	}
+	
+	ship = {
+		name= "1a Flotilla de  Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2a Flotilla de  Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3a Flotilla de  Transporte"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "San Raimundo"
+		type = manowar
+	}
+
+	ship = {
+		name= "Héroe"
+		type = manowar
+	}
+
+	ship = {
+		name= "San Pablo"
+		type = manowar
+	}
+
+	ship = {
+		name= "Ceres"
+		type = frigate
+	}
+
+	ship = {
+		name= "Gloria"
+		type = frigate
+	}
+
+	ship = {
+		name= "Nuestra Señora de  Asunción"
+		type = frigate
+	}
+
+	ship = {
+		name= "Nuestra Señora de  Atocha"
+		type = frigate
+	}
+
+	ship = {
+		name= "Santa Sabina"
+		type = frigate
+	}
+
+	ship = {
+		name= "1a Flotilla de  Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2a Flotilla de  Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3a Flotilla de  Transporte"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "4a Flotilla de  Transporte"
+		type = clipper_transport
+	}
+}

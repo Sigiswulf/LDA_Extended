@@ -1,0 +1,87 @@
+#native_american_minor West Indies Region : 1950
+#Ruled by Netherlands 183
+#Curacao (1230/310 POPS)
+2234 = {
+	bureaucrats = {
+		culture = native_american_minor
+religion = animist
+		size = 0
+	}
+
+	soldiers = {
+		culture = native_american_minor
+religion = animist
+		size = 2
+	}
+
+	artisans = {
+		culture = native_american_minor
+religion = animist
+		size = 7
+	}
+
+	clergymen = {
+		culture = native_american_minor
+religion = animist
+		size = 2
+	}
+
+	artisans = {
+		culture = native_american_minor
+religion = animist
+		size = 15
+	}
+
+	soldiers = {
+		culture = native_american_minor
+religion = animist
+		size = 3
+	}
+
+	slaves = {
+		culture = native_american_minor
+religion = animist
+		size = 280
+	}
+}
+#Aruba (240/60 POPS)
+2235 = {
+	clergymen = {
+		culture = native_american_minor
+religion = animist
+		size = 2
+	}
+
+	artisans = {
+		culture = native_american_minor
+religion = animist
+		size = 2
+	}
+
+	slaves = {
+		culture = native_american_minor
+religion = animist
+		size = 55
+	}
+}
+#Saint Martin (480/120 POPS)
+2236 = {
+	clergymen = {
+		culture = native_american_minor
+religion = animist
+		size = 2
+	}
+
+	artisans = {
+		culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	slaves = {
+		culture = native_american_minor
+religion = animist
+		size = 112
+	}
+
+}

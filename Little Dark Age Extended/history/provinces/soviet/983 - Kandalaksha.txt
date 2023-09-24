@@ -1,0 +1,8 @@
+owner = SAM
+controller = SAM
+add_core = SAM
+trade_goods = sulphur
+life_rating = 35
+
+set_province_flag = mine
+add_core = SIB

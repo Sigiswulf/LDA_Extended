@@ -1,0 +1,270 @@
+leader = {
+	name = "Hussey Vivian"
+	picture = eng_gen_vivian
+	date = 1813.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Edward Blakeney"
+	picture = eng_gen_blakeney
+	date = 1825.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.2
+}
+leader = {
+	name = "Charles Rowley"
+	picture = eng_adm_rowley
+	date = 1814.1.1
+	type = sea
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Rowland Hill"
+	picture = eng_gen_hill
+	date = 1803.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "James Hawkins-Whitshed"
+	picture = eng_adm_hawkinswhitshed
+	date = 1799.1.1
+	type = sea
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.4
+}
+army = {
+	name = "Brythonic Coalition Army"
+	location = 273
+	regiment = {
+		name= "1.6th Division"
+		type = cavalry
+		home = 277
+	}
+
+	regiment = {
+		name= "2.6th Division"
+		type = infantry_offensive
+		home = 292
+	}
+
+	regiment = {
+		name= "3.6th Division"
+		type = infantry_offensive
+		home = 46
+	}
+
+	regiment = {
+		name= "1.7th Division"
+		type = infantry_offensive
+		home = 278
+	}
+
+	regiment = {
+		name= "2.7th Division"
+		type = infantry_offensive
+		home = 274
+	}
+
+	regiment = {
+		name= "3.7th Division"
+		type = infantry_defensive
+		home = 2087
+	}
+
+	regiment = {
+		name= "1.8th Division"
+		type = infantry_defensive
+		home = 299
+	}
+
+	regiment = {
+		name= "2.8th Division"
+		type = infantry_defensive
+		home = 283
+	}
+
+	regiment = {
+		name= "3.8th Division"
+		type = infantry_defensive
+		home = 2468
+	}
+	
+	regiment = {
+		name= "3.9th Division"
+		type = infantry_defensive
+		home = 2217
+	}
+}
+
+army = {
+	name = "Irish Coalition Army"
+	location = 263
+	regiment = {
+		name= "1.6th Division"
+		type = cavalry
+		home = 263
+	}
+
+	regiment = {
+		name= "2.6th Division"
+		type = infantry_offensive
+		home = 264
+	}
+
+	regiment = {
+		name= "3.6th Division"
+		type = infantry_offensive
+		home = 259
+	}
+
+	regiment = {
+		name= "1.7th Division"
+		type = infantry_offensive
+		home = 258
+	}
+
+	regiment = {
+		name= "2.7th Division"
+		type = infantry_offensive
+		home = 261
+	}
+
+	regiment = {
+		name= "3.7th Division"
+		type = infantry_defensive
+		home = 260
+	}
+
+	regiment = {
+		name= "1.8th Division"
+		type = infantry_defensive
+		home = 299
+	}
+
+	regiment = {
+		name= "2.8th Division"
+		type = infantry_defensive
+		home = 271
+	}
+
+	regiment = {
+		name= "3.8th Division"
+		type = infantry_defensive
+		home = 277
+	}
+	
+	regiment = {
+		name= "3.9th Division"
+		type = infantry_defensive
+		home = 271
+	}
+}
+
+navy = {
+	name = "Isles Coalition Fleet"
+	location = 271
+	ship = {
+		name= "HMS Clyde"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Cornwall"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Eurotas"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Fox"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Hotspur"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Leda"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Penelope"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS President"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Proserpine"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Africaine"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Cerberus"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Nemesis"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Aeolus"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Barham"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Daedalus"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Hebe"
+		type = frigate
+	}
+
+	ship = {
+		name= "10th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "21th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "22th Transport Flotilla"
+		type = clipper_transport
+	}
+}

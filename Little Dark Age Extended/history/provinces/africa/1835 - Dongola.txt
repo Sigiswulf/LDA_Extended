@@ -1,0 +1,6 @@
+owner = NOB
+controller = NOB
+add_core = NOB
+trade_goods = fruit
+life_rating = 30
+set_province_flag = farm

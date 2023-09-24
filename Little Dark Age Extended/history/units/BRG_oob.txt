@@ -1,0 +1,83 @@
+leader = {
+	name = "Bill Faton"
+	picture = spa_gen_serrano
+	type = land
+	date="500.1.1"
+	personality = defence_5.1
+	background = attack_5.1
+	prestige = 0.1
+}
+army = {
+	name = "Armée de Raid"
+	location = 428
+	regiment = {
+		name= "1.7 Division de Freddy"
+		type = cuirassier
+		home = 469
+	}
+	regiment = {
+		name= "1.4 Division de Bonnie"
+		type = cuirassier
+		home = 454
+	}
+
+	regiment = {
+		name= "2.4 Division de Chica"
+		type = cuirassier
+		home = 453
+	}
+
+	regiment = {
+		name= "3.4 Division de Foxy"
+		type = cuirassier
+		home = 452
+	}
+
+	regiment = {
+		name= "1.5 Division de Mangle"
+		type = cuirassier
+		home = 466
+	}
+
+	regiment = {
+		name= "2.5 Division de Golden Freddy"
+		type = cuirassier
+		home = 465
+	}
+
+	regiment = {
+		name= "3.5 Division de Circus Baby"
+		type = cuirassier
+		home = 607
+	}
+
+	regiment = {
+		name= "1.6 Division de Ballora"
+		type = cuirassier
+		home = 432
+	}
+
+	regiment = {
+		name= "2.6 Division de Balloon Boy"
+		type = cuirassier
+		home = 433
+	}
+
+	regiment = {
+		name= "3.6 Division de Marionette"
+		type = cuirassier
+		home = 431
+	}
+	
+	regiment = {
+		name= "1.1 Shadow Bonnie"
+		type = cuirassier
+		home = 451
+	}
+	
+	regiment = {
+		name= "4.1 Formerly Henry"
+		type = cuirassier
+		home = 428
+	}
+}

@@ -1,0 +1,281 @@
+#Suriye Region (12000)  #see Syria.txt & Lebanon.txt for balance of region
+#under the rule of Egypt in 612  
+#Amman (6666/1666 POPS) #now part of Jordan
+908 = {
+	aristocrats = {
+culture = bedouin
+religion = catholic
+		size = 8
+	}
+
+	clergymen = {
+culture = bedouin
+religion = catholic
+		size = 8
+	}
+
+	artisans = {
+culture = bedouin
+religion = catholic
+		size = 16
+	}
+
+	soldiers = {
+culture = bedouin
+religion = catholic
+		size = 8
+	}
+
+	farmers = {
+culture = bedouin
+religion = catholic
+		size = 291
+	}
+
+	aristocrats = {
+culture = bedouin
+religion = catholic
+		size = 16
+	}
+
+	clergymen = {
+culture = bedouin
+religion = catholic
+		size = 25
+	}
+
+	artisans = {
+culture = bedouin
+religion = catholic
+		size = 58
+	}
+
+	soldiers = {
+culture = bedouin
+religion = catholic
+		size = 8
+	}
+
+	farmers = {
+culture = bedouin
+religion = catholic
+		size = 1225
+	}
+}
+#Jerash (5333/1333 POPS) #now part of Jordan
+909 = {
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 11
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 25
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+culture = aramaic
+religion = catholic
+		size = 8
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 905
+	}
+
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 5
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 5
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 11
+	}
+
+	soldiers = {
+culture = aramaic
+religion = catholic
+		size = 8
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 303
+	}
+}
+#Badiyat al-Sham Region (13333)  #see Syria.txt, Iraq.txt & Saudi Arabia.txt for balance of region
+#under the "rule" of Egypt in 612  
+#Ruwayshid (4000/1000 POPS) #now part of Jordan 
+910 = {
+	aristocrats = {
+culture = bedouin
+religion = catholic
+		size = 16
+	}
+
+	clergymen = {
+culture = bedouin
+religion = catholic
+		size = 16
+	}
+
+	artisans = {
+culture = bedouin
+religion = catholic
+		size = 41
+	}
+
+	soldiers = {
+culture = bedouin
+religion = catholic
+		size = 16
+	}
+
+	farmers = {
+culture = bedouin
+religion = catholic
+		size = 908
+	}
+}
+#Maan (9333/2333 POPS) #now part of Jordan
+911 = {
+	aristocrats = {
+culture = bedouin
+religion = catholic
+		size = 8
+	}
+
+	clergymen = {
+culture = bedouin
+religion = catholic
+		size = 16
+	}
+
+	artisans = {
+culture = bedouin
+religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+culture = bedouin
+religion = catholic
+		size = 8
+	}
+
+	farmers = {
+culture = bedouin
+religion = catholic
+		size = 916
+	}
+
+	aristocrats = {
+culture = bedouin
+religion = catholic
+		size = 16
+	}
+
+	clergymen = {
+culture = bedouin
+religion = catholic
+		size = 25
+	}
+
+	artisans = {
+culture = bedouin
+religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+culture = bedouin
+religion = catholic
+		size = 16
+	}
+
+	farmers = {
+culture = bedouin
+religion = catholic
+		size = 1225
+	}
+}
+#Palestine Region (6666)  #see Israel-Palestine.txt for balance of region
+#under the rule of Egypt in 612  
+#Aqaba (6666/1666 POPS) #now part of Jordan 
+922 = {
+	clergymen = {
+culture = bedouin
+religion = catholic
+		size = 8
+	}
+
+	artisans = {
+culture = bedouin
+religion = catholic
+		size = 16
+	}
+
+	soldiers = {
+culture = bedouin
+religion = catholic
+		size = 8
+	}
+
+	farmers = {
+culture = bedouin
+religion = catholic
+		size = 300
+	}
+
+	aristocrats = {
+culture = bedouin
+religion = catholic
+		size = 8
+	}
+
+	clergymen = {
+culture = bedouin
+religion = catholic
+		size = 8
+	}
+
+	artisans = {
+culture = bedouin
+religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+culture = bedouin
+religion = catholic
+		size = 8
+	}
+
+	farmers = {
+culture = bedouin
+religion = catholic
+		size = 1258
+	}
+
+}

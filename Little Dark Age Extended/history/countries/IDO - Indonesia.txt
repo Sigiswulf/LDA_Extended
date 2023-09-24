@@ -1,0 +1,3 @@
+primary_culture = melanesian
+is_releasable_vassal = no
+set_country_flag = ghostland

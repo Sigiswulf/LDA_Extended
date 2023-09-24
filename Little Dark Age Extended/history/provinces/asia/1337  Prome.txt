@@ -1,0 +1,9 @@
+owner = PYU
+controller = PYU
+add_core = PYU
+trade_goods = tropical_wood
+life_rating = 30
+1861.1.1 = {
+}
+
+set_province_flag = mine

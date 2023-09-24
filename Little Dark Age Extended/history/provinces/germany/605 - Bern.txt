@@ -1,0 +1,14 @@
+owner = ITA
+controller = ITA
+add_core = ITA
+trade_goods = iron
+life_rating = 35
+fort = 1
+1861.1.1 = { 
+	railroad = 1 
+	fort = 2
+}
+
+
+
+set_province_flag = mine

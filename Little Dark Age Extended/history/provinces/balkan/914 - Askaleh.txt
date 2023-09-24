@@ -1,0 +1,15 @@
+owner = BYZ
+controller = BYZ
+add_core = BYZ
+add_core = BYZ
+add_core = SYR
+trade_goods = iron
+life_rating = 35
+1861.1.1 = {
+controller = BYZ
+owner = BYZ
+}
+
+
+
+set_province_flag = mine

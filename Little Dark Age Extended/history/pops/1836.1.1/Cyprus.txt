@@ -1,0 +1,165 @@
+#Cyprus Region (202664)
+#under the rule of Ottoman Empire in 2448  
+#Nicosia (85332/21332 POPS)
+855 = {
+	aristocrats = {
+		culture = greek
+religion = catholic
+		size = 364
+	}
+
+	bureaucrats = {
+		culture = greek
+religion = catholic
+		size = 640
+	}
+
+	officers = {
+		culture = greek
+religion = catholic
+		size = 640
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 1000
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 640
+	}
+
+	soldiers = {
+		culture = greek
+religion = catholic
+		size = 2320
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 3832
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 132
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 1000
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 864
+	}
+}
+#Limassol (58664/14664 POPS)
+856 = {
+	aristocrats = {
+		culture = greek
+religion = catholic
+		size = 264
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 64
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 400
+	}
+
+	soldiers = {
+		culture = greek
+religion = catholic
+		size = 6132
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 1800
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 1532
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 32364
+	}
+}
+#Famagusta (58664/14664 POPS)
+857 = {
+	aristocrats = {
+		culture = greek
+religion = catholic
+		size = 264
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 64
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 200
+	}
+
+	soldiers = {
+		culture = greek
+religion = catholic
+		size = 132
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 3332
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 532
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 10032
+	}
+
+}

@@ -1,0 +1,381 @@
+#Trondelag-Nordland Region - 121599
+#Trondheim (55999/13999 POPS)
+305 = {
+	bureaucrats = {
+culture = swedish
+religion = norse_pagan
+		size = 120
+	}
+
+	officers = {
+culture = swedish
+religion = norse_pagan
+		size = 19
+	}
+
+	clergymen = {
+culture = swedish
+religion = norse_pagan
+		size = 60
+	}
+
+	artisans = {
+culture = swedish
+religion = norse_pagan
+		size = 1299
+	}
+
+	soldiers = {
+culture = swedish
+religion = norse_pagan
+		size = 439
+	}
+
+	farmers = {
+culture = swedish
+religion = norse_pagan
+		size = 12099
+	}
+}
+#Bodo (22399/5599 POPS)
+306 = {
+	clergymen = {
+culture = swedish
+religion = norse_pagan
+		size = 19
+	}
+
+	artisans = {
+culture = swedish
+religion = norse_pagan
+		size = 300
+	}
+
+	soldiers = {
+culture = swedish
+religion = norse_pagan
+		size = 39
+	}
+
+	farmers = {
+culture = swedish
+religion = norse_pagan
+		size = 4839
+	}
+
+	farmers = {
+		culture = finnish
+religion = norse_pagan
+		size = 439
+	}
+}
+#Hammerfest (14400/3600 POPS)
+307 = {
+	clergymen = {
+culture = swedish
+religion = norse_pagan
+		size = 19
+	}
+
+	artisans = {
+culture = swedish
+religion = norse_pagan
+		size = 199
+	}
+
+	soldiers = {
+culture = swedish
+religion = norse_pagan
+		size = 19
+	}
+
+	farmers = {
+culture = swedish
+religion = norse_pagan
+		size = 1759
+	}
+
+	farmers = {
+		culture = sami
+religion = norse_pagan
+		size = 799
+	}
+
+	farmers = {
+		culture = finnish
+religion = norse_pagan
+		size = 799
+	}
+}
+#Alesund (28800/7200 POPS)
+308 = {
+	clergymen = {
+culture = swedish
+religion = norse_pagan
+		size = 30
+	}
+
+	artisans = {
+culture = swedish
+religion = norse_pagan
+		size = 23439
+	}
+
+	soldiers = {
+culture = swedish
+religion = norse_pagan
+		size = 39
+	}
+
+	farmers = {
+culture = swedish
+religion = norse_pagan
+		size = 6729
+	}
+
+}
+#Jan Mayen (24/6 POPS)
+3246 = {
+	farmers = {
+culture = swedish
+religion = norse_pagan
+		size = 6000
+	}
+}
+
+#Vestlandet-Sorlandet Region : 217599
+#Bergen (72000/18000 POPS)
+309 = {
+	bureaucrats = {
+culture = swedish
+religion = norse_pagan
+		size = 199
+	}
+
+	officers = {
+culture = swedish
+religion = norse_pagan
+		size = 3900
+	}
+
+	clergymen = {
+culture = swedish
+religion = norse_pagan
+		size = 7900
+	}
+
+	artisans = {
+culture = swedish
+religion = norse_pagan
+		size = 11999
+	}
+
+	soldiers = {
+culture = swedish
+religion = norse_pagan
+		size = 4390
+	}
+
+	farmers = {
+culture = swedish
+religion = norse_pagan
+		size = 15279
+	}
+}
+#Christiansand (65599/16399 POPS)
+310 = {
+	clergymen = {
+culture = swedish
+religion = norse_pagan
+		size = 69
+	}
+
+	artisans = {
+culture = swedish
+religion = norse_pagan
+		size = 17999
+	}
+
+	soldiers = {
+culture = swedish
+religion = norse_pagan
+		size = 4390
+	}
+
+	farmers = {
+culture = swedish
+religion = norse_pagan
+		size = 25129
+	}
+}
+#Skien (27199/6799 POPS)
+311 = {
+	clergymen = {
+culture = swedish
+religion = norse_pagan
+		size = 30
+	}
+
+	artisans = {
+culture = swedish
+religion = norse_pagan
+		size = 23000
+	}
+
+	soldiers = {
+culture = swedish
+religion = norse_pagan
+		size = 39
+	}
+
+	farmers = {
+culture = swedish
+religion = norse_pagan
+		size = 6429
+	}
+}
+#Drammen (52800/13200 POPS)
+312 = {
+	clergymen = {
+culture = swedish
+religion = norse_pagan
+		size = 49
+	}
+
+	artisans = {
+culture = swedish
+religion = norse_pagan
+		size = 799
+	}
+
+	soldiers = {
+culture = swedish
+religion = norse_pagan
+		size = 99
+	}
+
+	farmers = {
+culture = swedish
+religion = norse_pagan
+		size = 12450
+	}
+
+}
+#Ostlandet Region - 140799
+#Christiania (43200/10800 POPS)
+313 = {
+	bureaucrats = {
+culture = swedish
+religion = norse_pagan
+		size = 1990
+	}
+
+	officers = {
+culture = swedish
+religion = norse_pagan
+		size = 3900
+	}
+
+	clergymen = {
+culture = swedish
+religion = norse_pagan
+		size = 4900
+	}
+
+	artisans = {
+culture = swedish
+religion = norse_pagan
+		size = 25799
+	}
+
+	soldiers = {
+culture = swedish
+religion = norse_pagan
+		size = 4390
+	}
+
+	farmers = {
+culture = swedish
+religion = norse_pagan
+		size = 27309
+	}
+}
+#Hamar (31999/7999 POPS)
+314 = {
+	clergymen = {
+culture = swedish
+religion = norse_pagan
+		size = 39
+	}
+
+	artisans = {
+culture = swedish
+religion = norse_pagan
+		size = 12439
+	}
+
+	soldiers = {
+culture = swedish
+religion = norse_pagan
+		size = 60
+	}
+
+	farmers = {
+culture = swedish
+religion = norse_pagan
+		size = 7500
+	}
+}
+#Lillehammer (38400/9600 POPS)
+315 = {
+	clergymen = {
+culture = swedish
+religion = norse_pagan
+		size = 49
+	}
+
+	artisans = {
+culture = swedish
+religion = norse_pagan
+		size = 499
+	}
+
+	soldiers = {
+culture = swedish
+religion = norse_pagan
+		size = 79
+	}
+
+	farmers = {
+culture = swedish
+religion = norse_pagan
+		size = 8970
+	}
+}
+#Frederiksstad (27199/6799 POPS)
+316 = {
+	clergymen = {
+culture = swedish
+religion = norse_pagan
+		size = 30
+	}
+
+	artisans = {
+culture = swedish
+religion = norse_pagan
+		size = 13000
+	}
+
+	soldiers = {
+culture = swedish
+religion = norse_pagan
+		size = 60
+	}
+
+	farmers = {
+culture = swedish
+religion = norse_pagan
+		size = 16409
+	}
+
+}

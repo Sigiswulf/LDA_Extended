@@ -1,0 +1,626 @@
+#Tirol Region (208499) #see Italy.txt for balance of Region
+#under the rule of Austria in 688  
+#Innsbruck (88498/22123 POPS)
+612 = {
+	aristocrats = {
+		culture = raetian
+		religion = catholic
+		size = 280 
+	}
+
+	bureaucrats = {
+		culture = raetian
+		religion = catholic
+		size = 252 
+	}
+
+	officers = {
+		culture = raetian
+		religion = catholic
+		size = 92 
+	}
+
+	clergymen = {
+		culture = raetian
+		religion = catholic
+		size = 204
+	}
+
+	artisans = {
+		culture = raetian
+		religion = catholic
+		size = 1030
+	}
+
+	soldiers = {
+		culture = raetian
+		religion = catholic
+		size = 411 
+	}
+
+	farmers = {
+		culture = raetian
+		religion = catholic
+		size = 19995
+	}
+}
+#Salzburg (50999/12749 POPS)
+613 = {
+	aristocrats = {
+		culture = raetian
+		religion = catholic
+		size = 168 
+	}
+
+	clergymen = {
+		culture = raetian
+		religion = catholic
+		size = 243 
+	}
+
+	artisans = {
+		culture = raetian
+		religion = catholic
+		size = 1217
+	}
+
+	soldiers = {
+		culture = raetian
+		religion = catholic
+		size = 411
+	}
+
+	farmers = {
+		culture = raetian
+		religion = catholic
+		size = 10864
+	}
+}
+#Bregenz (49500/12375 POPS)
+614 = {
+	aristocrats = {
+		culture = raetian
+		religion = catholic
+		size = 149 
+	}
+
+	clergymen = {
+		culture = raetian
+		religion = catholic
+		size = 112 
+	}
+
+	artisans = {
+		culture = raetian
+		religion = catholic
+		size = 562
+	}
+
+	soldiers = {
+		culture = raetian
+		religion = catholic
+		size = 411 
+	}
+
+	farmers = {
+		culture = raetian
+		religion = catholic
+		size = 11137
+	}
+}
+#Lienz (19499/4874 POPS)
+615 = {
+	aristocrats = {
+		culture = raetian
+		religion = catholic
+		size = 64 
+	}
+
+	clergymen = {
+		culture = raetian
+		religion = catholic
+		size = 45
+	}
+
+	artisans = {
+		culture = raetian
+		religion = catholic
+		size = 225
+	}
+
+	soldiers = {
+		culture = raetian
+		religion = catholic
+		size = 45 
+	}
+
+	farmers = {
+		culture = raetian
+		religion = catholic
+		size = 4488
+	}
+}
+#Carinthia-Styria Region (275999) #see Slovenia.txt for balance of Region
+#under the rule of Austria in 688  
+#Graz (142498/35623 POPS)
+616 = {
+	aristocrats = {
+		culture = goths
+		religion = arian
+		size = 580 
+	}
+
+	bureaucrats = {
+		culture = goths
+		religion = arian
+		size = 195 
+	}
+
+	officers = {
+		culture = goths
+		religion = arian
+		size = 101 
+	}
+
+	clergymen = {
+		culture = goths
+		religion = arian
+		size = 383 
+	}
+
+	craftsmen = {
+		culture = goths
+		religion = arian
+		size = 562
+	}
+	
+	artisans = {
+		culture = goths
+		religion = arian
+		size = 3749
+	}
+
+	soldiers = {
+		culture = goths
+		religion = arian
+		size = 429 
+	}
+
+	farmers = {
+		culture = goths
+		religion = arian
+		size = 29652 
+	}
+}
+#Judenburg (63000/15750 POPS)
+617 = {
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 261 
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 168
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 843
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 168 
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 14305
+	}
+}
+#Klagenfurt (70498/17623 POPS)
+618 = {
+	aristocrats = {
+		culture = goths
+		religion = arian
+		size = 168 
+	}
+
+	clergymen = {
+	culture = goths
+		religion = arian
+		size = 121 
+	}
+
+	artisans = {
+	culture = goths
+		religion = arian
+		size = 580
+	}
+
+	soldiers = {
+	culture = goths
+		religion = arian
+		size = 411 
+	}
+
+	farmers = {
+	culture = goths
+		religion = arian
+		size = 9627
+	}
+
+	clergymen = {
+	culture = goths
+		religion = arian
+		size = 64 
+	}
+
+	artisans = {
+	culture = goths
+		religion = arian
+		size = 355
+	}
+
+	soldiers = {
+	culture = goths
+		religion = arian
+		size = 73 
+	}
+
+	farmers = {
+	culture = goths
+		religion = arian
+		size = 6252 
+	}
+}
+#Austria Region (749998) 
+#under the rule of Austria in 688  
+#Vienna (406499/101624 POPS)
+619 = {
+	aristocrats = {
+		culture = lombard
+		religion = arian
+		size = 1593 
+	}
+
+	bureaucrats = {
+		culture = lombard
+		religion = arian
+		size = 523 
+	}
+
+	officers = {
+		culture = lombard
+		religion = arian
+		size = 225 
+	}
+
+	clergymen = {
+		culture = lombard
+		religion = arian
+		size = 1030
+	}
+
+	artisans = {
+		culture = lombard
+		religion = arian
+		size = 3749
+	}
+
+	artisans = {
+		culture = lombard
+		religion = arian
+		size = 3749
+	}
+
+	artisans = {
+		culture = lombard
+		religion = arian
+		size = 3749
+	}
+
+	artisans = {
+		culture = lombard
+		religion = arian
+		size = 3749
+	}
+
+	artisans = {
+		culture = lombard
+		religion = arian
+		size = 3749
+	}
+
+	artisans = {
+		culture = lombard
+		religion = arian
+		size = 599
+	}
+
+	clerks = {
+		culture = lombard
+		religion = arian
+		size = 18
+	}
+	
+	craftsmen = {
+		culture = lombard
+		religion = arian
+		size = 2211
+	}
+	
+	soldiers = {
+		culture = lombard
+		religion = arian
+		size = 1030 
+	}
+
+	farmers = {
+		culture = lombard
+		religion = arian
+		size = 72936
+	}
+
+	clergymen = {
+		culture = lombard
+		religion = arian
+		size = 36
+	}
+
+	craftsmen = {
+		culture = lombard
+		religion = arian
+		size = 36
+	}
+
+	artisans = {
+		culture = lombard
+		religion = arian
+		size = 2211
+	}
+
+	clergymen = {
+		culture = lombard
+		religion = arian
+		size = 36 
+	}
+
+	artisans = {
+		culture = lombard
+		religion = arian
+		size = 337
+	}
+
+	clergymen = {
+		culture = lombard
+		religion = arian
+		size = 36 
+	}
+
+	artisans = {
+		culture = lombard
+		religion = arian
+		size = 149
+	}
+
+	craftsmen = {
+		culture = lombard
+		religion = arian
+		size = 36 
+	}
+}
+#Sankt Polten (32999/8249 POPS)
+620 = {
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 140 
+	}
+
+	bureaucrats = {
+		culture = south_german
+		religion = catholic
+		size = 225 
+	}
+	
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 92
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 411
+	}
+
+	craftsmen = {
+		culture = south_german
+		religion = catholic
+		size = 36
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 92 
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 7470 
+	}
+}
+#Krems (90000/22500 POPS)
+621 = {
+	aristocrats = {
+		culture = lombard
+		religion = arian
+		size = 346 
+	}
+
+	clergymen = {
+		culture = lombard
+		religion = arian
+		size = 234
+	}
+
+	artisans = {
+		culture = lombard
+		religion = arian
+		size = 1125
+	}
+
+	craftsmen = {
+		culture = lombard
+		religion = arian
+		size = 36
+	}
+
+	soldiers = {
+		culture = lombard
+		religion = arian
+		size = 243 
+	}
+
+	farmers = {
+		culture = lombard
+		religion = arian
+		size = 20511
+	}
+}
+#Linz (220500/55125 POPS)
+622 = {
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 861 
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 1198 
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 2868
+	}
+
+	craftsmen = {
+		culture = south_german
+		religion = catholic
+		size = 73
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 580 
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 50136
+	}
+}
+#Odenburg Region (73499) #see Hungary.txt for balance of region
+#under the rule of Austria in 688
+#Eisenstadt (73499/18374 POPS)
+624 = {
+	aristocrats = {
+		culture = goths
+		religion = arian
+		size = 261 
+	}
+
+	clergymen = {
+		culture = goths
+		religion = arian
+		size = 177
+	}
+
+	artisans = {
+		culture = goths
+		religion = arian
+		size = 879
+	}
+
+	craftsmen = {
+		culture = goths
+		religion = arian
+		size = 36 
+	}
+
+	soldiers = {
+		culture = goths
+		religion = arian
+		size = 411 
+	}
+
+	farmers = {
+		culture = goths
+		religion = arian
+		size = 15513
+	}
+
+	clergymen = {
+		culture = goths
+		religion = arian
+		size = 36 
+	}
+
+	artisans = {
+		culture = goths
+		religion = arian
+		size = 55
+	}
+
+	craftsmen = {
+		culture = goths
+		religion = arian
+		size = 36 
+	}
+
+	farmers = {
+		culture = goths
+		religion = arian
+		size = 992  
+	}
+
+	clergymen = {
+		culture = goths
+		religion = arian
+		size = 36 
+	}
+
+	artisans = {
+		culture = goths
+		religion = arian
+		size = 55
+	}
+
+	craftsmen = {
+		culture = goths
+		religion = arian
+		size = 36 
+	}
+
+	farmers = {
+		culture = goths
+		religion = arian
+		size = 618   
+	}
+}

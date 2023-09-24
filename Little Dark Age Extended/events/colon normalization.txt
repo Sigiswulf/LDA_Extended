@@ -1,0 +1,113 @@
+country_event = {
+	id = 91302
+	title = "EVTNAME91302"
+	desc = "EVTDESC91302"
+	picture = colonial_factory
+
+
+	trigger = {
+		any_owned_province = {
+			OR = {
+				continent = africa
+				continent = north_america
+				continent = south_america
+				continent = oceania
+				province_id = 1428
+			}
+			OR = {
+				NOT = { life_rating = 11 }
+				NOT = { life_rating = 16 }
+				NOT = { life_rating = 21 }
+				NOT = { life_rating = 26 }
+			}
+		}
+	}
+
+	option = {
+		name = "EVTOPTA91302" 
+		any_owned = {
+			limit = {
+				OR = {
+					continent = north_america
+					continent = oceania
+				}
+				NOT = { life_rating = 11 }
+			}
+			life_rating = 25
+		}
+		any_owned = {
+			limit = {
+				continent = africa
+				NOT = { life_rating = 11 }
+			}
+			life_rating = 25
+		}
+		any_owned = {
+			limit = {
+				OR = {
+					continent = north_america
+					continent = oceania
+				}
+				NOT = { life_rating = 16 }
+			}
+			life_rating = 20
+		}
+		any_owned = {
+			limit = {
+				continent = africa
+				NOT = { life_rating = 16 }
+			}
+			life_rating = 20
+		}
+		random_owned = {
+			limit = { province_id = 1428 }
+			life_rating = 20
+		}
+		any_owned = {
+			limit = {
+				OR = {
+					continent = north_america
+					continent = oceania
+				}
+				NOT = { life_rating = 21 }
+			}
+			life_rating = 15
+		}
+		any_owned = {
+			limit = {
+				continent = africa
+				NOT = { life_rating = 21 }
+			}
+			life_rating = 15
+		}
+		any_owned = {
+			limit = {
+				OR = {
+					continent = north_america
+					continent = oceania
+					continent = south_america
+				}
+				NOT = { life_rating = 26 }
+			}
+			life_rating = 10
+		}
+		any_owned = {
+			limit = {
+				OR = {
+					continent = north_america
+					continent = oceania
+					continent = south_america
+				}
+				NOT = { life_rating = 31 }
+			}
+			life_rating = 7
+		}
+		any_owned = {
+			limit = {
+				continent = africa
+				NOT = { life_rating = 26 }
+			}
+			life_rating = 10
+		}
+	}
+}

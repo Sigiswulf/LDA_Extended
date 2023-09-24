@@ -1,0 +1,712 @@
+#Afghanistan Region (3585937)
+#under the rule of Afghanistan in 1791
+#Kabul (972656/243163 POPS)
+1209 = {
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 2682
+	}
+
+	bureaucrats = {
+		culture = turkic
+religion = animist
+		size = 803
+	}
+
+	officers = {
+		culture = turkic
+religion = animist
+		size = 608
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 1338
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 5272
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 20741
+	}
+
+	farmers = {
+		culture = aryan
+religion = animist
+		size = 100375
+	}
+
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 1952
+	}
+
+	officers = {
+		culture = turkic
+religion = animist
+		size = 338
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 947
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 4783
+	}
+
+	soldiers = {
+		culture = aryan
+religion = animist
+		size = 1072
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 86690
+	}
+
+	aristocrats = {
+		culture = aryan
+religion = zoroastrianism
+		size = 241
+	}
+
+	clergymen = {
+		culture = aryan
+religion = zoroastrianism
+		size = 132
+	}
+
+	artisans = {
+		culture = aryan
+religion = zoroastrianism
+		size = 781
+	}
+
+	soldiers = {
+		culture = aryan
+religion = zoroastrianism
+		size = 143
+	}
+
+	farmers = {
+		culture = aryan
+religion = zoroastrianism
+		size = 14315
+	}
+}
+#Balkh (503906/125976 POPS)
+1211 = {
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 1562
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 791
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 1608
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 803
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 74327
+	}
+
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 728
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 377
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 1853
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 362
+	}
+
+	farmers = {
+		culture = aryan
+religion = animist
+		size = 33772
+	}
+
+	aristocrats = {
+		culture = aryan
+religion = zoroastrianism
+		size = 143
+	}
+
+	clergymen = {
+		culture = aryan
+religion = zoroastrianism
+		size = 85
+	}
+
+	artisans = {
+		culture = aryan
+religion = zoroastrianism
+		size = 487
+	}
+
+	soldiers = {
+		culture = aryan
+religion = zoroastrianism
+		size = 96
+	}
+
+	farmers = {
+		culture = aryan
+religion = zoroastrianism
+		size = 8945
+	}
+}
+#Herat (316406/79101 POPS)
+1212 = {
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 315
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 166
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 827
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 1072
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 14303
+	}
+
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 21218
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 620
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 3125
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 3906
+	}
+
+	farmers = {
+		culture = aryan
+religion = zoroastrianism
+		size = 33625
+	}
+}
+#Bamyan (402343/100585 POPS)
+1213 = {
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 315
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 166
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 827
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 1072
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 14303
+	}
+
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 241
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 132
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 682
+	}
+
+	soldiers = {
+		culture =turkic
+religion = animist
+		size = 1072
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 11632
+	}
+
+	aristocrats = {
+		culture = aryan
+religion = zoroastrianism
+		size = 1022
+	}
+
+	clergymen = {
+		culture = aryan
+religion = zoroastrianism
+		size = 487
+	}
+
+	artisans = {
+		culture = aryan
+religion = zoroastrianism
+		size = 2635
+	}
+
+	soldiers = {
+		culture = aryan
+religion = zoroastrianism
+		size = 510
+	}
+
+	farmers = {
+		culture = turkic
+religion = zoroastrianism
+		size = 28070
+	}
+
+	aristocrats = {
+		culture = aryan
+religion = animist
+		size = 338
+	}
+
+	clergymen = {
+		culture = aryan
+religion = animist
+		size = 182
+	}
+
+	artisans = {
+		culture = aryan
+religion = animist
+		size = 827
+	}
+
+	soldiers = {
+		culture = aryan
+religion = animist
+		size = 1072
+	}
+
+	farmers = {
+		culture = aryan
+religion = animist
+		size = 35245
+	}
+}
+#Farrah (453125/113281 POPS)
+1214 = {
+	aristocrats = {
+		culture = aryan
+religion = animist
+		size = 533
+	}
+
+	clergymen = {
+		culture = aryan
+religion = animist
+		size = 281
+	}
+
+	artisans = {
+		culture = aryan
+religion = animist
+		size = 1366
+	}
+
+	soldiers = {
+		culture = aryan
+religion = animist
+		size = 1072
+	}
+
+	farmers = {
+		culture = aryan
+religion = animist
+		size = 24178
+	}
+
+	aristocrats = {
+		culture = aryan
+religion = animist
+		size = 1682
+	}
+
+	clergymen = {
+		culture = aryan
+religion = animist
+		size = 851
+	}
+
+	artisans = {
+		culture = aryan
+religion = animist
+		size = 4296
+	}
+
+	soldiers = {
+		culture = aryan
+religion = animist
+		size = 1072
+	}
+
+	farmers = {
+		culture = aryan
+religion = animist
+		size = 78125
+	}
+}
+#Qandahar (359375/89843 POPS)
+1215 = {
+	aristocrats = {
+		culture = aryan
+religion = animist
+		size = 1171
+	}
+
+	clergymen = {
+		culture = aryan
+religion = animist
+		size = 608
+	}
+
+	artisans = {
+		culture = aryan
+religion = animist
+		size = 2928
+	}
+
+	soldiers = {
+		culture = aryan
+religion = animist
+		size = 1072
+	}
+
+	farmers = {
+		culture = aryan
+religion = animist
+		size = 53096
+	}
+
+	aristocrats = {
+		culture = aryan
+religion = animist
+		size = 390
+	}
+
+	clergymen = {
+		culture = aryan
+religion = animist
+		size = 206
+	}
+
+	artisans = {
+		culture = aryan
+religion = animist
+		size = 1022
+	}
+
+	soldiers = {
+		culture = aryan
+religion = animist
+		size = 1072
+	}
+
+	farmers = {
+		culture = aryan
+religion = animist
+		size = 17906
+	}
+
+	aristocrats = {
+		culture = aryan
+religion = zoroastrianism
+		size = 166
+	}
+
+	clergymen = {
+		culture = aryan
+religion = zoroastrianism
+		size = 96
+	}
+
+	artisans = {
+		culture = aryan
+religion = zoroastrianism
+		size = 510
+	}
+
+	soldiers = {
+		culture = aryan
+religion = zoroastrianism
+		size = 96
+	}
+
+	farmers = {
+		culture = aryan
+religion = zoroastrianism
+		size = 9862
+	}
+}
+#Jalalabad (261718/65428 POPS)
+1216 = {
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 1268
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 656
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 3268
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 3906
+	}
+
+	farmers = {
+		culture = aryan
+religion = zoroastrianism
+		size = 26625
+	}
+		farmers = {
+		culture = turkic
+religion = animist
+		size = 30000
+	}
+
+}
+#Ghzani (316406/79101 POPS)
+1217 = {
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 1315
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 671
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 3320
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 656
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 20432
+	}
+
+	aristocrats = {
+		culture = aryan
+religion = zoroastrianism
+		size = 195
+	}
+
+	clergymen = {
+		culture = aryan
+religion = zoroastrianism
+		size = 108
+	}
+
+	artisans = {
+		culture = aryan
+religion = zoroastrianism
+		size = 632
+	}
+
+	soldiers = {
+		culture = aryan
+religion = zoroastrianism
+		size = 120
+	}
+
+	farmers = {
+		culture = aryan
+religion = zoroastrianism
+		size = 51632
+	}
+}
+#Badakhshan Region (332031)
+#under the rule of Afghanistan in 1791
+#Faizabad (332031/83007 POPS)
+1210 = {
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 120
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 57
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 338
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 1072
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 5382
+	}
+
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 1608
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 752
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 3658
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 3906
+	}
+
+	farmers = {
+		culture = aryan
+religion = zoroastrianism
+		size = 26233
+	}
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 40000
+	}
+
+}

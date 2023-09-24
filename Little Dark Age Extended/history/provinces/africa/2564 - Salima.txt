@@ -1,0 +1,8 @@
+owner = NOB
+controller = NOB
+add_core = NOB
+
+trade_goods = cattle
+life_rating = 30
+
+set_province_flag = farm

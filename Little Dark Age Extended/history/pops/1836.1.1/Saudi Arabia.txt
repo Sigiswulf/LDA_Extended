@@ -1,0 +1,691 @@
+#Hijaz Region (396000)
+#under the "rule" of Egypt in 1652
+#Mecca (176400/44100 POPS)
+1151 = {
+	aristocrats = {
+culture = bedouin
+religion = animist
+		size = 360
+	}
+
+	bureaucrats = {
+culture = bedouin
+religion = animist
+		size = 90
+	}
+
+	officers = {
+culture = bedouin
+religion = animist
+		size = 112
+	}
+
+	clergymen = {
+culture = bedouin
+religion = animist
+		size = 336
+	}
+
+	artisans = {
+culture = bedouin
+religion = animist
+		size = 5850
+	}
+
+	soldiers = {
+culture = bedouin
+religion = animist
+		size = 990
+	}
+
+	farmers = {
+culture = bedouin
+religion = animist
+		size = 14850
+	}
+
+	aristocrats = {
+		culture = bedouin
+religion = animist
+		size = 360
+	}
+
+	clergymen = {
+		culture = bedouin
+religion = animist
+		size = 112
+	}
+
+	artisans = {
+		culture = bedouin
+religion = animist
+		size = 990
+	}
+
+	soldiers = {
+		culture = bedouin
+religion = animist
+		size = 224
+	}
+
+	farmers = {
+		culture = bedouin
+religion = animist
+		size = 18112
+	}
+
+	slaves = {
+		culture = afro_asiatic
+		religion = animist
+		size = 1800
+	}
+}
+#Jidda (90000/22500 POPS)
+1152 = {
+	aristocrats = {
+culture = bedouin
+religion = animist
+		size = 314
+	}
+
+	clergymen = {
+culture = bedouin
+religion = animist
+		size = 156
+	}
+
+	artisans = {
+culture = bedouin
+religion = animist
+		size = 4050
+	}
+
+	soldiers = {
+culture = bedouin
+religion = animist
+		size = 990
+	}
+
+	farmers = {
+culture = bedouin
+religion = animist
+		size = 18922
+	}
+
+	aristocrats = {
+		culture = bedouin
+religion = animist
+		size = 44
+	}
+
+	clergymen = {
+		culture = bedouin
+religion = animist
+		size = 66
+	}
+
+	artisans = {
+		culture = bedouin
+religion = animist
+		size = 180
+	}
+
+	soldiers = {
+		culture = bedouin
+religion = animist
+		size = 44
+	}
+
+	farmers = {
+		culture = bedouin
+religion = animist
+		size = 3262
+	}
+
+	slaves = {
+		culture = afro_asiatic
+		religion = animist
+		size = 2700
+	}
+}
+#Medina (72000/18000 POPS)
+1153 = {
+	aristocrats = {
+culture = bedouin
+religion = animist
+		size = 224
+	}
+
+	clergymen = {
+culture = bedouin
+religion = animist
+		size = 134
+	}
+
+	artisans = {
+culture = bedouin
+religion = animist
+		size = 1350
+	}
+
+	soldiers = {
+culture = bedouin
+religion = animist
+		size = 990
+	}
+
+	farmers = {
+culture = bedouin
+religion = animist
+		size = 9990
+	}
+
+	aristocrats = {
+		culture = bedouin
+religion = animist
+		size = 66
+	}
+
+	clergymen = {
+		culture = bedouin
+religion = animist
+		size = 66
+	}
+
+	artisans = {
+		culture = bedouin
+religion = animist
+		size = 180
+	}
+
+	soldiers = {
+		culture = bedouin
+religion = animist
+		size = 44
+	}
+
+	farmers = {
+		culture = bedouin
+religion = animist
+		size = 3240
+	}
+
+	slaves = {
+		culture = afro_asiatic
+		religion = animist
+		size = 1800
+	}
+}
+#Tabuk (7200/1800 POPS)
+1154 = {
+	aristocrats = {
+		culture = bedouin
+religion = animist
+		size = 22
+	}
+
+	clergymen = {
+		culture = bedouin
+religion = animist
+		size = 22
+	}
+
+	artisans = {
+		culture = bedouin
+religion = animist
+		size = 90
+	}
+
+	soldiers = {
+		culture = bedouin
+religion = animist
+		size = 22
+	}
+
+	farmers = {
+		culture = bedouin
+religion = animist
+		size = 1642
+	}
+}
+#Abha (50400/12600 POPS)
+1155 = {
+	aristocrats = {
+culture = bedouin
+religion = animist
+		size = 90
+	}
+
+	clergymen = {
+culture = bedouin
+religion = animist
+		size = 44
+	}
+
+	artisans = {
+culture = bedouin
+religion = animist
+		size = 270
+	}
+
+	soldiers = {
+culture = bedouin
+religion = animist
+		size = 990
+	}
+
+	farmers = {
+culture = bedouin
+religion = animist
+		size = 4094
+	}
+
+	aristocrats = {
+		culture = bedouin
+religion = animist
+		size = 134
+	}
+
+	clergymen = {
+		culture = bedouin
+religion = animist
+		size = 66
+	}
+
+	artisans = {
+		culture = bedouin
+religion = animist
+		size = 314
+	}
+
+	soldiers = {
+		culture = bedouin
+religion = animist
+		size = 66
+	}
+
+	farmers = {
+		culture = bedouin
+religion = animist
+		size = 6570
+	}
+}
+#Badiyat al-Sham Region (18000)  #see Jordan.txt, Iraq.txt & Syria.txt for balance of region
+#under the "rule" of Egypt in 1652
+#Kaf (18000/4500 POPS) #now part of Saudi Arabia
+1156 = {
+	aristocrats = {
+		culture = bedouin
+religion = animist
+		size = 66
+	}
+
+	clergymen = {
+		culture = bedouin
+religion = animist
+		size = 66
+	}
+
+	artisans = {
+		culture = bedouin
+religion = animist
+		size = 180
+	}
+
+	soldiers = {
+		culture = bedouin
+religion = animist
+		size = 44
+	}
+
+	farmers = {
+		culture = bedouin
+religion = animist
+		size = 4140
+	}
+}
+#Nejd Region (183600)
+#under the rule of Nejd in 1652
+#Riyadh (104400/26100 POPS)
+1157 = {
+	aristocrats = {
+		culture = bedouin
+religion = animist
+		size = 450
+	}
+
+	bureaucrats = {
+		culture = bedouin
+religion = animist
+		size = 22
+	}
+
+	officers = {
+		culture = bedouin
+religion = animist
+		size = 66
+	}
+
+	clergymen = {
+		culture = bedouin
+religion = animist
+		size = 292
+	}
+
+	artisans = {
+		culture = bedouin
+religion = animist
+		size = 1304
+	}
+
+	soldiers = {
+		culture = bedouin
+religion = animist
+		size = 3600
+	}
+
+	farmers = {
+		culture = bedouin
+religion = animist
+		size = 20362
+	}
+}
+#Rafha (18000/4500 POPS)
+1158 = {
+	aristocrats = {
+		culture = bedouin
+religion = animist
+		size = 66
+	}
+
+	clergymen = {
+		culture = bedouin
+religion = animist
+		size = 44
+	}
+
+	artisans = {
+		culture = bedouin
+religion = animist
+		size = 224
+	}
+
+	soldiers = {
+		culture = bedouin
+religion = animist
+		size = 990
+	}
+
+	farmers = {
+		culture = bedouin
+religion = animist
+		size = 3306
+	}
+}
+#Halaban (25200/6300 POPS)
+1159 = {
+	aristocrats = {
+		culture = bedouin
+religion = animist
+		size = 90
+	}
+
+	clergymen = {
+		culture = bedouin
+religion = animist
+		size = 44
+	}
+
+	artisans = {
+		culture = bedouin
+religion = animist
+		size = 292
+	}
+
+	soldiers = {
+		culture = bedouin
+religion = animist
+		size = 990
+	}
+
+	farmers = {
+		culture = bedouin
+religion = animist
+		size = 4972
+	}
+}
+#Hail (10800/2700 POPS)
+1160 = {
+	aristocrats = {
+		culture = bedouin
+religion = animist
+		size = 44
+	}
+
+	clergymen = {
+		culture = bedouin
+religion = animist
+		size = 44
+	}
+
+	artisans = {
+		culture = bedouin
+religion = animist
+		size = 112
+	}
+
+	soldiers = {
+		culture = bedouin
+religion = animist
+		size = 22
+	}
+
+	farmers = {
+		culture = bedouin
+religion = animist
+		size = 2474
+	}
+}
+#Sharawah (25200/6300 POPS)
+1161 = {
+	aristocrats = {
+		culture = bedouin
+religion = animist
+		size = 90
+	}
+
+	clergymen = {
+		culture = bedouin
+religion = animist
+		size = 44
+	}
+
+	artisans = {
+		culture = bedouin
+religion = animist
+		size = 292
+	}
+
+	soldiers = {
+		culture = bedouin
+religion = animist
+		size = 990
+	}
+
+	farmers = {
+		culture = bedouin
+religion = animist
+		size = 4972
+	}
+}
+#Bahrain Region (183600) #see Gulf States.txt for balance of region  
+#under the rule of Nejd in 1652
+#Qatif (82800/20700 POPS)
+1163 = {
+	aristocrats = {
+		culture = bedouin
+religion = animist
+		size = 90
+	}
+
+	bureaucrats = {
+		culture = bedouin
+religion = animist
+		size = 22
+	}
+
+	officers = {
+		culture = bedouin
+religion = animist
+		size = 44
+	}
+
+	clergymen = {
+		culture = bedouin
+religion = animist
+		size = 66
+	}
+
+	artisans = {
+		culture = bedouin
+religion = animist
+		size = 314
+	}
+
+	soldiers = {
+		culture = bedouin
+religion = animist
+		size = 990
+	}
+
+	farmers = {
+		culture = bedouin
+religion = animist
+		size = 4972
+	}
+
+	aristocrats = {
+		culture = bedouin
+religion = zoroastrianism
+		size = 180
+	}
+
+	clergymen = {
+		culture = bedouin
+religion = zoroastrianism
+		size = 134
+	}
+
+	artisans = {
+		culture = bedouin
+religion = zoroastrianism
+		size = 720
+	}
+
+	soldiers = {
+		culture = bedouin
+religion = zoroastrianism
+		size = 156
+	}
+
+	farmers = {
+		culture = bedouin
+religion = zoroastrianism
+		size = 13206
+	}
+}
+#Hufuf (86400/POPS)
+1164 = {
+	aristocrats = {
+		culture = bedouin
+religion = animist
+		size = 156
+	}
+
+	clergymen = {
+		culture = bedouin
+religion = animist
+		size = 90
+	}
+
+	artisans = {
+		culture = bedouin
+religion = animist
+		size = 494
+	}
+
+	soldiers = {
+		culture = bedouin
+religion = animist
+		size = 990
+	}
+
+	farmers = {
+		culture = bedouin
+religion = animist
+		size = 8256
+	}
+
+	aristocrats = {
+		culture = bedouin
+religion = zoroastrianism
+		size = 202
+	}
+
+	clergymen = {
+		culture = bedouin
+religion = zoroastrianism
+		size = 112
+	}
+
+	artisans = {
+		culture = bedouin
+religion = zoroastrianism
+		size = 584
+	}
+
+	soldiers = {
+		culture = bedouin
+religion = zoroastrianism
+		size = 112
+	}
+
+	farmers = {
+		culture = bedouin
+religion = zoroastrianism
+		size = 10686
+	}
+}
+#Ahsa (14400/3600 POPS)
+2586 = {
+	aristocrats = {
+		culture = bedouin
+religion = animist
+		size = 44
+	}
+
+	clergymen = {
+		culture = bedouin
+religion = animist
+		size = 66
+	}
+
+	artisans = {
+		culture = bedouin
+religion = animist
+		size = 180
+	}
+
+	soldiers = {
+		culture = bedouin
+religion = animist
+		size = 22
+	}
+
+	farmers = {
+		culture = bedouin
+religion = animist
+		size = 3464
+	}
+
+}

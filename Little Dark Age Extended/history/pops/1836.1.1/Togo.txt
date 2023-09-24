@@ -1,0 +1,231 @@
+#Togo Region (36800) #see Ghana.txt for balance of region
+#uncolonized in 183
+#Lome (21600/5400 POPS)  
+1914 = {
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 77
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 40
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 157
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 40
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 3085
+	}
+
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 27
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 15
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 60
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 15
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 1182
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 700
+	}
+}
+#Atakpane (12800/3200 POPS)  
+1917 = {
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 25
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 15
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 70
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 15
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 1275
+	}
+
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 12
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 7
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 35
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 7
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 637
+	}
+
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 20
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 10
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 45
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 12
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 812
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 200
+	}
+}
+#Sokode (2400/600 POPS)  
+1918 = {
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 5
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 5
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 20
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 5
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 365
+	}
+
+	aristocrats = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 2
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 5
+	}
+
+	artisans = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 10
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 2
+	}
+
+	farmers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 180
+	}
+
+}

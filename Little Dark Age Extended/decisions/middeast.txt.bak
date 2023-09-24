@@ -1,0 +1,233 @@
+political_decisions={
+form_arabs ={
+potential = {
+OR = {
+primary_culture = bedouin
+}
+}
+allow ={
+
+OR = {
+primary_culture = bedouin}
+
+LAK = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+
+
+GHA = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+			
+HDJ = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+
+YEM = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+
+OMA = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+
+NEJ = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+}
+
+
+effect = {
+
+prestige = 30
+
+any_country = {
+limit = {
+	OR = {
+	   	tag = LAK
+		tag = GHA
+		tag = HDJ
+		tag = YEM
+		tag = OMA
+		tag = NEJ
+		}
+		in_sphere = THIS
+		NOT = {
+		tag = THIS
+		}
+		}
+		annex_to = THIS
+
+}
+set_global_flag = arab_empire
+change_tag = NEJ
+add_accepted_culture = sephardic
+primary_culture = bedouin
+LAK = { all_core = { add_core = THIS } }
+ABU = { all_core = { add_core = THIS } }
+GHA = { all_core = { add_core = THIS } }
+HDJ = { all_core = { add_core = THIS } }
+YEM = { all_core = { add_core = THIS } }
+OMA = { all_core = { add_core = THIS } }
+NEJ = { all_core = { add_core = THIS } }
+}}
+
+form_etheopian_state ={
+potential = {
+OR = {
+primary_culture = afro_asiatic
+}
+}
+allow ={
+
+OR = {
+primary_culture = afro_asiatic}
+
+LAK = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+ETH = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+
+
+GHA = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+			
+HDJ = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+
+YEM = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+
+OMA = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+
+NEJ = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+
+
+ALO = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+NOB = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+MAK = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+}
+
+
+effect = {
+
+prestige = 30
+
+any_country = {
+limit = {
+	OR = {
+	   	tag = LAK
+		tag = GHA
+		tag = HDJ
+		tag = YEM
+		tag = OMA
+		tag = NEJ
+		tag = ABU
+		}
+		in_sphere = THIS
+		NOT = {
+		tag = THIS
+		}
+		}
+		annex_to = THIS
+
+}
+set_global_flag = et_state
+change_tag = ETH
+add_accepted_culture = bedouin
+primary_culture = afro_asiatic
+LAK = { all_core = { add_core = THIS } }
+ETH = { all_core = { add_core = THIS } }
+GHA = { all_core = { add_core = THIS } }
+HDJ = { all_core = { add_core = THIS } }
+YEM = { all_core = { add_core = THIS } }
+OMA = { all_core = { add_core = THIS } }
+NEJ = { all_core = { add_core = THIS } }
+ALO = { all_core = { add_core = THIS } }
+MAK = { all_core = { add_core = THIS } }
+NOB = { all_core = { add_core = THIS } }
+}}
+
+
+
+form_CAUC ={
+potential = {
+OR = {
+primary_culture = armenian
+primary_culture = georgian
+primary_culture = north_caucasian
+primary_culture = azerbaijani
+}
+}
+allow ={
+
+
+OR = {
+primary_culture = armenian
+primary_culture = georgian
+primary_culture = azerbaijani	
+primary_culture = north_caucasian}
+
+GEO = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+			
+ALA = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+ALB = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+}
+effect = {
+
+prestige = 30
+
+any_country = {
+limit = {
+	OR = {
+	   	tag = ARM
+		tag = GEO
+		tag = ALA
+		tag = ALB
+		}
+		in_sphere = THIS
+		NOT = {
+		tag = THIS
+		}
+		}
+		annex_to = THIS
+}
+
+set_global_flag = caucasia_form
+change_tag = GEO
+add_accepted_culture = armenian
+add_accepted_culture = georgian
+primary_culture = north_caucasian
+ARM = { all_core = { add_core = THIS } }
+GEO = { all_core = { add_core = THIS } }
+ALA = { all_core = { add_core = THIS } }
+ALB = { all_core = { add_core = THIS } }
+}}
+
+
+
+
+
+}
+

@@ -1,0 +1,90 @@
+leader = {
+	name = "George Murray"
+	picture = eng_gen_murray
+	date = 500.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+army = { 
+	name = "Defense Force"
+	location = 263
+	regiment = {
+		name= "1.4th Division"
+		type = infantry_offensive
+		home = 263
+	}
+
+	regiment = {
+		name= "2.4th Division"
+		type = infantry_offensive
+		home = 255
+	}
+}
+navy = {
+	name = "Irish Coastal Guard"
+	location = 263 #Dublin
+	ship = {
+		name= "HMS Madagascar"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Portland"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Winchester"
+		type = frigate
+	}
+
+	ship = {
+		name= "11th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "12th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "13th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "14th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "15th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "16th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "17th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "18th Transport Flotilla"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "19th Transport Flotilla"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "20th Transport Flotilla"
+		type = clipper_transport
+	}
+
+}

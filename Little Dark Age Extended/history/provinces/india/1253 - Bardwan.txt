@@ -1,0 +1,8 @@
+owner = GUP
+controller = GUP
+add_core = GUP
+trade_goods = silk
+life_rating = 32
+1861.1.1 = { railroad = 3 }
+
+set_province_flag = farm

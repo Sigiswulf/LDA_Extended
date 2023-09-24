@@ -1,0 +1,377 @@
+#Tibet Region (938000)
+#under the rule of Tibet in 459
+#Lhasa (223000/55750 POPS)
+1587 = {
+	aristocrats = {
+		culture = tibetan
+religion = animist
+		size = 1037
+	}
+
+	bureaucrats = {
+		culture = tibetan
+religion = animist
+		size = 187
+	}
+
+	officers = {
+		culture = tibetan
+religion = animist
+		size = 237
+	}
+
+	clergymen = {
+		culture = tibetan
+religion = animist
+		size = 537
+	}
+
+	artisans = {
+		culture = tibetan
+religion = animist
+		size = 2500
+	}
+
+	artisans = {
+		culture = tibetan
+religion = animist
+		size = 100
+	}
+
+	soldiers = {
+		culture = tibetan
+religion = animist
+		size = 1000
+	}
+
+	farmers = {
+		culture = tibetan
+religion = animist
+		size = 4640
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = animist
+		size = 37
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = animist
+		size = 187
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = animist
+		size = 37
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = animist
+		size = 3487
+	}
+}
+#Chamdo (156000/39000 POPS)
+1588 = {
+	aristocrats = {
+		culture = tibetan
+religion = animist
+		size = 687
+	}
+
+	clergymen = {
+		culture = tibetan
+religion = animist
+		size = 362
+	}
+
+	artisans = {
+		culture = tibetan
+religion = animist
+		size = 1750
+	}
+
+	soldiers = {
+		culture = tibetan
+religion = animist
+		size = 350
+	}
+
+	farmers = {
+		culture = tibetan
+religion = animist
+		size = 31850
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = animist
+		size = 37
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = animist
+		size = 200
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = animist
+		size = 37
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = animist
+		size = 3725
+	}
+}
+#Shigatse (83000/20750 POPS)
+1589 = {
+	aristocrats = {
+		culture = tibetan
+religion = animist
+		size = 400
+	}
+
+	clergymen = {
+		culture = tibetan
+religion = animist
+		size = 218
+	}
+
+	artisans = {
+		culture = tibetan
+religion = animist
+		size = 1000
+	}
+
+	soldiers = {
+		culture = tibetan
+religion = animist
+		size = 200
+	}
+
+	farmers = {
+		culture = tibetan
+religion = animist
+		size = 18181
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = animist
+		size = 12
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = animist
+		size = 37
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = animist
+		size = 6
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = animist
+		size = 443
+	}
+}
+#Lhodrak (172000/43000 POPS)
+1590 = {
+	aristocrats = {
+		culture = tibetan
+religion = animist
+		size = 843
+	}
+
+	clergymen = {
+		culture = tibetan
+religion = animist
+		size = 437
+	}
+
+	artisans = {
+		culture = tibetan
+religion = animist
+		size = 2150
+	}
+
+	soldiers = {
+		culture = tibetan
+religion = animist
+		size = 431
+	}
+
+	farmers = {
+		culture = tibetan
+religion = animist
+		size = 39137
+	}
+}
+#Changtang (19000/4750 POPS)
+1591 = {
+	aristocrats = {
+		culture = tibetan
+religion = animist
+		size = 93
+	}
+
+	clergymen = {
+		culture = tibetan
+religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = tibetan
+religion = animist
+		size = 237
+	}
+
+	soldiers = {
+		culture = tibetan
+religion = animist
+		size = 43
+	}
+
+	farmers = {
+		culture = tibetan
+religion = animist
+		size = 4325
+	}
+}
+#Ngari (76000/19000 POPS)
+1592 = {
+	aristocrats = {
+		culture = tibetan
+religion = animist
+		size = 375
+	}
+
+	clergymen = {
+		culture = tibetan
+religion = animist
+		size = 193
+	}
+
+	artisans = {
+		culture = tibetan
+religion = animist
+		size = 950
+	}
+
+	soldiers = {
+		culture = tibetan
+religion = animist
+		size = 187
+	}
+
+	farmers = {
+		culture = tibetan
+religion = animist
+		size = 17293
+	}
+}
+#Tawang (209000/52250 POPS) #now NEFA in India  tibetan = Chin 
+1593 = {
+	aristocrats = {
+		culture = tibetan
+religion = animist
+		size = 656
+	}
+
+	clergymen = {
+		culture = tibetan
+religion = animist
+		size = 337
+	}
+
+	artisans = {
+		culture = tibetan
+religion = animist
+		size = 1650
+	}
+
+	soldiers = {
+		culture = tibetan
+religion = animist
+		size = 331
+	}
+
+	farmers = {
+		culture = tibetan
+religion = animist
+		size = 30025
+	}
+
+	aristocrats = {
+		culture = kachin
+		religion = animist
+		size = 187
+	}
+
+	clergymen = {
+		culture = kachin
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = kachin
+		religion = animist
+		size = 487
+	}
+
+	soldiers = {
+		culture = kachin
+		religion = animist
+		size = 87
+	}
+
+	farmers = {
+		culture = kachin
+		religion = animist
+		size = 8887
+	}
+
+	aristocrats = {
+		culture = tibetan
+		religion = animist
+		size = 187
+	}
+
+	clergymen = {
+		culture = tibetan
+		religion = animist
+		size = 93
+	}
+
+	artisans = {
+		culture = tibetan
+		religion = animist
+		size = 475
+	}
+
+	soldiers = {
+		culture = tibetan
+		religion = animist
+		size = 93
+	}
+
+	farmers = {
+		culture = tibetan
+		religion = animist
+		size = 8650
+	}
+
+}

@@ -1,0 +1,192 @@
+political_decisions={
+
+form_north_india ={
+potential = {
+primary_culture = indo_aryan
+NOT = { exists = HND
+} 
+}
+allow ={
+
+OR = {
+primary_culture = indo_aryan}
+
+owns = 1251
+owns = 1255
+owns = 1258
+owns = 1250
+owns = 1261
+owns = 1244
+owns = 1236
+owns = 1280
+owns = 1272
+owns = 1291
+owns = 1288
+owns = 1268
+owns = 1227
+}
+effect = {
+
+prestige = 30
+
+any_country = {
+limit = {
+	OR = {
+	   	tag = HNS
+		tag = VAK
+		tag = SIN
+		tag = GUJ
+		tag = GUP
+		tag = KAM
+		}
+		in_sphere = THIS
+		NOT = {
+		tag = THIS
+		}
+		}
+		annex_to = THIS
+
+}
+change_tag = HND
+primary_culture = indo_aryan
+add_accepted_culture = dravidian
+HNS = { all_core = { add_core = THIS } }
+VAK = { all_core = { add_core = THIS } }
+SIN = { all_core = { add_core = THIS } }
+GUJ = { all_core = { add_core = THIS } }
+GUP = { all_core = { add_core = THIS } }
+KAM = { all_core = { add_core = THIS } }
+}}
+
+
+
+
+form_south_india ={
+potential = {
+NOT = { has_global_flag = south_india_formed }
+OR = {
+primary_culture = dravidian
+}
+}
+allow ={
+
+OR = {
+primary_culture = dravidian}
+owns = 1309
+owns = 1323
+owns = 1317
+owns = 1313
+owns = 1306
+owns = 1297
+owns = 1283
+
+}
+
+effect = {
+set_global_flag = south_india_formed
+prestige = 30
+
+any_country = {
+limit = {
+	OR = {
+	   	tag = KAD
+		tag = VAK
+		tag = GAN
+		tag = KLA
+		tag = PAL
+		tag = NLA
+		}
+		in_sphere = THIS
+		NOT = {
+		tag = THIS
+		}
+		}
+		annex_to = THIS
+
+}
+change_tag = DRA
+primary_culture = dravidian
+KAD = { all_core = { add_core = THIS } }
+VAK = { all_core = { add_core = THIS } }
+GAN = { all_core = { add_core = THIS } }
+KAL = { all_core = { add_core = THIS } }
+PAL = { all_core = { add_core = THIS } }
+NLA = { all_core = { add_core = THIS } }
+}
+}
+
+
+form_hunas_indian_empire ={
+potential = {
+NOT = { exists = HND }
+tag = HNS
+OR = {
+primary_culture = turkic
+}
+}
+allow ={
+
+OR = {
+primary_culture = turkic}
+
+HNS = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+VAK = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+
+
+SIN = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+			
+GUJ = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+
+GUP = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+
+KAM = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+			}
+
+
+effect = {
+
+prestige = 30
+
+any_country = {
+limit = {
+	OR = {
+	   	tag = HNS
+		tag = VAK
+		tag = SIN
+		tag = GUJ
+		tag = GUP
+		tag = KAM
+		}
+		in_sphere = THIS
+		NOT = {
+		tag = THIS
+		}
+		}
+		annex_to = THIS
+
+	}
+change_tag = HND
+primary_culture = turkic
+add_accepted_culture = indo_aryan
+HNS = { all_core = { add_core = THIS } }
+VAK = { all_core = { add_core = THIS } }
+SIN = { all_core = { add_core = THIS } }
+GUJ = { all_core = { add_core = THIS } }
+GUP = { all_core = { add_core = THIS } }
+KAM = { all_core = { add_core = THIS } }
+		}
+	}
+
+}

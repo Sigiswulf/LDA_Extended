@@ -1,0 +1,383 @@
+color = { 131  20  12 }
+graphical_culture = SpanishGC
+
+party = {
+	name = "generic_conservative"
+	start_date = 480.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "generic_reactionary"
+	start_date = 480.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "generic_liberal"
+	start_date = 480.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "generic_socialist"
+	start_date = 512.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "generic_communist"
+	start_date = 512.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "generic_fascist"
+	start_date = 565.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "SPA_conservative"
+	start_date = 480.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "SPA_liberal"
+	start_date = 480.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "SPA_conservative_2"
+	start_date = 1854.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = state_capitalism
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "SPA_reactionary"
+	start_date = 480.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "SPA_liberal_2"
+	start_date = 1868.1.1
+	end_date = 1903.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+
+party = {
+	name = "SPA_liberal_3"
+	start_date = 1868.1.1
+	end_date = 1903.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = limited_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "SPA_socialist"
+	start_date = 512.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	economic_policy = planned_economy
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+
+party = {
+	name = "SPA_liberal_4"
+	start_date = 1908.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "SPA_liberal_5"
+	start_date = 1903.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = limited_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "SPA_communist"
+	start_date = 512.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	economic_policy = planned_economy
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pacifism
+}
+
+party = {
+	name = "SPA_liberal_6"
+	start_date = 1912.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "SPA_conservative_3"
+	start_date = 1901.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "SPA_liberal_7"
+	start_date = 1906.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "SPA_conservative_4"
+	start_date = 1895.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "SPA_conservative_5"
+	start_date = 1898.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = laissez_faire
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "SPA_anarcho_liberal"
+	start_date = 480.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = full_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "SPA_fascist"
+	start_date = 565.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Alfonso XIII" "ﾁlvaro de Baz疣" "Brigadier Topete" Castata "Ciudad de Cartagena" "Ciudad de Sevilla" "Ciudad de Valencia" "Duque de Alba" "Duque de Medina-Sidonia" "Duque de Parma" 
+		"El Gran Capit疣" Espa "Estrella de los Mares" "Fadrique ﾁlvarez de Toledo" "Fernando de Magallanes" "Infante de Espa" "Jaime I" L疣gara "Luis de Cdova" "Mar僘 de Molina"
+		"Marqu駸 de la Victoria" Pelayo "Pr匤cipe de Asturias" Requesens "Reyes Caticos" "Rodrigo D僘z de Vivar" "S疣chez de Tovar" "Sancho III" "Villa de Barcelona" "Villa de Madrid"
+	}
+	battleship = {
+		Pelayo "Pr匤cipe de Asturias" Requesens "Reyes Caticos" "Villa de Barcelona" "Villa de Madrid" "Marqu駸 de la Victoria" Espa "Villa de Cadiz" "Villa de Gerona" "Duque de Tetu疣" Numancia 
+		Victoria Resoluci "Villa de Sevilla" 
+	}
+	ironclad = {
+		Arapiles Bail駭 Barcelona Cazadora Covadonga Duero Ebro Galerna Giralda Guadalete
+		"Mar Caribe" Mistral "Navas de Tolosa" Numancia Resoluci Sagunto "San Quint匤" "Santa Mar僘" Segura Sella
+		Siroco Tajo Tambre Tetu疣 Tramontana Turia Vencedora Viriato Vitoria Zaragoza
+	}
+	clipper_transport = { 
+		ﾁguila "ﾁguila de Nantes" "ﾁguila Volante" Astrolabio Aurora Concepci Cornelia Cortes Diana Esmeralda
+		Esperanza Fama F駭ix Fidela Flecha Flora Gloria Gusana Hermione Iberia
+		Ifigenia Iris Juno Ligera Mahonesa "Mar僘 Isabel" Medea Mercurio Minerva Ninfa
+		"Ntra. Sra. de Ar疣zazu" "Ntra. Sra. de Atocha" "Ntra. Sra. de Guadalupe" "Ntra. Sra. del Pilar" "Ntra. Sra. del Rosario" Palas Paloma Perla "Perla de Espa" Pronta
+		Providencia Prueba "San Jorge" "San Jos・ "San Juan" "San Miguel" "Santa Ana" "Santa B疵bara" "Santa Catalina" "Santa Leocadia"
+		Sirena Soledad Sorpresa Tetis Tigre Triunfo Unicornio Venganza Victoria Viva
+	}
+	steam_transport = { 
+		ﾁguila "ﾁguila de Nantes" "ﾁguila Volante" Astrolabio Aurora Concepci Cornelia Cortes Diana Esmeralda
+		Esperanza Fama F駭ix Fidela Flecha Flora Gloria Gusana Hermione Iberia
+		Ifigenia Iris Juno Ligera Mahonesa "Mar僘 Isabel" Medea Mercurio Minerva Ninfa
+		"Ntra. Sra. de Ar疣zazu" "Ntra. Sra. de Atocha" "Ntra. Sra. de Guadalupe" "Ntra. Sra. del Pilar" "Ntra. Sra. del Rosario" Palas Paloma Perla "Perla de Espa" Pronta
+		Providencia Prueba "San Jorge" "San Jos・ "San Juan" "San Miguel" "Santa Ana" "Santa B疵bara" "Santa Catalina" "Santa Leocadia"
+		Sirena Soledad Sorpresa Tetis Tigre Triunfo Unicornio Venganza Victoria Viva
+	}
+	commerce_raider = {
+		"Alcal・Galiano" "Almirante Antequera" "Almirante Ferr疣diz" "Almirante Vald駸" Alsedo Audaz Bustamante Cadarso Churruca Ciscar
+		Destructor Esca Furor Guarda Guerrero Huesca "Jorge Juan" "Jos・Luis D冾z" Lazaga Liebre
+		Osado Plut Proserpina "S疣chez Barc疂ztegui" Terror Teruel Triunfante Ulloa Velasco Villamil
+	}
+	cruiser = {
+		"Alfonso XII" "Almirante Oquendo" Arag "Cardenal Cisneros" Castilla "Ciudad de Oviedo" Catalu "Conde de Venadito" "Cristal Col" "Don Antonio de Ulloa" 
+		"Don Juan de Austria" "Emperador Carlos V" Extremadura Gravina "Infanta Isabel" "Isla de Cuba" "Isla de Luz" "Juan Sebasti疣 Elcano" 
+		"Lepanto" "Marqu駸 de la Ensenada" Navarra "Princesa de Asturias" "Reina Cristina" "Reina Mercedes" "Reina Regente" "R卲 de la Plata" "Velasco" "Vizcaya"
+	}
+	
+	frigate = {
+		"Almirante Cervera" Andaluc僘 Asturias Atrevida Baleares "Blas de Lezo" Canarias Diana Eolo Galicia
+		"Hern疣 Cort駸" "Juan de la Cosa" J侊iter Legazpi Marte "Mart匤 Alonso Pinz" "M駭dez N橾ez" "Miguel de Cervantes" Neptuno
+		Pizarro Princesa "Pr匤cipe Alfonso" "Reina Victoia Eugenia" "Sarmiento de Gamboa" "Trit" "Vasco N橾ez de Balboa" "Vicente Y碵ez Pinz" "Villa de Bilbao" Vulcano
+	}
+	monitor = {
+		"Ambrosio Spinola" "Bernardo G疝vez" "Cantabria" "Ciudad de C疆iz" "Ciudad de Las Palmas" "Ciudad de Mah" "Ciudad de Palma" "Ciudad de Santa Cruz" "Ciudad de Vigo" "Duque de Tetu疣" 
+		"Garc僘 ﾁlvarez de Toledo" Hesp駻ides Hevia "Hidalgo de Cisneros" "Ignacio Mar僘 de ﾁlava" "La Mancha" Le "Marqu駸 del Socorro" "Men駭dez de Avil駸"
+		"Meteoro" "Pedro Navarro" Porter Puigcerd・Rayo Rel疥pago Somiedo Tornado Vald駸 "Vicealmirante Pareja" "Villa de Gij"
+	}
+	manowar = {
+		"Am駻ica" "ﾁngel de la Guarda" "Aqu匀es" "Argonauta" "Buen Consejo" "Conquistador" "Firme" "Glorioso" "H駻oe" "Intr駱ido"
+		"Isabel II" "Monarca" "Ntra. Sra. del Patrocinio" "Real Familia" "Rey Francisco de As﨎" "San Bernardo" "San Carlos" "San Ferm匤" "San Fernando" "San Francisco de Paula"
+		"San Gregorio" "San Idelfonso" "San Isidro" "San Jos・ "San Juan Bautista" "San Juli疣" "San Leandro" "San Telmo" "Santiago" "Victorioso"
+	}
+}

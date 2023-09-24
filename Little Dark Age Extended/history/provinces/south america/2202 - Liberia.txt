@@ -1,0 +1,9 @@
+
+trade_goods = fruit
+life_rating = 30
+1861.1.1 = {
+	owner = COS
+	controller = COS
+}
+set_province_flag = farm
+add_core = SMR

@@ -1,0 +1,13 @@
+owner = GOG
+controller = GOG
+add_core = GOG
+trade_goods = coal
+life_rating = 32
+1861.1.1 = {
+	owner = RUS
+	controller = RUS
+	colonial = 1
+	naval_base = 1
+}
+
+set_province_flag = mine

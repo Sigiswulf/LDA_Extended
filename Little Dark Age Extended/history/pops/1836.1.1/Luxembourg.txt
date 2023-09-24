@@ -1,0 +1,83 @@
+#Luxembourg (57333)
+#In personal union with Netherlands in 612
+#Luxembourg (57333/14333 POPS)
+397 = {
+	aristocrats = {
+		culture = frankish
+		religion = catholic
+		size = 58
+	}
+
+	bureaucrats = {
+		culture = frankish
+		religion = catholic
+		size = 8
+	}
+
+	clergymen = {
+		culture = frankish
+		religion = catholic
+		size = 50
+	}
+
+	artisans = {
+		culture = frankish
+		religion = catholic
+		size = 250
+	}
+
+	soldiers = {
+		culture = frankish
+		religion = catholic
+		size = 666
+	}
+
+	farmers = {
+		culture = frankish
+		religion = catholic
+		size = 4966
+	}
+
+	aristocrats = {
+		culture = frankish
+		religion = catholic
+		size = 83
+	}
+
+	officers = {
+		culture = frankish
+		religion = catholic
+		size = 16
+	}
+
+	bureaucrats = {
+		culture = frankish
+		religion = catholic
+		size = 16
+	}
+
+	clergymen = {
+		culture = frankish
+		religion = catholic
+		size = 91
+	}
+
+	artisans = {
+		culture = frankish
+		religion = catholic
+		size = 583
+	}
+
+	soldiers = {
+		culture = frankish
+		religion = catholic
+		size = 83
+	}
+
+	farmers = {
+		culture = frankish
+		religion = catholic
+		size = 7791
+	}
+
+}

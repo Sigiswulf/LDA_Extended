@@ -1,0 +1,90 @@
+leader = {
+	name = "Generic General 1"
+	picture = spa_gen_luiscordova
+	type = land
+	date="497.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Generic General 2"
+	picture = spa_gen_jauregui
+	type = land
+	date="497.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+leader = {
+	name = "Generic General 3"
+	picture = spa_adm_vigodet
+	type = sea
+	date="500.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+}
+
+army = {
+	name = "Generic Army"
+	location = 631
+	
+	regiment = {
+		name= "4. Brigada de Infantería 'San Jorge'"
+		type = cavalry
+		home = 619
+	}
+
+	regiment = {
+		name= "1. Brigada de Artillería"
+		type = infantry_offensive
+		home = 633
+	}
+	
+	regiment = {
+		name= "5. Brigada de Infantería"
+		type = infantry_offensive
+		home = 633
+	}
+	
+	regiment = {
+		name= "6. Brigada de Infantería 'La Granja'"
+		type = infantry_offensive
+		home = 633
+	}
+
+	regiment = {
+		name= "7. Brigada de Infantería"
+		type = infantry_offensive
+		home = 635
+	}
+
+	regiment = {
+		name= "8. Brigada de Infantería"
+		type = infantry_defensive
+		home = 638
+	}
+
+	regiment = {
+		name= "9. Brigada de Infantería"
+		type = infantry_defensive
+		home = 635
+	}
+
+	regiment = {
+		name= "10. Brigada de Infantería"
+		type = infantry_defensive
+		home = 636
+	}
+
+	regiment = {
+		name= "11. Brigada de Infantería"
+		type = infantry_defensive
+		home = 631
+	}
+	
+	regiment = {
+		name= "12. Brigada de Infantería"
+		type = artillery
+		home = 634
+	}
+}

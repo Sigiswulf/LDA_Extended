@@ -1,0 +1,10 @@
+owner = ENL
+#controller = SCO
+add_core = SCO
+trade_goods = coal
+life_rating = 38
+1861.1.1 = { 
+	railroad = 3 
+}
+
+set_province_flag = mine

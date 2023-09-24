@@ -1,0 +1,9 @@
+owner = GEP
+controller = GEP
+add_core = GEP
+trade_goods = wool
+life_rating = 35
+1861.1.1 = { railroad = 3 }
+
+set_province_flag = farm
+add_core = DAC

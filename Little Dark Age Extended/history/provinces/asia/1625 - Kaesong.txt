@@ -1,0 +1,8 @@
+owner = GOG
+controller = GOG
+add_core = GOG
+trade_goods = grain
+life_rating = 35
+fort = 1
+
+set_province_flag = farm

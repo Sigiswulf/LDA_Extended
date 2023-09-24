@@ -1,0 +1,357 @@
+#Laos Region (175000)
+#under the rule of Luang Prabang in 459
+#Louangprabang (60000/15000 POPS) #lao = hmong/montagnard
+1356 = {
+    aristocrats = {
+        culture = lao
+        religion = hindu
+        size = 200
+    }
+
+    bureaucrats = {
+        culture = lao
+        religion = hindu
+        size = 18
+    }
+
+    officers = {
+        culture = lao
+        religion = hindu
+        size = 25
+    }
+
+    clergymen = {
+        culture = lao
+        religion = hindu
+        size = 106
+    }
+
+    artisans = {
+        culture = lao
+        religion = hindu
+        size = 537
+    }
+
+    soldiers = {
+        culture = lao
+        religion = hindu
+        size = 275
+    }
+
+    farmers = {
+        culture = lao
+        religion = hindu
+        size = 9485
+    }
+
+    aristocrats = {
+        culture = lao
+        religion = animist
+        size = 75
+    }
+
+    clergymen = {
+        culture = lao
+        religion = animist
+        size = 37
+    }
+
+    artisans = {
+        culture = lao
+        religion = animist
+        size = 200
+    }
+
+    soldiers = {
+        culture = lao
+        religion = animist
+        size = 43
+    }
+
+    farmers = {
+        culture = lao
+        religion = animist
+        size = 3893
+    }
+}
+#Vientiane (22000/5500 POPS)
+1357 = {
+    aristocrats = {
+        culture = lao
+        religion = hindu
+        size = 62
+    }
+
+    clergymen = {
+        culture = lao
+        religion = hindu
+        size = 37
+    }
+
+    artisans = {
+        culture = lao
+        religion = hindu
+        size = 187
+    }
+
+    soldiers = {
+        culture = lao
+        religion = hindu
+        size = 37
+    }
+
+    farmers = {
+        culture = lao
+        religion = hindu
+        size = 3425
+    }
+
+    aristocrats = {
+        culture = thai
+        religion = animist
+        size = 31
+    }
+
+    clergymen = {
+        culture = thai
+        religion = animist
+        size = 18
+    }
+
+    artisans = {
+        culture = thai
+        religion = animist
+        size = 87
+    }
+
+    soldiers = {
+        culture = thai
+        religion = animist
+        size = 18
+    }
+
+    farmers = {
+        culture = thai
+        religion = animist
+        size = 1593
+    }
+}
+#Savannakhet (20000/5000 POPS)
+1361 = {
+    aristocrats = {
+        culture = lao
+        religion = hindu
+        size = 62
+    }
+
+    clergymen = {
+        culture = lao
+        religion = hindu
+        size = 37
+    }
+
+    artisans = {
+        culture = lao
+        religion = hindu
+        size = 187
+    }
+
+    soldiers = {
+        culture = lao
+        religion = hindu
+        size = 37
+    }
+
+    farmers = {
+        culture = lao
+        religion = hindu
+        size = 3425
+    }
+
+    aristocrats = {
+        culture = thai
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = thai
+        religion = animist
+        size = 12
+    }
+
+    artisans = {
+        culture = thai
+        religion = animist
+        size = 62
+    }
+
+    soldiers = {
+        culture = thai
+        religion = animist
+        size = 12
+    }
+
+    farmers = {
+        culture = thai
+        religion = animist
+        size = 1137
+    }
+}
+#Satavan (42000/10500 POPS)
+1362 = {
+    aristocrats = {
+        culture = lao
+        religion = hindu
+        size = 112
+    }
+
+    clergymen = {
+        culture = lao
+        religion = hindu
+        size = 62
+    }
+
+    artisans = {
+        culture = lao
+        religion = hindu
+        size = 300
+    }
+
+    soldiers = {
+        culture = lao
+        religion = hindu
+        size = 275
+    }
+
+    farmers = {
+        culture = lao
+        religion = hindu
+        size = 5274
+    }
+
+    aristocrats = {
+        culture = lao
+        religion = animist
+        size = 81
+    }
+
+    clergymen = {
+        culture = lao
+        religion = animist
+        size = 43
+    }
+
+    artisans = {
+        culture = lao
+        religion = animist
+        size = 225
+    }
+
+    soldiers = {
+        culture = lao
+        religion = animist
+        size = 43
+    }
+
+    farmers = {
+        culture = lao
+        religion = animist
+        size = 4106
+    }
+}
+#under the rule of Siam in 459
+#Xaignabouli (16000/4000 POPS)
+1360 = {
+    aristocrats = {
+        culture = lao
+        religion = hindu
+        size = 37
+    }
+
+    clergymen = {
+        culture = lao
+        religion = hindu
+        size = 18
+    }
+
+    artisans = {
+        culture = lao
+        religion = hindu
+        size = 100
+    }
+
+    soldiers = {
+        culture = lao
+        religion = hindu
+        size = 18
+    }
+
+    farmers = {
+        culture = lao
+        religion = hindu
+        size = 2075
+    }
+
+    aristocrats = {
+        culture = thai
+        religion = hindu
+        size = 31
+    }
+
+    clergymen = {
+        culture = thai
+        religion = hindu
+        size = 18
+    }
+
+    artisans = {
+        culture = thai
+        religion = hindu
+        size = 87
+    }
+
+    soldiers = {
+        culture = thai
+        religion = hindu
+        size = 18
+    }
+
+    farmers = {
+        culture = thai
+        religion = hindu
+        size = 1593
+    }
+}
+#Paekche (15000/3750 POPS)
+1363 = {
+    aristocrats = {
+        culture = lao
+        religion = hindu
+        size = 68
+    }
+
+    clergymen = {
+        culture = lao
+        religion = hindu
+        size = 37
+    }
+
+    artisans = {
+        culture = lao
+        religion = hindu
+        size = 187
+    }
+
+    soldiers = {
+        culture = lao
+        religion = hindu
+        size = 31
+    }
+
+    farmers = {
+        culture = lao
+        religion = hindu
+        size = 3425
+    }
+}

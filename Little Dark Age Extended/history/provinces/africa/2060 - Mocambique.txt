@@ -1,0 +1,5 @@
+trade_goods = cotton
+life_rating = 29
+naval_base = 1
+set_province_flag = farm
+add_core = BNT

@@ -1,0 +1,6 @@
+owner = MAK
+controller = MAK
+add_core = MAK
+trade_goods = tropical_wood
+life_rating = 30
+set_province_flag = mine

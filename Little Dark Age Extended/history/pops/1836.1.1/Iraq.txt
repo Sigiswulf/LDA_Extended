@@ -1,0 +1,1217 @@
+#Mosul Region (640625) #mashriqi-catholic = assyrian  
+#under the rule of Ottoman Empire in 2390  
+#Mosul (296875/74218 POPS)
+923 = {
+	aristocrats = {
+culture = aryan
+religion = zoroastrianism
+		size = 4200
+	}
+
+	bureaucrats = {
+culture = aramaic
+religion = zoroastrianism
+		size = 3100
+	}
+
+	officers = {
+culture = aramaic
+religion = zoroastrianism
+		size = 6200
+	}
+	craftsmen = {
+culture = aramaic
+religion = zoroastrianism
+		size = 6200
+	}
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 322
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 1625
+	}
+
+	soldiers = {
+culture = aramaic
+religion = catholic
+		size = 2733
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 27343
+	}
+
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 195
+	}
+
+	bureaucrats = {
+culture = aramaic
+religion = catholic
+		size = 96
+	}
+
+	officers = {
+culture = aryan
+religion = catholic
+		size = 96
+	}
+
+	clergymen = {
+culture = aryan
+religion = catholic
+		size = 158
+	}
+
+	artisans = {
+culture = aryan
+religion = catholic
+		size = 781
+	}
+
+	soldiers = {
+culture = aryan
+religion = catholic
+		size = 127
+	}
+
+	farmers = {
+culture = aryan
+religion = catholic
+		size = 14288
+	}
+
+	aristocrats = {
+		culture = aramaic
+religion = catholic
+		size = 195
+	}
+
+	officers = {
+		culture = aramaic
+religion = catholic
+		size = 62
+	}
+
+	clergymen = {
+		culture = aramaic
+religion = catholic
+		size = 127
+	}
+
+	artisans = {
+		culture = aramaic
+religion = catholic
+		size = 781
+	}
+
+	soldiers = {
+		culture = aramaic
+religion = catholic
+		size = 127
+	}
+
+	farmers = {
+		culture = aramaic
+religion = catholic
+		size = 14515
+	}
+
+	clergymen = {
+culture = aramaic
+		religion = catholic
+		size = 96
+	}
+
+	artisans = {
+culture = aramaic
+		religion = catholic
+		size = 518
+	}
+
+	soldiers = {
+culture = aramaic
+		religion = catholic
+		size = 127
+	}
+
+	farmers = {
+culture = aramaic
+		religion = catholic
+		size = 9666
+	}
+}
+#Arbil (135413/33851 POPS)
+924 = {
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 96
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 62
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 322
+	}
+
+	soldiers = {
+culture = aramaic
+religion = catholic
+		size = 62
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 5956
+	}
+
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 127
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 62
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 390
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 7226
+	}
+
+	aristocrats = {
+		culture = aramaic
+religion = catholic
+		size = 322
+	}
+
+	clergymen = {
+		culture = aramaic
+religion = catholic
+		size = 158
+	}
+
+	artisans = {
+		culture = aramaic
+religion = catholic
+		size = 843
+	}
+
+	soldiers = {
+		culture = aramaic
+religion = catholic
+		size = 195
+	}
+
+	farmers = {
+		culture = aramaic
+religion = catholic
+		size = 14745
+	}
+
+	clergymen = {
+culture = aramaic
+		religion = catholic
+		size = 31
+	}
+
+	artisans = {
+culture = aramaic
+		religion = catholic
+		size = 127
+	}
+
+	farmers = {
+culture = aramaic
+		religion = catholic
+		size = 2440
+	}
+}
+#Kirkuk (208331/52081 POPS)
+925 = {
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 96
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 62
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 390
+	}
+
+	soldiers = {
+culture = aramaic
+religion = catholic
+		size = 96
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 7908
+	}
+
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 195
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 127
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 647
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 12171
+	}
+
+	aristocrats = {
+		culture = aramaic
+religion = catholic
+		size = 421
+	}
+
+	clergymen = {
+		culture = aramaic
+religion = catholic
+		size = 257
+	}
+
+	artisans = {
+		culture = aramaic
+religion = catholic
+		size = 1428
+	}
+
+	soldiers = {
+		culture = aramaic
+religion = catholic
+		size = 1690
+	}
+
+	farmers = {
+		culture = aramaic
+religion = catholic
+		size = 24835
+	}
+
+	clergymen = {
+culture = aramaic
+		religion = catholic
+		size = 31
+	}
+
+	artisans = {
+culture = aramaic
+		religion = catholic
+		size = 127
+	}
+
+	farmers = {
+culture = aramaic
+		religion = catholic
+		size = 2440
+	}
+}
+#Iraq Region (838538)
+#under the rule of Ottoman Empire in 2390
+#Baghdad (348956/87237 POPS)
+926 = {
+	aristocrats = {
+culture = aryan
+religion = zoroastrianism
+		size = 15000
+	}
+
+	bureaucrats = {
+culture = aryan
+religion = zoroastrianism
+		size = 14520
+	}
+
+	officers = {
+culture = aryan
+religion = zoroastrianism
+		size = 6200
+	}
+
+	clergymen = {
+culture = aryan
+religion = zoroastrianism
+		size = 5180
+	}
+
+	artisans = {
+culture = aramaic
+religion = zoroastrianism
+		size = 13018
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 12210
+	}
+
+	soldiers = {
+culture = aramaic
+religion = catholic
+		size = 8407
+	}
+    craftsmen = {
+culture = aramaic
+religion = catholic
+		size = 8407
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 26625
+	}
+
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 5000
+	}
+
+	bureaucrats = {
+culture = aramaic
+religion = catholic
+		size = 3000
+	}
+
+	officers = {
+culture = aramaic
+religion = catholic
+		size = 5000
+	}
+
+	clergymen = {
+culture = aryan
+religion = catholic
+		size = 800
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 2928
+	}
+
+	farmers = {
+culture = aryan
+religion = catholic
+		size = 4163
+	}
+
+	aristocrats = {
+culture = aryan
+religion = catholic
+		size = 3722
+	}
+
+	clergymen = {
+culture = aramaic
+religion = zoroastrianism
+		size = 62
+	}
+
+	artisans = {
+culture = aramaic
+religion = zoroastrianism
+		size = 20000
+	}
+
+	farmers = {
+culture = aramaic
+religion = zoroastrianism
+		size = 50000
+	}
+
+	clergymen = {
+culture = aramaic
+		religion = catholic
+		size = 6200
+	}
+
+	artisans = {
+culture = aramaic
+		religion = catholic
+		size = 50000
+	}
+
+	soldiers = {
+culture = aramaic
+		religion = catholic
+		size = 12700
+	}
+
+	farmers = {
+culture = aramaic
+		religion = catholic
+		size = 60000
+	}
+
+	farmers = {
+culture = aryan
+		religion = zoroastrianism
+		size = 20000
+	}
+
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 960
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 50000
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 10000
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 20000
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 70000
+	}
+
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 4500
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 6200
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 8000
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 90537
+	}
+}
+#Samarra (119788/29945 POPS)
+927 = {
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 421
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 226
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 1103
+	}
+
+	soldiers = {
+culture = aramaic
+religion = catholic
+		size = 226
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 20147
+	}
+
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 12700
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 6200
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 322
+	}
+
+	soldiers = {
+culture = aramaic
+religion = catholic
+		size = 96
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 7190
+	}
+}
+#Mendeli (109375/27343 POPS)
+928 = {
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 226
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 158
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 781
+	}
+
+	soldiers = {
+culture = aramaic
+religion = catholic
+		size = 158
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 14288
+	}
+
+	aristocrats = {
+		culture = aramaic
+religion = catholic
+		size = 96
+	}
+
+	clergymen = {
+		culture = aramaic
+religion = catholic
+		size = 96
+	}
+
+	artisans = {
+		culture = aramaic
+religion = catholic
+		size = 257
+	}
+
+	soldiers = {
+		culture = aramaic
+religion = catholic
+		size = 62
+	}
+
+	farmers = {
+		culture = aramaic
+religion = catholic
+		size = 4687
+	}
+
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 96
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 96
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 257
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 4750
+	}
+
+	clergymen = {
+culture = aramaic
+		religion = catholic
+		size = 31
+	}
+
+	artisans = {
+culture = aramaic
+		religion = catholic
+		size = 62
+	}
+
+	farmers = {
+culture = aramaic
+		religion = catholic
+		size = 1202
+	}
+}
+#Karbala (130206/32550 POPS)
+929 = {
+	aristocrats = {
+culture = bedouin
+religion = catholic
+		size = 158
+	}
+
+	clergymen = {
+culture = bedouin
+religion = catholic
+		size = 96
+	}
+
+	artisans = {
+culture = bedouin
+religion = catholic
+		size = 518
+	}
+
+	soldiers = {
+culture = bedouin
+religion = catholic
+		size = 127
+	}
+
+	farmers = {
+culture = bedouin
+religion = catholic
+		size = 9502
+	}
+
+	aristocrats = {
+culture = bedouin
+religion = catholic
+		size = 62
+	}
+
+	clergymen = {
+culture = bedouin
+religion = catholic
+		size = 96
+	}
+
+	artisans = {
+culture = bedouin
+religion = catholic
+		size = 257
+	}
+
+	farmers = {
+culture = bedouin
+religion = catholic
+		size = 4783
+	}
+
+	aristocrats = {
+culture = bedouin
+religion = zoroastrianism
+		size = 452
+	}
+
+	clergymen = {
+culture = bedouin
+religion = zoroastrianism
+		size = 195
+	}
+
+	artisans = {
+culture = bedouin
+religion = zoroastrianism
+		size = 843
+	}
+
+	farmers = {
+culture = bedouin
+religion = zoroastrianism
+		size = 127
+	}
+
+	farmers = {
+culture = bedouin
+religion = zoroastrianism
+		size = 15296
+	}
+}
+#Kut (130206/32550 POPS)
+930 = {
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 96
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 96
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 257
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 4750
+	}
+
+	aristocrats = {
+culture = aramaic
+religion = zoroastrianism
+		size = 31
+	}
+
+	clergymen = {
+culture = aramaic
+religion = zoroastrianism
+		size = 62
+	}
+
+	artisans = {
+culture = aramaic
+religion = zoroastrianism
+		size = 127
+	}
+
+	farmers = {
+culture = aramaic
+religion = zoroastrianism
+		size = 2375
+	}
+
+	aristocrats = {
+culture = aramaic
+religion = zoroastrianism
+		size = 452
+	}
+
+	clergymen = {
+culture = aramaic
+religion = zoroastrianism
+		size = 226
+	}
+
+	artisans = {
+culture = aramaic
+religion = zoroastrianism
+		size = 1233
+	}
+
+	soldiers = {
+culture = aramaic
+religion = zoroastrianism
+		size = 127
+	}
+
+	farmers = {
+culture = aramaic
+religion = zoroastrianism
+		size = 22815
+	}
+}
+#Badiyat al-Sham Region (10413)  #see Jordan.txt, Syria.txt & Saudi Arabia.txt for balance of region
+#under the "rule" of Egypt in 2390
+#Rutbah (10413/2601 POPS) #now part of Iraq
+931 = {
+	aristocrats = {
+culture = bedouin
+religion = catholic
+		size = 31
+	}
+
+	clergymen = {
+culture = bedouin
+religion = catholic
+		size = 62
+	}
+
+	artisans = {
+culture = bedouin
+religion = catholic
+		size = 96
+	}
+
+	soldiers = {
+culture = bedouin
+religion = catholic
+		size = 31
+	}
+
+	farmers = {
+culture = bedouin
+religion = catholic
+		size = 2375
+	}
+}
+#Basra Region (505206) #see Gulf States.txt for balance of region  
+#under the rule of Ottoman Empire in 2390
+#Basra (182288/45570 POPS)
+932 = {
+	bureaucrats = {
+culture = greek
+religion = catholic
+		size = 9600
+	}
+
+	officers = {
+culture = aramaic
+religion = catholic
+		size = 3100
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 96
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 2000
+	}
+
+	soldiers = {
+culture = aramaic
+religion = catholic
+		size = 6200
+	}
+	craftsmen = {
+culture = aramaic
+religion = catholic
+		size = 6200
+	}
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 3870
+	}
+
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 127
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 62
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 452
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 8460
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 10000
+	}
+
+	clergymen = {
+culture = aramaic
+religion = zoroastrianism
+		size = 96
+	}
+
+	artisans = {
+culture = aramaic
+religion = zoroastrianism
+		size = 322
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 20000
+	}
+
+	aristocrats = {
+culture = aramaic
+religion = zoroastrianism
+		size = 487
+	}
+
+	clergymen = {
+culture = aramaic
+religion = zoroastrianism
+		size = 500
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 11366
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 8000
+	}
+
+	farmers = {
+culture = aramaic
+religion = zoroastrianism
+		size = 25096
+	}
+}
+#Nasiriyya (197913/49476 POPS)
+933 = {
+	aristocrats = {
+culture = aramaic
+religion = catholic
+		size = 96
+	}
+
+	clergymen = {
+culture = aramaic
+religion = catholic
+		size = 96
+	}
+
+	artisans = {
+culture = aramaic
+religion = catholic
+		size = 257
+	}
+
+	soldiers = {
+culture = aramaic
+religion = catholic
+		size = 62
+	}
+
+	farmers = {
+culture = aramaic
+religion = catholic
+		size = 4687
+	}
+
+	aristocrats = {
+culture = aramaic
+religion = zoroastrianism
+		size = 127
+	}
+
+	clergymen = {
+culture = aramaic
+religion = zoroastrianism
+		size = 62
+	}
+
+	artisans = {
+culture = aramaic
+religion = zoroastrianism
+		size = 390
+	}
+
+	farmers = {
+culture = aramaic
+religion = zoroastrianism
+		size = 7226
+	}
+
+	aristocrats = {
+culture = aramaic
+religion = zoroastrianism
+		size = 647
+	}
+
+	clergymen = {
+culture = aramaic
+religion = zoroastrianism
+		size = 353
+	}
+
+	artisans = {
+culture = aramaic
+religion = zoroastrianism
+		size = 1820
+	}
+
+	soldiers = {
+culture = aramaic
+religion = zoroastrianism
+		size = 127
+	}
+
+	farmers = {
+culture = aramaic
+religion = zoroastrianism
+		size = 33625
+	}
+}
+#Najaf (125000/31250 POPS)
+934 = {
+	aristocrats = {
+culture = bedouin
+religion = catholic
+		size = 127
+	}
+
+	clergymen = {
+culture = bedouin
+religion = catholic
+		size = 62
+	}
+
+	artisans = {
+culture = bedouin
+religion = catholic
+		size = 390
+	}
+
+	farmers = {
+culture = bedouin
+religion = catholic
+		size = 7226
+	}
+
+	aristocrats = {
+culture = bedouin
+religion = zoroastrianism
+		size = 96
+	}
+
+	clergymen = {
+culture = bedouin
+religion = zoroastrianism
+		size = 96
+	}
+
+	artisans = {
+culture = bedouin
+religion = zoroastrianism
+		size = 322
+	}
+
+	farmers = {
+culture = bedouin
+religion = zoroastrianism
+		size = 5987
+	}
+
+	aristocrats = {
+culture = bedouin
+religion = zoroastrianism
+		size = 257
+	}
+
+	clergymen = {
+culture = bedouin
+religion = zoroastrianism
+		size = 158
+	}
+
+	artisans = {
+culture = bedouin
+religion = zoroastrianism
+		size = 843
+	}
+
+	soldiers = {
+culture = bedouin
+religion = zoroastrianism
+		size = 127
+	}
+
+	farmers = {
+culture = bedouin
+religion = zoroastrianism
+		size = 15526
+	}
+
+}

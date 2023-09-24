@@ -1,0 +1,604 @@
+#Cameroun Region (72800)
+#uncolonized in 183/ruled by the Kings of Duala
+#Douala (32800/8200 POPS)
+1956 = {
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 162
+	}
+
+	bureaucrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 5
+	}
+
+	officers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 15
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 82
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 330
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 82
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 6122
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 1400
+	}
+}
+#Buea (22400/5600 POPS)
+1957 = {
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 107
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 55
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 225
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 55
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 3957
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 1200
+	}
+}
+#Kribi (17600/4400 POPS)
+1958 = {
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 25
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 105
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 27
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 2092
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 300
+	}
+
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 32
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 17
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 72
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 17
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 1160
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 500
+	}
+}
+#Sanaga-Kadei Region (94000)
+#uncolonized in 183
+#Yaounde (34400/8600 POPS)
+1959 = {
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 52
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 27
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 112
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 27
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 1680
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 900
+	}
+
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 115
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 57
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 232
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 60
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 3935
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 1400
+	}
+}
+#Bafoussam (27600/6900 POPS)
+1960 = {
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 137
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 70
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 277
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 70
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 4445
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 1900
+	}
+}
+#Bertoua (32000/8000 POPS)
+1962 = {
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 122
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 62
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 250
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 62
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 3402
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 1700
+	}
+
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 32
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 17
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 72
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 17
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 1060
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 600
+	}
+}
+#Kwararafa Region (37200) #see Nigeria.txt for balance of region   
+#uncolonized in 183
+#Bamenda (37200/9300 POPS) #now part of Cameroun
+1961 = {
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 185
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 95
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 372
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 95
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 6357
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 2200
+	}
+}
+#Adamawa Region (26800) #see Nigeria.txt for balance of region   
+#under the rule of Sokoto 183
+#Ngaoundere (16000/4000 POPS) #now part of Cameroun
+1963 = {
+	aristocrats = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 50
+	}
+
+	bureaucrats = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 2
+	}
+
+	officers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 7
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 25
+	}
+
+	artisans = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 105
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 27
+	}
+
+	farmers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 1982
+	}
+
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 27
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 15
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 57
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 15
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 1285
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 400
+	}
+}
+#uncolonized/under the rule of Borno 183
+#Maroua (10800/2700 POPS) #now part of Cameroun
+1964 = {
+	aristocrats = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 17
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 20
+	}
+
+	artisans = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 17
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 10
+	}
+
+	farmers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 535
+	}
+
+	aristocrats = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 5
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 5
+	}
+
+	artisans = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 20
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 5
+	}
+
+	farmers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 365
+	}
+
+	aristocrats = {
+		culture = bedouin
+religion = zoroastrianism
+		size = 7
+	}
+
+	clergymen = {
+		culture = bedouin
+religion = zoroastrianism
+		size = 5
+	}
+
+	artisans = {
+		culture = bedouin
+religion = zoroastrianism
+		size = 25
+	}
+
+	soldiers = {
+		culture = bedouin
+religion = zoroastrianism
+		size = 5
+	}
+
+	farmers = {
+		culture = bedouin
+religion = zoroastrianism
+		size = 457
+	}
+
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 17
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 10
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 45
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 10
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 827
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 300
+	}
+
+}

@@ -1,0 +1,273 @@
+army = {
+	name = "Goguryeo Imperial Army"
+	location = 1619
+	regiment = {
+		name= "1. Royal Guard"
+		type = infantry_offensive
+		home = 1619
+	}
+
+	regiment = {
+		name= "2. Royal Guard"
+		type = infantry_offensive
+		home = 1620
+	}
+
+	regiment = {
+		name= "3. Royal Guard"
+		type = infantry_offensive
+		home = 1621
+	}
+
+	regiment = {
+		name= "4. Royal Guard"
+		type = infantry_offensive
+		home = 1622
+	}
+
+	regiment = {
+		name= "1.Cavalry"
+		type = cavalry
+		home = 1623
+	}
+
+	regiment = {
+		name= "1.Hwacha"
+		type = infantry_defensive
+		home = 1627
+	}
+
+	regiment = {
+		name= "2.Hwacha"
+		type = infantry_defensive
+		home = 1626
+	}
+
+	regiment = {
+		name= "3.Hwacha"
+		type = infantry_defensive
+		home = 1625
+	}
+
+	regiment = {
+		name= "4.Hwacha"
+		type = infantry_defensive
+		home = 1629
+	}
+
+	regiment = {
+		name= "5.Hwacha"
+		type = infantry_defensive
+		home = 3285
+	}
+
+}
+
+army = {
+	name = "Northern Army"
+	location = 1555
+	regiment = {
+		name= "1.infantry_offensive"
+		type = infantry_offensive
+		home = 1555
+	}
+
+	regiment = {
+		name= "2.infantry_offensive"
+		type = infantry_offensive
+		home = 1555
+	}
+
+	regiment = {
+		name= "3.infantry_offensive"
+		type = infantry_offensive
+		home = 3303
+	}
+
+	regiment = {
+		name= "4.infantry_offensive"
+		type = infantry_offensive
+		home = 3302
+	}
+
+	regiment = {
+		name= "1.Cavalry"
+		type = cavalry
+		home = 3305
+	}
+
+	regiment = {
+		name= "1.Hwacha"
+		type = infantry_defensive
+		home = 3304
+	}
+
+	regiment = {
+		name= "2.Hwacha"
+		type = infantry_defensive
+		home = 3301
+	}
+
+	regiment = {
+		name= "3.Hwacha"
+		type = infantry_defensive
+		home = 1479
+	}
+
+	regiment = {
+		name= "4.Hwacha"
+		type = infantry_defensive
+		home = 1479
+	}
+
+	regiment = {
+		name= "5.Hwacha"
+		type = infantry_defensive
+		home = 1479
+	}
+
+}
+
+army = {
+	name = "Buyeo Army"
+	location = 3306
+	regiment = {
+		name= "1. Buyeo Batallion"
+		type = infantry_offensive
+		home = 3285
+	}
+
+	regiment = {
+		name= "2. Buyeo Batallion"
+		type = infantry_offensive
+		home = 1623
+	}
+
+	regiment = {
+		name= "3. Buyeo Batallion"
+		type = infantry_offensive
+		home = 1554
+	}
+
+	regiment = {
+		name= "4. Buyeo Batallion"
+		type = infantry_offensive
+		home = 3308
+	}
+
+	regiment = {
+		name= "1. Cavalry"
+		type = cavalry
+		home = 2207
+	}
+
+	regiment = {
+		name= "1. Hwacha"
+		type = infantry_defensive
+		home = 3309
+	}
+
+	regiment = {
+		name= "2. Hwacha"
+		type = infantry_defensive
+		home = 1554
+	}
+
+	regiment = {
+		name= "3. Hwacha"
+		type = infantry_defensive
+		home = 3306
+	}
+
+	regiment = {
+		name= "4. Hwacha"
+		type = infantry_defensive
+		home = 3306
+	}
+
+	regiment = {
+		name= "5. Hwacha"
+		type = infantry_defensive
+		home = 3306
+	}
+}
+
+navy = {
+	name = "Yellow Fleet"
+	location = 1619
+	ship = {
+		name= "Big Boy"
+		type = manowar
+	}
+
+	ship = {
+		name= "Bigger Boy"
+		type = manowar
+	}
+
+	ship = {
+		name= "Great Boy"
+		type = manowar
+	}
+
+	ship = {
+		name= "Sussy Boy"
+		type = manowar
+	}
+
+	ship = {
+		name= "Alloy Boy"
+		type = manowar
+	}
+
+	ship = {
+		name= "Smallerd"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Wee Plank"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Wood Corp."
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Tiny Titanic"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Nogun Ship"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Obama"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Han Ghoul Gobbler"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Speed"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Speeed"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "Speeeeed"
+		type = clipper_transport
+	}
+}
+

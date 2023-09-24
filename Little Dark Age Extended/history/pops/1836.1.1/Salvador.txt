@@ -1,0 +1,90 @@
+#Salvador Region (231110)
+#Ruled by Central America 1020
+#San Salvador (144440/36110 POPS)
+2191 = {
+    aristocrats = {
+culture = mayan
+religion = animist
+        size = 1345
+        militancy = 5
+    }
+
+    bureaucrats = {
+culture = mayan
+religion = animist
+        size = 140
+        militancy = 5
+    }
+
+    officers = {
+culture = mayan
+religion = animist
+        size = 115
+        militancy = 5
+    }
+
+    clergymen = {
+culture = mayan
+religion = animist
+        size = 610
+        militancy = 5
+    }
+
+    artisans = {
+culture = mayan
+religion = animist
+        size = 3065
+        militancy = 5
+    }
+
+    soldiers = {
+culture = mayan
+religion = animist
+        size = 1035
+        militancy = 5
+    }
+
+    farmers = {
+culture = mayan
+religion = animist
+        size = 55105
+        militancy = 5
+    }
+}
+#San Miguel (86665/24440 POPS)
+2192 = {
+    aristocrats = {
+culture = mayan
+religion = animist
+        size = 895
+        militancy = 5
+    }
+
+    clergymen = {
+culture = mayan
+religion = animist
+        size = 425
+        militancy = 5
+    }
+
+    artisans = {
+culture = mayan
+religion = animist
+        size = 2075
+        militancy = 5
+    }
+
+    soldiers = {
+culture = mayan
+religion = animist
+        size = 425
+        militancy = 5
+    }
+
+    farmers = {
+culture = mayan
+religion = animist
+        size = 37730
+        militancy = 5
+    }
+}

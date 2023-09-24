@@ -1,0 +1,275 @@
+country_event = {
+	id = 700700
+	title = "State Sizing"
+
+	trigger = {
+		tag = GHO
+		NOT = { has_country_modifier = sizing_cooldown }
+	}
+
+	immediate = {
+		add_country_modifier = {
+			name = sizing_cooldown
+			duration = 350
+		}
+	}
+
+	option = { 
+		any_country = { 
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						total_pops = 10
+						NOT = { total_pops = 50000 }
+					}
+				}
+				add_core = TIN 
+				remove_core = SMA 
+				remove_core = MED 
+				remove_core = LRG 
+				remove_core = HUG 
+			}
+		}
+		any_country = { 
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						total_pops = 50000 
+						NOT = { total_pops = 200000 }
+					}
+				}
+				add_core = SMA 
+				remove_core = TIN 
+				remove_core = MED 
+				remove_core = LRG 
+				remove_core = HUG 
+			}
+		}
+		any_country = { 
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						total_pops = 200000 
+						NOT = { total_pops = 400000 }
+					} 
+				} 
+				add_core = MED 
+				remove_core = TIN 
+				remove_core = SMA 
+				remove_core = LRG 
+				remove_core = HUG 
+			} 
+		}		
+		any_country = { 
+			any_owned = {
+				limit = {
+					state_scope = { 
+						total_pops = 400000 
+						NOT = { total_pops = 1000000 }
+					} 
+				} 
+			add_core = LRG 
+			remove_core = TIN 
+			remove_core = SMA 
+			remove_core = MED 
+			remove_core = HUG 
+			} 
+		}
+		any_country = {
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						total_pops = 1000000
+					}
+				}
+				add_core = HUG 
+				remove_core = TIN 
+				remove_core = SMA 
+				remove_core = MED 
+				remove_core = LRG 
+			} 
+		}
+	}
+}
+country_event = {
+	id = 700701
+	title = "Religious Conversion"
+
+	trigger = {
+		tag = GHO
+		NOT = { has_country_modifier = sizing_cooldown2 }
+	}
+
+	immediate = {
+		add_country_modifier = {
+			name = sizing_cooldown2
+			duration = 350
+		}
+	}
+
+	option = { 
+		any_country = { 
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						pop_majority_religion = catholic
+					}
+				}
+				add_core = CHR
+				remove_core = ARN
+				remove_core = NPG
+				remove_core = BUD
+				remove_core = JEW
+				remove_core = HIN
+				remove_core = ZOR
+			}
+		}
+		any_country = { 
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						pop_majority_religion = arian
+					}
+				}
+				add_core = ARN
+				remove_core = CHR
+				remove_core = NPG
+				remove_core = BUD
+				remove_core = JEW
+				remove_core = HIN
+				remove_core = ZOR
+			}
+		}
+		any_country = { 
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						pop_majority_religion = norse_pagan
+					}
+				}
+				add_core = NPG
+				remove_core = CHR
+				remove_core = ARN
+				remove_core = BUD
+				remove_core = JEW
+				remove_core = HIN
+				remove_core = ZOR
+			}
+		}
+		any_country = { 
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						pop_majority_religion = mahayana
+					}
+				}
+				add_core = BUD
+				remove_core = CHR
+				remove_core = ARN
+				remove_core = NPG
+				remove_core = JEW
+				remove_core = HIN
+				remove_core = ZOR
+			}
+		}
+	any_country = { 
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						pop_majority_religion = jewish
+					}
+				}
+				add_core = JEW
+				remove_core = ARN
+				remove_core = NPG
+				remove_core = BUD
+				remove_core = CHR
+				remove_core = HIN
+				remove_core = ZOR
+			}
+		}
+	any_country = { 
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						pop_majority_religion = hindu
+					}
+				}
+				add_core = HIN
+				remove_core = ARN
+				remove_core = NPG
+				remove_core = BUD
+				remove_core = JEW
+				remove_core = CHR
+				remove_core = ZOR
+			}
+		}
+	any_country = { 
+			any_owned = { 
+				limit = {
+					state_scope = { 
+						pop_majority_religion = zoroastrianism
+					}
+				}
+				add_core = ZOR
+				remove_core = ARN
+				remove_core = NPG
+				remove_core = BUD
+				remove_core = JEW
+				remove_core = CHR
+				remove_core = HIN
+			}
+		}
+	}
+}	
+
+country_event = {
+	id = 700710
+	title = "Rebel Miltech 1"
+
+	trigger = {
+	year = 534	
+	tag = GHO
+	NOT = { has_country_flag = rebone}
+}
+	option = { 
+	set_country_flag = rebone
+	REB = { 
+		activate_technology = muzzle_loaded_rifles
+	}
+	}
+}	
+
+country_event = {
+	id = 700711
+	title = "Rebel Miltech 2"
+
+	trigger = {
+	year = 543	
+	tag = GHO
+	NOT = { has_country_flag = rebtwo}
+}
+	option = { 
+	set_country_flag = rebtwo
+	REB = { 
+		activate_technology = breech_loaded_rifles
+	}
+	}
+}	
+
+country_event = {
+	id = 700712
+	title = "Rebel Miltech 3"
+
+	trigger = {
+	year = 564	
+	tag = GHO
+	NOT = { has_country_flag = rebthree}
+}
+	option = { 
+	set_country_flag = rebthree
+	REB = { 
+		activate_technology = machine_guns
+	}
+	}
+}	

@@ -1,0 +1,305 @@
+leader = {
+	name = "Henry Hardinge"
+	picture = eng_gen_hardinge
+	date = 1815.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "David Milne"
+	picture = eng_adm_milnedavid
+	date = 1814.1.1
+	type = sea
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Robert Stopford"
+	picture = eng_adm_stopford
+	date = 1808.1.1
+	type = sea
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Henry Paget"
+	picture = eng_gen_paget
+	date = 1802.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "George Murray"
+	picture = eng_gen_murray
+	date = 1813.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Stapleton Cotton"
+	picture = eng_gen_cotton
+	date = 1805.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+
+army = {
+	name = "1st Corps"
+	location = 300
+	regiment = {
+		name= "Light Brigade"
+		type = cavalry
+		home = 300
+	}
+
+	regiment = {
+		name= "Royal Dragoons"
+		type = infantry_defensive
+		home = 294
+	}
+
+	regiment = {
+		name= "Heavy Brigade"
+		type = infantry_defensive
+		home = 291
+	}
+
+	regiment = {
+		name= "1.1st Division"
+		type = infantry_defensive
+		home = 300
+	}
+
+	regiment = {
+		name= "2.1st Division"
+		type = infantry_defensive
+		home = 293
+	}
+
+	regiment = {
+		name= "3.1st Division"
+		type = infantry_defensive
+		home = 295
+	}
+
+	regiment = {
+		name= "1.2nd Division"
+		type = infantry_offensive
+		home = 288
+	}
+
+	regiment = {
+		name= "2.2nd Division"
+		type = infantry_offensive
+		home = 287
+	}
+
+	regiment = {
+		name= "3.2nd Division"
+		type = infantry_offensive
+		home = 256
+	}
+	
+	regiment = {
+		name= "3.3rd Division"
+		type = infantry_offensive
+		home = 259
+	}
+
+}
+
+army = {
+	name = "1st Colonial Army"
+	location = 292
+	regiment = {
+		name= "1.6th Division"
+		type = cavalry
+		home = 277
+	}
+
+	regiment = {
+		name= "2.6th Division"
+		type = infantry_offensive
+		home = 292
+	}
+
+	regiment = {
+		name= "3.6th Division"
+		type = infantry_offensive
+		home = 46
+	}
+
+	regiment = {
+		name= "1.7th Division"
+		type = infantry_offensive
+		home = 278
+	}
+
+	regiment = {
+		name= "2.7th Division"
+		type = infantry_offensive
+		home = 274
+	}
+
+	regiment = {
+		name= "3.7th Division"
+		type = infantry_defensive
+		home = 2087
+	}
+
+	regiment = {
+		name= "1.8th Division"
+		type = infantry_defensive
+		home = 299
+	}
+
+	regiment = {
+		name= "2.8th Division"
+		type = infantry_defensive
+		home = 283
+	}
+
+	regiment = {
+		name= "3.8th Division"
+		type = infantry_defensive
+		home = 2468
+	}
+	
+	regiment = {
+		name= "3.9th Division"
+		type = infantry_defensive
+		home = 2217
+	}
+
+}
+navy = {
+	name = "Channel Fleet"
+	location = 303
+	ship = {
+		name= "HMS Clyde"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Cornwall"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Eurotas"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Fox"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Hotspur"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Leda"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Penelope"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS President"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Proserpine"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Salamander"
+		type = commerce_raider
+	}
+
+	ship = {
+		name= "HMS Africaine"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Cerberus"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Nemesis"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Aeolus"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Barham"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Daedalus"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Druid"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Dublin"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Hebe"
+		type = frigate
+	}
+
+	ship = {
+		name= "10th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "19th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "20th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "21th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "22th Transport Flotilla"
+		type = clipper_transport
+	}
+}

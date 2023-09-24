@@ -1,0 +1,175 @@
+political_decisions = {
+
+
+move_capital_POR={
+
+potential = {tag = POR
+owns = 474
+NOT = {capital = 474} }
+
+
+allow = {controls = 474
+NOT = {capital = 474}
+revolution_n_counterrevolution = 1}
+
+
+effect = {capital = 474} }
+
+
+renounce_arianism_POR={
+picture = ariancodemn
+potential = {tag = POR
+NOT = { has_country_flag = convertedchris } }
+
+allow = {idealism = 1}
+
+effect = { religion = catholic
+ set_country_flag = convertedchris }
+}
+
+
+
+hispano_roman_prominence_POR={
+
+potential = {tag = POR NOT = { has_country_flag = cultural_prominence} }
+
+allow = {ideological_thought = 1}
+
+effect = { add_accepted_culture = suebian
+primary_culture = romano_hispanic set_country_flag = cultural_prominence} }
+
+
+
+
+move_capital_spa={
+picture = capitalspa
+potential = {tag = SPA
+owns = 489
+NOT = {capital = 489} }
+
+
+allow = {controls = 489
+NOT = {capital = 489}
+revolution_n_counterrevolution = 1}
+
+
+effect = {capital = 489} }
+
+
+renounce_arianism_spa={
+picture = ariancodemn
+potential = {tag = SPA NOT = { has_country_flag = christianconvert }}
+
+allow = {idealism = 1}
+
+effect = { religion = catholic set_country_flag = christianconvert} }
+
+
+
+
+hispano_roman_prominence={
+picture = iberianprom
+potential = {tag = SPA NOT = { has_country_flag = cultural_prominence} }
+
+allow = {ideological_thought = 1}
+
+effect = { add_accepted_culture = goths
+add_accepted_culture = basque
+primary_culture = romano_hispanic set_country_flag = cultural_prominence}}
+
+
+move_capital_fra={
+picture = capitalfra
+potential = {tag = FRA
+owns = 425
+NOT = {capital = 425} }
+
+
+allow = {controls = 425
+NOT = {capital = 425}
+revolution_n_counterrevolution = 1}
+
+
+effect = {capital = 425} prestige = 5 }
+
+gallo_roman_prominence={
+picture = gaulprominence
+potential = {tag = FRA NOT = { has_country_flag = cultural_prominence}}
+
+allow = {ideological_thought = 1}
+
+effect = { add_accepted_culture = romano_gallic
+set_country_flag = cultural_prominence}}
+
+
+
+move_capital_ita={
+picture = rome
+potential = {tag = ITA
+owns = 749
+NOT = {capital = 749} }
+
+
+allow = {controls = 749
+NOT = {capital = 749}
+revolution_n_counterrevolution = 1}
+
+
+effect = {capital = 749} }
+
+
+renounce_arianism_ita={
+picture = ariancodemn
+potential = {tag = ITA NOT = { has_country_flag = christianconvert }}
+
+allow = {idealism = 1}
+
+effect = { religion = catholic set_country_flag = christianconvert 		primary_culture = roman add_accepted_culture = goths}}
+
+
+
+
+italo_roman_prominence={
+picture = romanprom
+	potential = {
+		tag = ITA 
+		NOT = { has_country_flag = cultural_prominence }
+	}
+	allow = { 
+		ideological_thought = 1
+	}
+	effect = { 
+		add_accepted_culture = roman
+		set_country_flag = cultural_prominence 
+	}
+}
+rateian_prominence={
+picture = romanprom
+	potential = {
+		tag = ITA 
+		NOT = { has_country_flag = cultural_prominence_2 }
+	}
+	allow = { 
+		state_n_government = 1
+	}
+	effect = { 
+		add_accepted_culture = raetian
+		set_country_flag = cultural_prominence_2
+	}
+}
+
+secure_the_adriatic = {
+potential = {
+tag = ITA
+NOT = { has_country_flag = balkans_accepted }
+}
+allow = { ideological_thought = 1 
+NOT = { war = yes }
+}
+effect = {
+set_country_flag = balkans_accepted 
+add_accepted_culture = romano_illyrian
+}
+}
+
+}

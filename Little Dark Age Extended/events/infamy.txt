@@ -1,0 +1,154 @@
+country_event = {
+	id = 12341234
+	title = "EVTNAME12341234"
+	desc = "EVTDESC12341234"
+	picture = "native_force"
+	
+	
+	trigger = {
+		badboy = 1
+		NOT = { has_country_modifier = badboymod }
+	}
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "God Damnit"
+		add_country_modifier = {
+			name = badboymod
+			duration = -1
+		}
+	}
+}
+
+country_event = {
+	id = 123412345
+	title = "EVTNAME123412345"
+	desc = "EVTDESC123412345"
+	picture = "native_force"
+	
+	
+	trigger = {
+			NOT = { badboy = 1 }
+			has_country_modifier = badboymod
+				} 
+	
+	
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = "Thank God"
+		remove_country_modifier = badboymod
+	}
+	
+}
+
+country_event = { 
+	id = 333041
+	title = "Debug Conquest Cb"
+	desc = "This cb is used to make testing easier."
+	
+	is_triggered_only = yes
+	
+	option = {
+	name = "Enable Debug Conquest Cb"
+	set_global_flag = debug_conquest
+	}
+
+	option = {
+	name = "Disable Debug Conquest Cb"
+	clr_global_flag = debug_conquest
+	}
+}
+
+country_event = {
+	id = 18540
+	title = "EVTNAME18540"
+	desc = "EVTDESC18540"
+	picture = "Expansion"
+	
+	trigger = {
+		nationalvalue = nv_liberty
+		badboy = 0.7
+	}
+	
+	mean_time_to_happen = {
+		months = 200
+	}
+	
+	option = {
+		name = "EVTOPTA18540"
+		badboy = -2
+		prestige = 5
+		
+	}
+	
+	option = {
+		name = "EVTOPTB18540"
+		badboy = -3
+	}
+}
+
+country_event = {
+	id = 14670
+	title = "EVTNAME14670"
+	desc = "EVTDESC14670"
+	news = yes
+	news_desc_long = "EVTDESC14670_NEWS_LONG"
+	news_desc_medium = "EVTDESC14670_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC14670_NEWS_SHORT"
+	major = yes
+	
+	trigger = {
+		colonial_nation = yes
+		biologism = 1
+		prestige = 50
+	}
+	
+	mean_time_to_happen = {
+		months = 2000
+		modifier = {
+			factor = 0.9
+			average_consciousness = 4
+		}
+		modifier = {
+			factor = 0.9
+			average_consciousness = 5
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 4
+		}
+		modifier = {
+			factor = 1.5
+			NOT = {
+				mass_politics = 1
+			}
+		}
+	}
+	
+	option = {
+		name = "EVTOPTA14670"
+		badboy = 5
+		prestige = -5
+		
+	}
+	
+	option = {
+		name = "EVTOPTB14670"
+		badboy = 2
+		prestige = -2
+		random_state = {
+			limit = {
+				is_colonial = yes
+			}
+			any_pop = {
+				consciousness = 5
+			}
+		}
+	}
+}

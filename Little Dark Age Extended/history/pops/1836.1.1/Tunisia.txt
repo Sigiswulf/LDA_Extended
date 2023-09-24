@@ -1,0 +1,328 @@
+#Tunisia Region (2349000)  
+#under the rule of Tunisia in 3097  
+#Tunis (823496/205871 POPS) 
+1725 = {
+	aristocrats = {
+culture = swiss
+religion = arian
+		size = 3963
+	}
+
+	bureaucrats = {
+culture = swiss
+religion = arian
+		size = 862
+	}
+
+	officers = {
+culture = swiss
+religion = arian
+		size = 11712
+	}
+
+	clergymen = {
+culture = swiss
+religion = arian
+		size = 8275
+	}
+
+	artisans = {
+culture = roman_african
+religion = catholic
+		size = 16872
+	}
+
+	artisans = {
+culture = roman_african
+religion = arian
+		size = 16872
+	}
+
+	artisans = {
+culture = roman_african
+religion = catholic
+		size = 17656
+	}
+
+	soldiers = {
+culture = roman_african
+religion = catholic
+		size = 6747
+	}
+	craftsmen = {
+culture = roman_african
+religion = catholic
+		size = 6747
+	}
+	farmers = {
+culture = roman_african
+religion = catholic
+		size = 108966
+	}
+	farmers = {
+culture = roman_african
+religion = arian
+		size = 28966
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 126
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 6282
+	}
+
+	artisans = {
+culture = roman
+		religion = catholic
+		size = 840
+	}
+
+	artisans = {
+		culture = swiss
+		religion = arian
+		size = 3590
+	}
+}
+#Bizerte (452247/113060 POPS) 
+1726 = {
+	aristocrats = {
+culture = swiss
+religion = arian
+		size = 3355
+	}
+
+	clergymen = {
+culture = swiss
+religion = arian
+		size = 1138
+	}
+
+	artisans = {
+culture = roman_african
+religion = catholic
+		size = 5482
+	}
+
+	soldiers = {
+culture = roman_african
+religion = catholic
+		size = 1852
+	}
+
+	farmers = {
+culture = roman_african
+religion = catholic
+		size = 90845
+	}
+	farmers = {
+culture = roman_african
+religion = arian
+		size = 8845
+	}
+		craftsmen = {
+culture = roman_african
+religion = catholic
+		size = 6747
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 5
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 410
+	}
+}
+#Gafsa (188997/47247 POPS) 
+1727 = {
+	aristocrats = {
+culture = swiss
+religion = arian
+		size = 2508
+	}
+
+	clergymen = {
+culture = swiss
+religion = arian
+		size = 1335
+	}
+
+	artisans = {
+culture = berber
+religion = catholic
+		size = 2105
+	}
+
+	soldiers = {
+culture = berber
+religion = catholic
+		size = 1852
+	}
+
+	farmers = {
+culture = berber
+religion = catholic
+		size = 30163
+	}
+	farmers = {
+culture = berber
+religion = arian
+		size = 7163
+	}
+
+}
+#Kairouan (384750/96187 POPS) 
+1728 = {
+	aristocrats = {
+culture = roman_african
+religion = catholic
+		size = 1472
+	}
+
+	clergymen = {
+culture = roman_african
+religion = catholic
+		size = 602
+	}
+	clergymen = {
+culture = roman_african
+religion = arian
+		size = 72
+	}
+	craftsmen = {
+culture = roman_african
+religion = catholic
+		size = 6747
+	}
+	artisans = {
+culture = roman_african
+religion = catholic
+		size = 11296
+	}
+
+	soldiers = {
+culture = roman_african
+religion = catholic
+		size = 1852
+	}
+
+	farmers = {
+culture = roman_african
+religion = catholic
+		size = 80078
+	}
+	farmers = {
+culture = roman_african
+religion = arian
+		size = 5078
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 5
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 410
+	}
+}
+#Tozeur (162000/40500 POPS) 
+1729 = {
+	aristocrats = {
+culture = swiss
+religion = arian
+		size = 1586
+	}
+
+	clergymen = {
+culture = berber
+religion = catholic
+		size = 333
+	}
+
+	artisans = {
+culture = berber
+religion = catholic
+		size = 1598
+	}
+
+	soldiers = {
+culture = berber
+religion = catholic
+		size = 333
+	}
+
+	farmers = {
+culture = berber
+religion = catholic
+		size = 20190
+	}
+	farmers = {
+culture = berber
+religion = arian
+		size = 9190
+	}
+}
+#Gabes (337496/84371 POPS) 
+1730 = {
+	aristocrats = {
+culture = swiss
+religion = arian
+		size = 2268
+	}
+
+	clergymen = {
+culture = swiss
+religion = arian
+		size = 1172
+	}
+
+	artisans = {
+culture = roman_african
+religion = catholic
+		size = 3836
+	}
+
+	soldiers = {
+culture = roman_african
+religion = catholic
+		size = 1852
+	}
+
+	farmers = {
+culture = roman_african
+religion = catholic
+		size = 60890
+	}
+	farmers = {
+culture = roman_african
+religion = arian
+		size = 8890
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 15
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 825
+	}
+
+}

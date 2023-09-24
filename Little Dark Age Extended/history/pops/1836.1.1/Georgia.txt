@@ -1,0 +1,607 @@
+#Gruzhia Region (214666)    
+#under the rule of Russia in 612  
+#Tblisi (77333/19333 POPS) #circassian-orthodox = Ossetian
+1090 = {
+	bureaucrats = {
+		culture = georgian
+religion = catholic
+		size = 33
+	}
+
+	clergymen = {
+		culture = georgian
+religion = catholic
+		size = 8
+	}
+
+	artisans = {
+		culture = georgian
+religion = catholic
+		size = 8
+	}
+
+	soldiers = {
+		culture = georgian
+religion = catholic
+		size = 83
+	}
+
+	aristocrats = {
+		culture = georgian
+religion = catholic
+		size = 366
+	}
+
+	bureaucrats = {
+		culture = georgian
+religion = catholic
+		size = 16
+	}
+
+	officers = {
+		culture = georgian
+religion = catholic
+		size = 58
+	}
+
+	clergymen = {
+		culture = georgian
+religion = catholic
+		size = 158
+	}
+
+	artisans = {
+		culture = georgian
+religion = catholic
+		size = 2241
+	}
+
+	soldiers = {
+		culture = georgian
+religion = catholic
+		size = 366
+	}
+
+	farmers = {
+		culture = georgian
+religion = catholic
+		size = 13208
+	}
+
+	aristocrats = {
+		culture = georgian
+religion = catholic
+		size = 8
+	}
+
+	clergymen = {
+		culture = georgian
+religion = catholic
+		size = 8
+	}
+
+	artisans = {
+		culture = georgian
+religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+		culture = georgian
+religion = catholic
+		size = 8
+	}
+
+	farmers = {
+		culture = georgian
+religion = catholic
+		size = 925
+	}
+
+	aristocrats = {
+		culture = armenian
+religion = catholic
+		size = 16
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 16
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 150
+	}
+
+	soldiers = {
+		culture = armenian
+religion = catholic
+		size = 16
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 800
+	}
+
+	aristocrats = {
+		culture = azerbaijani
+religion = catholic
+		size = 8
+	}
+
+	clergymen = {
+		culture = azerbaijani
+religion = catholic
+		size = 16
+	}
+
+	artisans = {
+		culture = azerbaijani
+religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+		culture = azerbaijani
+religion = catholic
+		size = 8
+	}
+
+	farmers = {
+		culture = azerbaijani
+religion = catholic
+		size = 916
+	}
+
+	clergymen = {
+		culture = georgian
+		religion = catholic
+		size = 3
+	}
+
+	artisans = {
+		culture = georgian
+		religion = catholic
+		size = 163
+	}
+}
+#Pasanauri (25333/6333 POPS)
+1091 = {
+	aristocrats = {
+		culture = georgian
+religion = catholic
+		size = 66
+	}
+
+	clergymen = {
+		culture = georgian
+religion = catholic
+		size = 33
+	}
+
+	artisans = {
+		culture = georgian
+religion = catholic
+		size = 166
+	}
+
+	soldiers = {
+		culture = georgian
+religion = catholic
+		size = 33
+	}
+
+	farmers = {
+		culture = georgian
+religion = catholic
+		size = 3033
+	}
+
+	aristocrats = {
+		culture = georgian
+religion = catholic
+		size = 33
+	}
+
+	clergymen = {
+		culture = georgian
+religion = catholic
+		size = 16
+	}
+
+	artisans = {
+		culture = georgian
+religion = catholic
+		size = 100
+	}
+
+	soldiers = {
+		culture = georgian
+religion = catholic
+		size = 16
+	}
+
+	farmers = {
+		culture = georgian
+religion = catholic
+		size = 1833
+	}
+
+	aristocrats = {
+		culture = armenian
+religion = catholic
+		size = 16
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 16
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+		culture = armenian
+religion = catholic
+		size = 16
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 900
+	}
+}
+#Kutaisi (40000/10000 POPS)
+1092 = {
+	aristocrats = {
+		culture = georgian
+religion = catholic
+		size = 183
+	}
+
+	clergymen = {
+		culture = georgian
+religion = catholic
+		size = 100
+	}
+
+	artisans = {
+		culture = georgian
+religion = catholic
+		size = 433
+	}
+
+	soldiers = {
+		culture = georgian
+religion = catholic
+		size = 100
+	}
+
+	farmers = {
+		culture = georgian
+religion = catholic
+		size = 9100
+	}
+
+	clergymen = {
+		culture = georgian
+		religion = catholic
+		size = 1
+	}
+
+	artisans = {
+		culture = georgian
+		religion = catholic
+		size = 81
+	}
+}
+#Akhaltsikhle (13333/3333 POPS)
+1093 = {
+	aristocrats = {
+		culture = georgian
+religion = catholic
+		size = 16
+	}
+
+	clergymen = {
+		culture = georgian
+religion = catholic
+		size = 25
+	}
+
+	artisans = {
+		culture = georgian
+religion = catholic
+		size = 66
+	}
+
+	soldiers = {
+		culture = georgian
+religion = catholic
+		size = 16
+	}
+
+	farmers = {
+		culture = georgian
+religion = catholic
+		size = 1208
+	}
+
+	aristocrats = {
+		culture = armenian
+religion = catholic
+		size = 33
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 16
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 83
+	}
+
+	soldiers = {
+		culture = armenian
+religion = catholic
+		size = 16
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 1516
+	}
+
+	aristocrats = {
+		culture = azerbaijani
+religion = catholic
+		size = 6
+	}
+
+	clergymen = {
+		culture = azerbaijani
+religion = catholic
+		size = 6
+	}
+
+	artisans = {
+		culture = azerbaijani
+religion = catholic
+		size = 16
+	}
+
+	soldiers = {
+		culture = azerbaijani
+religion = catholic
+		size = 3
+	}
+
+	farmers = {
+		culture = azerbaijani
+religion = catholic
+		size = 300
+	}
+}
+#Poti (34666/8666 POPS)
+1094 = {
+	aristocrats = {
+		culture = georgian
+religion = catholic
+		size = 166
+	}
+
+	clergymen = {
+		culture = georgian
+religion = catholic
+		size = 83
+	}
+
+	artisans = {
+		culture = georgian
+religion = catholic
+		size = 433
+	}
+
+	soldiers = {
+		culture = georgian
+religion = catholic
+		size = 91
+	}
+
+	farmers = {
+		culture = georgian
+religion = catholic
+		size = 7891
+	}
+}
+#Sukhumi (24000/6000 POPS) #circassian = abkhaz
+1095 = {
+	aristocrats = {
+		culture = georgian
+religion = catholic
+		size = 25
+	}
+
+	clergymen = {
+		culture = georgian
+religion = catholic
+		size = 25
+	}
+
+	artisans = {
+		culture = georgian
+religion = catholic
+		size = 66
+	}
+
+	soldiers = {
+		culture = georgian
+religion = catholic
+		size = 16
+	}
+
+	farmers = {
+		culture = georgian
+religion = catholic
+		size = 1200
+	}
+
+	aristocrats = {
+		culture = georgian
+religion = catholic
+		size = 50
+	}
+
+	clergymen = {
+		culture = georgian
+religion = catholic
+		size = 25
+	}
+
+	artisans = {
+		culture = georgian
+religion = catholic
+		size = 150
+	}
+
+	soldiers = {
+		culture = georgian
+religion = catholic
+		size = 33
+	}
+
+	farmers = {
+		culture = georgian
+religion = catholic
+		size = 2741
+	}
+
+	aristocrats = {
+		culture = georgian
+religion = catholic
+		size = 33
+	}
+
+	clergymen = {
+		culture = georgian
+religion = catholic
+		size = 16
+	}
+
+	artisans = {
+		culture = georgian
+religion = catholic
+		size = 83
+	}
+
+	soldiers = {
+		culture = georgian
+religion = catholic
+		size = 16
+	}
+
+	farmers = {
+		culture = georgian
+religion = catholic
+		size = 1516
+	}
+}
+#Kars Region (25333) #see Turkey.txt for balance of region  
+#under the rule of Ottoman Empire in 612  
+#Batum (25333/6333 POPS) #now part of Georgia
+1096 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 16
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 16
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 50
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 8
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 908
+	}
+
+	clergymen = {
+		culture = georgian
+religion = catholic
+		size = 25
+	}
+
+	artisans = {
+		culture = georgian
+religion = catholic
+		size = 66
+	}
+
+	farmers = {
+		culture = georgian
+religion = catholic
+		size = 1241
+	}
+
+	aristocrats = {
+		culture = georgian
+religion = catholic
+		size = 66
+	}
+
+	clergymen = {
+		culture = georgian
+religion = catholic
+		size = 41
+	}
+
+	artisans = {
+		culture = georgian
+religion = catholic
+		size = 200
+	}
+
+	soldiers = {
+		culture = georgian
+religion = catholic
+		size = 41
+	}
+
+	farmers = {
+		culture = georgian
+religion = catholic
+		size = 3750
+	}
+
+}

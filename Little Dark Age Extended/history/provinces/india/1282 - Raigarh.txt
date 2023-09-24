@@ -1,0 +1,6 @@
+owner = VAK
+controller = VAK
+add_core = VAK
+trade_goods = grain
+life_rating = 32
+set_province_flag = farm

@@ -1,0 +1,209 @@
+#Basra Region (5400) #see Iraq.txt for balance of region  
+#under the rule of Ottoman Empire in 826  
+#Kuwait (5400/1350 POPS) #now part of Kuwait 
+935 = {
+	aristocrats = {
+culture = bedouin
+religion = animist
+		size = 22
+	}
+
+	clergymen = {
+culture = bedouin
+religion = animist
+		size = 22
+	}
+
+	artisans = {
+culture = bedouin
+religion = animist
+		size = 67
+	}
+
+	soldiers = {
+culture = bedouin
+religion = animist
+		size = 11
+	}
+
+	farmers = {
+culture = bedouin
+religion = animist
+		size = 1226
+	}
+}
+#Bahrain Region (12600) #see Saudi Arabia.txt for balance of region  
+#under the rule of Trucial States in 826  
+#Bahrain (9000/2250 POPS) #now part of Bahrein  
+1162 = {
+	aristocrats = {
+		culture = bedouin
+religion = animist
+		size = 11
+	}
+
+	bureaucrats = {
+		culture = bedouin
+religion = animist
+		size = 6
+	}
+
+	officers = {
+		culture = bedouin
+religion = animist
+		size = 4
+	}
+
+	clergymen = {
+		culture = bedouin
+religion = animist
+		size = 22
+	}
+
+	artisans = {
+		culture = bedouin
+religion = animist
+		size = 45
+	}
+
+	soldiers = {
+		culture = bedouin
+religion = animist
+		size = 22
+	}
+
+	farmers = {
+		culture = bedouin
+religion = animist
+		size = 832
+	}
+
+	clergymen = {
+		culture = bedouin
+religion = zoroastrianism
+		size = 22
+	}
+
+	artisans = {
+		culture = bedouin
+religion = zoroastrianism
+		size = 67
+	}
+
+	farmers = {
+		culture = bedouin
+religion = zoroastrianism
+		size = 1260
+	}
+}
+#Doha (3600/900 POPS) #now part of Qatar 
+1165 = {
+	aristocrats = {
+		culture = bedouin
+religion = animist
+		size = 11
+	}
+
+	clergymen = {
+		culture = bedouin
+religion = animist
+		size = 11
+	}
+
+	artisans = {
+		culture = bedouin
+religion = animist
+		size = 45
+	}
+
+	soldiers = {
+		culture = bedouin
+religion = animist
+		size = 11
+	}
+
+	farmers = {
+		culture = bedouin
+religion = animist
+		size = 821
+	}
+}
+#Uman Region (18000) #see Oman.txt for balance of region 
+#under the rule of Oman in 826  
+#Abu Dhabi (9900/2475 POPS) #now part of UAE  
+1167 = {
+	aristocrats = {
+		culture = bedouin
+religion = animist
+		size = 11
+	}
+
+	bureaucrats = {
+		culture = bedouin
+religion = animist
+		size = 6
+	}
+
+	officers = {
+		culture = bedouin
+religion = animist
+		size = 4
+	}
+
+	clergymen = {
+		culture = bedouin
+religion = animist
+		size = 22
+	}
+
+	artisans = {
+		culture = bedouin
+religion = animist
+		size = 112
+	}
+
+	soldiers = {
+		culture = bedouin
+religion = animist
+		size = 495
+	}
+
+	farmers = {
+		culture = bedouin
+religion = animist
+		size = 1867
+	}
+}
+#Dubai (8100/2025 POPS)   #now part of UAE 
+1168 = {
+	aristocrats = {
+		culture = bedouin
+religion = animist
+		size = 22
+	}
+
+	clergymen = {
+		culture = bedouin
+religion = animist
+		size = 33
+	}
+
+	artisans = {
+		culture = bedouin
+religion = animist
+		size = 67
+	}
+
+	soldiers = {
+		culture = bedouin
+religion = animist
+		size = 22
+	}
+
+	farmers = {
+		culture = bedouin
+religion = animist
+		size = 1856
+	}
+
+}

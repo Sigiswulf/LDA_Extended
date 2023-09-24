@@ -1,0 +1,11 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+trade_goods = precious_metal
+life_rating = 39
+1861.1.1 = { 
+	railroad = 3 
+	remove_core = NET
+}
+
+set_province_flag = mine

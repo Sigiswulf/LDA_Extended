@@ -1,0 +1,381 @@
+#Ubangi-Shari Region (22800)
+#uncolonized in 183
+#Bangui (10400/2600 POPS)
+1965 = {
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 50
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 25
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 130
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 27
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 2367
+	}
+}
+#Nola (4000/1000 POPS)
+1966 = {
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 7
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 10
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 10
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 912
+	}
+}
+#uncolonized in 183/under influence of Baguirmi
+#Bouar (2800/700 POPS)
+1967 = {
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 12
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 7
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 35
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 7
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 637
+	}
+}
+#Bossangoa (5600/1400 POPS)
+1968 = {
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 7
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 10
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 10
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 912
+	}
+
+	aristocrats = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 1
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 2
+	}
+
+	artisans = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 5
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 1
+	}
+
+	farmers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 90
+	}
+
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 5
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 7
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 15
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 2
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 270
+	}
+}
+#Dar Banda Region (12800)
+#uncolonized in 183/under influence of Azande
+#Zemio (4400/1100 POPS)
+1969 = {
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 5
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 30
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 7
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 547
+	}
+
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 7
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 5
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 25
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 5
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 457
+	}
+}
+#Bangassou (5600/1400 POPS)
+1970 = {
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 1
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 2
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 5
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 1
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 90
+	}
+
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 22
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 15
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 65
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 15
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 1187
+	}
+}
+#uncolonized in 183/under influence of Wadai
+#Ndele (2800/700 POPS)
+1971 = {
+	aristocrats = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 1
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 2
+	}
+
+	artisans = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 5
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 1
+	}
+
+	farmers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 90
+	}
+
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 5
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 30
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 7
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 547
+	}
+
+}

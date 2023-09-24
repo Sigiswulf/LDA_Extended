@@ -1,0 +1,71 @@
+#Reunion (9800)
+#Ruled by France 183
+#Reunion (9800/2450 POPS)
+2126 = {
+	aristocrats = {
+culture = malagasy
+		religion = animist
+		size = 75
+	}
+
+	bureaucrats = {
+culture = malagasy
+		religion = animist
+		size = 5
+	}
+
+	clergymen = {
+culture = malagasy
+		religion = animist
+		size = 7
+	}
+
+	artisans = {
+culture = malagasy
+		religion = animist
+		size = 50
+	}
+
+	soldiers = {
+culture = malagasy
+		religion = animist
+		size = 30
+	}
+
+	farmers = {
+culture = malagasy
+		religion = animist
+		size = 582
+	}
+
+	clergymen = {
+		culture = malagasy
+		religion = animist
+		size = 12
+	}
+
+	artisans = {
+		culture = malagasy
+		religion = animist
+		size = 85
+	}
+
+	soldiers = {
+		culture = malagasy
+		religion = animist
+		size = 20
+	}
+
+	farmers = {
+		culture = malagasy
+		religion = animist
+		size = 182
+	}
+
+	slaves = {
+		culture = malagasy
+		religion = animist
+		size = 1400
+	}
+
+}

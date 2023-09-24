@@ -1,0 +1,270 @@
+#Windward Islands Region - 18800
+#Barbados (10000/2500 POPS) #now independent
+2229 = {
+	aristocrats = {
+		culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	bureaucrats = {
+		culture = native_american_minor
+religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	artisans = {
+		culture = native_american_minor
+religion = animist
+		size = 175
+	}
+
+	soldiers = {
+		culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	farmers = {
+		culture = native_american_minor
+religion = animist
+		size = 110
+	}
+
+	clergymen = {
+		culture = native_american_minor
+religion = animist
+		size = 7
+	}
+
+	artisans = {
+		culture = native_american_minor
+religion = animist
+		size = 275
+	}
+
+	soldiers = {
+		culture = native_american_minor
+religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = native_american_minor
+religion = animist
+		size = 1892
+	}
+}
+#Saint Lucia (1800/450 POPS) #now independent
+2231 = {
+	aristocrats = {
+		culture = native_american_minor
+religion = animist
+		size = 1
+	}
+
+	clergymen = {
+		culture = native_american_minor
+religion = animist
+		size = 1
+	}
+
+	artisans = {
+		culture = native_american_minor
+religion = animist
+		size = 13
+	}
+
+	farmers = {
+		culture = native_american_minor
+religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	artisans = {
+		culture = native_american_minor
+religion = animist
+		size = 10
+	}
+
+	soldiers = {
+		culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	farmers = {
+		culture = native_american_minor
+religion = animist
+		size = 405
+	}
+}
+#Dominica (1900/475 POPS) #now independent
+2232 = {
+	aristocrats = {
+		culture = native_american_minor
+religion = animist
+		size = 1
+	}
+
+	clergymen = {
+		culture = native_american_minor
+religion = animist
+		size = 1
+	}
+
+	artisans = {
+		culture = native_american_minor
+religion = animist
+		size = 13
+	}
+
+	farmers = {
+		culture = native_american_minor
+religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	artisans = {
+		culture = native_american_minor
+religion = animist
+		size = 15
+	}
+
+	soldiers = {
+		culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	farmers = {
+		culture = native_american_minor
+religion = animist
+		size = 425
+	}
+}
+#Grenada (3000/750 POPS) #now independent
+2233 = {
+	aristocrats = {
+		culture = native_american_minor
+religion = animist
+		size = 2
+	}
+
+	clergymen = {
+		culture = native_american_minor
+religion = animist
+		size = 2
+	}
+
+	artisans = {
+		culture = native_american_minor
+religion = animist
+		size = 25
+	}
+
+	soldiers = {
+		culture = native_american_minor
+religion = animist
+		size = 0
+	}
+
+	farmers = {
+		culture = native_american_minor
+religion = animist
+		size = 20
+	}
+
+	clergymen = {
+		culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	artisans = {
+		culture = native_american_minor
+religion = animist
+		size = 15
+	}
+
+	soldiers = {
+		culture = native_american_minor
+religion = animist
+		size = 7
+	}
+
+	farmers = {
+		culture = native_american_minor
+religion = animist
+		size = 672
+	}
+}
+#Saint Vincent (2100/525 POPS) #now independent
+2409 = {
+	aristocrats = {
+		culture = native_american_minor
+religion = animist
+		size = 1
+	}
+
+	clergymen = {
+		culture = native_american_minor
+religion = animist
+		size = 1
+	}
+
+	artisans = {
+		culture = native_american_minor
+religion = animist
+		size = 13
+	}
+
+	farmers = {
+		culture = native_american_minor
+religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	artisans = {
+		culture = native_american_minor
+religion = animist
+		size = 20
+	}
+
+	soldiers = {
+		culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	farmers = {
+		culture = native_american_minor
+religion = animist
+		size = 470
+	}
+
+}

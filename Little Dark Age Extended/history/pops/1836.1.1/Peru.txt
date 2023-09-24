@@ -1,0 +1,1339 @@
+#Loreto Region (88880)
+#Ruled by Peru 1700
+#Iquitos (55550/13880 POPS)
+2286 = {
+    aristocrats = {
+        culture = south_andean
+religion = animist
+        size = 115
+    }
+
+    bureaucrats = {
+        culture = south_andean
+religion = animist
+        size = 0
+    }
+
+    officers = {
+        culture = south_andean
+religion = animist
+        size = 0
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 115
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 230
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 30
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 4190
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 30
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 150
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 30
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 1330
+    }
+
+    aristocrats = {
+        culture = south_andean
+        religion = animist
+        size = 275
+    }
+
+    clergymen = {
+        culture = south_andean
+        religion = animist
+        size = 150
+    }
+
+    artisans = {
+        culture = south_andean
+        religion = animist
+        size = 780
+    }
+
+    soldiers = {
+        culture = south_andean
+        religion = animist
+        size = 150
+    }
+
+    farmers = {
+        culture = south_andean
+        religion = animist
+        size = 14355
+    }
+}
+#"Ruled" by Ecuador 1700
+#Yurimagues (11105/2775 POPS)
+2287 = {
+    aristocrats = {
+        culture = south_andean
+        religion = animist
+        size = 75
+    }
+
+    clergymen = {
+        culture = south_andean
+        religion = animist
+        size = 115
+    }
+
+    artisans = {
+        culture = south_andean
+        religion = animist
+        size = 230
+    }
+
+    soldiers = {
+        culture = south_andean
+        religion = animist
+        size = 30
+    }
+
+    farmers = {
+        culture = south_andean
+        religion = animist
+        size = 4250
+    }
+}
+#Yuncos (11105/2775 POPS)
+2288 = {
+    aristocrats = {
+        culture = south_andean
+        religion = animist
+        size = 75
+    }
+
+    clergymen = {
+        culture = south_andean
+        religion = animist
+        size = 115
+    }
+
+    artisans = {
+        culture = south_andean
+        religion = animist
+        size = 230
+    }
+
+    soldiers = {
+        culture = south_andean
+        religion = animist
+        size = 30
+    }
+
+    farmers = {
+        culture = south_andean
+        religion = animist
+        size = 4250
+    }
+}
+#Puca Urco (11105/2775 POPS)
+2289 = {
+    aristocrats = {
+        culture = south_andean
+        religion = animist
+        size = 75
+    }
+
+    clergymen = {
+        culture = south_andean
+        religion = animist
+        size = 115
+    }
+
+    artisans = {
+        culture = south_andean
+        religion = animist
+        size = 230
+    }
+
+    soldiers = {
+        culture = south_andean
+        religion = animist
+        size = 30
+    }
+
+    farmers = {
+        culture = south_andean
+        religion = animist
+        size = 4250
+    }
+}
+#Cajamarca Region (274065)
+#Ruled by Peru 1700
+#Cajamarca (133330/35180 POPS)
+2290 = {
+    aristocrats = {
+        culture = south_andean
+religion = animist
+        size = 1255
+    }
+
+    bureaucrats = {
+        culture = south_andean
+religion = animist
+        size = 150
+    }
+
+    officers = {
+        culture = south_andean
+religion = animist
+        size = 115
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 390
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 940
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 190
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 15815
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 190
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 2040
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 390
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 38280
+    }
+}
+#Piura (55550/13880 POPS)
+2291 = {
+    aristocrats = {
+        culture = south_andean
+religion = animist
+        size = 505
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 150
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 230
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 3730
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 115
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 780
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 150
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 15730
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 30
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 150
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 30
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 1725
+    }
+
+    slaves = {
+        culture = south_andean
+religion = animist
+        size = 1175
+    }
+}
+#Trujillo (62955/15730 POPS)
+2292 = {
+    aristocrats = {
+        culture = south_andean
+religion = animist
+        size = 580
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 190
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 465
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 115
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 7980
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 115
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 705
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 150
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 13175
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 30
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 150
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 30
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 1725
+    }
+
+    slaves = {
+        culture = south_andean
+religion = animist
+        size = 1175
+    }
+}
+#Moyobamba (22215/5550 POPS)
+2294 = {
+    aristocrats = {
+        culture = south_andean
+religion = animist
+        size = 75
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 115
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 150
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 30
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 2750
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 30
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 75
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 5
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 1430
+    }
+
+    aristocrats = {
+        culture = south_andean
+        religion = animist
+        size = 75
+    }
+
+    clergymen = {
+        culture = south_andean
+        religion = animist
+        size = 115
+    }
+
+    artisans = {
+        culture = south_andean
+        religion = animist
+        size = 230
+    }
+
+    soldiers = {
+        culture = south_andean
+        religion = animist
+        size = 30
+    }
+
+    farmers = {
+        culture = south_andean
+        religion = animist
+        size = 4250
+    }
+}
+#Junin Region (188880)
+#Ruled by Peru 1700
+#Huanuco (33330/8330 POPS)
+2293 = {
+    aristocrats = {
+        culture = south_andean
+religion = animist
+        size = 305
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 150
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 30
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 2550
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 115
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 550
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 115
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 10225
+    }
+}
+#Jauja (55550/13880 POPS)
+2296 = {
+    aristocrats = {
+        culture = south_andean
+religion = animist
+        size = 505
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 115
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 150
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 30
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 2315
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 1015
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 190
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 19155
+    }
+}
+#Ayacucho (100000/25000 POPS)
+2299 = {
+    aristocrats = {
+        culture = south_andean
+religion = animist
+        size = 900
+    }
+
+    bureaucrats = {
+        culture = south_andean
+religion = animist
+        size = 115
+    }
+
+    officers = {
+        culture = south_andean
+religion = animist
+        size = 75
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 275
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 305
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 4525
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 150
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 1805
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 350
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 33875
+    }
+}
+#Lima Region (448140)
+#Ruled by Peru 1700
+#Lima (300000/75000 POPS)
+2295 = {
+    aristocrats = {
+        culture = south_andean
+religion = animist
+        size = 2630
+    }
+
+    bureaucrats = {
+        culture = south_andean
+religion = animist
+        size = 305
+    }
+
+    officers = {
+        culture = south_andean
+religion = animist
+        size = 230
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 1100
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 15730
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 3455
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 18515
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 66225
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 115
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 1255
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 275
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 23525
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 3140
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 2200
+    }
+
+    slaves = {
+        culture = south_andean
+religion = animist
+        size = 2355
+    }
+}
+#Ica (55550/13880 POPS)
+2297 = {
+    aristocrats = {
+        culture = south_andean
+religion = animist
+        size = 505
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 115
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 305
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 5265
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 780
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 150
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 15815
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 30
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 75
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 30
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 780
+    }
+
+    slaves = {
+        culture = south_andean
+religion = animist
+        size = 625
+    }
+}
+#Huaraz (92590/23140 POPS)
+2298 = {
+    aristocrats = {
+        culture = south_andean
+religion = animist
+        size = 825
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 230
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 465
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 115
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 7790
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 115
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 1330
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 275
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 25025
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 30
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 150
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 30
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 1725
+    }
+
+    slaves = {
+        culture = south_andean
+religion = animist
+        size = 1175
+    }
+}
+#Ucayali Region (29625)
+#Ruled by Peru 1700
+#Pucallpa (18515/4625 POPS)
+2300 = {
+    aristocrats = {
+        culture = south_andean
+religion = animist
+        size = 15
+    }
+
+    bureaucrats = {
+        culture = south_andean
+religion = animist
+        size = 0
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 30
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 75
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 5
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 1415
+    }
+
+    aristocrats = {
+        culture = south_andean
+        religion = animist
+        size = 115
+    }
+
+    clergymen = {
+        culture = south_andean
+        religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = south_andean
+        religion = animist
+        size = 305
+    }
+
+    soldiers = {
+        culture = south_andean
+        religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = south_andean
+        religion = animist
+        size = 5700
+    }
+}
+#Puerto Maldonado (11105/2775 POPS)
+2301 = {
+    aristocrats = {
+        culture = south_andean
+        religion = animist
+        size = 75
+    }
+
+    clergymen = {
+        culture = south_andean
+        religion = animist
+        size = 115
+    }
+
+    artisans = {
+        culture = south_andean
+        religion = animist
+        size = 230
+    }
+
+    soldiers = {
+        culture = south_andean
+        religion = animist
+        size = 30
+    }
+
+    farmers = {
+        culture = south_andean
+        religion = animist
+        size = 4250
+    }
+}
+#Cusco Region (374065)
+#Ruled by Peru 1700
+#Cusco (211105/52775 POPS)
+2302 = {
+    aristocrats = {
+        culture = south_andean
+religion = animist
+        size = 1805
+    }
+
+    bureaucrats = {
+        culture = south_andean
+religion = animist
+        size = 190
+    }
+
+    officers = {
+        culture = south_andean
+religion = animist
+        size = 150
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 580
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 1175
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 1725
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 18290
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 305
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 3300
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 665
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 61815
+    }
+}
+#Puno (96290/24065 POPS)
+2303 = {
+    aristocrats = {
+        culture = south_andean
+religion = animist
+        size = 900
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 230
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 230
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 3255
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 150
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 1805
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 390
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 33840
+    }
+}
+#Arequipa (66665/16665 POPS)
+2304 = {
+    aristocrats = {
+        culture = south_andean
+religion = animist
+        size = 580
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 190
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 305
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 5105
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 75
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 1100
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 230
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 20615
+    }
+}
+#Atacama Region (92590) #see Chile.txt for balance of Region
+#Ruled by Peru 1700
+#Tacna (92590/23140 POPS)
+2578 = {
+    aristocrats = {
+        culture = south_andean
+religion = animist
+        size = 855
+    }
+
+    bureaucrats = {
+        culture = south_andean
+religion = animist
+        size = 30
+    }
+
+    officers = {
+        culture = south_andean
+religion = animist
+        size = 75
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 230
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 390
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 75
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 6175
+    }
+
+    clergymen = {
+        culture = south_andean
+religion = animist
+        size = 150
+    }
+
+    artisans = {
+        culture = south_andean
+religion = animist
+        size = 1725
+    }
+
+    soldiers = {
+        culture = south_andean
+religion = animist
+        size = 305
+    }
+
+    farmers = {
+        culture = south_andean
+religion = animist
+        size = 29430
+    }
+}

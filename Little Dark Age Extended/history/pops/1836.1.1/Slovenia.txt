@@ -1,0 +1,155 @@
+#Carinthia-Styria Region (68000) #see Austria.txt for balance of Region
+#under the rule of Austria in 612  
+#Maribor (68000/17000 POPS) #Part of Slovenia Today
+767 = {
+	aristocrats = {
+culture = goths
+		religion = arian
+		size = 250 
+	}
+	
+	bureaucrats = {
+culture = goths
+		religion = arian
+		size = 83
+	}
+
+	clergymen = {
+culture = goths
+		religion = arian
+		size = 16 
+	}
+
+	artisans = {
+culture = goths
+		religion = arian
+		size = 366
+	}
+
+	soldiers = {
+culture = goths
+		religion = arian
+		size = 16 
+	}
+
+	farmers = {
+culture = goths
+		religion = arian
+		size = 1050
+	}
+
+	clergymen = {
+culture = goths
+		religion = arian
+		size = 150
+	}
+
+	artisans = {
+culture = goths
+		religion = arian
+		size = 533
+	}
+
+	soldiers = {
+culture = goths
+		religion = arian
+		size = 150 
+	}
+
+	farmers = {
+culture = goths
+		religion = arian
+		size = 14500
+	}
+}
+#Carniola Region (153333)  
+#under the rule of Austria in 612  
+#Ljubljana (93333/23333 POPS) 
+768 = {
+	aristocrats = {
+		culture = roman
+		religion = arian
+		size = 275
+	}
+
+	bureaucrats = {
+culture = goths
+		religion = arian
+		size = 75
+	}
+
+	officers = {
+culture = goths
+		religion = arian
+		size = 33
+	}
+
+	clergymen = {
+culture = goths
+		religion = arian
+		size = 233
+	}
+
+	artisans = {
+culture = goths
+		religion = arian
+		size = 1333
+	}
+
+	soldiers = {
+culture = goths
+		religion = arian
+		size = 366
+	}
+
+	farmers = {
+culture = goths
+		religion = arian
+		size = 21050
+	}
+}
+#Postojna (60000/15000 POPS) 
+769 = {
+	aristocrats = {
+		culture = roman
+		religion = arian
+		size = 166
+	}
+
+	clergymen = {
+		culture = roman
+		religion = arian
+		size = 141
+	}
+
+	artisans = {
+		culture = roman
+		religion = arian
+		size = 700
+	}
+
+	soldiers = {
+		culture = roman
+		religion = arian
+		size = 141
+	}
+
+	farmers = {
+		culture = roman
+		religion = arian
+		size = 13191
+	}
+
+	clergymen = {
+		culture = roman
+		religion = arian
+		size = 8
+	}
+
+	farmers = {
+		culture = roman
+		religion = arian
+		size = 658
+	}
+
+}

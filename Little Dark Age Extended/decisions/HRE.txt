@@ -1,0 +1,100 @@
+political_decisions = {	
+	create_holyromanempire = {
+	picture = HREform
+		potential = {
+			NOT = { has_global_flag = hremake }
+			OR = { 
+				tag = FRA
+				tag = BRG
+			}
+		}	
+		allow = {
+			NOT = { war = yes }
+			NOT = { part_of_sphere = yes }
+			owns = 498
+			owns = 720
+			owns = 606
+			owns = 587
+			owns = 581
+			owns = 382
+			owns = 385
+			owns = 385
+			revolution_n_counterrevolution = 1 
+			BRG = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			FRA = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 30
+			any_country = {
+				limit = {
+					OR = {
+						tag = FRA 
+					}
+					in_sphere = THIS
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			change_tag = HLR
+			any_owned = {
+				limit = {
+					is_core = FRA
+				}
+				add_core = THIS
+			}
+			any_owned = {
+				limit = {
+					is_core = BRG
+				}
+				add_core = THIS
+			}
+			set_global_flag = hremake
+			FRA = { all_core = { add_core = THIS } }
+			BRG = { all_core = { add_core = THIS } }
+			FRA = { all_core = { remove_core = FRA } }
+			BRG = { all_core = { remove_core = BRG } }
+			add_accepted_culture = north_german
+			add_accepted_culture = south_german
+			
+			SPA_498 = { 
+					add_core  = THIS
+			}
+	    	SAR_720 = { 
+					add_core  = THIS
+			}
+	    	SWI_603 = { 
+					add_core  = THIS
+			}
+	    	BAD_586 = { 
+					add_core  = THIS
+			}
+	    	PRU_581 = { 
+					add_core  = THIS
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

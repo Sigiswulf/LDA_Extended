@@ -1,0 +1,13 @@
+owner = YUC
+controller = YUC
+add_core = YUC
+trade_goods = iron
+life_rating = 30
+1861.1.1 = {
+	owner = GUA
+	controller = GUA
+}
+
+
+set_province_flag = mine
+add_core = SMR

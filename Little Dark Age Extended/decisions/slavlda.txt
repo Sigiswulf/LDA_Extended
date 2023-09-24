@@ -1,0 +1,359 @@
+political_decisions={
+
+form_south_slavland ={
+picture = southslav
+potential = {
+primary_culture = south_slavs
+NOT = { has_country_flag = s_slavic_empire }
+}
+allow ={
+ideological_thought = 1 
+
+			CRO = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+							OR = { 
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+			}
+			SLO = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+							OR = { 
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+			}
+			SKV = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+							OR = { 
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+			}
+		}
+
+effect = {
+
+prestige = 30
+
+any_country = {
+limit = {
+	OR = {
+		tag = CRO
+		tag = SKV
+		tag = SLO
+		tag = YUG
+		}
+		OR = { 
+			in_sphere = THIS
+			vassal_of = THIS
+			}
+		NOT = {
+		tag = THIS
+		}
+		}
+		annex_to = THIS
+}
+change_tag = YUG
+primary_culture = south_slavs
+add_accepted_culture = slavs
+
+set_country_flag = s_slavic_empire
+NOT = { has_country_flag = s_slavic_empire }
+CRO = { all_core = { add_core = THIS } }
+SKV = { all_core = { add_core = THIS } }
+SLO = { all_core = { add_core = THIS } }
+THIS = { all_core = { add_core = SLO } }
+}}
+
+
+
+form_slavland ={
+picture = slavform
+potential = {
+OR = {
+primary_culture = slavs
+primary_culture = south_slavs
+}
+NOT = { has_country_flag = slavic_empire }}
+allow ={
+state_n_government = 1 
+
+POL = { all_core = {OR = {
+			owned_by = THIS
+						owner = {
+							OR = { 
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}}}}
+
+CRO = { all_core = {OR = {
+			owned_by = THIS
+						owner = {
+							OR = { 
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}}}}
+
+VYA = { all_core = {OR = {
+			owned_by = THIS
+						owner = {
+							OR = { 
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}}}}
+SLO = { all_core = {OR = {
+			owned_by = THIS
+						owner = {
+							OR = { 
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}}}}
+ANT = { all_core = {OR = {
+			owned_by = THIS
+						owner = {
+							OR = { 
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}}}}
+
+SKV = { all_core = {OR = {
+			owned_by = THIS
+						owner = {
+							OR = { 
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}}}}}
+
+effect = {
+
+prestige = 30
+
+any_country = {
+limit = {
+	OR = {
+	   	tag = POL
+		tag = CRO
+		tag = SKV
+		tag = SLO
+		tag = ANT
+		tag = VYA
+		}
+		OR = { 
+			in_sphere = THIS
+			vassal_of = THIS
+			}
+		NOT = {
+		tag = THIS
+		}
+		}
+		annex_to = THIS
+
+}
+change_tag = LEC
+primary_culture = slavs
+add_accepted_culture = south_slavs
+set_country_flag = slavic_empire 
+POL = { all_core = { add_core = THIS } }
+CRO = { all_core = { add_core = THIS } }
+SKV = { all_core = { add_core = THIS } }
+SLO = { all_core = { add_core = THIS } }
+ANT = { all_core = { add_core = THIS } }
+VYA = { all_core = { add_core = THIS } }
+GMI = { all_core = { add_core = THIS } }
+POL = { all_core = { remove_core = POL } }
+CRO = { all_core = { remove_core = CRO } }
+SKV = { all_core = { remove_core = SKV } }
+SLO = { all_core = { remove_core = SLO } }
+ANT = { all_core = { remove_core = ANT } }
+GMI = { all_core = { remove_core = GMI } }
+VYA = { all_core = { remove_core = VYA } }
+}
+}
+	yugoyugoslavia = {
+		picture = GER_west
+		potential = {
+				OR = {tag = LEC tag = YUG}
+			NOT = {
+				has_country_flag = to_the_elbe
+				has_country_flag = fuck_the_east
+				has_country_flag = bohemian_gates
+				has_country_flag = yugoyugoslavia
+			}
+		}
+		allow = {
+			nationalism_n_imperialism = 1 
+			owns = 798
+			owns = 783	
+			NOT = {
+				badboy = 0.8
+			} 
+		}
+		effect = {
+			prestige = 5
+			badboy = 15
+			set_country_flag = yugoyugoslavia
+			 ILY = { all_core = { add_core = THIS } }
+			}
+			}
+	to_the_elbe = {
+		picture = GER_west
+		potential = {
+				tag = LEC
+			NOT = {
+				has_country_flag = to_the_elbe
+				has_country_flag = fuck_the_east
+			}
+		}
+		allow = {
+			nationalism_n_imperialism = 1 
+			NOT = {
+				badboy = 0.8
+			} 
+		}
+		effect = {
+			prestige = 5
+			badboy = 15
+			set_country_flag = to_the_elbe
+			set_country_flag = fuck_the_west
+				PRU_549 = { 
+					add_core  = THIS
+			} 
+				PRU_546 = { 
+					add_core  = THIS
+			} 
+			MEC_545 = { 
+					add_core  = THIS
+			} 
+			SAX_558 = { 
+					add_core  = THIS
+			} 
+			}
+		}
+	
+
+	bohemian_gates = {
+		picture = GER_west
+		potential = {
+				tag = LEC
+			NOT = {
+				has_country_flag = bohemian_gates
+				has_country_flag = fuck_the_east
+			}
+		}
+		allow = {
+			revolution_n_counterrevolution = 1 
+			NOT = {
+				badboy = 0.8
+			} 
+		}
+		effect = {
+			prestige = 5
+			badboy = 15
+			set_country_flag = fuck_the_west
+			set_country_flag = bohemian_gates
+				AUS_625 = { 
+					add_core  = THIS
+			} 
+				AUS_626 = { 
+					add_core  = THIS
+			} 
+			AUS_633 = { 
+					add_core  = THIS
+			} 
+			}
+		}
+	secure_the_steppe = {
+		picture = GER_west
+		potential = {
+				tag = LEC
+			NOT = {
+				has_country_flag = secure_the_steppe
+				has_country_flag = fuck_the_west
+			}
+		}
+		allow = {
+			nationalism_n_imperialism = 1 
+			NOT = {
+				badboy = 0.8
+			} 
+		}
+		effect = {
+			prestige = 5
+			badboy = 15
+			set_country_flag = secure_the_steppe
+			set_country_flag = fuck_the_east
+				RUS_965 = { 
+					add_core  = THIS
+			} 
+				RUS_964 = { 
+					add_core  = THIS
+			} 
+			RUS_977 = { 
+					add_core  = THIS
+			} 
+			RUS_980 = { 
+					add_core  = THIS
+			} 
+			}
+		}
+		storm_the_heavens = {
+		picture = GER_west
+		potential = {
+				tag = LEC
+			NOT = {
+				has_country_flag = storm_the_heavens
+				has_country_flag = fuck_the_west
+			}
+		}
+		allow = {
+			revolution_n_counterrevolution = 1 
+			NOT = {
+				badboy = 0.8
+			} 
+		}
+		effect = {
+			prestige = 5
+			badboy = 15
+			set_country_flag = storm_the_heavens
+			set_country_flag = fuck_the_east
+				RUS_1009 = { 
+					add_core  = THIS
+			} 
+				RUS_994 = { 
+					add_core  = THIS
+			} 
+			RUS_1003 = { 
+					add_core  = THIS
+			} 
+			RUS_1008 = { 
+					add_core  = THIS
+			} 
+			}
+		}
+	
+}

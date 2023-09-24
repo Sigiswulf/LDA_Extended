@@ -1,0 +1,10 @@
+owner = CRI
+controller = CRI
+add_core = CRI
+trade_goods = iron
+life_rating = 37
+
+
+
+set_province_flag = mine
+add_core = SIB

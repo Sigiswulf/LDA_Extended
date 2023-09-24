@@ -1,0 +1,6 @@
+trade_goods = fish
+life_rating = 15
+add_core = AST
+
+set_province_flag = farm
+add_core = IDO

@@ -1,0 +1,8 @@
+owner = TAR
+controller = TAR
+add_core = TAR
+trade_goods = sulphur
+life_rating = 35
+
+set_province_flag = mine
+add_core = IDO

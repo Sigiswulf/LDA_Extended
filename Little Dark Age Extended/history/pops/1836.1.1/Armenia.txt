@@ -1,0 +1,311 @@
+#Armenia Region (25000)
+#under the rule of Russia in 1530
+#Erivan (106665/26665 POPS)
+1098 = {
+	bureaucrats = {
+		culture = russian
+religion = catholic
+		size = 40
+	}
+
+	clergymen = {
+		culture = russian
+religion = catholic
+		size = 7
+	}
+
+	artisans = {
+		culture = russian
+religion = catholic
+		size = 12
+	}
+
+	soldiers = {
+		culture = russian
+religion = catholic
+		size = 62
+	}
+
+	aristocrats = {
+		culture = armenian
+religion = catholic
+		size = 145
+	}
+
+	bureaucrats = {
+		culture = armenian
+religion = catholic
+		size = 20
+	}
+
+	officers = {
+		culture = armenian
+religion = catholic
+		size = 40
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 102
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 500
+	}
+
+	soldiers = {
+		culture = armenian
+religion = catholic
+		size = 102
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 9040
+	}
+
+	aristocrats = {
+		culture = azerbaijani
+religion = catholic
+		size = 165
+	}
+
+	clergymen = {
+		culture = azerbaijani
+religion = catholic
+		size = 82
+	}
+
+	artisans = {
+		culture = azerbaijani
+religion = catholic
+		size = 457
+	}
+
+	soldiers = {
+		culture = azerbaijani
+religion = catholic
+		size = 82
+	}
+
+	farmers = {
+		culture = azerbaijani
+religion = catholic
+		size = 8375
+	}
+
+	aristocrats = {
+		culture = armenian
+religion = catholic
+		size = 20
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 20
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 82
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 1540
+	}
+}
+#Gyumri (56665/14165 POPS)
+1099 = {
+	aristocrats = {
+		culture = armenian
+religion = catholic
+		size = 250
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 145
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 665
+	}
+
+	soldiers = {
+		culture = armenian
+religion = catholic
+		size = 145
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 12290
+	}
+
+	aristocrats = {
+		culture = georgian
+religion = catholic
+		size = 7
+	}
+
+	clergymen = {
+		culture = georgian
+religion = catholic
+		size = 12
+	}
+
+	artisans = {
+		culture = georgian
+religion = catholic
+		size = 32
+	}
+
+	soldiers = {
+		culture = georgian
+religion = catholic
+		size = 7
+	}
+
+	farmers = {
+		culture = georgian
+religion = catholic
+		size = 770
+	}
+}
+#Kapan (36665/9165 POPS)
+1100 = {
+	aristocrats = {
+		culture = armenian
+religion = catholic
+		size = 102
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 62
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 332
+	}
+
+	soldiers = {
+		culture = armenian
+religion = catholic
+		size = 62
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 6102
+	}
+
+	aristocrats = {
+		culture = azerbaijani
+religion = catholic
+		size = 20
+	}
+
+	clergymen = {
+		culture = azerbaijani
+religion = catholic
+		size = 20
+	}
+
+	artisans = {
+		culture = azerbaijani
+religion = catholic
+		size = 125
+	}
+
+	soldiers = {
+		culture = azerbaijani
+religion = catholic
+		size = 20
+	}
+
+	farmers = {
+		culture = azerbaijani
+religion = catholic
+		size = 2312
+	}
+}
+#Nakhichevan (50000/12500 POPS) #now part of Azerbaijan 
+1101 = {
+	aristocrats = {
+		culture = armenian
+religion = catholic
+		size = 102
+	}
+
+	clergymen = {
+		culture = armenian
+religion = catholic
+		size = 145
+	}
+
+	artisans = {
+		culture = armenian
+religion = catholic
+		size = 375
+	}
+
+	soldiers = {
+		culture = armenian
+religion = catholic
+		size = 82
+	}
+
+	farmers = {
+		culture = armenian
+religion = catholic
+		size = 6875
+	}
+
+	aristocrats = {
+		culture = azerbaijani
+religion = zoroastrianism
+		size = 82
+	}
+
+	clergymen = {
+		culture = azerbaijani
+religion = zoroastrianism
+		size = 62
+	}
+
+	artisans = {
+		culture = azerbaijani
+religion = zoroastrianism
+		size = 250
+	}
+
+	soldiers = {
+		culture = azerbaijani
+religion = zoroastrianism
+		size = 40
+	}
+
+	farmers = {
+		culture = azerbaijani
+religion = zoroastrianism
+		size = 3750
+	}
+
+}

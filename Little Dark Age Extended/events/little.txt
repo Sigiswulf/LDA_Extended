@@ -1,0 +1,165 @@
+country_event = {
+
+	id = 70907921
+	title = "Nomad Buffs"
+	desc = "Represents our skilled use of horsmen"
+	picture = "dixie"
+	
+
+	trigger = {
+	NOT = {tag = NWI}
+	OR = {
+	tag = HUN
+	tag = HEP
+	tag = AVR
+	tag = MGL
+	tag = ALA
+	tag = HNN
+	}
+	NOT = { has_country_flag = nomadic_army_buffs }
+	} 
+mean_time_to_happen = {
+		months = .5
+	}
+option = {
+name = "Good for us!"
+set_country_flag = nomadic_army_buffs
+add_country_modifier = { name = nomadic_army duration = -1 }
+}
+}
+
+
+
+
+
+country_event = {
+
+id = 470700
+title = "Gathering of the Roundtable"
+desc="It seems it would be rather wise to hire knights"
+	is_triggered_only = yes
+	fire_only_once = yes
+
+option = {
+
+name = "With these fine knights, we shall be unstoppable!"
+
+		define_general = { name = "Sir Galahad" personality = no_personality background = attack_3.1 }
+        define_general = { name = "Sir Lancelot" personality = no_personality background = attack_minus_1.1 }
+        define_general = { name = "Sir Gawain" personality = no_personality background = attack_1.1 }
+        define_general = { name = "Sir Morded" personality = defence_3.1 background = attack_4.1 }
+
+}}
+
+country_event = {
+	id = 7770777
+	title = "Results of the Council"
+	desc = "The Second Council of Constantinople has resulted in the lost sheep of Monophysites coming back to Mother Church."
+	picture = "dixie"
+	
+	is_triggered_only = yes
+	
+	fire_only_once = yes
+	
+	option = {
+		name = "Alright, sounds good."
+		diplomatic_influence = {
+			who = GHA
+			value = 400
+		}
+		diplomatic_influence = {
+			who = LAK
+			value = 400
+	}}} 
+
+country_event = {
+	id = 7770778
+	title = "Hagia Sophia Reconstruction"
+	desc = "The new Hagia Sophia shall be much more grand. "
+	picture = "dixie"
+	
+	is_triggered_only = yes
+	
+	fire_only_once = yes
+	
+	option = {
+		name = "Alright, sounds good."
+		prestige = 10
+		
+		any_owned = {
+	limit = {
+		province_id = 860
+		}
+		
+	add_province_modifier = {
+		name = hagia_sophia_p
+		duration = -1
+		}}}}
+
+country_event = {
+	id = 7770779
+	title = "Invade Italy"
+	desc = "The weak must fear the strong!"
+	picture = "dixie"
+	
+	is_triggered_only = yes
+	
+	fire_only_once = yes
+	
+	option = {
+		name = "Alright, sounds good. I'm ready for war"
+		prestige = 10
+		
+		war = {
+ 			target = ITA
+ 			attacker_goal = {
+				casus_belli = conquest
+			}
+			
+			defender_goal = {
+				casus_belli = status_quo
+		}}
+		badboy = -20
+		}
+		
+		
+		option = {
+		name = "No, I don't wish to proceed yet"
+	
+		clr_country_flag = italy_prepare
+		
+		remove_country_modifier = lombard_invasion_preparations
+		}
+		
+#about 10000 pops of culture niger congo a or bantu or afro-asiatic or sahel other african
+ #change their pop type to slave, and their culture to altano-aetheopian
+ #move tjese pops to new world provinces in these 5 countries that are under the current shpere master that are of some crop RGO type
+
+country_event = {
+	id = 7770800
+	title = "Hagia Sophia Burns Down!"
+	desc = "Recent revolts in the city have led to a fire that have spread to the Hagia Sophia."
+	picture = "dixie"
+	
+	trigger = {
+    AND = { 860 = { controlled_by = REB } 
+	NOT = { has_country_flag = hagia_burned }
+	tag = BYZ
+	}
+	}
+	mean_time_to_happen = {
+		months = 0.1
+	}
+	option = {
+		name = "Is this just some accident or a sign for things to come?"
+		prestige = -20
+		
+		THIS = {
+		remove_country_modifier = hagia_sophia
+		}
+		860 = { 
+		remove_province_modifier = hagia_sophia_p
+		}
+		set_country_flag = hagia_burned
+	}
+}

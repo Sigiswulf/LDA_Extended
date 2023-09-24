@@ -1,0 +1,164 @@
+#Honduras Region (195555)
+#Ruled by Central America 1020
+#Tegucigapa (100000/25000 POPS)
+2193 = {
+    aristocrats = {
+culture = mayan
+religion = animist
+        size = 895
+        militancy = 5
+    }
+
+    bureaucrats = {
+culture = mayan
+religion = animist
+        size = 115
+        militancy = 5
+    }
+
+    officers = {
+culture = mayan
+religion = animist
+        size = 90
+        militancy = 5
+    }
+
+    clergymen = {
+culture = mayan
+religion = animist
+        size = 425
+        militancy = 5
+    }
+
+    artisans = {
+culture = mayan
+religion = animist
+        size = 2125
+        militancy = 5
+    }
+
+    soldiers = {
+culture = mayan
+religion = animist
+        size = 425
+        militancy = 5
+    }
+
+    farmers = {
+culture = mayan
+religion = animist
+        size = 38415
+        militancy = 5
+    }
+}
+#San Pedro Sula (51110/12775 POPS)
+2194 = {
+    aristocrats = {
+culture = mayan
+religion = animist
+        size = 515
+        militancy = 5
+    }
+
+    clergymen = {
+culture = mayan
+religion = animist
+        size = 210
+        militancy = 5
+    }
+
+    artisans = {
+culture = mayan
+religion = animist
+        size = 1085
+        militancy = 5
+    }
+
+    soldiers = {
+culture = mayan
+religion = animist
+        size = 210
+        militancy = 5
+    }
+
+    farmers = {
+culture = mayan
+religion = animist
+        size = 19690
+        militancy = 5
+    }
+}
+#La Ceiba (37775/9440 POPS)
+2195 = {
+    aristocrats = {
+culture = mayan
+religion = animist
+        size = 400
+        militancy = 5
+    }
+
+    clergymen = {
+culture = mayan
+religion = animist
+        size = 165
+        militancy = 5
+    }
+
+    artisans = {
+culture = mayan
+religion = animist
+        size = 800
+        militancy = 5
+    }
+
+    soldiers = {
+culture = mayan
+religion = animist
+        size = 165
+        militancy = 5
+    }
+
+    farmers = {
+culture = mayan
+religion = animist
+        size = 14520
+        militancy = 5
+    }
+}
+#Puerto Lempira (6665/1665 POPS)
+2196 = {
+    aristocrats = {
+culture = mayan
+religion = animist
+        size = 70
+        militancy = 5
+    }
+
+    clergymen = {
+culture = mayan
+religion = animist
+        size = 45
+        militancy = 5
+    }
+
+    artisans = {
+culture = mayan
+religion = animist
+        size = 140
+        militancy = 5
+    }
+
+    soldiers = {
+culture = mayan
+religion = animist
+        size = 20
+        militancy = 5
+    }
+
+    farmers = {
+culture = mayan
+religion = animist
+        size = 2550
+        militancy = 5
+    }
+}

@@ -1,0 +1,1856 @@
+political_decisions = {
+	annex_colony_on = {
+				alert = yes
+			potential = {
+				NOT = {	has_country_flag = annex_colony }
+			}
+		
+			allow = {
+			}
+		
+			effect = { set_country_flag = annex_colony }
+		
+			ai_will_do = { 
+				factor = 0
+			}
+		}
+	annex_colony_off = {
+			alert = no
+			potential = {
+				has_country_flag = annex_colony
+			}
+		
+		allow = { 
+		}
+		
+		effect = { clr_country_flag = annex_colony }
+		
+		ai_will_do = { factor = 0 }
+	}
+organize_quebec = {
+	    potential = {
+	    OR = {is_secondary_power = yes
+	    is_greater_power = yes}
+	    state_n_government = 1
+	    QUE = { exists = no}
+	    have_core_in = QUE
+	    NOT = {has_country_flag = released_QUE}
+	    owns = 65 #Quebec City
+	    }
+	    allow = {
+	    #new england region
+	    owns = 246
+	    owns = 247
+	    owns = 248
+	    owns = 249
+	    owns = 250
+	    #acadia
+	    owns = 69
+	    owns = 68
+	    owns = 71
+	    owns = 72
+	    owns = 70
+	    #newfoundland
+	    owns = 73
+	    owns = 74
+	    owns = 75
+	    owns = 2625
+	    owns = 76
+	    #quebec proper
+	    owns = 67
+	    owns = 66
+	    owns = 58
+	    owns = 64
+	    owns = 65
+	    owns = 61
+	    owns = 62
+	    owns = 63
+	    owns = 60
+	    owns = 59
+	    owns = 2593
+	    owns = 2626
+	    owns = 2627
+	    owns = 2592
+	    #st pierre
+	    owns = 77}
+	    
+	    effect = {
+	    prestige = 10
+	    246 ={add_core = QUE}
+	    247 ={add_core = QUE}
+	    248 ={add_core = QUE}
+	    249={add_core = QUE}
+	    250={add_core = QUE}
+	    #acadia
+	    69={add_core = QUE}
+	    68={add_core = QUE}
+	    71={add_core = QUE}
+	    72={add_core = QUE}
+	    70={add_core = QUE}
+	    #newfoundland
+	    73={add_core = QUE}
+	    74={add_core = QUE}
+	    75={add_core = QUE}
+	    2625={add_core = QUE}
+	    76={add_core = QUE}
+	    #quebec proper
+	    67={add_core = QUE}
+	    66={add_core = QUE}
+	    58={add_core = QUE}
+	    64={add_core = QUE}
+	    65={add_core = QUE}
+	    61={add_core = QUE}
+	    62={add_core = QUE}
+	    63={add_core = QUE}
+	    60={add_core = QUE}
+	    59={add_core = QUE}
+	    2593={add_core = QUE}
+	    2626={add_core = QUE}
+	    2627={add_core = QUE}
+	    2592={add_core = QUE}
+	    #st pierre
+	    77 = {add_core = QUE}
+	    QUE = {primary_culture = THIS}
+	    release_vassal = QUE
+	    set_country_flag = released_QUE
+	    }
+	ai_will_do = { factor = 1}
+}
+
+
+organize_new_york = {
+	    potential = {
+	    	    OR = {is_secondary_power = yes
+	    is_greater_power = yes}
+	    state_n_government = 1
+	    MAN = { exists = no}
+	    owns = 232 #NYC
+	    have_core_in = MAN
+	    	    NOT = {has_country_flag = released_MAN}
+		    
+	    }
+	    allow = {
+	    #assacheusetts regio
+	    owns = 244
+	    owns = 243
+	    owns = 245
+	    owns = 242
+	    owns = 241
+	    #New York state
+	    owns = 233
+	    owns = 232
+	    owns = 234
+	    owns = 235
+	    owns = 240
+	    owns = 238
+	    owns = 239
+	    owns = 237
+	    owns = 236
+	    #Penn and NJ
+	    owns = 229
+	    owns = 230
+	    owns = 231
+	    owns = 223
+	    owns = 224
+	    owns = 225
+	    owns = 226
+	    owns = 228
+	    owns = 227
+	    #ohio
+	    owns = 178
+	    owns = 183
+	    owns = 182
+	    owns = 179
+	    owns = 180
+	    owns = 181
+}	    
+	    effect = {
+	    prestige = 10
+	    244 ={add_core = MAN}
+	    243 ={add_core = MAN}
+	    245 ={add_core = MAN}
+	    242={add_core = MAN}
+	    241={add_core = MAN}
+	    #???
+	    233={add_core = MAN}
+	    232={add_core = MAN}
+	    234={add_core = MAN}
+	    235={add_core = MAN}
+	    240={add_core = MAN}
+	    #??
+	    238={add_core = MAN}
+	    239={add_core = MAN}
+	    237={add_core = MAN}
+	    236={add_core = MAN}
+	     #penn and nj
+	    229={add_core = MAN}
+	    230={add_core = MAN}
+	    231={add_core = MAN}
+	    223={add_core = MAN}
+	    224={add_core = MAN}
+	    225={add_core = MAN}
+	    226={add_core = MAN}
+	    228={add_core = MAN}
+	    227={add_core = MAN}
+	    #ohio
+	    178 ={add_core = MAN}
+	    183 ={add_core = MAN}
+	    182 ={add_core = MAN}
+	    179 ={add_core = MAN}
+	    180 ={add_core = MAN}
+	    181 ={add_core = MAN}
+	    MAN = {primary_culture = THIS}
+	    release_vassal = MAN
+	    set_country_flag = released_MAN
+	    }
+
+}
+
+
+
+organize_virginia = {
+	    potential = {
+	    	    OR = {is_secondary_power = yes
+	    is_greater_power = yes}
+	    state_n_government = 1
+	    USA = { exists = no}
+	    owns = 220 #WASHINGTON DC
+	    owns =212 #metro area
+	    	    have_core_in = USA
+		    	    NOT = {has_country_flag = released_USA}
+	    }
+	    allow = {
+	    #maryland
+	    owns = 220
+	    owns = 221
+	    owns = 219
+	    #delware
+	    owns = 222
+	    #virginia and wv
+	    owns = 214
+	    owns = 213
+	    owns = 212
+	    owns = 215
+	    owns = 211
+	    owns = 216
+	    owns = 217
+	    owns = 218
+	    #ektncuky
+	    owns = 185
+	    owns = 186
+	    owns = 184
+	    owns = 187
+	    
+}	    
+	    effect = {
+	    prestige = 10
+	    220 ={add_core = USA}
+	    221 ={add_core = USA}
+	    219 ={add_core = USA}
+	    222 ={add_core = USA}
+	    214 ={add_core = USA}
+	    213 ={add_core = USA}
+	    212 ={add_core = USA}
+	    215 ={add_core = USA}
+	    211 ={add_core = USA}
+	    216 ={add_core = USA}
+	    217 ={add_core = USA}
+	    218 ={add_core = USA}
+	    185 ={add_core = USA}
+	    186 ={add_core = USA}
+	    184 ={add_core = USA}
+	    187 ={add_core = USA}
+	    USA = {primary_culture = THIS}
+	    release_vassal = USA
+	    set_country_flag = released_USA
+		ai_will_do = { factor = 1}
+	    }
+
+}
+
+organize_dixie = {
+	    potential = {
+	    	    OR = {is_secondary_power = yes
+	    is_greater_power = yes}
+	    state_n_government = 1
+	    CSA = { exists = no}
+	    owns = 201 #atlanta
+	    	    have_core_in = CSA
+		    	    NOT = {has_country_flag = released_CSA}
+	    }
+	    allow = {
+	    	  owns = 201
+		  owns = 207
+		  owns = 210
+		  owns = 205
+		  owns = 208
+		  owns = 209
+		  owns = 206
+		  owns = 2556
+		  owns = 190
+		  owns = 191
+		  owns = 188
+		  owns = 189
+		  owns = 2555
+		  owns = 204
+		  owns = 202
+		  owns = 196
+		  owns = 195
+		  owns = 197
+		  owns = 193
+		  owns = 192
+		  owns = 194
+		  owns = 140
+		  owns = 142
+		  owns = 141
+		  owns = 139
+		  owns = 200
+		  owns = 199
+		  owns = 198
+		  owns = 143
+		  owns = 144
+		  owns = 145
+}	    
+	    effect = {
+	    prestige = 10
+	    201 = {add_core = CSA}
+		   207 ={add_core = CSA}
+		   210={add_core = CSA}
+		   205={add_core = CSA}
+		   208={add_core = CSA}
+		   209={add_core = CSA}
+		   206={add_core = CSA}
+		   2556={add_core = CSA}
+		   190={add_core = CSA}
+		   191={add_core = CSA}
+		   188={add_core = CSA}
+		   189={add_core = CSA}
+		   2555={add_core = CSA}
+		   204={add_core = CSA}
+		   202={add_core = CSA}
+		   196={add_core = CSA}
+		   195={add_core = CSA}
+		   197={add_core = CSA}
+		   193={add_core = CSA}
+		   192={add_core = CSA}
+		   194={add_core = CSA}
+		   140={add_core = CSA}
+		   142={add_core = CSA}
+		   141={add_core = CSA}
+		   139={add_core = CSA}
+		   200={add_core = CSA}
+		   199={add_core = CSA}
+		   198={add_core = CSA}
+		   143={add_core = CSA}
+		   144={add_core = CSA}
+		   145={add_core = CSA}
+	    CSA = {primary_culture = THIS}
+	    release_vassal = CSA
+	    set_country_flag = released_CSA
+	    }
+		ai_will_do = { factor = 1}
+}
+
+
+organize_texas = {
+	    potential = {
+	    	    OR = {is_secondary_power = yes
+	    is_greater_power = yes}
+	    state_n_government = 1
+	    TEX = { exists = no}
+	    owns = 133 #autsin
+	    	    have_core_in = TEX
+		    	    NOT = {has_country_flag = released_TEX}
+	    }
+	    allow = {
+	    	  owns = 132
+		  owns = 133
+		  owns = 137
+		  owns = 138
+		  owns = 134
+		  owns = 135
+		  owns = 136
+		  owns = 131
+		  owns = 130
+		  owns = 129
+		  owns = 126
+		  owns = 128
+		  owns = 127
+		  owns = 106
+		  owns = 109
+		  owns = 107
+		  owns = 108
+		  owns = 103
+		  owns = 105
+		  owns = 104
+}	    
+	    effect = {
+	    prestige = 10
+	    
+	    	   132={add_core = TEX}
+		   133={add_core = TEX}
+		   137={add_core = TEX}
+		   138={add_core = TEX}
+		   134={add_core = TEX}
+		   135={add_core = TEX}
+		   136={add_core = TEX}
+		   131={add_core = TEX}
+		   130={add_core = TEX}
+		   129={add_core = TEX}
+		   126={add_core = TEX}
+		   128={add_core = TEX}
+		   127={add_core = TEX}
+		   106={add_core = TEX}
+		   109={add_core = TEX}
+		   107={add_core = TEX}
+		   108={add_core = TEX}
+		   103={add_core = TEX}
+		   105={add_core = TEX}
+		   104={add_core = TEX}
+		 
+	    TEX = {primary_culture = THIS}
+	    release_vassal = TEX
+	    set_country_flag = released_TEX
+	    }
+		ai_will_do = { factor = 1}
+}
+organize_california = {
+	    potential = {
+	    	    OR = {is_secondary_power = yes
+	    is_greater_power = yes}
+	    state_n_government = 1
+	    CAL = { exists = no}
+	    	    NOT = {has_country_flag = released_CAL}
+	    owns = 84 #SF
+	    }
+	    allow = {
+	    owns = 84
+	    owns = 85
+	    owns = 86
+	    owns = 88
+	    owns = 87
+	    owns = 89
+	    owns = 90
+	    owns = 94
+	    owns = 95
+	    owns = 96
+	    owns = 97
+	    owns = 98
+	    owns = 99
+	    owns = 101
+	    owns = 100
+	    owns = 102
+}	    
+	    effect = {
+	    prestige = 10
+	     84={add_core = CAL}
+	     85={add_core = CAL}
+	     86={add_core = CAL}
+	     88={add_core = CAL}
+	     87={add_core = CAL}
+	     89={add_core = CAL}
+	     90={add_core = CAL}
+	     94={add_core = CAL}
+	     95={add_core = CAL}
+	     96={add_core = CAL}
+	     97={add_core = CAL}
+	     98={add_core = CAL}
+	     99={add_core = CAL}
+	     101={add_core = CAL}
+	     100={add_core = CAL}
+	     102={add_core = CAL}
+
+		 
+	    CAL = {primary_culture = THIS}
+	    release_vassal = CAL
+	    set_country_flag = released_CAL
+	    }
+		ai_will_do = { factor = 1}
+}
+organize_cascadia = {
+	    potential = {
+	    	    OR = {is_secondary_power = yes
+	    is_greater_power = yes}
+	    state_n_government = 1
+	    COL = { exists = no}
+	    owns = 13 #vancouver
+	    	    NOT = {has_country_flag = released_COL}
+	    }
+	    allow = {
+	    owns = 13
+	    owns = 17
+	    owns = 18
+	    owns = 16
+	    owns = 19
+	    owns = 15
+	    owns = 21
+	    owns = 2629
+	    owns = 20
+	    owns = 14
+	    owns = 92
+	    owns = 91
+	    owns = 93
+	    owns = 79
+	    owns = 80
+	    owns = 78
+	    owns = 82
+	    owns = 83
+	    owns = 81
+		owns = 3
+	    owns = 2631
+	    owns = 5
+	    owns = 5
+	    owns = 2599
+	    owns = 2630
+	    owns = 7
+	    owns = 8
+	    owns = 6
+	    owns = 2
+	    owns = 1
+		owns = 4 
+			  
+	
+	    
+}	    
+	    effect = {
+	    prestige = 10
+	    13={add_core = COL}
+	    17={add_core = COL}
+	    18={add_core = COL}
+	    16={add_core = COL}
+	    19={add_core = COL}
+	    15={add_core = COL}
+	    21={add_core = COL}
+	    2629={add_core = COL}
+	    20={add_core = COL}
+	    14={add_core = COL}
+	    92={add_core = COL}
+	    91={add_core = COL}
+	    93={add_core = COL}
+	    79={add_core = COL}
+	    80={add_core = COL}
+	    78={add_core = COL}
+	    82={add_core = COL}
+	    83={add_core = COL}
+	    81={add_core = COL}
+		   3={add_core = COL}
+	    2631={add_core = COL}
+	    5={add_core = COL}
+	    5={add_core = COL}
+	    2599={add_core = COL}
+	    2630={add_core = COL}
+	    7={add_core = COL}
+	    8={add_core = COL}
+	    6={add_core = COL}
+	    2={add_core = COL}
+	    1={add_core = COL}
+		4={add_core = COL}
+
+		 
+	    COL = {primary_culture = THIS}
+	    release_vassal = COL
+	    set_country_flag = released_COL
+	    }
+
+		ai_will_do = { factor = 1}
+}
+organize_heartland = {
+	    potential = {
+	    	    OR = {is_secondary_power = yes
+	    is_greater_power = yes}
+	    state_n_government = 1
+	    RPL = { exists = no}
+	    owns = 22 #edmonton
+	    	    NOT = {has_country_flag = released_RPL}
+	    }
+	    allow = {
+	    owns = 22
+	    owns = 10
+	    owns = 2598
+	    owns = 9
+	    owns = 11
+	    owns = 2596
+	    owns = 43
+	    owns = 44
+	    owns = 45
+	    owns = 2595
+	    owns = 2597
+	    owns = 23
+	    owns = 24
+	    owns = 12
+	    owns = 27
+	    owns = 25
+	    owns = 26
+	    owns = 29
+	    owns = 28
+	    owns = 31
+	    owns = 32
+	    owns = 33
+	    owns = 34
+	    owns = 30
+	    owns = 35
+	    owns = 37
+	    owns = 38
+	    owns = 39
+	    owns = 40
+	    owns = 36
+	    owns = 41
+	    owns = 42
+	    owns = 115
+	    owns = 114
+	    owns = 113
+	    owns = 116
+	    owns = 118
+	    owns = 117
+	    owns = 119
+	    owns = 120
+	    owns = 121
+	    owns = 122
+	    owns = 112
+	    owns = 111
+	    owns = 110
+	    owns = 124
+	    owns = 123
+	    owns = 125
+	
+	    
+}	    
+	    effect = {
+	    prestige = 10
+	    22={add_core = RPL}
+	     10={add_core = RPL}
+	     2598={add_core = RPL}
+	     9={add_core = RPL}
+	     11={add_core = RPL}
+	     2596={add_core = RPL}
+	     43={add_core = RPL}
+	     44={add_core = RPL}
+	     45={add_core = RPL}
+	     2595={add_core = RPL}
+	     2597={add_core = RPL}
+	     23={add_core = RPL}
+	     24={add_core = RPL}
+	     12={add_core = RPL}
+	     27={add_core = RPL}
+	     25={add_core = RPL}
+	     26={add_core = RPL}
+	     29={add_core = RPL}
+	     28={add_core = RPL}
+	     31={add_core = RPL}
+	     32={add_core = RPL}
+	     33={add_core = RPL}
+	     34={add_core = RPL}
+	     30={add_core = RPL}
+	     35={add_core = RPL}
+	     37={add_core = RPL}
+	     38={add_core = RPL}
+	     39={add_core = RPL}
+	     40={add_core = RPL}
+	     36={add_core = RPL}
+	     41={add_core = RPL}
+	     42={add_core = RPL}
+	     115={add_core = RPL}
+	     114={add_core = RPL}
+	     113={add_core = RPL}
+	     116={add_core = RPL}
+	     118={add_core = RPL}
+	     117={add_core = RPL}
+	     119={add_core = RPL}
+	     120={add_core = RPL}
+	     121={add_core = RPL}
+	     122={add_core = RPL}
+	     112={add_core = RPL}
+	     111={add_core = RPL}
+	     110={add_core = RPL}
+	     124={add_core = RPL}
+	     123={add_core = RPL}
+	     125={add_core = RPL}
+
+
+		 
+	    RPL = {primary_culture = THIS}
+	    release_vassal = RPL
+	    set_country_flag = released_RPL
+	    }
+
+		ai_will_do = { factor = 1}
+}
+organize_canada = {
+	    potential = {
+	    	    OR = {is_secondary_power = yes
+	    is_greater_power = yes}
+	    state_n_government = 1
+	    CAN = { exists = no}
+	    owns = 57 #vancouver
+	    	    NOT = {has_country_flag = released_CAN}
+	    }
+	    allow = {
+	    owns = 57
+	    owns = 56
+	    owns = 46
+	    owns = 52
+	    owns = 49
+	    owns = 53
+	    owns = 54
+	    owns = 55
+	    owns = 51
+	    owns = 48
+	    owns = 50
+	    owns = 2628
+	    owns = 47
+	    owns = 2594
+	    owns = 50
+	    owns = 175
+	    owns = 176
+	    owns = 174
+	    owns = 173
+	    owns = 172
+	    owns = 169
+	    owns = 171
+	    owns = 170
+	    owns = 177
+	    owns = 161
+	    owns = 159
+	    owns = 162
+	    owns = 160
+	    owns = 158
+	    owns = 155
+	    owns = 157
+	    owns = 156
+	    owns = 163
+	    owns = 165
+	    owns = 164
+	    owns = 166
+	    owns = 167
+	    owns = 168
+	    owns = 153
+	    owns = 154
+	    owns = 152
+	    owns = 151
+	    owns = 150
+	    owns = 149
+	    owns = 146
+	    owns = 148
+	    owns = 147
+}	    
+	    effect = {
+	    prestige = 10
+	    57={add_core = CAN}
+	    56={add_core = CAN}
+	    46={add_core = CAN}
+	    52={add_core = CAN}
+	    53={add_core = CAN}
+	    54={add_core = CAN}
+	    55={add_core = CAN}
+	    51={add_core = CAN}
+	    48={add_core = CAN}
+	    50={add_core = CAN}
+	    2628={add_core = CAN}
+	    47={add_core = CAN}
+	    2594={add_core = CAN}
+	    50={add_core = CAN}
+	    175={add_core = CAN}
+	    176={add_core = CAN}
+	    174={add_core = CAN}
+	    173={add_core = CAN}
+	    172={add_core = CAN}
+	    169={add_core = CAN}
+	    171={add_core = CAN}
+	    170={add_core = CAN}
+	    177={add_core = CAN}
+	    161={add_core = CAN}
+	    159={add_core = CAN}
+	    162={add_core = CAN}
+	    160={add_core = CAN}
+	    158={add_core = CAN}
+	    155={add_core = CAN}
+	    157={add_core = CAN}
+	    156={add_core = CAN}
+	    163={add_core = CAN}
+	    165={add_core = CAN}
+	    164={add_core = CAN}
+	    166={add_core = CAN}
+	    167={add_core = CAN}
+	    168={add_core = CAN}
+	    153={add_core = CAN}
+	    154={add_core = CAN}
+	    152={add_core = CAN}
+	    151={add_core = CAN}
+	    150={add_core = CAN}
+	    149={add_core = CAN}
+	    146={add_core = CAN}
+	    148={add_core = CAN}
+	    147={add_core = CAN}
+	    49={add_core = CAN}
+
+		 
+	    CAN = {primary_culture = THIS}
+	    release_vassal = CAN
+	    set_country_flag = released_CAN
+	    }
+
+		ai_will_do = { factor = 1}
+}
+
+organize_cuba = {
+	    potential = {
+	    	    OR = {is_secondary_power = yes
+	    is_greater_power = yes}
+	    state_n_government = 1
+	    CUB = { exists = no}
+	    owns = 2209 #havanna
+	    	    NOT = {has_country_flag = released_CUB}
+	    }
+	    allow = {
+	    owns = 2209
+	    owns = 2210
+	    owns = 2211
+	    owns = 2212
+	    owns = 2215
+	    owns = 2213
+	    owns = 2216
+	    owns = 2214
+	    owns = 2222
+
+	    
+}	    
+	    effect = {
+	    prestige = 10
+	    2209 ={add_core = CUB}
+	    2210={add_core = CUB}
+	    2211 ={add_core = CUB}
+	    2212 ={add_core = CUB}
+	    2215 ={add_core = CUB}
+	    2213 ={add_core = CUB}
+	    2216 ={add_core = CUB}
+	    2214 ={add_core = CUB}
+	    2222 ={add_core = CUB}
+	    CUB = {primary_culture = THIS}
+	    release_vassal = CUB
+	    set_country_flag = released_CUB
+	    }
+		ai_will_do = { factor = 1}
+}
+
+organize_north_mexico = {
+	    potential = {
+	    	    OR = {is_secondary_power = yes
+	    is_greater_power = yes}
+	    state_n_government = 1
+	    RGD = { exists = no}
+	    owns = 2146 #havanna
+	    	    NOT = {has_country_flag = released_RGD}
+	    }
+	    allow = {
+	    owns = 2146
+	    owns = 2149
+	    owns = 2150
+	    owns = 2163
+	    owns = 2159
+	    owns = 2155
+	    owns = 2151
+	    owns = 2148
+	    owns = 2147
+	    owns = 2152
+	    owns = 2153
+	    owns = 2156
+	    owns = 2154
+	    owns = 2157
+	    owns = 2144
+	    owns = 2143
+	    owns = 2142
+	    owns = 2141
+	    owns = 2145
+	    owns = 2142
+	    owns = 2137
+	    owns = 2140
+	    owns = 2139
+	    owns = 2138
+}	    
+	    effect = {
+	    prestige = 10
+	    2146={add_core = RGD}
+	    2149={add_core = RGD}
+	    2150={add_core = RGD}
+	    2163={add_core = RGD}
+	    2159={add_core = RGD}
+	    2155={add_core = RGD}
+	    2151={add_core = RGD}
+	    2148={add_core = RGD}
+	    2147={add_core = RGD}
+	    2152={add_core = RGD}
+	    2153={add_core = RGD}
+	    2156={add_core = RGD}
+	    2154={add_core = RGD}
+	    2157={add_core = RGD}
+	    2144={add_core = RGD}
+	    2143={add_core = RGD}
+	    2142={add_core = RGD}
+	    2141={add_core = RGD}
+	    2145={add_core = RGD}
+	    2142={add_core = RGD}
+	    2137={add_core = RGD}
+	    2140={add_core = RGD}
+	    2139={add_core = RGD}
+	    2138={add_core = RGD}
+	    RGD = {primary_culture = THIS}
+	    release_vassal = RGD
+	    set_country_flag = releaseD_RGD
+	    }
+		ai_will_do = { factor = 1}
+}
+
+
+organize_brazil = {
+	    potential = {
+	    	    OR = {is_secondary_power = yes
+	    is_greater_power = yes}
+	    state_n_government = 1
+	    BRZ = { exists = no}
+	    owns = 2428
+	    	    NOT = {has_country_flag = released_BRZ}
+	    }
+	    allow = {
+	    owns = 2439
+	    owns = 2436
+	    owns = 2435
+	    owns = 2446
+	    owns = 2441
+	    owns = 2442
+	    owns = 2445
+	    owns = 2444
+	    owns = 2443
+	    owns = 2440
+	    owns = 2438
+	    owns = 2437
+	    owns = 2434
+	    owns = 2432
+	    owns = 2428
+	    owns = 2431
+	    owns = 2429
+	    owns = 2430
+	    owns = 2433
+	    owns = 2427
+	    owns = 2426
+	    owns = 2425
+	    owns = 2424
+	    owns = 2410
+	    #amazonia
+	    owns = 2415
+	    owns = 2414
+	    owns = 2412
+	    owns = 2408
+	    owns = 2532
+	    owns = 2403
+	    owns = 2402
+	    owns = 2407
+	    owns = 2404
+	    owns = 2549
+	    owns = 2405
+	    owns = 2411
+	    owns = 2600
+	    owns = 2413
+	    owns = 2550
+	    owns = 2417
+	    owns = 2418
+	    owns = 2423
+	    owns = 2422
+	    owns = 2421
+	    owns = 2419
+	    owns = 2416
+	    owns = 2420
+	    owns = 2401
+	    owns = 2420
+
+	    #south
+	    	    
+
+
+
+}
+	    effect = {
+	    prestige = 10
+	    2439={add_core = BRZ}
+	    2436={add_core = BRZ}
+	    2435={add_core = BRZ}
+	    2446={add_core = BRZ}
+	    2441={add_core = BRZ}
+	    2442={add_core = BRZ}
+	    2445={add_core = BRZ}
+	    2444={add_core = BRZ}
+	    2443={add_core = BRZ}
+	    2440={add_core = BRZ}
+	    2438={add_core = BRZ}
+	    2437={add_core = BRZ}
+	    2434={add_core = BRZ}
+	    2432={add_core = BRZ}
+	    2428={add_core = BRZ}
+	    2431={add_core = BRZ}
+	    2429={add_core = BRZ}
+	    2430={add_core = BRZ}
+	    2433={add_core = BRZ}
+	    2427={add_core = BRZ}
+	    2426={add_core = BRZ}
+	    2425={add_core = BRZ}
+	    2424={add_core = BRZ}
+	    2410={add_core = BRZ}
+	     2415={add_core = BRZ}
+	     2414={add_core = BRZ}
+	     2412={add_core = BRZ}
+	     2408={add_core = BRZ}
+	     2532={add_core = BRZ}
+	     2403={add_core = BRZ}
+	     2402={add_core = BRZ}
+	     2407={add_core = BRZ}
+	     2404={add_core = BRZ}
+	     2549={add_core = BRZ}
+	     2405={add_core = BRZ}
+	     2411={add_core = BRZ}
+	     2600={add_core = BRZ}
+	     2413={add_core = BRZ}
+	     2550={add_core = BRZ}
+	     2417={add_core = BRZ}
+	     2418={add_core = BRZ}
+	     2423={add_core = BRZ}
+	    2422={add_core = BRZ}
+	    2421={add_core = BRZ}
+	    2419={add_core = BRZ}
+	    2416={add_core = BRZ}
+	    2401={add_core = BRZ}
+	    2420={add_core = BRZ}
+	    BRZ = {primary_culture = THIS}
+	    release_vassal = BRZ
+	    set_country_flag = released_BRZ
+		}
+		ai_will_do = { factor = 1}
+	}	
+organize_south_brazil = {
+	    potential = {
+	    	    OR = {
+				is_secondary_power = yes
+				is_greater_power = yes
+				}
+	    state_n_government = 1
+	    OSL = { exists = no}
+	    	    NOT = {has_country_flag = released_OSL}
+	    owns = 2450
+	    }
+allow = {
+	    #south
+	    owns = 2450
+	    owns = 2452
+	    owns = 2456
+	    owns = 2453
+	    owns = 2306
+	    owns = 2460
+	    owns = 2458
+	    owns = 2457
+	    owns = 2461
+	    owns = 2463
+	    owns = 2459
+	    owns = 2462
+	    owns = 2465
+	    owns = 2464
+	    owns = 2466
+	    owns = 2467
+	    owns = 2346
+	    owns = 2345
+	    owns = 2347
+	    owns = 2344
+	    owns = 2455
+	    owns = 2451
+	    owns = 2447
+	    owns = 2448
+	    owns = 2449
+}
+	   effect = {
+	    prestige = 10
+	    2450={add_core = OSL}
+	    2452={add_core = OSL}
+	    2456={add_core = OSL}
+	    2453={add_core = OSL}
+	    2306={add_core = OSL}
+	    2460={add_core = OSL}
+	    2458={add_core = OSL}
+	    2457={add_core = OSL}
+	    2461={add_core = OSL}
+	    2463={add_core = OSL}
+	    2459={add_core = OSL}
+	    2462={add_core = OSL}
+	    2465={add_core = OSL}
+	    2464={add_core = OSL}
+	    2466={add_core = OSL}
+	    2467={add_core = OSL}
+	    2346={add_core = OSL}
+	    2345={add_core = OSL}
+	    2347={add_core = OSL}
+	    2344={add_core = OSL}
+	    2455={add_core = OSL}
+	    2451={add_core = OSL}
+	    2447={add_core = OSL}
+	    2448={add_core = OSL}
+	    2449={add_core = OSL}
+	    set_country_flag = released_OSL
+	    release_vassal = OSL
+	    OSL = {primary_culture = THIS}}
+		ai_will_do = { factor = 1}
+		}
+
+
+organize_argentina = {
+	    potential = {
+	    	    OR = {is_secondary_power = yes
+	    is_greater_power = yes}
+	    state_n_government = 1
+	    ARG = { exists = no}
+	    owns = 2348
+	    	    NOT = {has_country_flag = released_ARG}
+	    }
+	    allow={
+	    owns = 2348
+	    owns = 2351
+	    owns = 2352
+	    owns = 2354
+	    owns = 2350
+	    owns = 2353
+	    owns = 2349
+	    owns = 2363
+	    owns = 2360
+	    owns = 2361
+	    owns = 2359
+	    owns = 2357
+	    owns = 2358
+	    owns = 2554
+	    owns = 2356
+	    owns = 2362
+	    owns = 2382
+	    owns = 2381
+	    owns = 2380
+	    owns = 2379
+	    owns = 2378
+	    owns = 2376
+	    owns = 2377
+	    owns = 2364
+	    owns = 2365
+	    owns = 2315
+	    owns = 2372
+	    owns = 2371
+	    owns = 2370
+	    owns = 2369
+	    owns = 2368
+	    owns = 2375
+	    owns = 2373
+	    owns = 2374
+	    owns = 2385
+	    owns = 2388
+	    owns = 2386
+	    owns = 2387
+
+	    #paraguay and bolivia
+	    owns = 2341
+	    owns = 2342
+	    owns = 2343
+	    owns = 2339
+	    owns = 2340
+	    owns = 2338
+	    owns = 2337
+	    owns = 2366
+	    owns = 2367
+	    owns = 2318
+	    owns = 2317
+	    owns = 2316
+	    #patagonia
+	    	    owns = 2396
+	    owns = 2392
+	    owns = 2394
+	    owns = 2391
+	    owns = 2397
+	    owns = 2398
+	    owns = 2399
+	    owns = 2328
+	    owns = 2330
+	    owns = 2331
+	    owns = 2329
+	    owns = 2328
+	    owns = 2332
+	    owns = 2333
+	    owns = 2334
+	    owns = 2335
+	    owns = 2400
+	    owns = 2131
+	    owns = 2133
+	    owns = 2336
+	    #added later
+	    owns = 2355
+	    owns = 2393
+	    owns = 2395
+	    owns = 2390
+	    owns = 2389
+	    owns = 2383
+	    owns = 2384
+	    owns = 2327
+
+	    }
+	    effect = {
+	    prestige = 10
+	     2348={add_core = ARG}
+	     2351={add_core = ARG}
+	     2352={add_core = ARG}
+	     2354={add_core = ARG}
+	     2350={add_core = ARG}
+	     2353={add_core = ARG}
+	     2349={add_core = ARG}
+	     2363={add_core = ARG}
+	     2360={add_core = ARG}
+	     2361={add_core = ARG}
+	     2359={add_core = ARG}
+	     2357={add_core = ARG}
+	     2358={add_core = ARG}
+	     2554={add_core = ARG}
+	     2356={add_core = ARG}
+	     2362={add_core = ARG}
+	     2382={add_core = ARG}
+	     2381={add_core = ARG}
+	     2380={add_core = ARG}
+	     2379={add_core = ARG}
+	     2378={add_core = ARG}
+	     2376={add_core = ARG}
+	     2377={add_core = ARG}
+	     2364={add_core = ARG}
+	     2365={add_core = ARG}
+	     2315={add_core = ARG}
+	     2372={add_core = ARG}
+	     2371={add_core = ARG}
+	     2370={add_core = ARG}
+	     2369={add_core = ARG}
+	     2368={add_core = ARG}
+	     2375={add_core = ARG}
+	     2373={add_core = ARG}
+	     2374={add_core = ARG}
+	     2385={add_core = ARG}
+	     2388={add_core = ARG}
+	     2386={add_core = ARG}
+	     2387={add_core = ARG}
+	     2341={add_core = ARG}
+	     2342={add_core = ARG}
+	     2343={add_core = ARG}
+	     2339={add_core = ARG}
+	     2340={add_core = ARG}
+	     2338={add_core = ARG}
+	     2337={add_core = ARG}
+	     2366={add_core = ARG}
+	     2367={add_core = ARG}
+	     2318={add_core = ARG}
+	     2317={add_core = ARG}
+	     2316={add_core = ARG}
+ 2396={add_core = ARG}
+	    2392={add_core = ARG}
+	    2394={add_core = ARG}
+	    2391={add_core = ARG}
+	    2397={add_core = ARG}
+	    2398={add_core = ARG}
+	    2399={add_core = ARG}
+	    2328={add_core = ARG}
+	    2330={add_core = ARG}
+	    2331={add_core = ARG}
+	    2329={add_core = ARG}
+	    2328={add_core = ARG}
+	    2332={add_core = ARG}
+	    2333={add_core = ARG}
+	    2334={add_core = ARG}
+	    2335={add_core = ARG}
+	    2400={add_core = ARG}
+	    2131={add_core = ARG}
+	    2133={add_core = ARG}
+	    2336={add_core = ARG}
+	     2355={add_core = ARG}
+	     2393={add_core = ARG}
+	     2395={add_core = ARG}
+	     2390={add_core = ARG}
+	     2389={add_core = ARG}
+	     2383={add_core = ARG}
+	     2384={add_core = ARG}
+	     2327={add_core = ARG}
+
+
+	     set_country_flag = released_ARG
+	     release_vassal = ARG
+	    ARG = {primary_culture = THIS}
+	    }
+		ai_will_do = { factor = 1}
+	    }
+
+
+
+
+
+organize_oz = {
+	    potential = {
+	    	    OR = {is_secondary_power = yes
+	    is_greater_power = yes}
+	    state_n_government = 1
+	    AST = { exists = no}
+	    owns = 2468
+	    	    NOT = {has_country_flag = released_AST}
+	    }
+	    allow = {
+	    owns = 2468
+	    owns = 2497
+		owns = 2505
+	    }
+	    effect = {
+	    prestige = 10
+	    release_vassal = AST
+	    set_country_flag = released_AST
+	     AST = {primary_culture = THIS}
+	     }
+		 ai_will_do = { factor = 1}
+		}
+	     
+organize_kiwiland = {
+	    potential = {
+	    	    OR = {is_secondary_power = yes
+	    is_greater_power = yes}
+	    state_n_government = 1
+	    NZL = { exists = no}
+	    owns = 2509
+	    	    NOT = {has_country_flag = released_NZL}
+	    }
+	    allow = {
+	    owns = 2509
+	    owns = 2516
+	    }
+	    effect = {
+	    prestige = 10
+	    release_vassal = NZL
+	    set_country_flag = released_NZL
+	     NZL = {primary_culture = THIS}
+	     }
+		ai_will_do = { factor = 1}}
+
+organize_saffrica = {
+	    potential = {
+	    	    OR = {is_secondary_power = yes
+	    is_greater_power = yes}
+	    state_n_government = 1
+	    SAF = { exists = no}
+	    owns = 2087
+	    	    NOT = {has_country_flag = released_SAF}
+	    }
+	    allow = {
+	    owns = 2087
+	    owns = 2105
+		owns = 2078
+	    }
+	    effect = {
+	    prestige = 10
+	    release_vassal = SAF
+	    set_country_flag = released_SAF
+	     SAF = {primary_culture = THIS}
+	     }
+		ai_will_do = { factor = 1}}
+
+
+
+organize_gran_colombia = {
+	    potential = {
+	    	    OR = {is_secondary_power = yes
+	    is_greater_power = yes}
+	    state_n_government = 1
+	    GCO = { exists = no}
+	    owns = 2264 # caracas
+	    	    NOT = {has_country_flag = released_GCO}
+	    }
+	    allow = {
+	    #rough outline of gran colombia
+	    owns = 2264
+	    owns = 1723
+	    owns = 2197
+	    owns = 2247
+	    owns = 2261
+	    owns = 2239
+	    owns = 2241
+	    owns = 2246
+	    owns = 2240
+	    owns = 2245
+	    owns = 1979
+	    owns = 2242
+	    owns = 2243
+	    owns = 2276
+	    owns = 2275
+	    owns = 2269
+	    owns = 2267
+	    owns = 2266
+	    owns = 2277
+	    owns = 2274
+	    owns = 2265
+	    owns = 2268
+	    owns = 2272
+	    owns = 2273
+	    owns = 2271
+	    owns = 2270
+	    owns = 2278
+	    owns = 2262
+	    owns = 2260
+	    owns = 2263
+	    owns = 2249
+	    owns = 2248
+	    owns = 2250
+	    owns = 2256
+	    owns = 2257
+	    owns = 2259
+	    owns = 2258
+	    owns = 2255
+	    owns = 2251
+	    owns = 2254
+	    owns = 2252
+	    owns = 2253
+	    owns = 2285
+	    owns = 2208
+	    owns = 2204
+	    owns = 2206
+	    owns = 2205
+	    owns = 2203
+	    owns = 2201
+	    owns = 2202
+	    owns = 2200
+	    owns = 2198
+	    owns = 2199
+}	    
+	    effect = {
+	    prestige = 10
+	    2264={add_core = GCO}
+	    1723={add_core = GCO}
+	    2197={add_core = GCO}
+	    2247={add_core = GCO}
+	    2261={add_core = GCO}
+	    2239={add_core = GCO}
+	     2241={add_core = GCO}
+	     2246={add_core = GCO}
+	     2240={add_core = GCO}
+	     2245={add_core = GCO}
+	     1979={add_core = GCO}
+	     2242={add_core = GCO}
+	     2243={add_core = GCO}
+	     2276={add_core = GCO}
+	     2275={add_core = GCO}
+	     2269={add_core = GCO}
+	     2267={add_core = GCO}
+	     2266={add_core = GCO}
+	     2277={add_core = GCO}
+	     2274={add_core = GCO}
+	     2265={add_core = GCO}
+	     2268={add_core = GCO}
+	     2272={add_core = GCO}
+	     2273={add_core = GCO}
+	     2271={add_core = GCO}
+	     2270={add_core = GCO}
+	     2278={add_core = GCO}
+	     2262={add_core = GCO}
+	     2260={add_core = GCO}
+	     2263={add_core = GCO}
+	     2249={add_core = GCO}
+	     2248={add_core = GCO}
+	     2250={add_core = GCO}
+	     2256={add_core = GCO}
+	     2257={add_core = GCO}
+	     2259={add_core = GCO}
+	     2258={add_core = GCO}
+	     2255={add_core = GCO}
+	     2251={add_core = GCO}
+	     2254={add_core = GCO}
+	     2252={add_core = GCO}
+	     2253={add_core = GCO}
+	     2285={add_core = GCO}
+	     2208={add_core = GCO}
+	     2204={add_core = GCO}
+	     2206={add_core = GCO}
+	     2205={add_core = GCO}
+	     2203={add_core = GCO}
+	     2201={add_core = GCO}
+	     2202={add_core = GCO}
+	     2200={add_core = GCO}
+	     2198={add_core = GCO}
+	     2199={add_core = GCO}
+
+	     set_country_flag = released_GCO
+	    release_vassal = GCO
+	    GCO = {primary_culture = THIS}
+	    }
+		ai_will_do = { factor = 1}
+}
+
+
+
+annex_QUE = {
+	potential = {
+	has_country_flag = annex_colony
+	NOT = { has_country_flag = annexedQUE } 
+	QUE = {vassal_of = THIS}
+	}
+	allow = {
+	QUE = {vassal_of = THIS}
+	QUE = {is_primary_culture = THIS}
+	revolution_n_counterrevolution = 1
+	}
+	effect = {
+	inherit = QUE
+	QUE = { all_core = { add_core = THIS } }
+	prestige = 10
+	set_country_flag = annexedQUE
+	}
+		ai_will_do = { factor = 0}
+	}
+	
+	
+	
+
+annex_MAN = {
+	potential = {
+	has_country_flag = annex_colony
+	NOT = { has_country_flag = annexedMAN } 
+	MAN = {vassal_of = THIS}
+	}
+	allow = {
+	MAN = {vassal_of = THIS}
+	MAN = {is_primary_culture = THIS}
+	revolution_n_counterrevolution = 1
+	}
+	effect = {
+	inherit = MAN
+	MAN = { all_core = { add_core = THIS } }
+	prestige = 10
+	set_country_flag = annexedMAN
+	}
+		ai_will_do = { factor = 0}
+	}
+
+
+
+annex_USA = {
+	potential = {
+	has_country_flag = annex_colony
+	NOT = { has_country_flag = annexedUSA } 
+	USA = {vassal_of = THIS}
+	}
+	allow = {
+	NOT = {exists = TEX}
+	NOT = {exists = CSA}
+	USA = {vassal_of = THIS}
+	USA = {is_primary_culture = THIS}
+	revolution_n_counterrevolution = 1
+	}
+	effect = {
+	inherit = USA
+	USA = { all_core = { add_core = THIS } }
+	prestige = 10
+	set_country_flag = annexedUSA
+	}
+		ai_will_do = { factor = 0}
+	}
+
+annex_CSA = {
+	potential = {
+	has_country_flag = annex_colony
+	NOT = { has_country_flag = annexedCSA } 
+	CSA = {vassal_of = THIS}
+	}
+	allow = {
+	CSA = {vassal_of = THIS}
+	CSA = {is_primary_culture = THIS}
+	revolution_n_counterrevolution = 1
+	}
+	effect = {
+	inherit = CSA
+	CSA = { all_core = { add_core = THIS } }
+	prestige = 10
+	set_country_flag = annexedCSA
+	}
+		ai_will_do = { factor = 0}
+	}		
+annex_TEX = {
+	potential = {
+	has_country_flag = annex_colony
+	NOT = { has_country_flag = annexedTEX } 
+	TEX = {vassal_of = THIS}
+	}
+	allow = {
+	TEX = {vassal_of = THIS}
+	TEX = {is_primary_culture = THIS}
+	revolution_n_counterrevolution = 1
+	}
+	effect = {
+	inherit = TEX
+	TEX= { all_core = { add_core = THIS } }
+	prestige = 10
+	set_country_flag = annexedTEX
+	}
+		ai_will_do = { factor = 0}
+	}		
+
+annex_RGD = {
+	potential = {
+	has_country_flag = annex_colony
+	NOT = { has_country_flag = annexedRGD } 
+	RGD = {vassal_of = THIS}
+	}
+	allow = {
+	RGD = {vassal_of = THIS}
+	RGD = {is_primary_culture = THIS}
+	revolution_n_counterrevolution = 1
+	}
+	effect = {
+	inherit = RGD
+	RGD= { all_core = { add_core = THIS } }
+	prestige = 10
+	set_country_flag = annexedRGD
+	}
+		ai_will_do = { factor = 0}
+	}	
+	
+annex_CAL = {
+	potential = {
+	has_country_flag = annex_colony
+	NOT = { has_country_flag = annexedCAL } 
+	CAL = {vassal_of = THIS}
+	}
+	allow = {
+	CAL = {vassal_of = THIS}
+	CAL = {is_primary_culture = THIS}
+	revolution_n_counterrevolution = 1
+	}
+	effect = {
+	inherit = CAL
+	CAL= { all_core = { add_core = THIS } }
+	prestige = 10
+	set_country_flag = annexedCAL
+	}
+		ai_will_do = { factor = 0}
+	}
+	
+annex_CAN = {
+	potential = {
+	has_country_flag = annex_colony
+	NOT = { has_country_flag = annexedCAN } 
+	CAN = {vassal_of = THIS}
+	}
+	allow = {
+	CAN = {vassal_of = THIS}
+	CAN = {is_primary_culture = THIS}
+	revolution_n_counterrevolution = 1
+	}
+	effect = {
+	inherit = CAN
+	CAN= { all_core = { add_core = THIS } }
+	prestige = 10
+	set_country_flag = annexedCAN
+	}
+		ai_will_do = { factor = 0}
+	}
+	
+annex_RPL  = {
+	potential = {
+	has_country_flag = annex_colony
+	NOT = { has_country_flag = annexedRPL } 
+	RPL  = {vassal_of = THIS}
+	}
+	allow = {
+	RPL  = {vassal_of = THIS}
+	RPL  = {is_primary_culture = THIS}
+	revolution_n_counterrevolution = 1
+	}
+	effect = {
+	inherit = RPL 
+	RPL = { all_core = { add_core = THIS } }
+	prestige = 10
+	set_country_flag = annexedRPL
+	}
+		ai_will_do = { factor = 0}
+	}
+	
+annex_COL  = {
+	potential = {
+	has_country_flag = annex_colony
+	NOT = { has_country_flag = annexedCOL } 
+	COL  = {vassal_of = THIS}
+	}
+	allow = {
+	COL  = {vassal_of = THIS}
+	COL  = {is_primary_culture = THIS}
+	revolution_n_counterrevolution = 1
+	}
+	effect = {
+	inherit = COL
+	COL = { all_core = { add_core = THIS } }
+	prestige = 10
+	set_country_flag = annexedCOL
+	}
+		ai_will_do = { factor = 0}
+	}
+
+	
+annex_CUB  = {
+	potential = {
+	has_country_flag = annex_colony
+	NOT = { has_country_flag = annexedCUB } 
+	CUB  = {vassal_of = THIS}
+	}
+	allow = {
+	CUB  = {vassal_of = THIS}
+	CUB  = {is_primary_culture = THIS}
+	revolution_n_counterrevolution = 1
+	}
+	effect = {
+	inherit = CUB
+	CUB = { all_core = { add_core = THIS } }
+	prestige = 10
+	set_country_flag = annexedCUB
+	}
+		ai_will_do = { factor = 0}
+	}
+	
+annex_BRZ  = {
+	potential = {
+	has_country_flag = annex_colony
+	NOT = { has_country_flag = annexedBRZ } 
+	BRZ  = {vassal_of = THIS}
+	}
+	allow = {
+	BRZ  = {vassal_of = THIS}
+	BRZ  = {is_primary_culture = THIS}
+	revolution_n_counterrevolution = 1
+	}
+	effect = {
+	inherit = BRZ
+	BRZ = { all_core = { add_core = THIS } }
+	prestige = 10
+	set_country_flag = annexedBRZ
+	}
+		ai_will_do = { factor = 0}
+	}
+	
+annex_OSL  = {
+	potential = {
+	has_country_flag = annex_colony
+	NOT = { has_country_flag = annexedOSL } 
+	OSL  = {vassal_of = THIS}
+	}
+	allow = {
+	OSL  = {vassal_of = THIS}
+	OSL  = {is_primary_culture = THIS}
+	revolution_n_counterrevolution = 1
+	}
+	effect = {
+	inherit = OSL
+	OSL = { all_core = { add_core = THIS } }
+	prestige = 10
+	set_country_flag = annexedOSL
+	}
+		ai_will_do = { factor = 0}
+	}
+	
+	
+annex_GCO  = {
+	potential = {
+	has_country_flag = annex_colony
+	NOT = { has_country_flag = annexedGCO } 
+	GCO  = {vassal_of = THIS}
+	}
+	allow = {
+	GCO  = {vassal_of = THIS}
+	GCO  = {is_primary_culture = THIS}
+	revolution_n_counterrevolution = 1
+	}
+	effect = {
+	inherit = GCO
+	GCO = { all_core = { add_core = THIS } }
+	prestige = 10
+	set_country_flag = annexedGCO
+	}
+		ai_will_do = { factor = 0}
+	}
+	
+
+
+annex_ARG  = {
+	potential = {
+	has_country_flag = annex_colony
+	NOT = { has_country_flag = annexedARG } 
+	ARG  = {vassal_of = THIS}
+	}
+	allow = {
+	ARG  = {vassal_of = THIS}
+	ARG  = {is_primary_culture = THIS}
+	revolution_n_counterrevolution = 1
+	}
+	effect = {
+	inherit = ARG
+	ARG = { all_core = { add_core = THIS } }
+	prestige = 10
+	set_country_flag = annexedARG
+	}
+	ai_will_do = { factor = 0}
+	}
+
+annex_AST  = {
+	potential = {
+	has_country_flag = annex_colony
+	NOT = { has_country_flag = annexedAST } 
+	AST  = {vassal_of = THIS}
+	}
+	allow = {
+	AST  = {vassal_of = THIS}
+	AST  = {is_primary_culture = THIS}
+	revolution_n_counterrevolution = 1
+	}
+	effect = {
+	inherit = AST
+	AST = { all_core = { add_core = THIS } }
+	prestige = 10
+	set_country_flag = annexedAST
+	ai_will_do = { factor = 0}
+	}
+	}	
+	
+annex_NZL  = {
+	potential = {
+	has_country_flag = annex_colony
+	NOT = { has_country_flag = annexedNZL } 
+	NZL  = {vassal_of = THIS}
+	}
+	allow = {
+	NZL  = {vassal_of = THIS}
+	NZL  = {is_primary_culture = THIS}
+	revolution_n_counterrevolution = 1
+	}
+	effect = {
+	inherit = NZL
+	NZL = { all_core = { add_core = THIS } }
+	prestige = 10
+	set_country_flag = annexedNZL
+	}
+	ai_will_do = { factor = 0}
+	}	
+	
+	
+annex_SAF  = {
+	potential = {
+	has_country_flag = annex_colony
+	NOT = { has_country_flag = annexedSAF } 
+	SAF  = {vassal_of = THIS}
+	}
+	allow = {
+	SAF  = {vassal_of = THIS}
+	SAF  = {is_primary_culture = THIS}
+	revolution_n_counterrevolution = 1
+	}
+	effect = {
+	inherit = SAF
+	SAF = { all_core = { add_core = THIS } }
+	prestige = 10
+	set_country_flag = annexedSAF
+	}
+	ai_will_do = { factor = 0}
+	}
+	
+	}

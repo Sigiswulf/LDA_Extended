@@ -1,0 +1,79 @@
+#Hispanola Region (51600) #see Dominican Republic.txt for balance of region
+#Ruled by Haiti 183
+#Port au Prince (31200/7800 POPS)
+2213 = {
+	aristocrats = {
+culture = native_american_minor
+religion = animist
+		size = 82
+	}
+
+	bureaucrats = {
+culture = native_american_minor
+religion = animist
+		size = 15
+	}
+
+	officers = {
+culture = native_american_minor
+religion = animist
+		size = 15
+	}
+
+	clergymen = {
+culture = native_american_minor
+religion = animist
+		size = 77
+	}
+
+	artisans = {
+culture = native_american_minor
+religion = animist
+		size = 390
+	}
+
+	soldiers = {
+culture = native_american_minor
+religion = animist
+		size = 400
+	}
+
+	farmers = {
+culture = native_american_minor
+religion = animist
+		size = 6830
+	}
+}
+#Cap Haitien (20400/5100 POPS)
+2215 = {
+	aristocrats = {
+culture = native_american_minor
+religion = animist
+		size = 55
+	}
+
+	clergymen = {
+culture = native_american_minor
+religion = animist
+		size = 47
+	}
+
+	artisans = {
+culture = native_american_minor
+religion = animist
+		size = 255
+	}
+
+	soldiers = {
+culture = native_american_minor
+religion = animist
+		size = 110
+	}
+
+	farmers = {
+culture = native_american_minor
+religion = animist
+		size = 4642
+	}
+
+}

@@ -1,0 +1,133 @@
+political_decisions = {	
+	create_baltic = {
+			picture = baltic 
+		potential = {
+			NOT = { has_global_flag = baltform }
+			NOT = { has_country_flag = baltform }
+			OR = { 
+				tag = PRU
+				tag = LAT
+				tag = LIT
+			}
+		}	
+		allow = {
+			NOT = { war = yes }
+			NOT = { part_of_sphere = yes }
+			LIT = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+							OR = { 
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+			}
+			PRU = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+							OR = { 
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+			}
+			LAT = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+							OR = { 
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+			}
+			LIT = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+							OR = { 
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+			}
+			state_n_government = 1 
+		}
+		
+		effect = {
+			prestige = 30
+			random_owned = { limit = { owner = { tag = PRU } } owner = { capital = 300 } }
+			random_owned = { limit = { owner = { tag = LIT } } owner = { capital = 273 } }
+			random_owned = { limit = { owner = { tag = LIT } } owner = { capital = 263 } }
+			random_owned = { limit = { owner = { tag = LAT } } owner = { capital = 269 } }
+			any_country = {
+				limit = {
+					OR = {
+						tag = PRU 
+						tag = LIT 
+						tag = LAT
+						tag = LIT
+					}
+							OR = { 
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			change_tag = UBD
+			any_owned = {
+				limit = {
+					is_core = LAT
+				}
+				add_core = THIS
+			}
+			any_owned = {
+				limit = {
+					is_core = PRU
+				}
+				add_core = THIS
+			}
+			any_owned = {
+				limit = {
+					is_core = LIT
+				}
+				add_core = THIS
+			}
+			any_owned = {
+				limit = {
+					is_core = LIT
+				}
+				add_core = THIS
+			}
+			set_global_flag = baltform
+			set_country_flag = baltform
+			PRU = { all_core = { add_core = THIS } }
+			LIT = { all_core = { add_core = THIS } }
+			LAT = { all_core = { add_core = THIS } } 
+			PRU = { all_core = { remove_core = PRU } }
+			LIT = { all_core = { remove_core = LIT } }
+			LAT = { all_core = { remove_core = LAT } } 
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

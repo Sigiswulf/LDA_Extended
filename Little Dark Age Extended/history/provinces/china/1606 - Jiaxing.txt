@@ -1,0 +1,13 @@
+owner = QII
+controller = QII
+add_core = QII
+#add_core = TPG
+trade_goods = silk
+life_rating = 37
+1861.1.1 = {
+	controller = TPG
+	owner = TPG
+	
+}
+
+set_province_flag = farm

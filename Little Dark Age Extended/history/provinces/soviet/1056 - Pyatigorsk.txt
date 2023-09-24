@@ -1,0 +1,10 @@
+owner = ALA
+controller = ALA
+add_core = ALA
+trade_goods = sulphur
+life_rating = 35
+1861.1.1 = { 
+}
+
+set_province_flag = mine
+add_core = SIB

@@ -1,0 +1,625 @@
+#Faroe Islands Region (2799)
+#Torshavn (2799/699 POPS)
+253 = {
+	bureaucrats = {
+		culture = swedish
+religion = norse_pagan
+		size = 8
+	}
+
+	clergymen = {
+		culture = swedish
+religion = norse_pagan
+		size = 44
+	}
+
+	artisans = {
+		culture = swedish
+religion = norse_pagan
+		size = 8200
+	}
+
+	farmers = {
+		culture = swedish
+religion = norse_pagan
+		size = 19440
+	}
+
+}
+#Jutland Region : 219199
+#Aarhus (99199/24799 POPS)
+366 = {
+	aristocrats = {
+		culture = swedish
+religion = norse_pagan
+		size = 300
+	}
+
+	bureaucrats = {
+		culture = swedish
+religion = norse_pagan
+		size = 210
+	}
+
+	officers = {
+		culture = swedish
+religion = norse_pagan
+		size = 120
+	}
+
+	clergymen = {
+		culture = swedish
+religion = norse_pagan
+		size = 2240
+	}
+
+	artisans = {
+		culture = swedish
+religion = norse_pagan
+		size = 1950
+	}
+
+	soldiers = {
+		culture = swedish
+religion = norse_pagan
+		size = 4200
+	}
+
+	farmers = {
+		culture = swedish
+religion = norse_pagan
+		size = 32194
+	}
+}
+#Alborg (60799/15199 POPS)
+367 = {
+	aristocrats = {
+		culture = swedish
+religion = norse_pagan
+		size = 129
+	}
+
+	clergymen = {
+		culture = swedish
+religion = norse_pagan
+		size = 129
+	}
+
+	artisans = {
+		culture = swedish
+religion = norse_pagan
+		size = 12000
+	}
+
+	soldiers = {
+		culture = swedish
+religion = norse_pagan
+		size = 3000
+	}
+
+	farmers = {
+		culture = swedish
+religion = norse_pagan
+		size = 28000 #1k moved to 1022
+	}
+}
+#Ribe (59199/14799 POPS)
+368 = {
+	aristocrats = {
+		culture = swedish
+religion = norse_pagan
+		size = 150
+	}
+
+	clergymen = {
+		culture = swedish
+religion = norse_pagan
+		size = 150
+	}
+
+	artisans = {
+		culture = swedish
+religion = norse_pagan
+		size = 16600
+	}
+
+	soldiers = {
+		culture = swedish
+religion = norse_pagan
+		size = 3000
+	}
+
+	farmers = {
+		culture = swedish
+religion = norse_pagan
+		size = 24400 #3k moved to 1022
+	}
+
+}
+
+# Esbjerg (Pops moved from Aalborg)
+2557 = {
+	artisans = {
+		culture = swedish
+religion = norse_pagan
+		size = 36600
+	}
+	clergymen = {
+		culture = swedish
+religion = norse_pagan
+		size = 74
+	}
+	soldiers = {
+		culture = swedish
+religion = norse_pagan
+		size = 1500
+	}
+	aristocrats = {
+		culture = swedish
+religion = norse_pagan
+		size = 150
+	}
+	farmers = {
+		culture = swedish
+religion = norse_pagan
+		size = 8640
+	}
+}
+	
+	
+#Schleswig Region : 134400
+#Flensburg (94399/23599 POPS)
+370 = {
+	bureaucrats = {
+		culture = swedish
+religion = norse_pagan
+		size = 60
+	}
+
+	clergymen = {
+		culture = swedish
+religion = norse_pagan
+		size = 74
+	}
+
+	artisans = {
+		culture = swedish
+religion = norse_pagan
+		size = 900
+	}
+
+	soldiers = {
+		culture = swedish
+religion = norse_pagan
+		size = 150
+	}
+
+	farmers = {
+		culture = swedish
+religion = norse_pagan
+		size = 8414
+	}
+
+	aristocrats = {
+		culture = swedish
+religion = norse_pagan
+		size = 390
+	}
+
+	bureaucrats = {
+		culture = swedish
+religion = norse_pagan
+		size = 60
+	}
+
+	officers = {
+		culture = swedish
+religion = norse_pagan
+		size = 90
+	}
+
+	clergymen = {
+		culture = swedish
+religion = norse_pagan
+		size = 150
+	}
+
+	artisans = {
+		culture = swedish
+religion = norse_pagan
+		size = 1500
+	}
+
+	soldiers = {
+		culture = swedish
+religion = norse_pagan
+		size = 300
+	}
+
+	farmers = {
+		culture = swedish
+religion = norse_pagan
+		size = 23310
+	}
+}
+#Aabenra (39999/9999 POPS)
+371 = {
+	clergymen = {
+		culture = swedish
+religion = norse_pagan
+		size = 74
+	}
+
+	artisans = {
+		culture = swedish
+religion = norse_pagan
+		size = 11660
+	}
+
+	soldiers = {
+		culture = swedish
+religion = norse_pagan
+		size = 150
+	}
+
+	farmers = {
+		culture = swedish
+religion = norse_pagan
+		size = 9974
+	}
+
+	aristocrats = {
+		culture = swedish
+religion = norse_pagan
+		size = 60
+	}
+
+	clergymen = {
+		culture = swedish
+religion = norse_pagan
+		size = 30
+	}
+
+	artisans = {
+		culture = swedish
+religion = norse_pagan
+		size = 150
+	}
+
+	soldiers = {
+		culture = swedish
+religion = norse_pagan
+		size = 30
+	}
+
+	farmers = {
+		culture = swedish
+religion = norse_pagan
+		size = 13930
+	}
+
+}
+#Archipelago Region : 246399
+#Copenhagen (156799/39199 POPS)
+372 = {
+	aristocrats = {
+		culture = swedish
+religion = norse_pagan
+		size = 27500
+	}
+
+	bureaucrats = {
+		culture = swedish
+religion = norse_pagan
+		size = 300
+	}
+
+	officers = {
+		culture = swedish
+religion = norse_pagan
+		size = 300
+	}
+
+	clergymen = {
+		culture = swedish
+religion = norse_pagan
+		size = 450
+	}
+
+	artisans = {
+		culture = swedish
+religion = norse_pagan
+		size = 16000
+	}
+
+	artisans = {
+		culture = swedish
+religion = norse_pagan
+		size = 6000
+	}
+
+	artisans = {
+		culture = swedish
+religion = norse_pagan
+		size = 36000
+	}
+
+	soldiers = {
+		culture = swedish
+religion = norse_pagan
+		size = 16000
+	}
+
+	farmers = {
+		culture = swedish
+religion = norse_pagan
+		size = 54200
+	}
+
+	artisans = {
+		culture = ashkenazi
+religion = norse_pagan
+		size = 660
+	}
+
+	artisans = {
+		culture = swedish
+religion = norse_pagan
+		size = 660
+	}
+}
+#Odense (83199/20799 POPS)
+373 = {
+	aristocrats = {
+		culture = swedish
+religion = norse_pagan
+		size = 300
+	}
+
+	clergymen = {
+		culture = swedish
+religion = norse_pagan
+		size = 1500
+	}
+
+	artisans = {
+		culture = swedish
+religion = norse_pagan
+		size = 29000
+	}
+
+	soldiers = {
+		culture = swedish
+religion = norse_pagan
+		size = 14200
+	}
+
+	farmers = {
+		culture = swedish
+religion = norse_pagan
+		size = 27750
+	}
+}
+#Bornholm (6399/1599 POPS)
+374 = {
+	clergymen = {
+		culture = swedish
+religion = norse_pagan
+		size = 30
+	}
+
+	artisans = {
+		culture = swedish
+religion = norse_pagan
+		size = 29000
+	}
+
+	soldiers = {
+		culture = swedish
+religion = norse_pagan
+		size = 3000
+	}
+
+	farmers = {
+		culture = swedish
+religion = norse_pagan
+		size = 31000
+	}
+
+}
+#Holstein Region (180900)
+#Under rule of Holstein 825
+#Kiel (115198/28798 POPS)
+369 = {
+	aristocrats = {
+		culture = swedish
+religion = norse_pagan
+		size = 270  
+	}
+
+	bureaucrats = {
+		culture = swedish
+religion = norse_pagan
+		size = 78 
+	}
+
+	officers = {
+		culture = swedish
+religion = norse_pagan
+		size = 43  
+	}
+
+	clergymen = {
+		culture = swedish
+religion = norse_pagan
+		size = 256
+	}
+
+	artisans = {
+		culture = swedish
+religion = norse_pagan
+		size = 10800
+	}
+
+	soldiers = {
+		culture = swedish
+religion = norse_pagan
+		size = 17980 
+	}
+
+	farmers = {
+		culture = swedish
+religion = norse_pagan
+		size = 21891
+	}
+
+	clergymen = {
+		culture = swedish
+religion = norse_pagan
+		size = 21 
+	}
+
+	artisans = {
+		culture = swedish
+religion = norse_pagan
+		size = 43
+	}
+
+	soldiers = {
+		culture = swedish
+religion = norse_pagan
+		size = 10 
+	}
+
+	farmers = {
+		culture = swedish
+religion = norse_pagan
+		size = 820 
+	}
+
+	clergymen = {
+		culture = swedish
+religion = norse_pagan
+		size = 3 
+	}
+
+	artisans = {
+		culture = swedish
+religion = norse_pagan
+		size = 219
+	}
+
+	clergymen = {
+		culture = swedish
+religion = norse_pagan
+		size = 21
+	}
+
+	artisans = {
+		culture = swedish
+religion = norse_pagan
+		size = 88
+	}
+
+	soldiers = {
+		culture = swedish
+religion = norse_pagan
+		size = 21 
+	}
+
+	farmers = {
+		culture = swedish
+religion = norse_pagan
+		size = 2113 
+	}
+}
+#Lauenburg (66598/16648 POPS)
+529 = {
+	aristocrats = {
+		culture = swedish
+religion = norse_pagan
+		size = 156 
+	}
+
+	clergymen = {
+		culture = swedish
+religion = norse_pagan
+		size = 168 
+	}
+
+	artisans = {
+		culture = swedish
+religion = norse_pagan
+		size = 18200
+	}
+
+	soldiers = {
+		culture = swedish
+religion = norse_pagan
+		size = 4930 
+	}
+
+	farmers = {
+		culture = swedish
+religion = norse_pagan
+		size = 15073
+	}
+}
+#Mecklenburg Region (276298)
+#under the Rule of Lubeck 825 
+#Lubeck (17998/4498 POPS)
+530 = {
+	aristocrats = {
+		culture = swedish
+religion = norse_pagan
+		size = 21 
+	}
+
+	bureaucrats = {
+		culture = swedish
+religion = norse_pagan
+		size = 10 
+	}
+
+	officers = {
+		culture = swedish
+religion = norse_pagan
+		size = 1000 
+	}
+
+	clergymen = {
+		culture = swedish
+religion = norse_pagan
+		size = 32 
+	}
+
+	artisans = {
+		culture = swedish
+religion = norse_pagan
+		size = 2676
+	}
+
+	soldiers = {
+		culture = swedish
+religion = norse_pagan
+		size = 4930
+	}
+
+	farmers = {
+		culture = swedish
+religion = norse_pagan
+		size = 15076 
+	}
+
+	artisans = {
+		culture = swedish
+religion = norse_pagan
+		size = 13400
+	}
+
+	farmers = {
+		culture = swedish
+religion = norse_pagan
+		size = 88 
+	}
+}

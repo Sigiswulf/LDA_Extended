@@ -1,0 +1,251 @@
+#Semireche Region (73000) #see turkichstan.txt for balance of region 
+#under the "rule" of Kokand in 459  
+#Bishkek (59000/14750 POPS) #now part of Kirghizstan   
+1189 = {
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 200
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 106
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 1750
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 8443
+	}
+
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 25
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 18
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 75
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 18
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 1612
+	}
+
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 31
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 18
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 87
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 18
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 1843
+	}
+}
+#Naryn (14000/3500 POPS) #now part of Kirghizstan    
+1190 = {
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 12
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 12
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 25
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 275
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 693
+	}
+
+	aristocrats = {
+		culture = turkic
+		religion = animist
+		size = 25
+	}
+
+	clergymen = {
+		culture = turkic
+		religion = animist
+		size = 12
+	}
+
+	artisans = {
+		culture = turkic
+		religion = animist
+		size = 62
+	}
+
+	soldiers = {
+		culture = turkic
+		religion = animist
+		size = 12
+	}
+
+	farmers = {
+		culture = turkic
+		religion = animist
+		size = 1143
+	}
+
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 25
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 12
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 12
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 1150
+	}
+}
+#Mawarannahr Region (28000) #see turkichstan.txt, turkicistan.txt, turkicistan.txt for balance of region 
+#under the rule of Kokand in 459  
+#Osh (28000/7000 POPS) #Now part of Kirghizstan   
+1203 = {
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 43
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 18
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 112
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 2050
+	}
+
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 93
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 43
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 225
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 1000
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 3387
+	}
+
+}

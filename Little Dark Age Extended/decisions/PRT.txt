@@ -1,0 +1,36 @@
+political_decisions = {
+move_capital_POR={
+
+potential = {tag = POR
+owns = 474
+NOT = {capital = 474} }
+
+
+allow = {controls = 474
+NOT = {capital = 474}
+revolution_n_counterrevolution = 1}
+
+
+effect = {capital = 474} }
+
+
+renounce_arianism_POR={
+
+potential = {tag = POR}
+
+allow = {idealism = 1}
+
+effect = { religion = catholic}}
+
+
+
+
+hispano_roman_prominence_POR={
+
+potential = {tag = POR NOT = { has_country_flag = cultural_prominence}
+
+allow = {state_n_government = 1}
+
+effect = { add_accepted_culture = suebian
+primary_culture = romano_hispanic set_country_flag = cultural_prominence}}
+}}

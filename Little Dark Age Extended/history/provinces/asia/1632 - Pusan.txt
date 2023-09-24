@@ -1,0 +1,9 @@
+owner = SLL
+controller = SLL
+add_core = SLL
+trade_goods = grain
+life_rating = 35
+fort = 1
+naval_base = 1
+
+set_province_flag = farm

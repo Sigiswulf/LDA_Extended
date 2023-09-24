@@ -1,0 +1,91 @@
+#The Bahamas Region - 2300
+#Ruled by Britain 183
+#The Bahamas (2000/500 POPS)
+2219 = {
+	clergymen = {
+		culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	artisans = {
+		culture = native_american_minor
+religion = animist
+		size = 10
+	}
+
+	soldiers = {
+		culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	farmers = {
+		culture = native_american_minor
+religion = animist
+		size = 405
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+religion = animist
+		size = 1
+	}
+
+	bureaucrats = {
+		culture = native_american_minor
+religion = animist
+		size = 0
+	}
+
+	clergymen = {
+		culture = native_american_minor
+religion = animist
+		size = 1
+	}
+
+	artisans = {
+		culture = native_american_minor
+religion = animist
+		size = 15
+	}
+
+	soldiers = {
+		culture = native_american_minor
+religion = animist
+		size = 2
+	}
+
+	farmers = {
+		culture = native_american_minor
+religion = animist
+		size = 54
+	}
+}
+#Turks & Caicos Islands (300/75 POPS) #still a native_american_minor colony
+2220 = {
+	clergymen = {
+		culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	artisans = {
+		culture = native_american_minor
+religion = animist
+		size = 10
+	}
+
+	soldiers = {
+		culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	farmers = {
+		culture = native_american_minor
+religion = animist
+		size = 55
+	}
+
+}

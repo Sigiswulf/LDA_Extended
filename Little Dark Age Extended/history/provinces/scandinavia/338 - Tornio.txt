@@ -1,0 +1,9 @@
+owner = SAM
+controller = SAM
+add_core = SAM
+trade_goods = iron
+life_rating = 35
+
+
+
+set_province_flag = mine

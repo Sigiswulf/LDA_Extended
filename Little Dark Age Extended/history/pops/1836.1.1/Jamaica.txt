@@ -1,0 +1,85 @@
+#Jamaica Region - 38400
+#Ruled by Britain 183
+#Jamaica (37200/9300 POPS)
+2217 = {
+	aristocrats = {
+		culture = native_american_minor
+religion = animist
+		size = 10
+	}
+
+	bureaucrats = {
+		culture = native_american_minor
+religion = animist
+		size = 8
+	}
+
+	clergymen = {
+		culture = native_american_minor
+religion = animist
+		size = 7
+	}
+
+	artisans = {
+		culture = native_american_minor
+religion = animist
+		size = 250
+	}
+
+	soldiers = {
+		culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	farmers = {
+		culture = native_american_minor
+religion = animist
+		size = 219
+	}
+
+	clergymen = {
+		culture = native_american_minor
+religion = animist
+		size = 62
+	}
+
+	artisans = {
+		culture = native_american_minor
+religion = animist
+		size = 200
+	}
+
+	soldiers = {
+		culture = native_american_minor
+religion = animist
+		size = 110
+	}
+
+	farmers = {
+		culture = native_american_minor
+religion = animist
+		size = 8437
+	}
+}
+#Cayman Islands : (120/30 POPS) #still a native_american_minor Colony
+2218 = {
+	clergymen = {
+		culture = native_american_minor
+religion = animist
+		size = 0
+	}
+
+	artisans = {
+		culture = native_american_minor
+religion = animist
+		size = 1
+	}
+
+	farmers = {
+		culture = native_american_minor
+religion = animist
+		size = 28
+	}
+
+}

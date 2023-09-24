@@ -1,0 +1,2423 @@
+#Partium Region (429333) #See Hungary.txt for balance of region 
+#under the rule of Austria in 612  
+#Oradea (281333/70333 POPS) #part of Romania today
+647 = {
+	clergymen = {
+		culture = gepid
+religion = norse_pagan
+		size = 416  
+	}
+	
+	bureaucrats = {
+		culture = south_german
+religion = norse_pagan
+		size = 250 
+	}
+
+	artisans = {
+		culture = gepid
+religion = norse_pagan
+		size = 2166
+	}
+
+	soldiers = {
+		culture = dachian
+religion = norse_pagan
+		size = 2500    
+	}
+
+	farmers = {
+		culture = gepid
+religion = norse_pagan
+		size = 42300   
+	}
+
+	aristocrats = {
+culture = gepid
+religion = norse_pagan
+		size = 833 
+	}
+
+	bureaucrats = {
+culture = gepid
+religion = norse_pagan
+		size = 350 
+	}
+
+	officers = {
+culture = gepid
+religion = norse_pagan
+		size = 100 
+	}
+
+	clergymen = {
+culture = gepid
+religion = norse_pagan
+		size = 100 
+	}
+
+	artisans = {
+culture = gepid
+religion = norse_pagan
+		size = 466
+	}
+
+	soldiers = {
+culture = gepid
+religion = norse_pagan
+		size = 500 
+	}
+
+	farmers = {
+culture = gepid
+religion = norse_pagan
+		size = 7416 
+	}
+
+	aristocrats = {
+culture = gepid
+religion = norse_pagan
+		size = 666 
+	}
+
+	officers = {
+culture = gepid
+religion = norse_pagan
+		size = 116 
+	}
+
+	clergymen = {
+culture = dachian
+religion = norse_pagan
+		size = 125    
+	}
+
+	artisans = {
+culture = dachian
+religion = norse_pagan
+		size = 700
+	}
+
+	soldiers = {
+culture = gepid
+religion = norse_pagan
+		size = 500    
+	}
+
+	farmers = {
+culture = gepid
+religion = norse_pagan
+		size = 11258   
+	}
+
+	clergymen = {
+culture = dachian
+religion = norse_pagan
+		size = 16 
+	}
+
+	artisans = {
+culture = gepid
+religion = norse_pagan
+		size = 366
+	}
+
+	soldiers = {
+culture = dachian
+religion = norse_pagan
+		size = 100  
+	}
+
+	farmers = {
+culture = gepid
+religion = norse_pagan
+		size = 275     
+	}
+
+	clergymen = {
+		culture = gepid
+religion = norse_pagan
+		size = 16  
+	}
+
+	artisans = {
+		culture = gepid
+religion = norse_pagan
+		size = 150
+	}
+
+	soldiers = {
+		culture = gepid
+religion = norse_pagan
+		size = 100    
+	}
+
+	farmers = {
+		culture = gepid
+religion = norse_pagan
+		size = 1808  
+	}
+}
+#Szatmare (148000/37000 POPS) #part of Romania today 
+651 = {
+	clergymen = {
+		culture = dachian
+religion = norse_pagan
+		size = 166  
+	}
+
+	artisans = {
+		culture = dachian
+religion = norse_pagan
+		size = 833
+	}
+
+	soldiers = {
+		culture = dachian
+religion = norse_pagan
+		size = 800   
+	}
+
+	farmers = {
+		culture = dachian
+religion = norse_pagan
+		size = 16816  
+	}
+
+	aristocrats = {
+culture = dachian
+religion = norse_pagan
+		size = 416 
+	}
+
+	clergymen = {
+culture = dachian
+religion = norse_pagan
+		size = 58 
+	}
+
+	artisans = {
+culture = dachian
+religion = norse_pagan
+		size = 300
+	}
+
+	soldiers = {
+culture = dachian
+religion = norse_pagan
+		size = 250 
+	}
+
+	farmers = {
+culture = dachian
+religion = norse_pagan
+		size = 5158 
+	}
+
+	aristocrats = {
+culture = dachian
+religion = norse_pagan
+		size = 500
+	}
+
+	clergymen = {
+culture = dachian
+religion = norse_pagan
+		size = 75    
+	}
+
+	artisans = {
+culture = dachian
+religion = norse_pagan
+		size = 433
+	}
+
+	soldiers = {
+culture = dachian
+religion = norse_pagan
+		size = 250    
+	}
+
+	farmers = {
+culture = dachian
+religion = norse_pagan
+		size = 7241     
+	}
+
+	clergymen = {
+culture = dachian
+religion = norse_pagan
+		size = 16 
+	}
+
+	artisans = {
+culture = dachian
+religion = norse_pagan
+		size = 366
+	}
+
+	soldiers = {
+culture = dachian
+religion = norse_pagan
+		size = 20  
+	}
+
+	farmers = {
+culture = dachian
+religion = norse_pagan
+		size = 275     
+	}
+
+	clergymen = {
+		culture = gepid
+religion = norse_pagan
+		size = 16  
+	}
+
+	artisans = {
+		culture = gepid
+religion = norse_pagan
+		size = 150
+	}
+
+	soldiers = {
+		culture = gepid
+religion = norse_pagan
+		size = 100    
+	}
+
+	farmers = {
+		culture = gepid
+religion = norse_pagan
+		size = 2141
+	}
+
+	clergymen = {
+culture = south_slavs
+religion = norse_pagan
+		size = 16   
+	}
+
+	artisans = {
+culture = south_slavs
+religion = norse_pagan
+		size = 250
+	}
+
+	soldiers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 100 
+	}
+
+	farmers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 1383     
+	}
+}
+#Banat-Bacska Region (413333) #See Serbia.txt and Croatia.txt for balance of region 
+#under the rule of Austria in 612  
+#Temesvar (313333/78333 POPS) #part of Romania today
+652 = {
+	clergymen = {
+		culture = gepid
+religion = norse_pagan
+		size = 91 
+	}
+
+	artisans = {
+		culture = gepid
+religion = norse_pagan
+		size = 466
+	}
+
+	soldiers = {
+		culture = dachian
+religion = norse_pagan
+		size = 100 
+	}
+
+	farmers = {
+		culture = gepid
+religion = norse_pagan
+		size = 9675 
+	}
+
+	aristocrats = {
+culture = dachian
+religion = norse_pagan
+		size = 33  
+	}
+
+	bureaucrats = {
+culture = gepid
+religion = norse_pagan
+		size = 133 
+	}
+
+	officers = {
+culture = dachian
+religion = norse_pagan
+		size = 75 
+	}
+
+	clergymen = {
+culture = gepid
+religion = norse_pagan
+		size = 50  
+	}
+
+	artisans = {
+culture = dachian
+religion = norse_pagan
+		size = 233
+	}
+
+	soldiers = {
+culture = gepid
+religion = norse_pagan
+		size = 100 
+	}
+
+	farmers = {
+culture = gepid
+religion = norse_pagan
+		size = 4166  
+	}
+
+	aristocrats = {
+culture = dachian
+religion = norse_pagan
+		size = 50 
+	}
+
+	clergymen = {
+culture = dachian
+religion = norse_pagan
+		size = 75    
+	}
+
+	artisans = {
+culture = dachian
+religion = norse_pagan
+		size = 400
+	}
+
+	soldiers = {
+culture = dachian
+religion = norse_pagan
+		size = 100     
+	}
+
+	farmers = {
+culture = dachian
+religion = norse_pagan
+		size = 7091     
+	}
+
+	aristocrats = {
+		culture = gepid
+religion = norse_pagan
+		size = 116  
+	}
+
+	bureaucrats = {
+		culture = gepid
+religion = norse_pagan
+		size = 158 
+	}
+
+	officers = {
+		culture = gepid
+religion = norse_pagan
+		size = 116 
+	}
+
+	clergymen = {
+		culture = gepid
+religion = norse_pagan
+		size = 266   
+	}
+
+	artisans = {
+		culture = gepid
+religion = norse_pagan
+		size = 1500
+	}
+
+	soldiers = {
+		culture = gepid
+religion = norse_pagan
+		size = 600     
+	}
+
+	farmers = {
+		culture = gepid
+religion = norse_pagan
+		size = 25008  
+	}
+
+	clergymen = {
+culture = gepid
+religion = norse_pagan
+		size = 50   
+	}
+
+	artisans = {
+culture = gepid
+religion = norse_pagan
+		size = 283
+	}
+
+	soldiers = {
+culture = gepid
+religion = norse_pagan
+		size = 120 
+	}
+
+	farmers = {
+culture = gepid
+religion = norse_pagan
+		size = 6266 
+	}
+
+	clergymen = {
+culture = gepid
+religion = norse_pagan
+		size = 183 
+	}
+
+	artisans = {
+culture = gepid
+religion = norse_pagan
+		size = 1000
+	}
+
+	soldiers = {
+culture = gepid
+religion = norse_pagan
+		size = 500 
+	}
+
+	farmers = {
+culture = dachian
+religion = norse_pagan
+		size = 20233
+	}
+}
+#Orsova (125333/31333 POPS) #part of Romania today
+653 = {
+	clergymen = {
+		culture = dachian
+religion = norse_pagan
+		size = 200 
+	}
+
+	artisans = {
+		culture = dachian
+religion = norse_pagan
+		size = 1000
+	}
+
+	soldiers = {
+		culture = dachian
+religion = norse_pagan
+		size = 400 
+	}
+
+	farmers = {
+		culture = dachian
+religion = norse_pagan
+		size = 21200 
+	}
+
+	clergymen = {
+culture = illyrian
+religion = norse_pagan
+		size = 50
+	}
+
+	artisans = {
+culture = illyrian
+religion = norse_pagan
+		size = 250
+	}
+
+	soldiers = {
+culture = romano_illyrian
+religion = norse_pagan
+		size = 120 
+	}
+
+	farmers = {
+culture = romano_illyrian
+religion = norse_pagan
+		size = 5383 
+	}
+
+	aristocrats = {
+		culture = gepid
+religion = norse_pagan
+		size = 366  
+	}
+
+	clergymen = {
+		culture = gepid
+religion = norse_pagan
+		size = 50   
+	}
+
+	artisans = {
+		culture = gepid
+religion = norse_pagan
+		size = 266
+	}
+
+	soldiers = {
+		culture = gepid
+religion = norse_pagan
+		size = 100     
+	}
+
+	farmers = {
+		culture = gepid
+religion = norse_pagan
+		size = 4300 
+	}
+}
+#Transylvania Region (686666) 
+#under the rule of Austria in 612  
+#Cluj (52000/14666 POPS)  
+654 = {
+	clergymen = {
+		culture = dachian
+religion = norse_pagan
+		size = 75 
+	}
+
+	bureaucrats = {
+		culture = gepid
+religion = norse_pagan
+		size = 150
+	}
+	
+	artisans = {
+		culture = dachian
+religion = norse_pagan
+		size = 400
+	}
+
+	soldiers = {
+		culture = dachian
+religion = norse_pagan
+		size = 160 
+	}
+
+	farmers = {
+		culture = dachian
+religion = norse_pagan
+		size = 7441 
+	}
+
+	aristocrats = {
+culture = dachian
+religion = norse_pagan
+		size = 83   
+	}
+
+	bureaucrats = {
+culture = dachian
+religion = norse_pagan
+		size = 125   
+	}
+
+	officers = {
+culture = dachian
+religion = norse_pagan
+		size = 83  
+	}
+
+	clergymen = {
+culture = dachian
+religion = norse_pagan
+		size = 16   
+	}
+
+	artisans = {
+culture = dachian
+religion = norse_pagan
+		size = 216
+	}
+
+	soldiers = {
+culture = dachian
+religion = norse_pagan
+		size = 160   
+	}
+
+	farmers = {
+culture = dachian
+religion = norse_pagan
+		size = 791  
+	}
+
+	aristocrats = {
+culture = dachian
+religion = norse_pagan
+		size = 166  
+	}
+
+	bureaucrats = {
+culture = dachian
+religion = norse_pagan
+		size = 91  
+	}
+
+	officers = {
+culture = dachian
+religion = norse_pagan
+		size = 83  
+	}
+
+	clergymen = {
+culture = dachian
+religion = norse_pagan
+		size = 25      
+	}
+
+	artisans = {
+culture = dachian
+religion = norse_pagan
+		size = 500
+	}
+
+	soldiers = {
+culture = dachian
+religion = norse_pagan
+		size = 60      
+	}
+
+	farmers = {
+culture = dachian
+religion = norse_pagan
+		size = 2100      
+	}
+
+	aristocrats = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 116   
+	}
+
+	bureaucrats = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 83  
+	}
+
+	officers = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 33 
+	}
+
+	clergymen = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 26    
+	}
+
+	artisans = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 283
+	}
+
+	soldiers = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 32     
+	}
+
+	farmers = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 1106   
+	}
+
+	clergymen = {
+culture = south_slavs
+religion = norse_pagan
+		size = 16   
+	}
+
+	artisans = {
+culture = south_slavs
+religion = norse_pagan
+		size = 266
+	}
+
+	soldiers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 16 
+	}
+
+	farmers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 391     
+	}
+}
+#Gyulafehervar/Alba Iulia (105333/26333 POPS)  
+655 = {
+	clergymen = {
+		culture = dachian
+religion = norse_pagan
+		size = 175 
+	}
+
+	artisans = {
+		culture = dachian
+religion = norse_pagan
+		size = 933
+	}
+
+	soldiers = {
+		culture = dachian
+religion = norse_pagan
+		size = 400 
+	}
+
+	farmers = {
+		culture = dachian
+religion = norse_pagan
+		size = 17375 
+	}
+
+	aristocrats = {
+culture = dachian
+religion = norse_pagan
+		size = 200    
+	}
+
+	clergymen = {
+culture = dachian
+religion = norse_pagan
+		size = 16  
+	}
+
+	artisans = {
+culture = dachian
+religion = norse_pagan
+		size = 66
+	}
+
+	soldiers = {
+culture = dachian
+religion = norse_pagan
+		size = 32  
+	}
+
+	farmers = {
+culture = dachian
+religion = norse_pagan
+		size = 1033   
+	}
+
+	aristocrats = {
+culture = dachian
+religion = norse_pagan
+		size = 283  
+	}
+
+	clergymen = {
+culture = dachian
+religion = norse_pagan
+		size = 25      
+	}
+
+	artisans = {
+culture = dachian
+religion = norse_pagan
+		size = 166
+	}
+
+	soldiers = {
+culture = dachian
+religion = norse_pagan
+		size = 60      
+	}
+
+	farmers = {
+culture = dachian
+religion = norse_pagan
+		size = 2825       
+	}
+
+	aristocrats = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 116  
+	}
+
+	clergymen = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 16    
+	}
+
+	artisans = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 116
+	}
+
+	soldiers = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 50     
+	}
+
+	farmers = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 2058   
+	}
+
+	clergymen = {
+culture = south_slavs
+religion = norse_pagan
+		size = 16   
+	}
+
+	artisans = {
+culture = south_slavs
+religion = norse_pagan
+		size = 266
+	}
+
+	soldiers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 16 
+	}
+
+	farmers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 391     
+	}
+}
+#Deva (84000/21000 POPS)  
+656 = {
+	clergymen = {
+		culture = dachian
+religion = norse_pagan
+		size = 141 
+	}
+
+	artisans = {
+		culture = dachian
+religion = norse_pagan
+		size = 833
+	}
+
+	soldiers = {
+		culture = dachian
+religion = norse_pagan
+		size = 300 
+	}
+
+	farmers = {
+		culture = dachian
+religion = norse_pagan
+		size = 15525 
+	}
+
+	aristocrats = {
+culture = dachian
+religion = norse_pagan
+		size = 183   
+	}
+
+	clergymen = {
+culture = dachian
+religion = norse_pagan
+		size = 25  
+	}
+
+	artisans = {
+culture = dachian
+religion = norse_pagan
+		size = 50
+	}
+
+	soldiers = {
+culture = dachian
+religion = norse_pagan
+		size = 32  
+	}
+
+	farmers = {
+culture = dachian
+religion = norse_pagan
+		size = 725 
+	}
+
+	aristocrats = {
+culture = dachian
+religion = norse_pagan
+		size = 233  
+	}
+
+	clergymen = {
+culture = dachian
+religion = norse_pagan
+		size = 16      
+	}
+
+	artisans = {
+culture = dachian
+religion = norse_pagan
+		size = 100
+	}
+
+	soldiers = {
+culture = dachian
+religion = norse_pagan
+		size = 32      
+	}
+
+	farmers = {
+culture = dachian
+religion = norse_pagan
+		size = 1633      
+	}
+
+	clergymen = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 8    
+	}
+
+	artisans = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 33
+	}
+
+	soldiers = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 32     
+	}
+
+	farmers = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 616   
+	}
+
+	clergymen = {
+culture = south_slavs
+religion = norse_pagan
+		size = 16   
+	}
+
+	artisans = {
+culture = south_slavs
+religion = norse_pagan
+		size = 266
+	}
+
+	soldiers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 83
+	}
+
+	farmers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 391     
+	}
+}
+#Nagyszeben/Sibiu (92000/23000 POPS)  
+657 = {
+	clergymen = {
+		culture = dachian
+religion = norse_pagan
+		size = 116 
+	}
+
+	bureaucrats = {
+		culture = gepid
+religion = norse_pagan
+		size = 250
+	}
+
+	artisans = {
+		culture = dachian
+religion = norse_pagan
+		size = 600
+	}
+
+	soldiers = {
+		culture = dachian
+religion = norse_pagan
+		size = 200 
+	}
+
+	farmers = {
+		culture = dachian
+religion = norse_pagan
+		size = 11166
+	}
+
+	aristocrats = {
+culture = dachian
+religion = norse_pagan
+		size = 66   
+	}
+
+	clergymen = {
+culture = dachian
+religion = norse_pagan
+		size = 16  
+	}
+
+	artisans = {
+culture = dachian
+religion = norse_pagan
+		size = 41
+	}
+
+	soldiers = {
+culture = dachian
+religion = norse_pagan
+		size = 16  
+	}
+
+	farmers = {
+culture = dachian
+religion = norse_pagan
+		size = 700   
+	}
+
+	aristocrats = {
+culture = dachian
+religion = norse_pagan
+		size = 116  
+	}
+
+	clergymen = {
+culture = dachian
+religion = norse_pagan
+		size = 25      
+	}
+
+	artisans = {
+culture = dachian
+religion = norse_pagan
+		size = 83
+	}
+
+	soldiers = {
+culture = dachian
+religion = norse_pagan
+		size = 32      
+	}
+
+	farmers = {
+culture = dachian
+religion = norse_pagan
+		size = 1258      
+	}
+
+	aristocrats = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 316  
+	}
+
+	clergymen = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 75    
+	}
+
+	artisans = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 416
+	}
+
+	soldiers = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 160     
+	}
+
+	farmers = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 7108
+	}
+
+	clergymen = {
+culture = south_slavs
+religion = norse_pagan
+		size = 16   
+	}
+
+	artisans = {
+culture = south_slavs
+religion = norse_pagan
+		size = 266
+	}
+
+	soldiers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 16 
+	}
+
+	farmers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 391     
+	}
+}
+#Brasso/Brasov (56000/14000 POPS)  
+659 = {
+	clergymen = {
+		culture = dachian
+religion = norse_pagan
+		size = 75
+	}
+
+	artisans = {
+		culture = dachian
+religion = norse_pagan
+		size = 416
+	}
+
+	soldiers = {
+		culture = dachian
+religion = norse_pagan
+		size = 160 
+	}
+
+	farmers = {
+		culture = dachian
+religion = norse_pagan
+		size = 7758
+	}
+
+	aristocrats = {
+culture = dachian
+religion = norse_pagan
+		size = 66   
+	}
+
+	clergymen = {
+culture = dachian
+religion = norse_pagan
+		size = 16   
+	}
+
+	artisans = {
+culture = dachian
+religion = norse_pagan
+		size = 133
+	}
+
+	soldiers = {
+culture = dachian
+religion = norse_pagan
+		size = 32   
+	}
+
+	farmers = {
+culture = dachian
+religion = norse_pagan
+		size = 441    
+	}
+
+	aristocrats = {
+culture = dachian
+religion = norse_pagan
+		size = 83  
+	}
+
+	clergymen = {
+culture = dachian
+religion = norse_pagan
+		size = 25      
+	}
+
+	artisans = {
+culture = dachian
+religion = norse_pagan
+		size = 266
+	}
+
+	soldiers = {
+culture = dachian
+religion = norse_pagan
+		size = 32      
+	}
+
+	farmers = {
+culture = dachian
+religion = norse_pagan
+		size = 941      
+	}
+
+	aristocrats = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 116  
+	}
+
+	clergymen = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 25    
+	}
+
+	artisans = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 800
+	}
+
+	soldiers = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 60     
+	}
+
+	farmers = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 2025   
+	}
+
+	clergymen = {
+culture = south_slavs
+religion = norse_pagan
+		size = 16   
+	}
+
+	artisans = {
+culture = south_slavs
+religion = norse_pagan
+		size = 266
+	}
+
+	soldiers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 16 
+	}
+
+	farmers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 391     
+	}
+}
+#Udvarhely (76000/19000 POPS)  
+660 = {
+	clergymen = {
+		culture = dachian
+religion = norse_pagan
+		size = 25 
+	}
+
+	artisans = {
+		culture = dachian
+religion = norse_pagan
+		size = 133
+	}
+
+	soldiers = {
+		culture = dachian
+religion = norse_pagan
+		size = 50 
+	}
+
+	farmers = {
+		culture = dachian
+religion = norse_pagan
+		size = 2483
+	}
+
+	aristocrats = {
+culture = dachian
+religion = norse_pagan
+		size = 100    
+	}
+
+	clergymen = {
+culture = dachian
+religion = norse_pagan
+		size = 50  
+	}
+
+	artisans = {
+culture = dachian
+religion = norse_pagan
+		size = 250
+	}
+
+	soldiers = {
+culture = dachian
+religion = norse_pagan
+		size = 100
+	}
+
+	farmers = {
+culture = dachian
+religion = norse_pagan
+		size = 4550   
+	}
+
+	aristocrats = {
+culture = dachian
+religion = norse_pagan
+		size = 200  
+	}
+
+	clergymen = {
+culture = dachian
+religion = norse_pagan
+		size = 100      
+	}
+
+	artisans = {
+culture = dachian
+religion = norse_pagan
+		size = 516
+	}
+
+	soldiers = {
+culture = dachian
+religion = norse_pagan
+		size = 100      
+	}
+
+	farmers = {
+culture = dachian
+religion = norse_pagan
+		size = 9416      
+	}
+
+	clergymen = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 16    
+	}
+
+	artisans = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 50
+	}
+
+	soldiers = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 16     
+	}
+
+	farmers = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 591    
+	}
+
+	clergymen = {
+culture = south_slavs
+religion = norse_pagan
+		size = 16   
+	}
+
+	artisans = {
+culture = south_slavs
+religion = norse_pagan
+		size = 266
+	}
+
+	soldiers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 16 
+	}
+
+	farmers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 391     
+	}
+}
+#Beszterce (100000/25000 POPS)  
+661 = {
+	clergymen = {
+		culture = dachian
+religion = norse_pagan
+		size = 166 
+	}
+
+	artisans = {
+		culture = dachian
+religion = norse_pagan
+		size = 833
+	}
+
+	soldiers = {
+		culture = dachian
+religion = norse_pagan
+		size = 320 
+	}
+
+	farmers = {
+		culture = dachian
+religion = norse_pagan
+		size = 16500 
+	}
+
+	aristocrats = {
+culture = dachian
+religion = norse_pagan
+		size = 116   
+	}
+
+	clergymen = {
+culture = dachian
+religion = norse_pagan
+		size = 16  
+	}
+
+	artisans = {
+culture = dachian
+religion = norse_pagan
+		size = 66
+	}
+
+	soldiers = {
+culture = dachian
+religion = norse_pagan
+		size = 32  
+	}
+
+	farmers = {
+culture = dachian
+religion = norse_pagan
+		size = 1116   
+	}
+
+	aristocrats = {
+culture = dachian
+religion = norse_pagan
+		size = 200  
+	}
+
+	clergymen = {
+culture = dachian
+religion = norse_pagan
+		size = 25      
+	}
+
+	artisans = {
+culture = dachian
+religion = norse_pagan
+		size = 133
+	}
+
+	soldiers = {
+culture = dachian
+religion = norse_pagan
+		size = 50      
+	}
+
+	farmers = {
+culture = dachian
+religion = norse_pagan
+		size = 2283      
+	}
+
+	aristocrats = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 133  
+	}
+
+	clergymen = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 25    
+	}
+
+	artisans = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 141
+	}
+
+	soldiers = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 50     
+	}
+
+	farmers = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 2341  
+	}
+
+	clergymen = {
+culture = south_slavs
+religion = norse_pagan
+		size = 16   
+	}
+
+	artisans = {
+culture = south_slavs
+religion = norse_pagan
+		size = 266
+	}
+
+	soldiers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 16 
+	}
+
+	farmers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 391     
+	}
+}
+#Targu Mures (114666/28666 POPS)  
+2533 = {
+	clergymen = {
+		culture = dachian
+religion = norse_pagan
+		size = 83 
+	}
+
+	artisans = {
+		culture = dachian
+religion = norse_pagan
+		size = 433
+	}
+
+	soldiers = {
+		culture = dachian
+religion = norse_pagan
+		size = 200 
+	}
+
+	farmers = {
+		culture = dachian
+religion = norse_pagan
+		size = 8716 
+	}
+
+	aristocrats = {
+culture = dachian
+religion = norse_pagan
+		size = 233   
+	}
+
+	clergymen = {
+culture = dachian
+religion = norse_pagan
+		size = 50 
+	}
+
+	artisans = {
+culture = dachian
+religion = norse_pagan
+		size = 266
+	}
+
+	soldiers = {
+culture = dachian
+religion = norse_pagan
+		size = 100  
+	}
+
+	farmers = {
+culture = dachian
+religion = norse_pagan
+		size = 4725   
+	}
+
+	aristocrats = {
+culture = dachian
+religion = norse_pagan
+		size = 300  
+	}
+
+	clergymen = {
+culture = dachian
+religion = norse_pagan
+		size = 100      
+	}
+
+	artisans = {
+culture = dachian
+religion = norse_pagan
+		size = 533
+	}
+
+	soldiers = {
+culture = dachian
+religion = norse_pagan
+		size = 200      
+	}
+
+	farmers = {
+culture = dachian
+religion = norse_pagan
+		size = 9625      
+	}
+
+	aristocrats = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 66  
+	}
+
+	clergymen = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 16     
+	}
+
+	artisans = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 116
+	}
+
+	soldiers = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 32      
+	}
+
+	farmers = {
+		culture = gepid #Transylvanian. Saxons
+religion = norse_pagan
+		size = 1783   
+	}
+
+	clergymen = {
+culture = south_slavs
+religion = norse_pagan
+		size = 16   
+	}
+
+	artisans = {
+culture = south_slavs
+religion = norse_pagan
+		size = 266
+	}
+
+	soldiers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 16 
+	}
+
+	farmers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 391     
+	}
+}
+#Bukovina Region (68000) #See Ukraine.txt for balance of region 
+#under the rule of Austria in 612 
+#Suceava (68000/17000 POPS)  
+663 = {
+	clergymen = {
+		culture = dachian
+religion = norse_pagan
+		size = 83 
+	}
+
+	artisans = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 416
+	}
+
+	soldiers = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 160 
+	}
+
+	farmers = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 8083 
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 41   
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 233
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 100  
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 4675   
+	}
+
+	aristocrats = {
+culture = south_slavs
+religion = norse_pagan
+		size = 200   
+	}
+
+	clergymen = {
+culture = south_slavs
+religion = norse_pagan
+		size = 25   
+	}
+
+	artisans = {
+culture = south_slavs
+religion = norse_pagan
+		size = 58
+	}
+
+	soldiers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 32  
+	}
+
+	farmers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 700  
+	}
+
+	clergymen = {
+		culture = gepid
+religion = norse_pagan
+		size = 16 
+	}
+
+	artisans = {
+		culture = gepid
+religion = norse_pagan
+		size = 200
+	}
+
+	soldiers = {
+		culture = gepid
+religion = norse_pagan
+		size = 32   
+	}
+
+	farmers = {
+		culture = gepid
+religion = norse_pagan
+		size = 1433    
+	}
+
+	clergymen = {
+culture = south_slavs
+religion = norse_pagan
+		size = 16    
+	}
+
+	artisans = {
+culture = south_slavs
+religion = norse_pagan
+		size = 266
+	}
+
+	soldiers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 16
+	}
+
+	farmers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 375     
+	}
+}
+#Wallachia Region (409333)   
+#under the rule of Wallachia in 612 
+#Bucharest (86666/21666 POPS)  
+664 = {
+	aristocrats = {
+		culture = dachian
+religion = norse_pagan
+		size = 366 
+	}
+
+	bureaucrats = {
+		culture = dachian
+religion = norse_pagan
+		size = 116 
+	}
+
+	officers = {
+		culture = dachian
+religion = norse_pagan
+		size = 100 
+	}
+
+	clergymen = {
+		culture = dachian
+religion = norse_pagan
+		size = 200 
+	}
+
+	artisans = {
+		culture = dachian
+religion = norse_pagan
+		size = 3333
+	}
+
+	artisans = {
+		culture = dachian
+religion = norse_pagan
+		size = 3333
+	}
+
+	artisans = {
+		culture = dachian
+religion = norse_pagan
+		size = 333
+	}
+
+	soldiers = {
+		culture = dachian
+religion = norse_pagan
+		size = 3000
+	}
+
+	farmers = {
+		culture = dachian
+religion = norse_pagan
+		size = 13550
+	}
+}
+#Tirgu Jiu (57333/14333 POPS)  
+665 = {
+	aristocrats = {
+		culture = dachian
+religion = norse_pagan
+		size = 250 
+	}
+
+	clergymen = {
+		culture = dachian
+religion = norse_pagan
+		size = 133 
+	}
+
+	artisans = {
+		culture = dachian
+religion = norse_pagan
+		size = 650
+	}
+
+	soldiers = {
+		culture = dachian
+religion = norse_pagan
+		size = 1000 
+	}
+
+	farmers = {
+		culture = dachian
+religion = norse_pagan
+		size = 13166 
+	}
+}
+#Craiova (65333/16333 POPS)  
+666 = {
+	aristocrats = {
+		culture = dachian
+religion = norse_pagan
+		size = 300 
+	}
+
+	clergymen = {
+		culture = dachian
+religion = norse_pagan
+		size = 150 
+	}
+
+	artisans = {
+		culture = dachian
+religion = norse_pagan
+		size = 750
+	}
+
+	soldiers = {
+		culture = dachian
+religion = norse_pagan
+		size = 1200 
+	}
+
+	farmers = {
+		culture = dachian
+religion = norse_pagan
+		size = 14983 
+	}
+}
+#Tirgoviste (62666/15666 POPS)  
+667 = {
+	aristocrats = {
+		culture = dachian
+religion = norse_pagan
+		size = 250 
+	}
+
+	clergymen = {
+		culture = dachian
+religion = norse_pagan
+		size = 141 
+	}
+
+	artisans = {
+		culture = dachian
+religion = norse_pagan
+		size = 716
+	}
+
+	soldiers = {
+		culture = dachian
+religion = norse_pagan
+		size = 600 
+	}
+
+	farmers = {
+		culture = dachian
+religion = norse_pagan
+		size = 13741
+	}
+}
+#Braila (90666/22666 POPS)  
+668 = {
+	aristocrats = {
+		culture = dachian
+religion = norse_pagan
+		size = 400 
+	}
+
+	clergymen = {
+		culture = dachian
+religion = norse_pagan
+		size = 208 
+	}
+
+	artisans = {
+		culture = dachian
+religion = norse_pagan
+		size = 1033
+	}
+
+	soldiers = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 2800
+	}
+
+	farmers = {
+		culture = dachian
+religion = norse_pagan
+		size = 20358
+	}
+	
+	farmers = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 17358
+	}
+
+}
+#Calarasi (46666/11666 POPS)  
+669 = {
+	aristocrats = {
+		culture = dachian
+religion = norse_pagan
+		size = 216 
+	}
+
+	clergymen = {
+		culture = dachian
+religion = norse_pagan
+		size = 108 
+	}
+
+	artisans = {
+		culture = dachian
+religion = norse_pagan
+		size = 533
+	}
+
+	soldiers = {
+		culture = dachian
+religion = norse_pagan
+		size = 3000
+	}
+
+	farmers = {
+		culture = dachian
+religion = norse_pagan
+		size = 10475
+	}
+		farmers = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 9475
+	}
+
+}
+#Moldavia Region (452000)   
+#under the rule of Moldavia in 612 
+#Iasi (156000/39000 POPS)  
+670 = {
+	aristocrats = {
+		culture = dachian
+religion = norse_pagan
+		size = 750  
+	}
+
+	bureaucrats = {
+		culture = dachian
+religion = norse_pagan
+		size = 191 
+	}
+
+	officers = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 116 
+	}
+
+	clergymen = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 391
+	}
+
+	artisans = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 3333
+	}
+
+	artisans = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 1666
+	}
+
+	soldiers = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 4000
+	}
+
+	farmers = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 38125
+	}
+}
+#Botosani (58666/14666 POPS)  
+671 = {
+	aristocrats = {
+		culture = dachian
+religion = norse_pagan
+		size = 283 
+	}
+
+	clergymen = {
+		culture = dachian
+religion = norse_pagan
+		size = 150 
+	}
+
+	artisans = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 733
+	}
+
+	soldiers = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 600  
+	}
+
+	farmers = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 13350 
+	}
+}
+#Bacau (146666/36666 POPS)  
+672 = {
+	aristocrats = {
+		culture = dachian
+religion = norse_pagan
+		size = 666 
+	}
+
+	clergymen = {
+		culture = dachian
+religion = norse_pagan
+		size = 350 
+	}
+
+	artisans = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 1833
+	}
+
+	soldiers = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 2000
+	}
+
+	farmers = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 32816
+	}
+}
+#Galati (90666/22666 POPS)  
+673 = {
+	aristocrats = {
+		culture = dachian
+religion = norse_pagan
+		size = 433 
+	}
+
+	clergymen = {
+		culture = dachian
+religion = norse_pagan
+		size = 225
+	}
+
+	artisans = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 1833
+	}
+
+	soldiers = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 1400
+	}
+
+	farmers = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 19508
+	}
+}
+#Dobruja Region (56000) #see Bulgaria.txt for balance of Region  
+#under the rule of the Ottoman Empire in 612 
+#Constanta (42666/10666 POPS)  
+674 = {
+	artisans = {
+		culture = dachian
+religion = norse_pagan
+		size = 183
+	}
+
+	soldiers = {
+		culture = dachian
+religion = norse_pagan
+		size = 33
+	}
+
+	farmers = {
+		culture = dachian
+religion = norse_pagan
+		size = 3483 
+	}
+
+	artisans = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 216
+	}
+
+	soldiers = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 33 
+	}
+
+	farmers = {
+		culture = dachian
+religion = norse_pagan
+		size = 4083 
+	}
+
+	clergymen = {
+		culture = greek
+religion = norse_pagan
+		size = 83 
+	}
+
+	artisans = {
+		culture = greek
+religion = norse_pagan
+		size = 83
+	}
+
+	farmers = {
+		culture = greek
+religion = norse_pagan
+		size = 166 
+	}
+
+	aristocrats = {
+culture = greek
+religion = norse_pagan
+		size = 216
+	}
+
+	bureaucrats = {
+culture = greek
+religion = norse_pagan
+		size = 25 
+	}
+
+	officers = {
+culture = greek
+religion = norse_pagan
+		size = 11 
+	}
+
+	clergymen = {
+culture = greek
+religion = norse_pagan
+		size = 25 
+	}
+
+	artisans = {
+culture = greek
+religion = norse_pagan
+		size = 366
+	}
+
+	soldiers = {
+culture = greek
+religion = norse_pagan
+		size = 33
+	}
+
+	farmers = {
+culture = greek
+religion = norse_pagan
+		size = 1721
+	}
+}
+#Tulcea (13333/3333 POPS)  
+675 = {
+	clergymen = {
+		culture = dachian
+religion = norse_pagan
+		size = 16 
+	}
+
+	artisans = {
+		culture = dachian
+religion = norse_pagan
+		size = 83
+	}
+
+	soldiers = {
+		culture = dachian
+religion = norse_pagan
+		size = 33 
+	}
+
+	farmers = {
+		culture = dachian
+religion = norse_pagan
+		size = 1533 
+	}
+
+	aristocrats = {
+culture = greek
+religion = norse_pagan
+		size = 50 
+	}
+
+	clergymen = {
+culture = greek
+religion = norse_pagan
+		size = 16 
+	}
+
+	artisans = {
+culture = greek
+religion = norse_pagan
+		size = 66
+	}
+
+	farmers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 1566 
+	}
+
+	clergymen = {
+culture = south_slavs
+religion = norse_pagan
+		size = 8 
+	}
+
+	artisans = {
+culture = south_slavs
+religion = norse_pagan
+		size = 50
+	}
+
+	farmers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 941
+	}
+}

@@ -1,0 +1,7 @@
+owner = KMP
+controller = KMP
+add_core = KMP
+trade_goods = coffee
+life_rating = 35
+
+set_province_flag = farm

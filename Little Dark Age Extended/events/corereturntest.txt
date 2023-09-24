@@ -1,0 +1,426 @@
+country_event = {
+	id = 1006001
+
+	trigger = {
+	 exists = QUE
+	 NOT = { has_country_flag = annexedQUE }
+		is_our_vassal = QUE
+		QUE = {
+		any_core = {
+		owned_by = THIS}}
+		}
+	
+
+	title = "Returning of Land"
+	desc = "The charter for our colony in Atlantia includes some land we currently hold"
+	picture = dixie
+	mean_time_to_happen =  {
+		months = 3
+	}
+
+	option = {
+		name = "Very Well"
+		any_owned = {
+		limit = { is_core = QUE}
+		secede_province = QUE
+	
+		}
+		
+		
+	
+		}
+	}
+	
+country_event = {
+	id = 1006002
+
+	trigger = {
+	 exists = MAN
+	 NOT = { has_country_flag = annexedMAN }
+		is_our_vassal = MAN
+		MAN = {
+		any_core = {
+		owned_by = THIS}}
+		}
+	
+
+	title = "Returning of Land"
+	desc = "The charter for our colony in Atlantia includes some land we currently hold"
+	picture = dixie
+	mean_time_to_happen =  {
+		months = 3
+	}
+
+	option = {
+		name = "Very Well"
+		any_owned = {
+		limit = { is_core = MAN}
+		secede_province = MAN
+	
+		}
+		
+		
+	
+		}
+	}
+
+country_event = {
+	id = 1006003
+
+	trigger = {
+	 exists = CSA
+	 NOT = { has_country_flag = annexedCSA }
+		is_our_vassal = CSA
+		CSA = {
+		any_core = {
+		owned_by = THIS}}
+		}
+	
+
+	title = "Returning of Land"
+	desc = "The charter for our colony in Atlantia includes some land we currently hold"
+	picture = dixie
+	mean_time_to_happen =  {
+		months = 3
+	}
+
+	option = {
+		name = "Very Well"
+		any_owned = {
+		limit = { is_core = CSA}
+		secede_province = CSA
+	
+		}
+		
+		
+	
+		}
+	}
+
+country_event = {
+	id = 1006004
+
+	trigger = {
+	 exists = COL
+	 NOT = { has_country_flag = annexedCOL }
+		is_our_vassal = COL
+		COL = {
+		any_core = {
+		owned_by = THIS}}
+		}
+	
+
+	title = "Returning of Land"
+	desc = "The charter for our colony in Atlantia includes some land we currently hold"
+	picture = dixie
+	mean_time_to_happen =  {
+		months = 3
+	}
+
+	option = {
+		name = "Very Well"
+		any_owned = {
+		limit = { is_core = COL}
+		secede_province = COL
+	
+		}
+		
+		
+	
+		}
+	}
+	
+country_event = {
+	id = 1006005
+
+	trigger = {
+	 exists = CAL
+	 NOT = { has_country_flag = annexedCAL }
+		is_our_vassal = CAL
+		CAL = {
+		any_core = {
+		owned_by = THIS}}
+		}
+	
+
+	title = "Returning of Land"
+	desc = "The charter for our colony in Atlantia includes some land we currently hold"
+	picture = dixie
+	mean_time_to_happen =  {
+		months = 3
+	}
+
+	option = {
+		name = "Very Well"
+		any_owned = {
+		limit = { is_core = CAL}
+		secede_province = CAL
+	
+		}
+		
+		
+	
+		}
+	}
+	
+country_event = {
+	id = 1006006
+
+	trigger = {
+	 exists = RGD
+	 NOT = { has_country_flag = annexedRGD }
+		is_our_vassal = RGD
+		RGD = {
+		any_core = {
+		owned_by = THIS}}
+		}
+	
+
+	title = "Returning of Land"
+	desc = "The charter for our colony in Atlantia includes some land we currently hold"
+	picture = dixie
+	mean_time_to_happen =  {
+		months = 3
+	}
+
+	option = {
+		name = "Very Well"
+		any_owned = {
+		limit = { is_core = RGD}
+		secede_province = RGD
+	
+		}
+		
+		
+	
+		}
+	}
+
+country_event = {
+	id = 1006007
+
+	trigger = {
+	 exists = CUB
+	 NOT = { has_country_flag = annexedCUB }
+		is_our_vassal = CUB
+		CUB = {
+		any_core = {
+		owned_by = THIS}}
+		}
+	
+
+	title = "Returning of Land"
+	desc = "The charter for our colony in Atlantia includes some land we currently hold"
+	picture = dixie
+	mean_time_to_happen =  {
+		months = 3
+	}
+
+	option = {
+		name = "Very Well"
+		any_owned = {
+		limit = { is_core = CUB}
+		secede_province = CUB
+	
+		}
+		
+		
+	
+		}
+	}
+country_event = {
+	id = 1006008
+
+	trigger = {
+	 exists = GCO
+	 NOT = { has_country_flag = annexedGCO }
+		is_our_vassal = GCO
+		GCO = {
+		any_core = {
+		owned_by = THIS}}
+		}
+	
+
+	title = "Returning of Land"
+	desc = "The charter for our colony in Atlantia includes some land we currently hold"
+	picture = dixie
+	mean_time_to_happen =  {
+		months = 3
+	}
+
+	option = {
+		name = "Very Well"
+		any_owned = {
+		limit = { is_core = GCO}
+		secede_province = GCO
+	
+		}
+		
+		
+	
+		}
+	}
+	
+country_event = {
+	id = 1006009
+
+	trigger = {
+	 exists = BRZ
+	 NOT = { has_country_flag = annexedBRZ }
+		is_our_vassal = BRZ
+		BRZ = {
+		any_core = {
+		owned_by = THIS}}
+		}
+	
+
+	title = "Returning of Land"
+	desc = "The charter for our colony in Atlantia includes some land we currently hold"
+	picture = dixie
+	mean_time_to_happen =  {
+		months = 3
+	}
+
+	option = {
+		name = "Very Well"
+		any_owned = {
+		limit = { is_core = BRZ}
+		secede_province = BRZ
+	
+		}
+		
+		
+	
+		}
+	}
+country_event = {
+	id = 1006010
+
+	trigger = {
+	 exists = OSL 
+	 NOT = { has_country_flag = annexedOSL }
+		is_our_vassal = OSL 
+		OSL  = {
+		any_core = {
+		owned_by = THIS}}
+		}
+	
+
+	title = "Returning of Land"
+	desc = "The charter for our colony in Atlantia includes some land we currently hold"
+	picture = dixie
+	mean_time_to_happen =  {
+		months = 3
+	}
+
+	option = {
+		name = "Very Well"
+		any_owned = {
+		limit = { is_core = OSL }
+		secede_province = OSL 
+	
+		}
+		
+		
+	
+		}
+	}
+	
+country_event = {
+	id = 1006011
+
+	trigger = {
+	 exists = ARG 
+	 NOT = { has_country_flag = annexedARG }
+		is_our_vassal = ARG 
+		ARG  = {
+		any_core = {
+		owned_by = THIS}}
+		}
+	
+
+	title = "Returning of Land"
+	desc = "The charter for our colony in Atlantia includes some land we currently hold"
+	picture = dixie
+	mean_time_to_happen =  {
+		months = 3
+	}
+
+	option = {
+		name = "Very Well"
+		any_owned = {
+		limit = { is_core = ARG }
+		secede_province = ARG 
+	
+		}
+		
+		
+	
+		}
+	}
+	
+country_event = {
+	id = 1006012
+
+	trigger = {
+	 exists = SAF
+	 NOT = { has_country_flag = annexedSAF }
+		is_our_vassal = SAF
+		SAF = {
+		any_core = {
+		owned_by = THIS}}
+		}
+	
+
+	title = "Returning of Land"
+	desc = "The charter for our colony in Atlantia includes some land we currently hold"
+	picture = dixie
+	mean_time_to_happen =  {
+		months = 3
+	}
+
+	option = {
+		name = "Very Well"
+		any_owned = {
+		limit = { is_core = SAF}
+		secede_province = SAF
+	
+		}
+		
+		
+	
+		}
+	}
+	
+country_event = {
+	id = 1006013
+
+	trigger = {
+	 exists = AST 
+	 NOT = { has_country_flag = annexedAST }
+		is_our_vassal = AST 
+		AST  = {
+		any_core = {
+		owned_by = THIS}}
+		}
+	
+
+	title = "Returning of Land"
+	desc = "The charter for our colony in Atlantia includes some land we currently hold"
+	picture = dixie
+	mean_time_to_happen =  {
+		months = 3
+	}
+
+	option = {
+		name = "Very Well"
+		any_owned = {
+		limit = { is_core = AST }
+		secede_province = AST 
+	
+		}
+		
+		
+	
+		}
+	}

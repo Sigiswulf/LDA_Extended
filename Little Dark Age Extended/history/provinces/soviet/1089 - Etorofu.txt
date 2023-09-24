@@ -1,0 +1,7 @@
+add_core = ANU
+owner = ANU
+trade_goods = fish
+life_rating = 15
+
+set_province_flag = farm
+add_core = SIB

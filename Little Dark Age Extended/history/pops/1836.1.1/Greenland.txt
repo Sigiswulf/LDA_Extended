@@ -1,0 +1,94 @@
+#Greenland (5500)
+#Ruled by Denmark 1346
+#Godthab (3093/772 POPS)
+251 = {
+	aristocrats = {
+culture = swedish
+religion = norse_pagan
+		size = 1700
+	}
+
+	bureaucrats = {
+culture = swedish
+religion = norse_pagan
+		size = 170
+	}
+
+	clergymen = {
+culture = swedish
+religion = norse_pagan
+		size = 110
+	}
+
+	artisans = {
+culture = swedish
+religion = norse_pagan
+		size = 5100
+	}
+
+	farmers = {
+		culture = inuit
+religion = norse_pagan
+		size = 5805
+	}
+}
+#Holsteinborg (902/224 POPS)
+2591 = {
+	clergymen = {
+culture = swedish
+religion = norse_pagan
+		size = 2
+	}
+
+	artisans = {
+culture = swedish
+religion = norse_pagan
+		size = 2000
+	}
+
+	farmers = {
+		culture = inuit
+religion = norse_pagan
+		size = 2200
+	}
+}
+#Augmagsalik (902/224 POPS)
+2632 = {
+	clergymen = {
+culture = swedish
+religion = norse_pagan
+		size = 20
+	}
+
+	artisans = {
+culture = swedish
+religion = norse_pagan
+		size = 2000
+	}
+
+	farmers = {
+		culture = inuit
+religion = norse_pagan
+		size = 2200
+	}
+}
+#Egedesminde (598/149 POPS)
+2636 = {
+	clergymen = {
+culture = swedish
+religion = norse_pagan
+		size = 110
+	}
+
+	artisans = {
+culture = swedish
+religion = norse_pagan
+		size = 2110
+	}
+
+	farmers = {
+		culture = inuit
+religion = norse_pagan
+		size = 2145
+	}
+}

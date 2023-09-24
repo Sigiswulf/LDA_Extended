@@ -1,0 +1,10 @@
+add_core = SAF
+trade_goods = grain
+life_rating = 35
+1861.1.1 = {
+}
+1836.1.2 = {
+}
+
+set_province_flag = farm
+add_core = SFR

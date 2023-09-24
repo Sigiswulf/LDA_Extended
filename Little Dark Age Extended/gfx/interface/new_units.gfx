@@ -1,0 +1,111 @@
+
+objectTypes = {	
+
+	EMFXActorType = {
+		name = "EuropeanGCirregular1"
+		actorfile = "gfx\anims\Western_Light_Infantry.xac"
+		
+		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
+		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
+		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
+		scale = 1.0
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		
+		}
+		attach={
+		name="CK_Sword"
+		node="Right_hand_node"
+		attachId=3
+		}
+	}
+
+	
+		EMFXActorType = {
+		name = "EuropeanGCinfantry_defensive1"
+		actorfile = "gfx\anims\Western_Heavy_Infantry.xac"
+		
+		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
+		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
+		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
+		scale = 1.0
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		
+		}
+		attach={
+		name="CK_Sword"
+		node="Right_hand_node"
+		attachId=3
+		}
+	}
+		EMFXActorType = {
+		name = "BritishGCinfantry_defensive1"
+		actorfile = "gfx\anims\Western_Heavy_Infantry.xac"
+		
+		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
+		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
+		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
+		scale = 1.0
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		
+		}
+		attach={
+		name="CK_Sword"
+		node="Right_hand_node"
+		attachId=3
+		}
+	}
+		EMFXActorType = {
+		name = "GCirregular2"
+		actorfile = "gfx\anims\Western_Heavy_Infantry.xac"
+		
+		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
+		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
+		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
+		scale = 1.0
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		
+		}
+		attach={
+		name="CK_Sword"
+		node="Right_hand_node"
+		attachId=3
+		}
+	}
+		EMFXActorType = {
+		name = "GCinfantry_defensive1"
+		actorfile = "gfx\anims\Western_Heavy_Infantry.xac"
+		
+		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
+		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
+		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
+		scale = 1.0
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		
+		}
+		attach={
+		name="CK_Sword"
+		node="Right_hand_node"
+		attachId=3
+		}
+	}
+}

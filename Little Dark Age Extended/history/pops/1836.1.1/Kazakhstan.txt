@@ -1,0 +1,728 @@
+#Western turkich Steppes Region (54000)
+#under the rule of Russia in 1377
+#Guryev (14250/3561 POPS)
+1182 = {
+	bureaucrats = {
+		culture = hungarian
+religion = norse_pagan
+		size = 15
+	}
+
+	clergymen = {
+		culture = hungarian
+religion = norse_pagan
+		size = 9
+	}
+
+	artisans = {
+		culture = hungarian
+religion = norse_pagan
+		size = 24
+	}
+
+	soldiers = {
+		culture = hungarian
+religion = norse_pagan
+		size = 9
+	}
+
+	farmers = {
+		culture = hungarian
+religion = norse_pagan
+		size = 498
+	}
+
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 54
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 54
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 150
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 18
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 2718
+	}
+}
+#Aqtobe (15000/3750 POPS)
+1183 = {
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 54
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 36
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 186
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 36
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 3429
+	}
+}
+#Uralsk (9750/2436 POPS)
+2610 = {
+	clergymen = {
+		culture = hungarian
+religion = norse_pagan
+		size = 21
+	}
+
+	artisans = {
+		culture = hungarian
+religion = norse_pagan
+		size = 33
+	}
+
+	soldiers = {
+		culture = hungarian
+religion = norse_pagan
+		size = 18
+	}
+
+	farmers = {
+		culture = hungarian
+religion = norse_pagan
+		size = 861
+	}
+
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 18
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 18
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 75
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 18
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 1368
+	}
+}
+#Turgay (15000/3750 POPS)
+2611 = {
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 54
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 36
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 186
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 36
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 3429
+	}
+}
+#Eastern turkich Steppes Region (282000)
+#under the rule of Russia in 1377
+#Qaraganda (42000/10500 POPS)
+1181 = {
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 168
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 93
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 486
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 93
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 9654
+	}
+}
+#Kokshetau (72000/18000 POPS)
+1184 = {
+	bureaucrats = {
+		culture = hungarian
+religion = norse_pagan
+		size = 36
+	}
+
+	clergymen = {
+		culture = hungarian
+religion = norse_pagan
+		size = 54
+	}
+
+	artisans = {
+		culture = hungarian
+religion = norse_pagan
+		size = 111
+	}
+
+	soldiers = {
+		culture = hungarian
+religion = norse_pagan
+		size = 18
+	}
+
+	farmers = {
+		culture = hungarian
+religion = norse_pagan
+		size = 2025
+	}
+
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 318
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 825
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 168
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 14286
+	}
+}
+#Yasi (60000/15000 POPS)
+1185 = {
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 261
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 825
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 150
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 13686
+	}
+}
+#Zhambul (57000/14250 POPS)
+2606 = {
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 261
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 129
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 711
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 150
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 12993
+	}
+}
+#Aktash (51000/12750 POPS)
+2612 = {
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 243
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 129
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 636
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 129
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 11604
+	}
+}
+#Semireche Region (207000) #see Kirghizstan.txt for balance of region 
+#under the "rule" of Russia in 1377
+#Semipalatinsk (60000/15000 POPS)
+1187 = {
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 261
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 825
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 150
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 13686
+	}
+}
+#Qaratal (81000/20250 POPS)
+1188 = {
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 225
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 111
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 600
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 129
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 10929
+	}
+
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 150
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 75
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 411
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 93
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 7518
+	}
+}
+#under the "rule" of Kokand in 1377
+#Alma-Ata (66000/16500 POPS)
+1186 = {
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 75
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 36
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 225
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 54
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 4104
+	}
+
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 225
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 111
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 600
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 129
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 10929
+	}
+}
+#Khwarazm Region (126000) #see turkicistan.txt and turkicistan.txt for balance of region 
+#under the rule of Khiva in 1377
+#Kyzylorda (81000/20250 POPS)
+1193 = {
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 186
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 93
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 525
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 111
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 9579
+	}
+
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 186
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 93
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 450
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 93
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 8925
+	}
+}
+#Aqtau (24000/6000 POPS)
+1194 = {
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 111
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 54
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 261
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 54
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 5511
+	}
+}
+#Aralsk (21000/5250 POPS)
+2702 = {
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 75
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 36
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 261
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 54
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 4818
+	}
+}
+#Mawarannahr Region (135000) #see turkicistan.txt, turkicistan.txt, Kirghizstan.txt for balance of region 
+#under the rule of Bukhara in 1377
+#Shymkent (135000/33750 POPS) #now part of turkichstan   
+1197 = {
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 186
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 93
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 561
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 111
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 10293
+	}
+
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 411
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 186
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 1125
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 186
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 20586
+	}
+
+}

@@ -1,0 +1,220 @@
+political_decisions = {
+		
+		plantation_rgo_change_CUB={
+		potential = {
+		ai = no
+		CUB = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+						in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+		allow = {
+		ai = no
+		CUB = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+						in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+			effect = {
+			country_event = 8037812
+			}
+		}
+		plantation_rgo_change_CSA={
+		potential = {
+		ai = no
+		CSA = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+						in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+		allow = {
+		ai = no
+		CSA = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+						in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+			effect = {
+			country_event = 8037813
+			}
+		}
+		plantation_rgo_change_GCO={
+		potential = {
+		ai = no
+		GCO = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+						in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+		allow = {
+		ai = no
+		GCO = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+						in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+			effect = {
+			country_event = 8037814
+			}
+		}
+		plantation_rgo_change_BRZ={
+		potential = {
+		ai = no
+		BRZ = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+						in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+		allow = {
+		ai = no
+		BRZ = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+						in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+			effect = {
+			country_event = 8037815
+			}
+		}
+		plantation_rgo_change_OSL={
+		potential = {
+		ai = no
+		OSL = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+						in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+		allow = {
+		ai = no
+		OSL = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+						in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+			effect = {
+			country_event = 8037817
+			}
+		}
+		plantation_rgo_change_TEX={
+		potential = {
+		ai = no
+		TEX = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+						in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+		allow = {
+		ai = no
+		TEX = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+						in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+			effect = {
+			country_event = 8037818
+			}
+		}
+	plantation_rgo_change_RGD={
+		potential = {
+		ai = no
+		RGD = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+						in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+		allow = {
+		ai = no
+		RGD = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+						in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+			effect = {
+			country_event = 8037819
+			}
+		}
+}

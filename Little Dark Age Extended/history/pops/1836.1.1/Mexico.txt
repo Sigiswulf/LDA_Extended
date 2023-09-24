@@ -1,0 +1,5345 @@
+#Sonora Region (77775)
+#ruled by Mexico 1020
+#Hermosillo (42220/10555 POPS)
+2137 = {
+    aristocrats = {
+        culture = native_american_minor
+religion = animist
+        size = 195
+    }
+
+    bureaucrats = {
+        culture = native_american_minor
+religion = animist
+        size = 25
+    }
+
+    officers = {
+        culture = native_american_minor
+religion = animist
+        size = 20
+    }
+
+    clergymen = {
+        culture = native_american_minor
+religion = animist
+        size = 80
+    }
+
+    artisans = {
+        culture = native_american_minor
+religion = animist
+        size = 450
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = native_american_minor
+religion = animist
+        size = 8185
+    }
+
+    aristocrats = {
+        culture = native_american_minor
+        religion = animist
+        size = 65
+    }
+
+    clergymen = {
+        culture = native_american_minor
+        religion = animist
+        size = 40
+    }
+
+    artisans = {
+        culture = native_american_minor
+        religion = animist
+        size = 220
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 40
+    }
+
+    farmers = {
+        culture = native_american_minor
+        religion = animist
+        size = 4025
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 80
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 40
+    }
+}
+#Nogales (6665/1665 POPS)
+2140 = {
+    aristocrats = {
+        culture = native_american_minor
+religion = animist
+        size = 20
+    }
+
+    clergymen = {
+        culture = native_american_minor
+religion = animist
+        size = 15
+    }
+
+    artisans = {
+        culture = native_american_minor
+religion = animist
+        size = 40
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 5
+    }
+
+    farmers = {
+        culture = native_american_minor
+religion = animist
+        size = 735
+    }
+
+    aristocrats = {
+        culture = native_american_minor
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = native_american_minor
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = native_american_minor
+        religion = animist
+        size = 55
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 10
+    }
+
+    farmers = {
+        culture = native_american_minor
+        religion = animist
+        size = 990
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 10
+    }
+}
+#Guaymas (28885/7220 POPS)
+2141 = {
+    aristocrats = {
+        culture = native_american_minor
+religion = animist
+        size = 205
+    }
+
+    clergymen = {
+        culture = native_american_minor
+religion = animist
+        size = 80
+    }
+
+    artisans = {
+        culture = native_american_minor
+religion = animist
+        size = 410
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 80
+    }
+
+    farmers = {
+        culture = native_american_minor
+religion = animist
+        size = 7465
+    }
+
+    aristocrats = {
+        culture = native_american_minor
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = native_american_minor
+        religion = animist
+        size = 40
+    }
+
+    artisans = {
+        culture = native_american_minor
+        religion = animist
+        size = 80
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 10
+    }
+
+    farmers = {
+        culture = native_american_minor
+        religion = animist
+        size = 1485
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 75
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 15
+    }
+}
+#Baja California Region (11110)
+#ruled by Mexico 1020
+#Loreto (2220/555 POPS)
+2138 = {
+    aristocrats = {
+        culture = native_american_minor
+religion = animist
+        size = 20
+    }
+
+    clergymen = {
+        culture = native_american_minor
+religion = animist
+        size = 15
+    }
+
+    artisans = {
+        culture = native_american_minor
+religion = animist
+        size = 40
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 5
+    }
+
+    farmers = {
+        culture = native_american_minor
+religion = animist
+        size = 735
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 5
+    }
+}
+#Rosarito (8885/2220 POPS)
+2139 = {
+    aristocrats = {
+        culture = native_american_minor
+religion = animist
+        size = 55
+    }
+
+    bureaucrats = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    officers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    clergymen = {
+        culture = native_american_minor
+religion = animist
+        size = 40
+    }
+
+    artisans = {
+        culture = native_american_minor
+religion = animist
+        size = 80
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 20
+    }
+
+    farmers = {
+        culture = native_american_minor
+religion = animist
+        size = 1440
+    }
+
+    aristocrats = {
+        culture = native_american_minor
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = native_american_minor
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = native_american_minor
+        religion = animist
+        size = 55
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 10
+    }
+
+    farmers = {
+        culture = native_american_minor
+        religion = animist
+        size = 990
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 10
+    }
+}
+#Chihuahua Region (75555)
+#ruled by Mexico 1020
+#Chihuahua (55555/13885 POPS)
+2142 = {
+    aristocrats = {
+        culture = native_american_minor
+religion = animist
+        size = 360
+    }
+
+    bureaucrats = {
+        culture = native_american_minor
+religion = animist
+        size = 25
+    }
+
+    officers = {
+        culture = native_american_minor
+religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = native_american_minor
+religion = animist
+        size = 185
+    }
+
+    artisans = {
+        culture = native_american_minor
+religion = animist
+        size = 905
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 185
+    }
+
+    farmers = {
+        culture = native_american_minor
+religion = animist
+        size = 16450
+    }
+
+    aristocrats = {
+        culture = native_american_minor
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = native_american_minor
+        religion = animist
+        size = 40
+    }
+
+    artisans = {
+        culture = native_american_minor
+        religion = animist
+        size = 80
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 10
+    }
+
+    farmers = {
+        culture = native_american_minor
+        religion = animist
+        size = 1485
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 165
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 15
+    }
+}
+#Paso del Norte (6665/1665 POPS)
+2143 = {
+    aristocrats = {
+        culture = native_american_minor
+religion = animist
+        size = 60
+    }
+
+    clergymen = {
+        culture = native_american_minor
+religion = animist
+        size = 40
+    }
+
+    artisans = {
+        culture = native_american_minor
+religion = animist
+        size = 120
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 20
+    }
+
+    farmers = {
+        culture = native_american_minor
+religion = animist
+        size = 2225
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 20
+    }
+}
+#Delicias (4440/1110 POPS)
+2144 = {
+    aristocrats = {
+        culture = native_american_minor
+religion = animist
+        size = 60
+    }
+
+    clergymen = {
+        culture = native_american_minor
+religion = animist
+        size = 40
+    }
+
+    artisans = {
+        culture = native_american_minor
+religion = animist
+        size = 80
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 20
+    }
+
+    farmers = {
+        culture = native_american_minor
+religion = animist
+        size = 1440
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 10
+    }
+}
+#Parral (8885/2220 POPS)
+2145 = {
+    aristocrats = {
+        culture = native_american_minor
+religion = animist
+        size = 20
+    }
+
+    clergymen = {
+        culture = native_american_minor
+religion = animist
+        size = 15
+    }
+
+    artisans = {
+        culture = native_american_minor
+religion = animist
+        size = 40
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 5
+    }
+
+    farmers = {
+        culture = native_american_minor
+religion = animist
+        size = 735
+    }
+
+    aristocrats = {
+        culture = native_american_minor
+        religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = native_american_minor
+        religion = animist
+        size = 40
+    }
+
+    artisans = {
+        culture = native_american_minor
+        religion = animist
+        size = 80
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 10
+    }
+
+    farmers = {
+        culture = native_american_minor
+        religion = animist
+        size = 1485
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 15
+    }
+}
+#Coahuila Region (88885)
+#ruled by Mexico 1020
+#Morelos (6665/1665 POPS)
+2147 = {
+    aristocrats = {
+        culture = native_american_minor
+religion = animist
+        size = 60
+    }
+
+    clergymen = {
+        culture = native_american_minor
+religion = animist
+        size = 40
+    }
+
+    artisans = {
+        culture = native_american_minor
+religion = animist
+        size = 120
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 20
+    }
+
+    farmers = {
+        culture = native_american_minor
+religion = animist
+        size = 2225
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 20
+    }
+}
+#Saltillo (24440/6110 POPS)
+2151 = {
+    aristocrats = {
+        culture = native_american_minor
+religion = animist
+        size = 205
+    }
+
+    bureaucrats = {
+        culture = native_american_minor
+religion = animist
+        size = 40
+    }
+
+    officers = {
+        culture = native_american_minor
+religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = native_american_minor
+religion = animist
+        size = 60
+    }
+
+    artisans = {
+        culture = native_american_minor
+religion = animist
+        size = 330
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 60
+    }
+
+    farmers = {
+        culture = native_american_minor
+religion = animist
+        size = 5865
+    }
+
+    clergymen = {
+        culture = native_american_minor
+        religion = animist
+        size = 40
+    }
+
+    artisans = {
+        culture = native_american_minor
+        religion = animist
+        size = 80
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 10
+    }
+
+    farmers = {
+        culture = native_american_minor
+        religion = animist
+        size = 1510
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 55
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 15
+    }
+}
+#Monclova (26665/6665 POPS)
+2152 = {
+    aristocrats = {
+        culture = native_american_minor
+religion = animist
+        size = 225
+    }
+
+    clergymen = {
+        culture = native_american_minor
+religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = native_american_minor
+religion = animist
+        size = 495
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = native_american_minor
+religion = animist
+        size = 8970
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 90
+    }
+}
+#Torreon (31110/7775 POPS)
+2155 = {
+    aristocrats = {
+        culture = native_american_minor
+religion = animist
+        size = 245
+    }
+
+    clergymen = {
+        culture = native_american_minor
+religion = animist
+        size = 80
+    }
+
+    artisans = {
+        culture = native_american_minor
+religion = animist
+        size = 450
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = native_american_minor
+religion = animist
+        size = 8185
+    }
+
+    clergymen = {
+        culture = native_american_minor
+        religion = animist
+        size = 40
+    }
+
+    artisans = {
+        culture = native_american_minor
+        religion = animist
+        size = 80
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 10
+    }
+
+    farmers = {
+        culture = native_american_minor
+        religion = animist
+        size = 1510
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 80
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 15
+    }
+}
+#Nuevo Leon-Tamaulipas Region (95555)
+#ruled by Mexico 1020
+#Monterrey (57775/14440 POPS)
+2146 = {
+    aristocrats = {
+        culture = native_american_minor
+religion = animist
+        size = 450
+    }
+
+    bureaucrats = {
+        culture = native_american_minor
+religion = animist
+        size = 40
+    }
+
+    officers = {
+        culture = native_american_minor
+religion = animist
+        size = 40
+    }
+
+    clergymen = {
+        culture = native_american_minor
+religion = animist
+        size = 165
+    }
+
+    artisans = {
+        culture = native_american_minor
+religion = animist
+        size = 780
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 165
+    }
+
+    farmers = {
+        culture = native_american_minor
+religion = animist
+        size = 14025
+    }
+
+    clergymen = {
+        culture = native_american_minor
+        religion = animist
+        size = 40
+    }
+
+    artisans = {
+        culture = native_american_minor
+        religion = animist
+        size = 190
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 40
+    }
+
+    farmers = {
+        culture = native_american_minor
+        religion = animist
+        size = 3575
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 140
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 35
+    }
+}
+#Reynosa (8885/2220 POPS)
+2148 = {
+    aristocrats = {
+        culture = native_american_minor
+religion = animist
+        size = 80
+    }
+
+    clergymen = {
+        culture = native_american_minor
+religion = animist
+        size = 60
+    }
+
+    artisans = {
+        culture = native_american_minor
+religion = animist
+        size = 165
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 40
+    }
+
+    farmers = {
+        culture = native_american_minor
+religion = animist
+        size = 2945
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 30
+    }
+}
+#Matamoros (15555/3885 POPS)
+2149 = {
+    aristocrats = {
+        culture = native_american_minor
+religion = animist
+        size = 140
+    }
+
+    clergymen = {
+        culture = native_american_minor
+religion = animist
+        size = 60
+    }
+
+    artisans = {
+        culture = native_american_minor
+religion = animist
+        size = 285
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 60
+    }
+
+    farmers = {
+        culture = native_american_minor
+religion = animist
+        size = 5215
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 50
+    }
+}
+#Ciudad Victoria (13330/3330 POPS)
+2150 = {
+    aristocrats = {
+        culture = native_american_minor
+religion = animist
+        size = 120
+    }
+
+    clergymen = {
+        culture = native_american_minor
+religion = animist
+        size = 40
+    }
+
+    artisans = {
+        culture = native_american_minor
+religion = animist
+        size = 245
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 40
+    }
+
+    farmers = {
+        culture = native_american_minor
+religion = animist
+        size = 4495
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 45
+    }
+}
+#Durango-Sinaloa Region (140000)
+#ruled by Mexico 1020
+#Durango (35555/8885 POPS)
+2153 = {
+    aristocrats = {
+        culture = native_american_minor
+religion = animist
+        size = 285
+    }
+
+    clergymen = {
+        culture = native_american_minor
+religion = animist
+        size = 120
+    }
+
+    artisans = {
+        culture = native_american_minor
+religion = animist
+        size = 575
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 120
+    }
+
+    farmers = {
+        culture = native_american_minor
+religion = animist
+        size = 10435
+    }
+
+    aristocrats = {
+        culture = native_american_minor
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = native_american_minor
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = native_american_minor
+        religion = animist
+        size = 55
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 10
+    }
+
+    farmers = {
+        culture = native_american_minor
+        religion = animist
+        size = 990
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 105
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 10
+    }
+}
+#Santa Maria del Oro (24440/6110 POPS)
+2154 = {
+    aristocrats = {
+        culture = native_american_minor
+religion = animist
+        size = 185
+    }
+
+    clergymen = {
+        culture = native_american_minor
+religion = animist
+        size = 60
+    }
+
+    artisans = {
+        culture = native_american_minor
+religion = animist
+        size = 370
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 80
+    }
+
+    farmers = {
+        culture = native_american_minor
+religion = animist
+        size = 6805
+    }
+
+    aristocrats = {
+        culture = native_american_minor
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = native_american_minor
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = native_american_minor
+        religion = animist
+        size = 55
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 10
+    }
+
+    farmers = {
+        culture = native_american_minor
+        religion = animist
+        size = 990
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+religion = animist
+        size = 65
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size = 10
+    }
+}
+#Mazatlan (64440/16110 POPS)
+2156 = {
+    aristocrats = {
+        culture = native_american_minor
+religion = animist
+        size = 535
+    }
+
+    bureaucrats = {
+        culture = native_american_minor
+religion = animist
+        size = 60
+    }
+
+    officers = {
+        culture = mexican
+religion = animist
+        size = 40
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 225
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 1195
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 245
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 21615
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 215
+    }
+}
+#Culiacan (15555/3885 POPS)
+2157 = {
+    aristocrats = {
+        culture = mexican
+religion = animist
+        size = 140
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 60
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 285
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 60
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 5215
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 50
+    }
+}
+#Zacatecas-Aguascalientes Region (315555)
+#ruled by Mexico 1020
+#Zacatecas (188885/47220 POPS)
+2158 = {
+    aristocrats = {
+        culture = mexican
+religion = animist
+        size = 1420
+    }
+
+    bureaucrats = {
+        culture = mexican
+religion = animist
+        size = 185
+    }
+
+    officers = {
+        culture = mexican
+religion = animist
+        size = 140
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 350
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 3175
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 350
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 29015
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 165
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 1770
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 370
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 33165
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 30
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 290
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 15
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 335
+    }
+}
+#Aguascalientes (84440/21110 POPS)
+2160 = {
+    aristocrats = {
+        culture = mexican
+religion = animist
+        size = 700
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 305
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 1255
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 330
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 28750
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 290
+    }
+}
+#Tepic (42220/10555 POPS)
+2161 = {
+    aristocrats = {
+        culture = mexican
+religion = animist
+        size = 350
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 120
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 615
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 120
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 12515
+    }
+
+    clergymen = {
+        culture = mexican
+        religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = mexican
+        religion = animist
+        size = 110
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = animist
+        size = 25
+    }
+
+    farmers = {
+        culture = mexican
+        religion = animist
+        size = 2035
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 125
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+        religion = animist
+        size = 20
+    }
+}
+#Potosi-Guanajuato Region (753330)
+#ruled by Mexico 1020
+#San Luis Potosi (180000/45000 POPS)
+2159 = {
+    aristocrats = {
+        culture = mexican
+religion = animist
+        size = 1340
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 390
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 1980
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 410
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 40010
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 140
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 1360
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 285
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 25180
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 20
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 400
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 250
+    }
+}
+#Guanajuato (373330/93330 POPS)
+2167 = {
+    aristocrats = {
+        culture = mexican
+religion = animist
+        size = 25
+    }
+
+    bureaucrats = {
+        culture = mexican
+religion = animist
+        size = 45
+    }
+
+    officers = {
+        culture = mexican
+religion = animist
+        size = 25
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 25
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 40
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 450
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 410
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 40
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 810
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 25
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 25
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 25
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 45
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 40
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 815
+    }
+	
+
+}
+#Queretaro (200000/50000 POPS)
+2173 = {
+    aristocrats = {
+        culture = mexican
+religion = animist
+        size = 150
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 205
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 95
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 40
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 195
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 205
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 20
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 45
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 480
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 15
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 20
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 200
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 20
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 45
+    }
+}
+#Veracruz-Tabasco Region (182220)
+#ruled by Mexico 1020
+#Veracruz (77775/38885 POPS)
+2162 = {
+    aristocrats = {
+        culture = mexican
+religion = animist
+        size = 1175
+    }
+
+    bureaucrats = {
+        culture = mexican
+religion = animist
+        size = 100
+    }
+
+    officers = {
+        culture = mexican
+religion = animist
+        size = 80
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 410
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 165
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 40
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 1320
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 80
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 865
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 185
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 16520
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 40
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 410
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 80
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 7710
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 165
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 75
+    }
+}
+#Tampico (44440/11110 POPS)
+2163 = {
+    aristocrats = {
+        culture = mexican
+religion = animist
+        size = 350
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 120
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 80
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 20
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 1070
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 40
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 740
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 165
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 13900
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 140
+    }
+}
+#Minatitlan (26665/6665 POPS)
+2164 = {
+    aristocrats = {
+        culture = mexican
+religion = animist
+        size = 205
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 60
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 40
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 20
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 495
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 40
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 450
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 8475
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 85
+    }
+}
+#Villahermosa (33330/8330 POPS)
+2165 = {
+    aristocrats = {
+        culture = mexican
+religion = animist
+        size = 530
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 160
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 240
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 80
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 3910
+    }
+
+    clergymen = {
+        culture = mayan
+religion = animist
+        size = 110
+    }
+
+    artisans = {
+        culture = mayan
+religion = animist
+        size = 660
+    }
+
+
+
+    soldiers = {
+        culture = mayan
+religion = animist
+        size = 130
+    }
+
+    farmers = {
+        culture = mayan
+religion = animist
+        size = 12410
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 40
+    }
+}
+#Jalisco Region (248885)
+#ruled by Mexico 1020
+#Guadalajara (166665/41665 POPS)
+2166 = {
+    aristocrats = {
+        culture = mexican
+religion = animist
+        size = 15
+    }
+
+    bureaucrats = {
+        culture = mexican
+religion = animist
+        size = 15
+    }
+
+    officers = {
+        culture = mexican
+religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 80
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 155
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 50
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 400
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 40
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 450
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 80
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 80
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 15
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 405
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 15
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 85
+    }
+}
+#Puerto Vallarta (82220/20555 POPS)
+2168 = {
+    aristocrats = {
+        culture = mexican
+religion = animist
+        size = 615
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 205
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 990
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 205
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 17775
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 40
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 535
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 120
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 10000
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 175
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 100
+    }
+}
+#Michoacan Region (315555)
+#ruled by Mexico 1020
+#Colima (60000/15000 POPS)
+2169 = {
+    aristocrats = {
+        culture = mexican
+religion = animist
+        size = 470
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 225
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 1110
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 225
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 20230
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 200
+    }
+}
+#Morelia (193330/48330 POPS)
+2170 = {
+    aristocrats = {
+        culture = mexican
+religion = animist
+        size = 10
+    }
+
+    bureaucrats = {
+        culture = mexican
+religion = animist
+        size = 15
+    }
+
+    officers = {
+        culture = mexican
+religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 410
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 20
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 430
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 370
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 140
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 305
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 275
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 20
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 375
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 15
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 280
+    }
+}
+#Los Alaniles (62220/15555 POPS)
+2171 = {
+    aristocrats = {
+        culture = mexican
+religion = animist
+        size = 470
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 165
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 905
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 165
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 14870
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 60
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 330
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 80
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 6125
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 150
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 60
+    }
+}
+#Mexico Region (400000)
+#ruled by Mexico 1020
+#Mexico City (282220/70555 POPS)
+2172 = {
+    aristocrats = {
+        culture = mexican
+religion = animist
+        size = 1360
+    }
+
+    bureaucrats = {
+        culture = mexican
+religion = animist
+        size = 285
+    }
+
+    officers = {
+        culture = mexican
+religion = animist
+        size = 185
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 635
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 8250
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 8250
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 825
+    }
+
+
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 660
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 37330
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 205
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 8250
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 7425
+    }
+
+  
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 410
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 23925
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 80
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 80
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 65
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 375
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 80
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 75
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 240
+    }
+}
+#Toluca (117775/29440 POPS)
+2174 = {
+    aristocrats = {
+        culture = mexican
+religion = animist
+        size = 865
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 165
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 780
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5775
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 8085
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 120
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 1400
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 285
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 26235
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 55
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 80
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 265
+    }
+}
+#Puebla-Hidalgo Region (384440)
+#ruled by Mexico 1020
+#Tulancingo (104440/26110 POPS)
+2175 = {
+    aristocrats = {
+        culture = mexican
+religion = animist
+        size = 780
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 165
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 780
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 165
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 13775
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 100
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 1155
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 245
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 21590
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 135
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 215
+    }
+}
+#Puebla (280000/70000 POPS)
+2176 = {
+    aristocrats = {
+        culture = mexican
+religion = animist
+        size = 2100
+    }
+
+    bureaucrats = {
+        culture = mexican
+religion = animist
+        size = 245
+    }
+
+    officers = {
+        culture = mexican
+religion = animist
+        size = 165
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 740
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 7010
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5775
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 27675
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 305
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 5360
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 615
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 53930
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 20
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 70
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 55
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 275
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 50
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 545
+    }
+}
+#Oaxaca Region (251110)
+#ruled by Mexico 1020
+#Oaxaca (195555 48885 POPS)
+2177 = {
+    aristocrats = {
+        culture = mexican
+religion = animist
+        size = 10
+    }
+
+    bureaucrats = {
+        culture = mexican
+religion = animist
+        size = 100
+    }
+
+    officers = {
+        culture = mexican
+religion = animist
+        size = 100
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 390
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 140
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 575
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 1345
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 285
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 3710
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 55
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 535
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 55
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 35
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 545
+    }
+}
+#Collataro (55555/13885 POPS)
+2178 = {
+    aristocrats = {
+        culture = mexican
+religion = animist
+        size = 430
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 120
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 205
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 40
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 3345
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 80
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 905
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 165
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 15425
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 30
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 155
+    }
+}
+#Guerrero Region (136665)
+#ruled by Mexico 1020
+#Acapulco (86665/24440 POPS)
+2179 = {
+    aristocrats = {
+        culture = mexican
+religion = animist
+        size = 740
+    }
+
+    bureaucrats = {
+        culture = mexican
+religion = animist
+        size = 60
+    }
+
+    officers = {
+        culture = mexican
+religion = animist
+        size = 60
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 265
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 945
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 205
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 19180
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 80
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 865
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 185
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 16190
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 190
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 160
+    }
+}
+#Chilpancingo (44440/11110 POPS)
+2180 = {
+    aristocrats = {
+        culture = mexican
+religion = animist
+        size = 370
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 120
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 370
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 80
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 6475
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 40
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 450
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 100
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 8475
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 65
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 85
+    }
+}
+#Chiapas Region (68885)
+#ruled by Mexico 1020
+#Tuxtla (46665/11665 POPS)
+2181 = {
+    aristocrats = {
+        culture = mexican
+religion = animist
+        size = 245
+    }
+
+    bureaucrats = {
+        culture = mexican
+religion = animist
+        size = 20
+    }
+
+    officers = {
+        culture = mexican
+religion = animist
+        size = 20
+    }
+
+    clergymen = {
+        culture = mexican
+religion = animist
+        size = 120
+    }
+
+    artisans = {
+        culture = mexican
+religion = animist
+        size = 165
+    }
+
+    farmers = {
+        culture = mexican
+religion = animist
+        size = 2595
+    }
+
+    aristocrats = {
+        culture = mayan
+religion = animist
+        size = 80
+    }
+
+    bureaucrats = {
+        culture = mayan
+religion = animist
+        size = 40
+    }
+
+    officers = {
+        culture = mayan
+religion = animist
+        size = 40
+    }
+
+    clergymen = {
+        culture = mayan
+religion = animist
+        size = 55
+    }
+
+    artisans = {
+        culture = mayan
+religion = animist
+        size = 470
+    }
+
+
+
+    soldiers = {
+        culture = mayan
+religion = animist
+        size = 95
+    }
+
+    farmers = {
+        culture = mayan
+religion = animist
+        size = 8680
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mexican
+religion = animist
+        size = 25
+    }
+}
+#Tapachula (22220/5555 POPS)
+2182 = {
+    aristocrats = {
+        culture = mayan
+religion = animist
+        size = 185
+    }
+
+    clergymen = {
+        culture = mayan
+religion = animist
+        size = 80
+    }
+
+    artisans = {
+        culture = mayan
+religion = animist
+        size = 165
+    }
+
+    farmers = {
+        culture = mayan
+religion = animist
+        size = 2865
+    }
+
+    clergymen = {
+        culture = mayan
+religion = animist
+        size = 55
+    }
+
+    artisans = {
+        culture = mayan
+religion = animist
+        size = 165
+    }
+
+
+
+    soldiers = {
+        culture = mayan
+religion = animist
+        size = 55
+    }
+
+    farmers = {
+        culture = mayan
+religion = animist
+        size = 3055
+    }
+
+    soldiers = {
+        culture = mayan
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mayan
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mayan
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = mayan
+religion = animist
+        size = 25
+    }
+}
+#Yucatan Region (244440)
+#ruled by Mexico 1020
+#Merida (133330/33330 POPS)
+2183 = {
+    aristocrats = {
+        culture = mayan
+religion = animist
+        size = 3100
+    }
+
+    bureaucrats = {
+        culture = mayan
+religion = animist
+        size = 315
+    }
+
+    officers = {
+        culture = mayan
+religion = animist
+        size = 390
+    }
+
+    clergymen = {
+        culture = mayan
+religion = animist
+        size = 1300
+    }
+
+    artisans = {
+        culture = mayan
+religion = animist
+        size = 2105
+    }
+
+    soldiers = {
+        culture = mayan
+religion = animist
+        size = 820
+    }
+
+    farmers = {
+        culture = mayan
+religion = animist
+        size = 53790
+    }
+
+    aristocrats = {
+        culture = mayan
+religion = animist
+        size = 190
+    }
+
+    bureaucrats = {
+        culture = mayan
+religion = animist
+        size = 110
+    }
+
+    officers = {
+        culture = mayan
+religion = animist
+        size = 160
+    }
+
+    clergymen = {
+        culture = mayan
+religion = animist
+        size = 130
+    }
+
+    artisans = {
+        culture = mayan
+religion = animist
+        size = 3160
+    }
+
+
+    soldiers = {
+        culture = mayan
+religion = animist
+        size = 440
+    }
+
+    farmers = {
+        culture = mayan
+religion = animist
+        size = 40000
+    }
+
+    soldiers = {
+        culture = mayan
+religion = animist
+        size = 20
+    }
+
+    soldiers = {
+        culture = mayan
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mayan
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mayan
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mayan
+religion = animist
+        size = 10
+    }
+
+    soldiers = {
+        culture = mayan
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mayan
+religion = animist
+        size = 150
+    }
+}
+#Camnpeche (60000/15000 POPS)
+2184 = {
+    aristocrats = {
+        culture = mayan
+religion = animist
+        size = 900
+    }
+
+    clergymen = {
+        culture = mayan
+religion = animist
+        size = 280
+    }
+
+    artisans = {
+        culture = mayan
+religion = animist
+        size = 660
+    }
+
+    farmers = {
+        culture = mayan
+religion = animist
+        size = 11340
+    }
+
+    aristocrats = {
+        culture = mayan
+religion = animist
+        size = 200
+    }
+
+    officers = {
+        culture = mayan
+religion = animist
+        size = 20
+    }
+
+    clergymen = {
+        culture = mayan
+religion = animist
+        size = 110
+    }
+
+    artisans = {
+        culture = mayan
+religion = animist
+        size = 1000
+    }
+
+ 
+
+    soldiers = {
+        culture = mayan
+religion = animist
+        size = 330
+    }
+
+    farmers = {
+        culture = mayan
+religion = animist
+        size = 19330
+    }
+
+    soldiers = {
+        culture = mayan
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mayan
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mayan
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mayan
+religion = animist
+        size = 110
+    }
+}
+#Bacalar (51110/12775 POPS)
+2185 = {
+    aristocrats = {
+        culture = mayan
+religion = animist
+        size = 500
+    }
+
+    clergymen = {
+        culture = mayan
+religion = animist
+        size = 240
+    }
+
+    artisans = {
+        culture = mayan
+religion = animist
+        size = 90
+    }
+
+    farmers = {
+        culture = mayan
+religion = animist
+        size = 12000
+    }
+
+    aristocrats = {
+        culture = mayan
+religion = animist
+        size = 160
+    }
+
+    officers = {
+        culture = mayan
+religion = animist
+        size = 20
+    }
+
+    clergymen = {
+        culture = mayan
+religion = animist
+        size = 50
+    }
+
+    artisans = {
+        culture = mayan
+religion = animist
+        size = 3220
+    }
+
+ 
+
+    soldiers = {
+        culture = mayan
+religion = animist
+        size = 250
+    }
+
+    farmers = {
+        culture = mayan
+religion = animist
+        size = 22800
+    }
+
+    soldiers = {
+        culture = mayan
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mayan
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mayan
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+        culture = mayan
+religion = animist
+        size = 20
+    }
+}

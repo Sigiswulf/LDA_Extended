@@ -1,0 +1,8 @@
+owner = BKJ
+controller = BKJ
+add_core = BKJ
+trade_goods = grain
+life_rating = 35
+naval_base = 1
+
+set_province_flag = farm

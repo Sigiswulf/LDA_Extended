@@ -1,0 +1,161 @@
+#Mawarannahr Region (50000) #see turkichstan.txt, turkicistan.txt, Kirghizstan.txt and turkicistan.txt for balance of region 
+#under the rule of Kokand in 459  
+#Khujand (50000/12500 POPS) #now part of turkicistan  
+1201 = {
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 193
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 500
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 9106
+	}
+
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 43
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 18
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 125
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 25
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 2287
+	}
+}
+#Badakhshan Region (53000) 
+#under the rule of Kokand in 459  
+#Kulob (30000/7500 POPS)   
+1207 = {
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 143
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 68
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 362
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 62
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 6862
+	}
+}
+#Khorugh (23000/5750 POPS)   
+1208 = {
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 87
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 43
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 212
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 43
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 4362
+	}
+
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 18
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 18
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 43
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 6
+	}
+
+	farmers = {
+		culture = turkic
+religion = animist
+		size = 912
+	}
+
+}

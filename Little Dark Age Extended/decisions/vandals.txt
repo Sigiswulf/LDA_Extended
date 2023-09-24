@@ -1,0 +1,100 @@
+political_decisions = {
+
+
+renounced_arianism_van={
+picture = ariancodemn
+potential = {tag = VAN NOT = { has_country_flag = christianconvert } }
+
+allow = {idealism = 1}
+
+effect = { religion = catholic set_country_flag = christianconvert }}
+
+
+
+
+african_roman_prominence={
+picture = vanprom
+potential = {tag = VAN NOT = { has_country_flag = cultural_prominence} }
+
+allow = {state_n_government = 1}
+
+effect = { add_accepted_culture = swiss
+primary_culture = roman_african set_country_flag = cultural_prominence} }
+
+
+create_roman_african_empire = {
+picture = vandal
+		potential = {
+			NOT = { has_country_flag = roman_africa_empire }
+			OR = { 
+				tag = VAN
+				tag = MOR
+			}
+		}	
+		allow = {
+		NOT = { primary_culture = swiss }
+			NOT = { war = yes }
+			NOT = { part_of_sphere = yes }
+			is_greater_power = yes
+			VAN = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			MOR = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			prestige = 30
+			any_country = {
+				limit = {
+					OR = {
+						tag = MOR
+						tag = VAN 
+					}
+					in_sphere = THIS
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			change_tag = AFR
+			any_owned = {
+				limit = {
+					is_core = VAN
+				}
+				add_core = THIS
+			}
+			any_owned = {
+				limit = {
+					is_core = MOR
+				}
+				add_core = THIS
+			}
+			set_country_flag = roman_africa_empire
+			MOR = { all_core = { add_core = THIS } }
+			VAN = { all_core = { add_core = THIS } }
+			MOR = { all_core = { remove_core = MOR } }
+			VAN = { all_core = { remove_core = VAN } }
+		}
+		ai_will_do = {
+			factor = 1
+		}
+
+	}
+}
+

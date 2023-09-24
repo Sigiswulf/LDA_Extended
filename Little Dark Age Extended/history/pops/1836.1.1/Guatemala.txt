@@ -1,0 +1,238 @@
+#Guatemala Region (52888)
+#Ruled by Central America 204
+#Guatemala City (30666/7666 POPS)
+2186 = {
+    aristocrats = {
+        culture = mayan
+religion = animist
+        size = 113
+    }
+
+    bureaucrats = {
+        culture = mayan
+religion = animist
+        size = 33
+    }
+
+    officers = {
+        culture = mayan
+religion = animist
+        size = 28
+    }
+
+    clergymen = {
+        culture = mayan
+religion = animist
+        size = 51
+    }
+
+    artisans = {
+        culture = mayan
+religion = animist
+        size = 255
+    }
+
+    soldiers = {
+        culture = mayan
+religion = animist
+        size = 207
+    }
+
+    farmers = {
+        culture = mayan
+religion = animist
+        size = 4410
+    }
+
+    clergymen = {
+        culture = mayan
+religion = animist
+        size = 25
+    }
+
+    artisans = {
+        culture = mayan
+religion = animist
+        size = 233
+    }
+
+    soldiers = {
+        culture = mayan
+religion = animist
+        size = 47
+    }
+
+    farmers = {
+        culture = mayan
+religion = animist
+        size = 4361
+    }
+}
+#Quetzaltenango (12444/3111 POPS)
+2187 = {
+    aristocrats = {
+        culture = mayan
+religion = animist
+        size = 33
+    }
+
+    clergymen = {
+        culture = mayan
+religion = animist
+        size = 14
+    }
+
+    artisans = {
+        culture = mayan
+religion = animist
+        size = 66
+    }
+
+    soldiers = {
+        culture = mayan
+religion = animist
+        size = 207
+    }
+
+    farmers = {
+        culture = mayan
+religion = animist
+        size = 1020
+    }
+
+    clergymen = {
+        culture = mayan
+religion = animist
+        size = 11
+    }
+
+    artisans = {
+        culture = mayan
+religion = animist
+        size = 116
+    }
+
+    soldiers = {
+        culture = mayan
+religion = animist
+        size = 25
+    }
+
+    farmers = {
+        culture = mayan
+religion = animist
+        size = 2180
+    }
+}
+#Puerto Barrios (8000/2000 POPS)
+2188 = {
+    aristocrats = {
+        culture = mayan
+religion = animist
+        size = 28
+    }
+
+    clergymen = {
+        culture = mayan
+religion = animist
+        size = 9
+    }
+
+    artisans = {
+        culture = mayan
+religion = animist
+        size = 56
+    }
+
+    soldiers = {
+        culture = mayan
+religion = animist
+        size = 14
+    }
+
+    farmers = {
+        culture = mayan
+religion = animist
+        size = 1024
+    }
+
+    clergymen = {
+        culture = mayan
+religion = animist
+        size = 5
+    }
+
+    artisans = {
+        culture = mayan
+religion = animist
+        size = 66
+    }
+
+    soldiers = {
+        culture = mayan
+religion = animist
+        size = 13
+    }
+
+    farmers = {
+        culture = mayan
+religion = animist
+        size = 1247
+    }
+}
+#Sayaxche (1777/444 POPS)
+2189 = {
+    aristocrats = {
+        culture = mayan
+religion = animist
+        size = 12
+    }
+
+    clergymen = {
+        culture = mayan
+religion = animist
+        size = 14
+    }
+
+    artisans = {
+        culture = mayan
+religion = animist
+        size = 19
+    }
+
+    soldiers = {
+        culture = mayan
+religion = animist
+        size = 11
+    }
+
+    farmers = {
+        culture = mayan
+religion = animist
+        size = 8170
+    }
+
+    clergymen = {
+        culture = mayan
+religion = animist
+        size = 21
+    }
+
+    artisans = {
+        culture = mayan
+religion = animist
+        size = 161
+    }
+
+    soldiers = {
+        culture = mayan
+religion = animist
+        size = 222
+    }
+
+    farmers = {
+        culture = mayan
+religion = animist
+        size = 1311
+    }
+}

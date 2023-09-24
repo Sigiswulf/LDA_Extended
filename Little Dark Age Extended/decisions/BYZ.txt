@@ -1,0 +1,165 @@
+political_decisions = {
+	reclaim_rome = {
+	picture = byz_reclaimrome
+		potential = {
+			tag = BYZ
+			NOT = { 
+			has_country_flag = reclaimed_rome
+			}
+			NOT = {
+				has_country_flag = armenian_acceptance
+			}
+			NOT = {
+				has_country_flag = coptic_acceptance
+			}
+		}
+		allow = {
+			owns = 749
+			owns = 758
+			owns = 762
+		}
+		effect = { 
+			PAP_752 = { add_core = BYZ }
+			SIC_763 = { add_core = BYZ }
+			SIC_756 = { add_core = BYZ }
+			ITA_753 = { add_core = BYZ }
+			set_country_flag = reclaimed_rome
+		}
+	}
+	rome_accepted_pops = {
+		potential = {
+			has_country_flag = reclaimed_rome
+			NOT = { 
+				has_country_flag = accepted_rome
+			}
+		}
+		allow = {
+			owns = 749
+			owns = 758
+			owns = 762
+			owns = 780
+			owns = 783
+			nationalism_n_imperialism = 1 
+		}
+		effect = {
+			add_accepted_culture = roman
+			add_accepted_culture = romano_illyrian
+			AUS_771 = { add_core = BYZ }
+			set_country_flag = accepted_rome
+		}
+	}
+	
+	reclaim_proconsularis = {
+	picture = byz_reclaimproconsularius
+		potential = {
+			tag = BYZ
+			NOT = { 
+			has_country_flag = reclaimed_proconsularis 
+			}
+			NOT = {
+				has_country_flag = coptic_acceptance
+			}
+			NOT = {
+				has_country_flag = armenian_acceptance
+			}
+		}
+		allow = {
+			owns = 1725
+			owns = 1731
+			owns = 1734
+		}
+		effect = { 
+			TUN_1726 = { add_core = BYZ }
+			TRI_1731 = { add_core = BYZ }
+			TRI_1734 = { add_core = BYZ }
+			set_country_flag = reclaimed_proconsularis
+		}
+	}
+	carthage_accepted_pops = {
+		potential = {
+			has_country_flag = reclaimed_proconsularis
+			NOT = { has_country_flag = carthage_accepted_pops }
+		}
+		allow = {
+			owns = 1725
+			owns = 1731
+			owns = 1734
+			nationalism_n_imperialism = 1 
+		}
+		effect = {
+			add_accepted_culture = roman_african
+			set_country_flag = carthage_accepted_pops 
+		}
+	}
+	coptic_acceptance = {
+		potential = {
+			tag = BYZ
+			NOT = { 
+			has_country_flag = reclaimed_proconsularis 
+			}
+			NOT = {
+				has_country_flag = reclaimed_rome
+			}
+			NOT = {
+				has_country_flag = coptic_acceptance
+			}
+		}
+		allow = {
+			owns = 1745
+			nationalism_n_imperialism = 1 
+		}
+		effect = {
+			add_accepted_culture = coptic 
+			add_accepted_culture = aramaic 
+			EGY = { all_core = { add_core = THIS } }
+			set_country_flag = coptic_acceptance
+		}
+	}
+	armenian_acceptance = { 
+		potential = {
+			tag = BYZ
+			NOT = {
+				has_country_flag = reclaimed_rome
+			}
+			NOT = { 
+			has_country_flag = reclaimed_proconsularis 
+			}
+			NOT = {
+				has_country_flag = armenian_acceptance
+			}
+		}
+		allow = {
+			owns = 887
+			nationalism_n_imperialism = 1 
+		}
+		effect = {
+			add_accepted_culture = armenian
+			set_country_flag = armenian_acceptance
+		}
+	}
+	
+
+	annex_chersonesos = {
+		potential = { tag = BYZ
+		NOT = { has_country_flag = crimeme}}
+		allow = { CRI = {
+				all_core = {
+						owner = {
+							in_sphere = THIS
+						}
+				}
+			}}
+		effect = { 
+		inherit = CRI  
+		CRI = { 
+			all_core = { 
+			add_core = THIS 
+			} 
+		}
+		set_country_flag = crimeme
+		badboy = 5 
+	}
+	}
+}
+
+

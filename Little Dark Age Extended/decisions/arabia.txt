@@ -1,0 +1,114 @@
+political_decisions = {	
+	create_arabia = {
+		potential = {
+			NOT = { has_global_flag = arabianow }
+			OR = { 
+				tag = NEJ
+				tag = HJZ
+				tag = ABU
+				tag = OMA
+			}
+		}	
+		allow = {
+			NOT = { war = yes }
+			NOT = { part_of_sphere = yes }
+			is_greater_power = yes
+			OMA = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			NEJ = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			HJZ = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+			ABU = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+							in_sphere = THIS
+						}
+					}
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 30
+			any_country = {
+				limit = {
+					OR = {
+						tag = NEJ 
+						tag = OMA 
+						tag = HJZ
+						tag = ABU
+					}
+					in_sphere = THIS
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			change_tag = NEJ
+			any_owned = {
+				limit = {
+					is_core = HJZ
+				}
+				add_core = THIS
+			}
+			any_owned = {
+				limit = {
+					is_core = NEJ
+				}
+				add_core = THIS
+			}
+			any_owned = {
+				limit = {
+					is_core = ABU
+				}
+				add_core = THIS
+			}
+			any_owned = {
+				limit = {
+					is_core = OMA
+				}
+				add_core = THIS
+			}
+			set_global_flag = arabianow
+			NEJ = { all_core = { add_core = THIS } }
+			OMA = { all_core = { add_core = THIS } }
+			ABU = { all_core = { add_core = THIS } }
+			HJZ = { all_core = { add_core = THIS } } 
+			LAK = { all_core = { add_core = THIS } }
+			GHA = { all_core = { add_core = THIS } } 
+			add_accepted_culture = bedouin
+			add_accepted_culture = mashriqi
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

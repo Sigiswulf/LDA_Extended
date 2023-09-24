@@ -1,0 +1,44 @@
+#Vaduz (6666/1666 POPS)
+3252 = {
+	aristocrats = {
+		culture = south_german
+		religion = catholic
+		size = 33
+	}
+
+	bureaucrats = {
+		culture = south_german
+		religion = catholic
+		size = 25
+	}
+
+	officers = {
+		culture = south_german
+		religion = catholic
+		size = 5
+	}
+
+	clergymen = {
+		culture = south_german
+		religion = catholic
+		size = 58
+	}
+
+	artisans = {
+		culture = south_german
+		religion = catholic
+		size = 100
+	}
+
+	soldiers = {
+		culture = south_german
+		religion = catholic
+		size = 66
+	}
+
+	farmers = {
+		culture = south_german
+		religion = catholic
+		size = 1378
+	}
+}

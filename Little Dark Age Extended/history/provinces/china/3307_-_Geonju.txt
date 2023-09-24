@@ -1,0 +1,7 @@
+owner = GOG
+controller = GOG
+add_core = GOG
+trade_goods = iron
+life_rating = 35
+terrain = mountain
+fort = 2

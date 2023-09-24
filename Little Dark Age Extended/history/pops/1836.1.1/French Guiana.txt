@@ -1,0 +1,133 @@
+#French Guiana (2000)
+#Ruled by France 183
+#Cayenne (1700/425 POPS)
+2241 = {
+	aristocrats = {
+culture = native_american_minor
+religion = animist
+		size = 15
+	}
+
+	bureaucrats = {
+culture = native_american_minor
+religion = animist
+		size = 1
+	}
+
+	clergymen = {
+culture = native_american_minor
+religion = animist
+		size = 1
+	}
+
+	artisans = {
+culture = native_american_minor
+religion = animist
+		size = 10
+	}
+
+	soldiers = {
+culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	farmers = {
+culture = native_american_minor
+religion = animist
+		size = 8
+	}
+
+	artisans = {
+culture = native_american_minor
+religion = animist
+		size = 15
+	}
+
+	clergymen = {
+culture = native_american_minor
+religion = animist
+		size = 2
+	}
+
+	soldiers = {
+culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	farmers = {
+culture = native_american_minor
+religion = animist
+		size = 42
+	}
+
+	slaves = {
+culture = native_american_minor
+religion = animist
+		size = 295
+	}
+
+	aristocrats = {
+culture = native_american_minor
+religion = animist
+		size = 0
+	}
+
+	clergymen = {
+culture = native_american_minor
+religion = animist
+		size = 0
+	}
+
+	artisans = {
+culture = native_american_minor
+religion = animist
+		size = 1
+	}
+
+	soldiers = {
+culture = native_american_minor
+religion = animist
+		size = 0
+	}
+
+	farmers = {
+culture = native_american_minor
+religion = animist
+		size = 23
+	}
+}
+#Maripasoula (300/75 POPS)
+2246 = {
+	aristocrats = {
+culture = native_american_minor
+religion = animist
+		size = 1
+	}
+
+	clergymen = {
+culture = native_american_minor
+religion = animist
+		size = 1
+	}
+
+	artisans = {
+culture = native_american_minor
+religion = animist
+		size = 3
+	}
+
+	soldiers = {
+culture = native_american_minor
+religion = animist
+		size = 1
+	}
+
+	farmers = {
+culture = native_american_minor
+religion = animist
+		size = 68
+	}
+
+}

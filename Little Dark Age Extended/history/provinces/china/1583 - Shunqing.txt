@@ -1,0 +1,10 @@
+owner = QII
+controller = QII
+add_core = QII
+#add_core = SZC
+#add_core = TPG
+#add_core = YNN
+trade_goods = tea
+life_rating = 32
+
+set_province_flag = farm

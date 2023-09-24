@@ -1,0 +1,215 @@
+#Macedonia Region (424000) #see Greece.txt and Bulgaria.txt for balance of region 
+#under the rule of Ottoman Empire in 1836  
+#Skopje (424000/106000 POPS) 
+806 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 2450
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 1325
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 2000
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 3000
+	}
+
+	farmers = {
+culture = thracian
+religion = catholic
+		size = 25225
+	}
+
+	clergymen = {
+		culture = thracian
+religion = catholic
+		size = 425
+	}
+
+	artisans = {
+		culture = thracian
+religion = catholic
+		size = 2100
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 1475
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 200
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 6200
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 11600
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 250
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 700
+	}
+
+	farmers = {
+		culture = sephardic
+		religion = jewish
+		size = 275
+	}
+}
+#Monastir Region (268000) #see Greece.txt for balance of region 
+#under the rule of Ottoman Empire in 1836  
+#Bitola (268000/67000 POPS) 
+807 = {
+	clergymen = {
+		culture = thracian
+religion = catholic
+		size = 300
+	}
+
+	artisans = {
+		culture = thracian
+religion = catholic
+		size = 425
+	}
+
+	farmers = {
+		culture = thracian
+religion = catholic
+		size = 16275
+	}
+
+	farmers = {
+		culture = thracian
+religion = catholic
+		size = 20275
+	}
+
+
+
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 1500
+	}
+
+	bureaucrats = {
+culture = greek
+religion = catholic
+		size = 225
+	}
+
+	officers = {
+culture = greek
+religion = catholic
+		size = 175
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 50
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 1300
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 1975
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 125
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 400
+	}
+
+	soldiers = {
+		culture = greek
+religion = catholic
+		size = 1100
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 12275
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 175
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 250
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 9575
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 25
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 975
+	}
+
+}

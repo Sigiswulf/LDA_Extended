@@ -1,0 +1,7 @@
+owner = PYU
+controller = PYU
+add_core = PYU
+trade_goods = opium
+life_rating = 35
+
+set_province_flag = farm

@@ -1,0 +1,198 @@
+
+## Circumnavigation of the Earth
+country_event = {
+
+	id = 23204 # First attempt
+
+	trigger = {
+		not = { has_global_flag = circum_succ }
+		not = { has_country_flag = not_s_circum }
+		not = { has_country_flag = yes_s_circum }
+		not = { has_country_flag = yes_s_circum_2nd }
+		not = { has_country_flag = yes_s_circum_3rd }
+		is_greater_power = yes # Nation is a great power
+		year = 530 # Will happen sometime after 1895
+	}
+
+	mean_time_to_happen =  {
+		months = 12
+
+		modifier = {
+			factor = 0.8
+			year = 540
+		}
+		modifier = {
+			factor = 0.7
+			year = 560
+		}
+		modifier = {
+			factor = 0.1
+			year = 565
+		}
+	}
+	
+	title = "We are going to attempt to circumnavigate the earth"
+	desc = "desc"
+	picture = "dixie"
+
+	option = {
+		name = "EVTOPTA23200" # Support the mission
+		ai_chance = { factor = 25 }
+		prestige = 10
+		set_country_flag = yes_s_circum
+	}
+	option = {
+		name = "EVTOPTB23200" # Consider the idea later
+		ai_chance = { factor = 45 }
+		prestige = -5
+	}
+	option = {
+		name = "EVTOPTC23204" # Reject the idea
+		ai_chance = { factor = 30 }
+		set_country_flag = not_s_circum
+		prestige = -10
+	}
+}
+
+country_event = {
+
+	id = 23205 # First attempt fails, try again?
+
+	trigger = {
+		has_country_flag = yes_s_circum
+		not = { has_global_flag = circum_succ }
+		not = { has_country_flag = not_s_circum }
+		year = 532  # Will happen sometime after 1897
+	}
+
+	mean_time_to_happen = {
+		months = 12
+		modifier = {
+			factor = 0.9
+			year = 541
+		}
+		modifier = {
+			factor = 0.75
+			year =  562
+		}
+		modifier = {
+			factor = 0.5
+			year = 567
+		}
+	}
+
+	title = "Our first attempt has failed, our sailors were eaten by savages in the pacific"
+	desc = "desc"
+	picture = "dixie"
+
+	option = {
+		name = "EVTOPTA23201" # Fund second attempt
+		ai_chance = { factor = 60 }
+		prestige = -20
+		set_country_flag = yes_s_circum_2nd
+		clr_country_flag = yes_s_circum
+	}
+	option = {
+		name = "EVTOPTB23201" # Reject second attempt
+		ai_chance = { factor = 40 }
+		clr_country_flag = yes_s_circum
+		set_country_flag = not_s_circum
+		prestige = -25
+	}
+}
+
+country_event = {
+
+	id = 23206 # Our Mission to the North Pole is lost
+
+	trigger = {
+		has_country_flag = yes_s_circum_2nd
+		not = { has_global_flag = circum_succ }
+		not = { has_country_flag = not_s_circum }
+		year = 532 # Will happen sometime after 1899
+	}
+
+	mean_time_to_happen = {
+		months = 24
+
+		modifier = {
+			factor = 0.8
+			year = 543
+		}
+		modifier = {
+			factor = 0.8
+			year = 566
+		}
+		modifier = {
+			factor = 0.8
+			year = 569
+		}
+	}
+
+	title = "Once again our navigators have been lost, this time their ship sunk near india"
+	desc = "desc"
+	picture = "dixie"
+
+	option = {
+		name = "EVTOPTA23201" # Fund third attempt
+		ai_chance = { factor = 60 }
+		prestige = -40
+		set_country_flag = yes_s_circum_3rd
+		clr_country_flag = yeS_s_circum_2nd
+	}
+	option = {
+		name = "EVTOPTB23201" # Reject second attempt
+		ai_chance = { factor = 40 }
+		clr_country_flag = yes_s_circum_2nd
+		set_country_flag = no_s_circum
+		prestige = -25
+	}
+}
+
+country_event = {
+
+	id = 23207 # The North Pole is discovered!
+	news = yes
+	news_desc_long = "EVTDESC23207_NEWS_LONG"
+	news_desc_medium = "EVTDESC23207_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC23207_NEWS_SHORT"
+
+	trigger = {
+		or = {
+			has_country_flag = yes_s_circum_2nd
+			has_country_flag = yes_s_circum_3rd
+		}
+		not = { has_global_flag = circum_succ }
+		not = { has_country_flag = not_s_circum }
+		year = 530 # Will happen sometime after 1900
+	}
+
+	mean_time_to_happen =  {
+		months = 12
+
+		modifier = {
+			factor = 0.4
+			year = 540
+		}
+		modifier = {
+			factor = 0.7
+			year = 560
+		}
+		modifier = {
+			factor = 0.9
+			year = 565
+		}
+	}
+
+	title = "Our navigators have finally cirumnavigated the world, this is a massive day for humanity"
+	desc = "desc"
+	picture = "dixie"
+
+	option = {
+		name = "EVTOPTA23203" # Success!
+		prestige = 100
+		set_global_flag = circum_succ
+		clr_country_flag = yes_s_circum_2nd
+		clr_country_flag = yes_s_circum_3rd
+	}
+}

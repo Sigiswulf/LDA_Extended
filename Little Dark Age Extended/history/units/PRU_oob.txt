@@ -1,0 +1,203 @@
+leader = {
+	name = "Karl von dem Knesebeck"
+	picture = pru_gen_knesebeck
+	date = 1813.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Leopold von Boyen"
+	picture = pru_gen_boyen
+	date = 1813.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Karl von Müffling"
+	picture = pru_gen_mueffling
+	date = 1813.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Heinrich von Pfuel"
+	picture = pru_gen_pfuel
+	date = 1813.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Karl von Grolman"
+	picture = pru_gen_grolman
+	date = 1815.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Prinz Karl"
+	picture = pru_gen_prinzkarl
+	date = 1824.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.2
+}
+leader = {
+	name = "Wilhelm von Krauseneck"
+	picture = pru_gen_krauseneck
+	date = 1829.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.2
+}
+leader = {
+	name = "Peter von Colomb"
+	picture = pru_gen_colombpeter
+	date = 1829.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.2
+}
+leader = {
+	name = "August von Neumann-Cosel"
+	picture = pru_gen_neumanncosel
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Hans von Zieten"
+	picture = pru_gen_zieten
+	date = 1813.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Ludwig von Borstell"
+	picture = pru_gen_borstell
+	date = 1813.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Gustav von Rauch"
+	picture = pru_gen_rauch
+	date = 1815.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Prinz August"
+	picture = pru_gen_prinzaugust
+	date = 1808.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+
+#Army
+army = {
+	name = "III. Korps"
+	location = 695
+	regiment = {
+		name= "XIII. Linieninfanteriebrigade"
+		type = cavalry
+		home = 696
+	}
+	
+	regiment = {
+		name= "XXV. Linieninfanteriebrigade"
+		type = infantry_offensive
+		home = 580
+	}
+
+	regiment = {
+		name= "XXVI. Linieninfanteriebrigade"
+		type = infantry_offensive
+		home = 581
+	}
+
+	regiment = {
+		name= "XIV. Linieninfanteriebrigade"
+		type = infantry_offensive
+		home = 696
+	}
+
+	regiment = {
+		name= "XV. Linieninfanteriebrigade"
+		type = infantry_offensive
+		home = 693
+	}
+
+	regiment = {
+		name= "III. Pionierbrigade"
+		type = infantry_defensive
+		home = 693
+	}
+
+	regiment = {
+		name= "XVI. Linieninfanteriebrigade"
+		type = infantry_defensive
+		home = 695
+	}
+
+	regiment = {
+		name= "XVII. Linieninfanteriebrigade"
+		type = infantry_defensive
+		home = 695
+	}
+
+	regiment = {
+		name= "XVIII. Linieninfanteriebrigade"
+		type = infantry_defensive
+		home = 698
+	}
+
+	regiment = {
+		name= "III. Artilleriebrigade"
+		type = infantry_defensive
+		home = 698
+	}
+
+}
+
+navy = {
+	name = "Königlich Preußische Marine"
+	location = 690
+	ship = {
+		name= "1. Klipperflottille"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2. Klipperflottille"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3. Klipperflottille"
+		type = clipper_transport
+	}
+
+}
+

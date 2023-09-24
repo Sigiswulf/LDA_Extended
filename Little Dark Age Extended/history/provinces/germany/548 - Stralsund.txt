@@ -1,0 +1,10 @@
+owner = MEC
+controller = MEC
+add_core = MEC
+trade_goods = fish
+life_rating = 43
+1861.1.1 = {
+	fort = 1
+}
+
+set_province_flag = farm

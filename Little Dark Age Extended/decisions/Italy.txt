@@ -1,0 +1,141 @@
+political_decisions = {
+create_pannonia = {
+		potential = {
+			NOT = { has_country_flag = pannonia_formed }
+			OR = { 
+				tag = GEP
+				tag = LOM
+			}
+		}	
+		allow = {
+		owns = 643
+			NOT = { war = yes }
+			LOM = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+							OR = { 
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+			}
+			GEP = {
+				all_core = {
+						OR = {
+						owned_by = THIS
+						owner = {
+							OR = { 
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+			}
+		}
+		effect = {
+		change_tag = PNN
+			prestige = 30
+			add_accepted_culture = gepid
+			add_accepted_culture = lombard
+			add_accepted_culture = goths
+			any_country = {
+				limit = {
+					OR = {
+						tag = GEP 
+						tag = LOM 
+					}
+							OR = { 
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+			
+			any_owned = {
+				limit = {
+					is_core = GEP
+				}
+				add_core = THIS
+			}
+			any_owned = {
+				limit = {
+					is_core = LOM
+				}
+				add_core = THIS
+			}
+			set_country_flag = pannonia_formed 
+			GEP = { all_core = { add_core = THIS } }
+			LOM = { all_core = { add_core = THIS } }
+			GEP = { all_core = { remove_core = GEP } }
+			LOM = { all_core = { remove_core = LOM } }
+			AUS_623 = { 
+					add_core  = THIS
+			} 
+			AUS_768 = { 
+					add_core  = THIS
+			} 
+			AUS_619 = { 
+					add_core  = THIS
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+accept_dacian = {
+	potential = { 
+	tag = PNN
+	NOT = { has_country_flag = dacian_accepted }
+	}
+	allow = {
+	revolution_n_counterrevolution = 1 
+	owns = 660
+	owns = 670
+	owns = 664
+	NOT = { war = yes }
+	}
+	effect = {
+	set_country_flag = dacian_accepted
+		AUS_657 = { 
+					add_core  = THIS
+			}
+		WAL_665 = { 
+					add_core  = THIS
+			}
+	add_accepted_culture = dachian
+}
+}
+integrate_the_balkans = {
+	potential = { 
+	tag = PNN
+	NOT = { has_country_flag = illyrian_accepted }
+	}
+	allow = {
+	revolution_n_counterrevolution = 1 
+	owns = 783
+	owns = 780
+	NOT = { war = yes }
+	}
+	effect = {
+	set_country_flag = illyrian_accepted
+		TUR_788 = { 
+					add_core  = THIS
+			}
+		AUS_771 = { 
+					add_core  = THIS
+			}
+	add_accepted_culture = goths
+	add_accepted_culture = romano_illyrian
+}
+}
+
+}

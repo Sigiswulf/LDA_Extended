@@ -1,0 +1,9 @@
+owner = GOG
+controller = GOG
+add_core = GOG
+add_core = SLL
+trade_goods = timber
+life_rating = 35
+fort = 1
+
+set_province_flag = mine

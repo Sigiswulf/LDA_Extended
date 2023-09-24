@@ -1,0 +1,7 @@
+owner = KAL
+controller = KAL
+add_core = KAL
+trade_goods = fruit
+life_rating = 32
+
+set_province_flag = farm

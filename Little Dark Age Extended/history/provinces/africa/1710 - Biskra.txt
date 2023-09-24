@@ -1,0 +1,10 @@
+owner = VAN
+controller = VAN
+add_core = VAN
+trade_goods = iron
+life_rating = 35
+1861.1.1 = {
+}
+
+set_province_flag = mine
+add_core = BRB

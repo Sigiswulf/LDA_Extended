@@ -1,0 +1,7 @@
+onwer = ETH
+controller = ETH
+add_core = ETH
+trade_goods = grain
+life_rating = 35
+
+set_province_flag = farm

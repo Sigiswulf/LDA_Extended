@@ -1,0 +1,7 @@
+owner = ZOR
+controller = ZOR
+add_core = ZOR
+trade_goods = wool
+life_rating = 0
+
+set_province_flag = farm

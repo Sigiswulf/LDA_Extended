@@ -1,0 +1,8 @@
+
+trade_goods = cotton
+life_rating = 32
+owner = HEP
+controller = HEP
+add_core = HEP
+
+set_province_flag = farm

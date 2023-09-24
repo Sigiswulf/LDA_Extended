@@ -1,0 +1,407 @@
+leader = {
+	name = "Baldomero Espartero"
+	picture = spa_gen_espartero
+	type = land
+	date="1834.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+leader = {
+	name = "Leo O'Donnell"
+	picture = spa_gen_odonnell
+	type = land
+	date="500.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Gerónimo Valdés"
+	picture = spa_gen_valdes
+	type = land
+	date="500.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Juan Van Halen"
+	picture = spa_gen_vanhalen
+	type = land
+	date="1823.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.2
+}
+leader = {
+	name = "Luis Fernández de Córdova"
+	picture = spa_gen_luiscordova
+	type = land
+	date="497.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Gaspar de Jáuregui"
+	picture = spa_gen_jauregui
+	type = land
+	date="497.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+leader = {
+	name = "Casimiro Vigodet"
+	picture = spa_adm_vigodet
+	type = sea
+	date="500.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+}
+
+#Army
+army = {
+	name = "Ejército Cristino del Centro"
+	location = 743
+	regiment = {
+		name= "1. Granaderos del Rey"
+		type = cavalry
+		home = 720
+	}
+
+	regiment = {
+		name= "2. Granaderos del Rey"
+		type = infantry_offensive
+		home = 723
+	}
+
+	regiment = {
+		name= "3. Guardia Real"
+		type = infantry_offensive
+		home = 722
+	}
+
+	regiment = {
+		name= "1. Brigada de Infantería 'El Ramillete'"
+		type = infantry_offensive
+		home = 725
+	}
+
+	regiment = {
+		name= "2. Brigada de Infantería"
+		type = infantry_offensive
+		home = 724
+	}
+
+	regiment = {
+		name= "3. Brigada de Infantería"
+		type = infantry_defensive
+		home = 738
+	}
+
+	regiment = {
+		name= "1. Brigada de Ingenieros"
+		type = infantry_defensive
+		home = 739
+	}
+
+	regiment = {
+		name= "1. Granaderos del Rey"
+		type = infantry_defensive
+		home = 741
+	}
+
+	regiment = {
+		name= "2. Granaderos del Rey"
+		type = infantry_defensive
+		home = 740
+	}
+
+	regiment = {
+		name= "3. Granaderos del Rey"
+		type = infantry_defensive
+		home = 746
+	}
+}
+
+army = {
+	name = "Army of Rome"
+	location = 749
+	
+	regiment = {
+		name= "4. Brigada de Infantería 'San Jorge'"
+		type = cavalry
+		home = 745
+	}
+
+	regiment = {
+		name= "1. Brigada de Artillería"
+		type = infantry_offensive
+		home = 744
+	}
+	
+	regiment = {
+		name= "5. Brigada de Infantería"
+		type = infantry_offensive
+		home = 747
+	}
+	
+	regiment = {
+		name= "6. Brigada de Infantería 'La Granja'"
+		type = infantry_offensive
+		home = 748
+	}
+
+	regiment = {
+		name= "7. Brigada de Infantería"
+		type = infantry_offensive
+		home = 751
+	}
+
+	regiment = {
+		name= "8. Brigada de Infantería"
+		type = infantry_defensive
+		home = 752
+	}
+
+	regiment = {
+		name= "9. Brigada de Infantería"
+		type = infantry_defensive
+		home = 3260
+	}
+
+	regiment = {
+		name= "10. Brigada de Infantería"
+		type = infantry_defensive
+		home = 3260
+	}
+
+	regiment = {
+		name= "11. Brigada de Infantería"
+		type = infantry_defensive
+		home = 753
+	}
+	
+	regiment = {
+		name= "12. Brigada de Infantería"
+		type = artillery
+		home = 757
+	}
+}
+army = {
+	name = "Armée de Raid"
+	location = 754
+	regiment = {
+		name= "1.7 Division de Cuirassier"
+		type = cuirassier
+		home = 750
+	}
+	regiment = {
+		name= "1.4 Division de Cuirassier"
+		type = cuirassier
+		home = 749
+	}
+
+	regiment = {
+		name= "2.4 Division de Cuirassier"
+		type = cuirassier
+		home = 749
+	}
+
+	regiment = {
+		name= "3.4 Division de Cuirassier"
+		type = cuirassier
+		home = 749
+	}
+
+	regiment = {
+		name= "1.5 Division de Cuirassier"
+		type = cuirassier
+		home = 749
+	}
+
+	regiment = {
+		name= "2.5 Division de Cuirassier"
+		type = cuirassier
+		home = 2567
+	}
+
+	regiment = {
+		name= "3.5 Division de Cuirassier"
+		type = cuirassier
+		home = 754
+	}
+
+	regiment = {
+		name= "1.6 Division de Cuirassier"
+		type = cuirassier
+		home = 754
+	}
+
+	regiment = {
+		name= "2.6 Division de Cuirassier"
+		type = cuirassier
+		home = 755
+	}
+
+	regiment = {
+		name= "3.6 Division de Cuirassier"
+		type = cuirassier
+		home = 3258
+	}
+	
+	regiment = {
+		name= "1.1 cuirassier"
+		type = cuirassier
+		home = 3258
+	}
+	
+	regiment = {
+		name= "4.1 cuirassier"
+		type = cuirassier
+		home = 3259
+	}
+}
+navy = {
+	name = "Gothic Fleet"
+	location = 749
+	
+	ship = {
+		name = "Santiago"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Hespéride s"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Centinela"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Isla de  Cuba"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Cristóbal Colón"
+		type = frigate
+	}
+	
+	ship = {
+		name= "1a Flotilla de  Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2a Flotilla de  Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3a Flotilla de  Transporte"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name = "Alerta"
+		type = manowar
+	}
+	
+	ship = {
+		name = "San Fernando"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Legazpi"
+		type = manowar
+	}
+	
+	ship = {
+		name = "Victoria"
+		type = frigate
+	}
+	
+	ship = {
+		name = "Nuestra Señora de l Patrocinio"
+		type = frigate
+	}
+	
+	ship = {
+		name= "1a Flotilla de  Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2a Flotilla de  Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3a Flotilla de  Transporte"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "San Raimundo"
+		type = manowar
+	}
+
+	ship = {
+		name= "Héroe"
+		type = manowar
+	}
+
+	ship = {
+		name= "San Pablo"
+		type = manowar
+	}
+
+	ship = {
+		name= "Ceres"
+		type = frigate
+	}
+
+	ship = {
+		name= "Gloria"
+		type = frigate
+	}
+
+	ship = {
+		name= "Nuestra Señora de  Asunción"
+		type = frigate
+	}
+
+	ship = {
+		name= "Nuestra Señora de  Atocha"
+		type = frigate
+	}
+
+	ship = {
+		name= "Santa Sabina"
+		type = frigate
+	}
+
+	ship = {
+		name= "1a Flotilla de  Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "2a Flotilla de  Transporte"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "3a Flotilla de  Transporte"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "4a Flotilla de  Transporte"
+		type = clipper_transport
+	}
+}

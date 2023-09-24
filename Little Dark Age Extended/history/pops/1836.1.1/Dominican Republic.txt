@@ -1,0 +1,115 @@
+#Hispanola Region (12400) #see Haiti.txt for balance of region
+#Ruled by Haiti 183
+#Santo Domingo (6800/1700 POPS) #now part of Dominican Republic
+2214 = {
+	aristocrats = {
+culture = native_american_minor
+religion = animist
+		size = 30
+	}
+
+	clergymen = {
+culture = native_american_minor
+religion = animist
+		size = 12
+	}
+
+	artisans = {
+culture = native_american_minor
+religion = animist
+		size = 35
+	}
+
+	soldiers = {
+culture = native_american_minor
+religion = animist
+		size = 7
+	}
+
+	farmers = {
+culture = native_american_minor
+religion = animist
+		size = 615
+	}
+
+	clergymen = {
+culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	artisans = {
+culture = native_american_minor
+religion = animist
+		size = 50
+	}
+
+	soldiers = {
+culture = native_american_minor
+religion = animist
+		size = 10
+	}
+
+	farmers = {
+culture = native_american_minor
+religion = animist
+		size = 935
+	}
+}
+#La Vega (5600/1500 POPS) #now part of Dominican Republic
+2216 = {
+	aristocrats = {
+culture = native_american_minor
+religion = animist
+		size = 25
+	}
+
+	clergymen = {
+culture = native_american_minor
+religion = animist
+		size = 10
+	}
+
+	artisans = {
+culture = native_american_minor
+religion = animist
+		size = 40
+	}
+
+	soldiers = {
+culture = native_american_minor
+religion = animist
+		size = 7
+	}
+
+	farmers = {
+culture = native_american_minor
+religion = animist
+		size = 717
+	}
+
+	clergymen = {
+culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	artisans = {
+culture = native_american_minor
+religion = animist
+		size = 30
+	}
+
+	soldiers = {
+culture = native_american_minor
+religion = animist
+		size = 7
+	}
+
+	farmers = {
+culture = native_american_minor
+religion = animist
+		size = 557
+	}
+
+}

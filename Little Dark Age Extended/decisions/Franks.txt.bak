@@ -1,0 +1,125 @@
+political_decisions = {
+move_capital_fra={
+
+potential = {tag = FRA
+owns = 425
+NOT = {capital = 425} }
+
+
+allow = {controls = 425
+NOT = {capital = 425}
+revolution_n_counterrevolution = 1}
+
+
+effect = {capital = 425} }
+
+
+
+
+gallo_roman_prominence={
+
+potential = {tag = FRA
+}
+
+allow = {state_n_government = 1}
+
+effect = { add_accepted_culture = romano_gallic}
+}
+
+
+burgundian_integration={
+
+potential = {tag = FRA}
+
+allow = {nationalism_n_imperialism = 1
+owns = 451
+owns = 607
+owns = 431
+}
+
+effect = { add_accepted_culture = burgundian
+		FRA_451 = { 
+					add_core  = THIS
+			}
+		FRA_428 = { 
+					add_core  = THIS
+			}
+		SWI_605 = { 
+					add_core  = THIS
+			}
+			432 = { 
+					add_core  = THIS
+			}
+}
+}
+gaulic_domination={
+
+potential = {tag = FRA
+}
+
+allow = {nationalism_n_imperialism = 1
+owns = 434
+owns = 439
+owns = 445
+owns = 448
+owns = 458
+owns = 455
+
+}
+
+effect = { 
+set_global_flag = fate_of_gaul
+		FRA_435 = { 
+					remove_core  = SPA
+			}
+		FRA_438 = { 
+					remove_core  = SPA
+			}
+		FRA_442 = { 
+					remove_core  = SPA
+			}
+		FRA_445 = { 
+					remove_core  = SPA
+			}
+		FRA_448 = { 
+					remove_core  = SPA
+			}
+		FRA_458 = { 
+					remove_core  = SPA
+			}
+		FRA_455 = { 
+					remove_core  = SPA
+			}
+}
+}
+frisian_conquest={
+
+potential = {
+OR = {
+tag = FRA
+tag = GER
+tag = SAX
+tag = WUR
+tag = MKL
+}
+}
+
+allow = {nationalism_n_imperialism = 1
+owns = 377
+owns = 375
+owns = 386
+}
+
+effect = { add_accepted_culture = dutch
+		NET_375 = { 
+					add_core  = THIS
+			}
+		NET_379 = { 
+					add_core  = THIS
+			}
+		NET_386 = { 
+					add_core  = THIS
+			}
+}
+}
+}

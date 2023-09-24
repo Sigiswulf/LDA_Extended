@@ -1,0 +1,246 @@
+#Eritrea Region (60000) 
+#under the rule of Egypt in 612  
+#Massawa (9333/2333 POPS)  
+1849 = {
+	aristocrats = {
+		culture = afro_asiatic
+religion = coptic
+		size = 16
+	}
+
+	clergymen = {
+		culture = afro_asiatic
+religion = coptic
+		size = 25
+	}
+
+	artisans = {
+		culture = afro_asiatic
+religion = coptic
+		size = 50
+	}
+
+	soldiers = {
+		culture = afro_asiatic
+religion = coptic
+		size = 8
+	}
+
+	farmers = {
+		culture = afro_asiatic
+religion = coptic
+		size = 900
+	}
+
+	bureaucrats = {
+culture = coptic
+religion = coptic
+		size = 1
+	}
+
+	soldiers = {
+culture = coptic
+religion = coptic
+		size = 6
+	}
+
+	aristocrats = {
+		culture = afro_asiatic
+religion = coptic
+		size = 25
+	}
+
+	clergymen = {
+		culture = afro_asiatic
+religion = coptic
+		size = 25
+	}
+
+	artisans = {
+		culture = afro_asiatic
+religion = coptic
+		size = 66
+	}
+
+	soldiers = {
+		culture = afro_asiatic
+religion = coptic
+		size = 8
+	}
+
+	farmers = {
+		culture = afro_asiatic
+religion = coptic
+		size = 1200
+	}
+}
+#Assab (14666/3666 POPS)  
+1851 = {
+	aristocrats = {
+		culture = afro_asiatic
+religion = coptic
+		size = 41
+	}
+
+	clergymen = {
+		culture = afro_asiatic
+religion = coptic
+		size = 25
+	}
+
+	artisans = {
+		culture = afro_asiatic
+religion = coptic
+		size = 116
+	}
+
+	soldiers = {
+		culture = afro_asiatic
+religion = coptic
+		size = 25
+	}
+
+	farmers = {
+		culture = afro_asiatic
+religion = coptic
+		size = 2125
+	}
+
+	aristocrats = {
+		culture = afro_asiatic
+religion = coptic
+		size = 25
+	}
+
+	clergymen = {
+		culture = afro_asiatic
+religion = coptic
+		size = 25
+	}
+
+	artisans = {
+		culture = afro_asiatic
+religion = coptic
+		size = 66
+	}
+
+	soldiers = {
+		culture = afro_asiatic
+religion = coptic
+		size = 16
+	}
+
+	farmers = {
+		culture = afro_asiatic
+religion = coptic
+		size = 1200
+	}
+}
+#under the rule of Ethiopia in 612  
+#Asmara (26666/6666 POPS)  
+1848 = {
+	aristocrats = {
+		culture = afro_asiatic
+		religion = coptic
+		size = 75
+	}
+
+	bureaucrats = {
+		culture = afro_asiatic
+		religion = coptic
+		size = 5
+	}
+
+	officers = {
+		culture = afro_asiatic
+		religion = coptic
+		size = 8
+	}
+
+	clergymen = {
+		culture = afro_asiatic
+		religion = coptic
+		size = 41
+	}
+
+	artisans = {
+		culture = afro_asiatic
+		religion = coptic
+		size = 200
+	}
+
+	soldiers = {
+		culture = afro_asiatic
+		religion = coptic
+		size = 41
+	}
+
+	farmers = {
+		culture = afro_asiatic
+		religion = coptic
+		size = 3608
+	}
+
+	aristocrats = {
+		culture = afro_asiatic
+religion = coptic
+		size = 50
+	}
+
+	clergymen = {
+		culture = afro_asiatic
+religion = coptic
+		size = 25
+	}
+
+	artisans = {
+		culture = afro_asiatic
+religion = coptic
+		size = 133
+	}
+
+	soldiers = {
+		culture = afro_asiatic
+religion = coptic
+		size = 25
+	}
+
+	farmers = {
+		culture = afro_asiatic
+religion = coptic
+		size = 2433
+	}
+}
+#Akordat (9333/2333 POPS)  
+1850 = {
+	aristocrats = {
+		culture = afro_asiatic
+		religion = coptic
+		size = 41
+	}
+
+	clergymen = {
+		culture = afro_asiatic
+		religion = coptic
+		size = 25
+	}
+
+	artisans = {
+		culture = afro_asiatic
+		religion = coptic
+		size = 116
+	}
+
+	soldiers = {
+		culture = afro_asiatic
+		religion = coptic
+		size = 25
+	}
+
+	farmers = {
+		culture = afro_asiatic
+		religion = coptic
+		size = 2125
+	}
+
+}

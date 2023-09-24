@@ -1,0 +1,25 @@
+#Falkland Islands (36)
+#Ruled by Britain 183
+#Falkland Islands (30/7 POPS)
+2131 = {
+	soldiers = {
+		culture = native_american_minor
+religion = animist
+		size = 2
+	}
+
+	farmers = {
+		culture = native_american_minor
+religion = animist
+		size = 5
+	}
+}
+#South Georgia (6/1 POPS)
+2133 = {
+	farmers = {
+		culture = native_american_minor
+religion = animist
+		size = 1
+	}
+
+}

@@ -1,0 +1,35 @@
+#Guatemala Region (800)
+#Ruled by Britain 204
+#Belize (800/200 POPS)
+2190 = {
+	artisans = {
+culture = mayan
+religion = arian
+		size = 200
+	}
+
+	clergymen = {
+culture = mayan
+religion = arian
+		size = 12
+	}
+
+	artisans = {
+culture = mayan
+religion = arian
+		size = 3111
+	}
+
+	soldiers = {
+culture = mayan
+religion = arian
+		size = 199
+	}
+
+	farmers = {
+culture = mayan
+religion = arian
+		size = 6183
+	}
+
+}

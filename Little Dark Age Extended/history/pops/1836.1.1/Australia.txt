@@ -1,0 +1,1692 @@
+#New South Wales Region 14400
+#Ruled by Britain 183
+#Sydney (6400/1600 POPS)
+2468 = {
+	bureaucrats = {
+		culture = australian
+religion = arian
+		size = 3
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 6
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 350
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 110
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 440
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 50
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 247
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 15
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 280
+	}
+}
+#Newcastle (1600/400 POPS)
+2469 = {
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 25
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 167
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 96
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 92
+	}
+}
+#Port Macquarie (1200/300 POPS)
+2470 = {
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 90
+	}
+
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 10
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 175
+	}
+}
+
+#Eden (1200/300 POPS)
+2472 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 90
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 10
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 185
+	}
+}
+#Wagga Wagga (1200/300 POPS)
+2473 = {
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 90
+	}
+
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 10
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 175
+	}
+}
+#uncolonized in 183
+#Ophir (800/200 POPS)
+2471 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 10
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 175
+	}
+}
+#Moree (800/200 POPS)
+2474 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 10
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 175
+	}
+}
+#Broken Hill (1200/300 POPS)
+2475 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 7
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 15
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 270
+	}
+}
+#Victoria Region - 4400
+#uncolonized in 183
+#Melbourne (1200/300 POPS)
+2476 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 7
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 15
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 270
+	}
+}
+#Warnambool (800/200 POPS)
+2477 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 10
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 175
+	}
+}
+#Ballarat (800/200 POPS)
+2478 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 10
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 175
+	}
+}
+#Sale (800/200 POPS)
+2479 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 10
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 175
+	}
+}
+#Beechworth (400/100 POPS)
+2480 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 90
+	}
+}
+#Swan Hill (400/100 POPS)
+2481 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 90
+	}
+
+}
+#Tasmania Region (3600)
+#ruled by Britain 183
+#Hobart (3600/900 POPS)
+2482 = {
+	bureaucrats = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 10
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 200
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 10
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 677
+	}
+
+}
+#Queensland Region : 6400
+#ruled by Britain 183
+#248 - Brisbane (1200/300 POPS)
+2483 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 10
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 175
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 90
+	}
+}
+#uncolonized in 183
+#Gladstone (800/200 POPS)
+2484 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 10
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 175
+	}
+}
+#Clermont (400/100 POPS)
+2485 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 90
+	}
+}
+#Toowoomba (800/200 POPS)
+2486 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 10
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 175
+	}
+}
+#Townsville (800/200 POPS)
+2487 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 10
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 175
+	}
+}
+#Cooktown (1000/250 POPS)
+2488 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 12
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 227
+	}
+}
+#Longreach (400/100 POPS)
+2489 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 90
+	}
+}
+#Charleville (400/100 POPS)
+2490 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 90
+	}
+
+}
+#Normanton (600/150 POPS)
+2604 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 7
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 137
+	}
+}
+#South Australia Region - 3200
+#uncolonized in 183
+#Adelaide (1200/300 POPS)
+2491 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 7
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 15
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 270
+	}
+}
+#Port Lincoln (400/100 POPS)
+2492 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 90
+	}
+}
+#Robe (400/100 POPS)
+2493 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 90
+	}
+}
+#Port Augusta (400/100 POPS)
+2494 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 90
+	}
+}
+#Oodnadatta (400/100 POPS)
+2495 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 90
+	}
+}
+#Tarcoola (400/100 POPS)
+2496 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 90
+	}
+
+}
+#Western Australia Region : 7100
+#ruled by Britain 183
+#Perth (2300/575 POPS)
+2497 = {
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 4
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 68
+	}
+
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 7
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 12
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 25
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 450
+	}
+}
+#Kojonup (1200/300 POPS)
+2498 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 7
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 15
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 270
+	}
+
+}
+#Geraldton (800/200 POPS)
+2499 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 10
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 175
+	}
+}
+#Kalgoorlie (400/100 POPS)
+2500 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 90
+	}
+}
+#Broome (800/200 POPS)
+2501 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 10
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 175
+	}
+}
+#Dampier (200/50 POPS)
+2502 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 0
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 45
+	}
+}
+#Laverton (280/70 POPS)
+2503 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 3
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 63
+	}
+}
+#Esperance (400/100 POPS)
+2504 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 90
+	}
+
+}
+#Halls Creek (200/50 POPS)
+2601 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 0
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 0
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 45
+	}
+}
+#Roebourne (200/50 POPS)
+2602 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 0
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 0
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 45
+	}
+}
+#Wiluna (320/80 POPS)
+2605 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 4
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 72
+	}
+}
+#Northern Australia Region (3200)
+#uncolonized in 183
+#Palmerston (2000/500 POPS)
+2505 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 7
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 12
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 25
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 450
+	}
+}
+#Tennant Creek (800/200 POPS)
+2506 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 5
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 10
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 2
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 175
+	}
+}
+#Alice Springs (280/70 POPS)
+2507 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 3
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 63
+	}
+
+}
+#Lajamanu (120/30 POPS)
+2603 = {
+	aristocrats = {
+		culture = australian
+religion = arian
+		size = 0
+	}
+
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 0
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 0
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 27
+	}
+
+}
+#Norfolk Island Region (100)
+#Ruled by Britain 183
+#Norfolk Island (100/25 POPS)
+2508 = {
+	clergymen = {
+		culture = australian
+religion = arian
+		size = 0
+	}
+
+	artisans = {
+		culture = australian
+religion = arian
+		size = 1
+	}
+
+	soldiers = {
+		culture = australian
+religion = arian
+		size = 0
+	}
+
+	farmers = {
+		culture = australian
+religion = arian
+		size = 23
+	}
+
+}

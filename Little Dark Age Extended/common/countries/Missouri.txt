@@ -1,0 +1,398 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+color = { 132  152  194 }
+graphical_culture = Generic
+
+party = {
+	name = "MIS_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "MIS_conservative"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pacifism
+}
+
+party = {
+	name = "MIS_socialist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	economic_policy = state_capitalism
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "MIS_reactionary"
+start_date = 500.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "MIS_anarcho_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "MIS_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "MIS_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Kansas City" "St. Louis" Springfield Independence Columbia "Lee's Summit" "O'Fallon" "St. Joseph" "St. Charles" "St. Peters" "Blue Springs" Florissant Joplin Chesterfield
+	}
+	ironclad = {
+        "Kansas City" "St. Louis" Springfield Independence Columbia "Lee's Summit" "O'Fallon" "St. Joseph" "St. Charles" "St. Peters" "Blue Springs" Florissant Joplin Chesterfield
+	}
+	manowar = {
+		"Kansas City" "St. Louis" Springfield Independence Columbia "Lee's Summit" "O'Fallon" "St. Joseph" "St. Charles" "St. Peters" "Blue Springs" Florissant Joplin Chesterfield
+	}
+	cruiser = {
+		"Kansas City" "St. Louis" Springfield Independence Columbia "Lee's Summit" "O'Fallon" "St. Joseph" "St. Charles" "St. Peters" "Blue Springs" Florissant Joplin Chesterfield
+	}
+	frigate = {
+		"Kansas City" "St. Louis" Springfield Independence Columbia "Lee's Summit" "O'Fallon" "St. Joseph" "St. Charles" "St. Peters" "Blue Springs" Florissant Joplin Chesterfield
+	}
+	monitor = {
+		"Kansas City" "St. Louis" Springfield Independence Columbia "Lee's Summit" "O'Fallon" "St. Joseph" "St. Charles" "St. Peters" "Blue Springs" Florissant Joplin Chesterfield
+	}
+	clipper_transport = { 
+		"Kansas City" "St. Louis" Springfield Independence Columbia "Lee's Summit" "O'Fallon" "St. Joseph" "St. Charles" "St. Peters" "Blue Springs" Florissant Joplin Chesterfield
+	}
+	steam_transport = { 
+		"Kansas City" "St. Louis" Springfield Independence Columbia "Lee's Summit" "O'Fallon" "St. Joseph" "St. Charles" "St. Peters" "Blue Springs" Florissant Joplin Chesterfield
+	}
+	commerce_raider = {
+		"Kansas City" "St. Louis" Springfield Independence Columbia "Lee's Summit" "O'Fallon" "St. Joseph" "St. Charles" "St. Peters" "Blue Springs" Florissant Joplin Chesterfield
+	}
+=======
+=======
+>>>>>>> sirbuddyguytest3
+color = { 132  152  194 }
+graphical_culture = Generic
+
+party = {
+	name = "MIS_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "MIS_conservative"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pacifism
+}
+
+party = {
+	name = "MIS_socialist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	economic_policy = state_capitalism
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "MIS_reactionary"
+start_date = 500.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "MIS_anarcho_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "MIS_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "MIS_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Kansas City" "St. Louis" Springfield Independence Columbia "Lee's Summit" "O'Fallon" "St. Joseph" "St. Charles" "St. Peters" "Blue Springs" Florissant Joplin Chesterfield
+	}
+	ironclad = {
+        "Kansas City" "St. Louis" Springfield Independence Columbia "Lee's Summit" "O'Fallon" "St. Joseph" "St. Charles" "St. Peters" "Blue Springs" Florissant Joplin Chesterfield
+	}
+	manowar = {
+		"Kansas City" "St. Louis" Springfield Independence Columbia "Lee's Summit" "O'Fallon" "St. Joseph" "St. Charles" "St. Peters" "Blue Springs" Florissant Joplin Chesterfield
+	}
+	cruiser = {
+		"Kansas City" "St. Louis" Springfield Independence Columbia "Lee's Summit" "O'Fallon" "St. Joseph" "St. Charles" "St. Peters" "Blue Springs" Florissant Joplin Chesterfield
+	}
+	frigate = {
+		"Kansas City" "St. Louis" Springfield Independence Columbia "Lee's Summit" "O'Fallon" "St. Joseph" "St. Charles" "St. Peters" "Blue Springs" Florissant Joplin Chesterfield
+	}
+	monitor = {
+		"Kansas City" "St. Louis" Springfield Independence Columbia "Lee's Summit" "O'Fallon" "St. Joseph" "St. Charles" "St. Peters" "Blue Springs" Florissant Joplin Chesterfield
+	}
+	clipper_transport = { 
+		"Kansas City" "St. Louis" Springfield Independence Columbia "Lee's Summit" "O'Fallon" "St. Joseph" "St. Charles" "St. Peters" "Blue Springs" Florissant Joplin Chesterfield
+	}
+	steam_transport = { 
+		"Kansas City" "St. Louis" Springfield Independence Columbia "Lee's Summit" "O'Fallon" "St. Joseph" "St. Charles" "St. Peters" "Blue Springs" Florissant Joplin Chesterfield
+	}
+	commerce_raider = {
+		"Kansas City" "St. Louis" Springfield Independence Columbia "Lee's Summit" "O'Fallon" "St. Joseph" "St. Charles" "St. Peters" "Blue Springs" Florissant Joplin Chesterfield
+	}
+<<<<<<< HEAD
+=======
+=======
+color = { 132  152  194 }
+graphical_culture = Generic
+
+party = {
+	name = "MIS_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = liberal
+
+	economic_policy = interventionism
+	trade_policy = free_trade
+	religious_policy = pluralism
+	citizenship_policy = residency
+	war_policy = pro_military
+}
+
+party = {
+	name = "MIS_conservative"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = interventionism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = pacifism
+}
+
+party = {
+	name = "MIS_socialist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = socialist
+
+	economic_policy = state_capitalism
+	trade_policy = free_trade
+	religious_policy = secularized
+	citizenship_policy = full_citizenship
+	war_policy = anti_military
+}
+
+party = {
+	name = "MIS_reactionary"
+start_date = 500.1.1
+	end_date = 2000.1.1
+
+	ideology = reactionary
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+party = {
+	name = "MIS_anarcho_liberal"
+	start_date = 1830.1.1
+	end_date = 2000.1.1
+
+	ideology = anarcho_liberal
+
+	economic_policy = laissez_faire
+	trade_policy = free_trade
+	religious_policy = pro_atheism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "MIS_communist"
+	start_date = 1848.1.1
+	end_date = 2000.1.1
+
+	ideology = communist
+
+	economic_policy = planned_economy
+	trade_policy = protectionism
+	religious_policy = pro_atheism
+	citizenship_policy = limited_citizenship
+	war_policy = pro_military
+}
+
+party = {
+	name = "MIS_fascist"
+	start_date = 1905.1.1
+	end_date = 2000.1.1
+
+	ideology = fascist
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = moralism
+	citizenship_policy = residency
+	war_policy = jingoism
+}
+
+unit_names = {
+	dreadnought = {
+		"Kansas City" "St. Louis" Springfield Independence Columbia "Lee's Summit" "O'Fallon" "St. Joseph" "St. Charles" "St. Peters" "Blue Springs" Florissant Joplin Chesterfield
+	}
+	ironclad = {
+        "Kansas City" "St. Louis" Springfield Independence Columbia "Lee's Summit" "O'Fallon" "St. Joseph" "St. Charles" "St. Peters" "Blue Springs" Florissant Joplin Chesterfield
+	}
+	manowar = {
+		"Kansas City" "St. Louis" Springfield Independence Columbia "Lee's Summit" "O'Fallon" "St. Joseph" "St. Charles" "St. Peters" "Blue Springs" Florissant Joplin Chesterfield
+	}
+	cruiser = {
+		"Kansas City" "St. Louis" Springfield Independence Columbia "Lee's Summit" "O'Fallon" "St. Joseph" "St. Charles" "St. Peters" "Blue Springs" Florissant Joplin Chesterfield
+	}
+	frigate = {
+		"Kansas City" "St. Louis" Springfield Independence Columbia "Lee's Summit" "O'Fallon" "St. Joseph" "St. Charles" "St. Peters" "Blue Springs" Florissant Joplin Chesterfield
+	}
+	monitor = {
+		"Kansas City" "St. Louis" Springfield Independence Columbia "Lee's Summit" "O'Fallon" "St. Joseph" "St. Charles" "St. Peters" "Blue Springs" Florissant Joplin Chesterfield
+	}
+	clipper_transport = { 
+		"Kansas City" "St. Louis" Springfield Independence Columbia "Lee's Summit" "O'Fallon" "St. Joseph" "St. Charles" "St. Peters" "Blue Springs" Florissant Joplin Chesterfield
+	}
+	steam_transport = { 
+		"Kansas City" "St. Louis" Springfield Independence Columbia "Lee's Summit" "O'Fallon" "St. Joseph" "St. Charles" "St. Peters" "Blue Springs" Florissant Joplin Chesterfield
+	}
+	commerce_raider = {
+		"Kansas City" "St. Louis" Springfield Independence Columbia "Lee's Summit" "O'Fallon" "St. Joseph" "St. Charles" "St. Peters" "Blue Springs" Florissant Joplin Chesterfield
+	}
+>>>>>>> sirbuddyguytest3
+>>>>>>> sirbuddyguytest2
+}

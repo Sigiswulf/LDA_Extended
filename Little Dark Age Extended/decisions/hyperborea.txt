@@ -1,0 +1,125 @@
+political_decisions={
+form_superfinlandland ={
+picture = hyperborea
+potential = {
+OR = {
+primary_culture = finnish
+primary_culture = ugrian
+primary_culture = hungarian
+primary_culture = sami
+}
+NOT = { has_country_flag = finnic_empire }
+}
+allow ={
+state_n_government = 1 
+
+FIN = { all_core = {OR = {
+			owned_by = THIS
+						owner = {
+							OR = { 
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}}}}
+
+VPS = { all_core = {OR = {
+			owned_by = THIS
+						owner = {
+							OR = { 
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}}}}
+			
+EST = { all_core = {OR = {
+			owned_by = THIS
+						owner = {
+							OR = { 
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}}}}
+
+MRD = { all_core = {OR = {
+			owned_by = THIS
+						owner = {
+							OR = { 
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}}}}
+PRM = { all_core = {OR = {
+			owned_by = THIS
+						owner = {
+							OR = { 
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}}}}
+HUN = { all_core = {OR = {
+			owned_by = THIS
+						owner = {
+							OR = { 
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}}}}
+SAM = { all_core = {OR = {
+			owned_by = THIS
+						owner = {
+							OR = { 
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}}}}
+		}
+effect = {
+
+prestige = 30
+
+any_country = {
+limit = {
+	OR = {
+	   	tag = FIN
+		tag = VPS
+		tag = EST
+		tag = MRD
+		tag = SAM
+		tag = PRM
+		tag = HUN
+		}
+		OR = { 
+			in_sphere = THIS
+			vassal_of = THIS
+			}
+		NOT = {
+		tag = THIS
+		}
+		}
+		annex_to = THIS
+
+}
+set_global_flag = finnic_empire
+set_country_flag = finnic_empire
+change_tag = HYP
+add_accepted_culture = ugrian
+add_accepted_culture = hungarian
+primary_culture = finnish
+FIN = { all_core = { add_core = THIS } }
+VPS = { all_core = { add_core = THIS } }
+EST = { all_core = { add_core = THIS } }
+MRD = { all_core = { add_core = THIS } }
+SAM = { all_core = { add_core = THIS } }
+PRM = { all_core = { add_core = THIS } }
+HUN = { all_core = { add_core = THIS } }
+FIN = { all_core = { remove_core = FIN } }
+VPS = { all_core = { remove_core = VPS } }
+EST = { all_core = { remove_core = EST } }
+MRD = { all_core = { remove_core = MRD } }
+SAM = { all_core = { remove_core = SAM } }
+PRM = { all_core = { remove_core = PRM } }
+}
+}
+}
+
+

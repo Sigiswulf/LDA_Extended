@@ -1,0 +1,470 @@
+country_event = {
+
+    id=8037812
+    is_triggered_only = yes
+	fire_only_once = no
+    title = "EVTNAME8037812"
+	desc = "EVTDESC8037812"
+	picture = "dixie"
+    option = {name = "Change to Cotton"
+    any_owned = {
+	limit = {
+	is_core = CUB
+    OR = {
+    trade_goods = grain
+    trade_goods = fish
+    } 
+    } 
+
+     trade_goods = cotton
+     }
+     
+     }
+    option = {name = "Change to Tobacco"
+    any_owned = {
+	limit = {
+    OR = {
+    trade_goods = grain
+    trade_goods = fish
+    } 
+    } 
+
+     trade_goods = tobacco
+     }
+     }
+    option = {name = "Change to Dye"
+    any_owned = {
+	limit = {
+	is_core = CUB
+    OR = {
+    trade_goods = grain
+    trade_goods = fish
+    } 
+    } 
+
+     trade_goods = dye
+     }
+     }
+    option = {name = "Change to Tropical Wood"
+    any_owned = {
+	limit = {
+	is_core = CUB
+    OR = {
+    trade_goods = grain
+    trade_goods = fish
+    } 
+    } 
+
+     trade_goods = tropical_wood
+     }
+     }
+     option = {name = "Change to Coffee"
+    any_owned = {
+	limit = {
+	is_core = CUB
+    OR = {
+    trade_goods = grain
+    trade_goods = fish
+    } 
+    } 
+
+     trade_goods = coffee
+     }
+     }
+     }
+     
+     
+country_event = {
+
+    id=8037813
+    is_triggered_only = yes
+	fire_only_once = no
+    title = "EVTNAME8037812"
+	desc = "EVTDESC8037812"
+	picture = "dixie"
+    option = {name = "Change to Cotton"
+    any_owned = {
+	limit = {
+	is_core = CSA
+    OR = {
+    trade_goods = grain
+    trade_goods = fish
+    } 
+    } 
+
+     trade_goods = cotton
+     }
+     }
+    option = {name = "Change to Tobacco"
+    any_owned = {
+	limit = {
+    OR = {
+    trade_goods = grain
+    trade_goods = fish
+    } 
+    } 
+
+     trade_goods = tobacco
+     }
+     }
+    option = {name = "Change to Dye"
+    any_owned = {
+	limit = {
+	is_core = CSA
+    OR = {
+    trade_goods = grain
+    trade_goods = fish
+    } 
+    } 
+
+     trade_goods = dye
+     }
+     }
+    option = {name = "Change to Tropical Wood"
+    any_owned = {
+	limit = {
+	is_core = CSA
+    OR = {
+    trade_goods = grain
+    trade_goods = fish
+    } 
+    } 
+
+     trade_goods = tropical_wood
+     }
+     }
+     option = {name = "Change to Coffee"
+    any_owned = {
+	limit = {
+	is_core = CSA
+    OR = {
+    trade_goods = grain
+    trade_goods = fish
+    } 
+    } 
+
+     trade_goods = coffee
+     }
+     }
+     }
+
+country_event = {
+
+    id=8037814
+    is_triggered_only = yes
+	fire_only_once = no
+    title = "EVTNAME8037812"
+	desc = "EVTDESC8037812"
+	picture = "dixie"
+    option = {name = "Change to Cotton"
+    any_owned = {
+	limit = {
+	is_core = GCO
+    OR = {
+    trade_goods = grain
+    trade_goods = fish
+    } 
+    } 
+
+     trade_goods = cotton
+     }
+     }
+    option = {name = "Change to Tobacco"
+    any_owned = {
+	limit = {
+    OR = {
+    trade_goods = grain
+    trade_goods = fish
+    } 
+    } 
+
+     trade_goods = tobacco
+     }
+     }
+    option = {name = "Change to Dye"
+    any_owned = {
+	limit = {
+	is_core = GCO
+    OR = {
+    trade_goods = grain
+    trade_goods = fish
+    } 
+    } 
+
+     trade_goods = dye
+     }
+     }
+    option = {name = "Change to Tropical Wood"
+    any_owned = {
+	limit = {
+	is_core = GCO
+    OR = {
+    trade_goods = grain
+    trade_goods = fish
+    } 
+    } 
+
+     trade_goods = tropical_wood
+     }
+     }
+     option = {name = "Change to Coffee"
+    any_owned = {
+	limit = {
+	is_core = GCO
+    OR = {
+    trade_goods = grain
+    trade_goods = fish
+    } 
+    } 
+
+     trade_goods = coffee
+     }
+     }
+     }
+     
+country_event = {
+
+    id=8037815
+    is_triggered_only = yes
+	fire_only_once = no
+    title = "EVTNAME8037812"
+	desc = "EVTDESC8037812"
+	picture = "dixie"
+    option = {name = "Change to Cotton"
+    any_owned = {
+	limit = {
+	is_core = BRZ
+    OR = {
+    trade_goods = grain
+    trade_goods = fish
+    } 
+    } 
+
+     trade_goods = cotton
+     }
+     }
+    option = {name = "Change to Rubber"
+    any_owned = {
+	limit = {
+    OR = {
+    trade_goods = grain
+    trade_goods = fish
+    } 
+    } 
+
+     trade_goods = rubber
+     }
+     }
+    option = {name = "Change to Dye"
+    any_owned = {
+	limit = {
+	is_core = BRZ
+    OR = {
+    trade_goods = grain
+    trade_goods = fish
+    } 
+    } 
+
+     trade_goods = dye
+     }
+     }
+    option = {name = "Change to Tropical Wood"
+    any_owned = {
+	limit = {
+	is_core = BRZ
+    OR = {
+    trade_goods = grain
+    trade_goods = fish
+    } 
+    } 
+
+     trade_goods = tropical_wood
+     }
+     }
+     option = {name = "Change to Coffee"
+    any_owned = {
+	limit = {
+	is_core = BRZ
+    OR = {
+    trade_goods = grain
+    trade_goods = fish
+    } 
+    } 
+
+     trade_goods = coffee
+     }
+     }
+     }
+     
+   country_event = {
+
+    id=8037817
+    is_triggered_only = yes
+	fire_only_once = no
+    title = "EVTNAME8037812"
+	desc = "EVTDESC8037812"
+	picture = "dixie"
+    option = {name = "Change to Cotton"
+    any_owned = {
+	limit = {
+	is_core = OSL
+    OR = {
+    trade_goods = grain
+    trade_goods = fish
+    } 
+    } 
+
+     trade_goods = cotton
+     }
+     }
+    option = {name = "Change to Tobacco"
+    any_owned = {
+	limit = {
+    OR = {
+    trade_goods = grain
+    trade_goods = fish
+    } 
+    } 
+
+     trade_goods = tobacco
+     }
+     }
+    option = {name = "Change to Dye"
+    any_owned = {
+	limit = {
+	is_core = OSL
+    OR = {
+    trade_goods = grain
+    trade_goods = fish
+    } 
+    } 
+
+     trade_goods = dye
+     }
+     }
+    option = {name = "Change to Tropical Wood"
+    any_owned = {
+	limit = {
+	is_core = OSL
+    OR = {
+    trade_goods = grain
+    trade_goods = fish
+    } 
+    } 
+
+     trade_goods = tropical_wood
+     }
+     }
+     option = {name = "Change to Coffee"
+    any_owned = {
+	limit = {
+	is_core = OSL
+    OR = {
+    trade_goods = grain
+    trade_goods = fish
+    } 
+    } 
+
+     trade_goods = coffee
+     }
+     }
+     }
+     
+     
+     
+  country_event = {
+
+    id=8037818
+    is_triggered_only = yes
+	fire_only_once = no
+    title = "EVTNAME8037812"
+	desc = "EVTDESC8037812"
+	picture = "dixie"
+    option = {name = "Change to Cotton"
+    any_owned = {
+	limit = {
+	is_core = TEX
+    OR = {
+    trade_goods = grain
+    trade_goods = fish
+    } 
+    } 
+
+     trade_goods = cotton
+     }
+     }
+    option = {name = "Change to Tobacco"
+    any_owned = {
+	limit = {
+    OR = {
+    trade_goods = grain
+    trade_goods = fish
+    } 
+    } 
+
+     trade_goods = tobacco
+     }
+     }
+    option = {name = "Change to Dye"
+    any_owned = {
+	limit = {
+	is_core = TEX
+    OR = {
+    trade_goods = grain
+    trade_goods = fish
+    } 
+    } 
+
+     trade_goods = dye
+     }
+     }
+    option = {name = "Change to Tropical Wood"
+    any_owned = {
+	limit = {
+	is_core = TEX
+    OR = {
+    trade_goods = grain
+    trade_goods = fish
+    } 
+    } 
+
+     trade_goods = tropical_wood
+     }
+     }
+     option = {name = "Change to Coffee"
+    any_owned = {
+	limit = {
+	is_core = TEX
+    OR = {
+    trade_goods = grain
+    trade_goods = fish
+    } 
+    } 
+
+     trade_goods = coffee
+     }
+     }
+     }              
+     
+     
+country_event = {
+
+    id=8037819
+    is_triggered_only = yes
+	fire_only_once = no
+    title = "EVTNAME8037812"
+	desc = "EVTDESC8037812"
+	picture = "dixie"
+    option = {name = "Change to Cotton"
+    any_owned = {
+	limit = {
+	is_core = RGD
+    OR = {
+    trade_goods = grain
+    } 
+    } 
+
+     trade_goods = cotton
+     }
+}
+}           

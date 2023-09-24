@@ -1,0 +1,287 @@
+#Cambodia Region (216000)
+#under the rule of Cambodia in 459
+#Phnom Penh (117000/29250 POPS)
+1364 = {
+    aristocrats = {
+        culture = khmer
+religion = mahayana
+        size = 500
+    }
+
+    bureaucrats = {
+        culture = khmer
+religion = mahayana
+        size = 37
+    }
+
+    officers = {
+        culture = khmer
+religion = mahayana
+        size = 50
+    }
+
+    clergymen = {
+        culture = khmer
+religion = mahayana
+        size = 281
+    }
+
+    artisans = {
+        culture = khmer
+religion = mahayana
+        size = 1375
+    }
+
+    soldiers = {
+        culture = khmer
+religion = mahayana
+        size = 1000
+    }
+
+    farmers = {
+        culture = khmer
+religion = mahayana
+        size = 24506
+    }
+
+    slaves = {
+        culture = khmer
+religion = mahayana
+        size = 500
+    }
+
+    clergymen = {
+        culture = khmer
+        religion = mahayana
+        size = 18
+    }
+
+    artisans = {
+        culture = khmer
+        religion = mahayana
+        size = 312
+    }
+
+    farmers = {
+        culture = khmer
+        religion = mahayana
+        size = 668
+    }
+}
+#Kampot (40000/10000 POPS)
+1367 = {
+    aristocrats = {
+        culture = khmer
+religion = mahayana
+        size = 181
+    }
+
+    clergymen = {
+        culture = khmer
+religion = mahayana
+        size = 93
+    }
+
+    artisans = {
+        culture = khmer
+religion = mahayana
+        size = 437
+    }
+
+    soldiers = {
+        culture = khmer
+religion = mahayana
+        size = 275
+    }
+
+    farmers = {
+        culture = khmer
+religion = mahayana
+        size = 8537
+    }
+
+    clergymen = {
+        culture = khmer
+        religion = mahayana
+        size = 6
+    }
+
+    artisans = {
+        culture = khmer
+        religion = mahayana
+        size = 125
+    }
+
+    farmers = {
+        culture = khmer
+        religion = mahayana
+        size = 368
+    }
+}
+#Stongtreng (21000/5250 POPS)
+1368 = {
+    aristocrats = {
+        culture = khmer
+religion = mahayana
+        size = 75
+    }
+
+    clergymen = {
+        culture = khmer
+religion = mahayana
+        size = 43
+    }
+
+    artisans = {
+        culture = khmer
+religion = mahayana
+        size = 225
+    }
+
+    soldiers = {
+        culture = khmer
+religion = mahayana
+        size = 43
+    }
+
+    farmers = {
+        culture = khmer
+religion = mahayana
+        size = 4112
+    }
+
+    aristocrats = {
+        culture = khmer
+        religion = animist
+        size = 12
+    }
+
+    clergymen = {
+        culture = khmer
+        religion = animist
+        size = 12
+    }
+
+    artisans = {
+        culture = khmer
+        religion = animist
+        size = 31
+    }
+
+    soldiers = {
+        culture = khmer
+        religion = animist
+        size = 6
+    }
+
+    farmers = {
+        culture = khmer
+        religion = animist
+        size = 687
+    }
+}
+#under the rule of Siam in 459
+#Battambang (38000/12000 POPS)
+1366 = {
+    aristocrats = {
+        culture = thai
+religion = mahayana
+        size = 6
+    }
+
+    bureaucrats = {
+        culture = thai
+religion = mahayana
+        size = 12
+    }
+
+    officers = {
+        culture = thai
+religion = mahayana
+        size = 18
+    }
+
+    clergymen = {
+        culture = thai
+religion = mahayana
+        size = 6
+    }
+
+    artisans = {
+        culture = thai
+religion = mahayana
+        size = 12
+    }
+
+    soldiers = {
+        culture = thai
+religion = mahayana
+        size = 12
+    }
+
+    farmers = {
+        culture = thai
+religion = mahayana
+        size = 181
+    }
+
+    aristocrats = {
+        culture = khmer
+religion = mahayana
+        size = 187
+    }
+
+    clergymen = {
+        culture = khmer
+religion = mahayana
+        size = 100
+    }
+
+    artisans = {
+        culture = khmer
+religion = mahayana
+        size = 500
+    }
+
+    soldiers = {
+        culture = khmer
+religion = mahayana
+        size = 106
+    }
+
+    farmers = {
+        culture = khmer
+religion = mahayana
+        size = 9856
+    }
+
+    slaves = {
+        culture = khmer
+religion = mahayana
+        size = 275
+    }
+
+    clergymen = {
+        culture = thai
+        religion = mahayana
+        size = 12
+    }
+
+    artisans = {
+        culture = thai
+        religion = mahayana
+        size = 187
+    }
+
+    soldiers = {
+        culture = thai
+        religion = mahayana
+        size = 12
+    }
+
+    farmers = {
+        culture = thai
+        religion = mahayana
+        size = 537
+    }
+}

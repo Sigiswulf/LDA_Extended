@@ -1,0 +1,115 @@
+political_decisions = {
+
+
+build_academy_of_gundeshapur = {
+
+
+potential = { tag = PER}
+
+allow = { nationalism_n_imperialism = 1
+
+positivism = 1}
+
+
+
+effect = { add_country_modifier = {
+name = academy_of_gundeshapur
+duration = -1 }
+prestige 30
+
+}}
+
+
+second_council_of_constantinople = {
+
+
+potential = { tag = BYZ}
+
+allow = { tag = BYZ
+year = 553
+}
+
+effect =
+{
+
+country_event = 7770777
+}
+}
+
+bhuddism_in_japan = {
+
+potential = {tag = JAP}
+
+allow = {
+social_science = 1
+civilized = yes
+}
+
+effect = {
+
+religion = mahayana
+prestige = 20
+relation = {
+with = GOG
+value = 200}
+
+
+}}
+
+lombard_invasion_of_italy = {
+
+potential ={ OR =
+{
+tag = LOM
+tag = GEP
+
+}}
+
+allow =
+{
+machine_guns = 1}
+
+effect = { add_country_modifier = {
+name = lombard_invasion_preparations
+duration = -1 }
+
+
+}
+}
+
+
+
+
+
+successful_lombard_invasion_of_italy = {
+
+potential ={ OR =
+{
+tag = LOM
+tag = GEP
+
+}}
+
+allow =
+{
+machine_guns = 1
+owns = 749
+owns = 743
+owns = 726
+owns = 729
+owns = 752
+owns = 744
+}
+
+effect = {
+prestige = 50
+add_accepted_culture = roman
+ITA = { all_core = { all_core = THIS } }
+any_owned = {
+	limit = {
+	is_core = ITA
+	}
+	add_core = THIS
+	}}}
+
+}

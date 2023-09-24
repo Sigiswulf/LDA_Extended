@@ -1,0 +1,92 @@
+#Ruanda-Urundi Region (94400)  
+#uncolonized in 183/ruled by kingdom of Rwanda
+#Kigali (49600/12400 POPS) 
+2034 = {
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 245
+	}
+
+	bureaucrats = {
+		culture = bantu
+		religion = animist
+		size = 2
+	}
+
+	officers = {
+		culture = bantu
+		religion = animist
+		size = 12
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 175
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 620
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 125
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 11320
+	}
+}
+#uncolonized in 183/ruled by kingdom of Burundi
+#Usumbura (44800/11200 POPS) 
+2035 = {
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 217
+	}
+
+	bureaucrats = {
+		culture = bantu
+		religion = animist
+		size = 1
+	}
+
+	officers = {
+		culture = bantu
+		religion = animist
+		size = 11
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 112
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 560
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 112
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 10185
+	}
+
+}

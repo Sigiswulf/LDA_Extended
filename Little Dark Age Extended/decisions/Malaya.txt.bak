@@ -1,0 +1,69 @@
+political_decisions={
+form_malaya ={
+potential = {
+OR = {
+primary_culture = malay
+primary_culture = javan
+}
+NOT = { has_country_flag = malay_empire }}
+allow ={
+
+JOH = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+
+KNT = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+			
+KMP = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+
+VIJ = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+
+TAR = { all_core = {OR = {
+			owned_by = THIS
+			owner = {in_sphere = THIS}}}}
+
+effect = {
+
+prestige = 30
+
+any_country = {
+limit = {
+	OR = {
+	   	tag = JOH
+		tag = KMP
+		tag = KNT
+		tag = TAR
+		tag = VIJ
+		}
+		in_sphere = THIS
+		NOT = {
+		tag = THIS
+		}
+		}
+		annex_to = THIS
+
+}
+change_tag = MLY
+primary_culture = malay
+add_accepted_culture = javan
+set_country_flag = malay_empire 
+JOH = { all_core = { add_core = THIS } }
+KMP = { all_core = { add_core = THIS } }
+KNT = { all_core = { add_core = THIS } }
+TAR = { all_core = { add_core = THIS } }
+VIJ = { all_core = { add_core = THIS } }
+JOH = { all_core = { remove_core = POL } }
+KMP = { all_core = { remove_core = CRO } }
+KNT = { all_core = { remove_core = SKV } }
+TAR = { all_core = { remove_core = SLO } }
+VIJ = { all_core = { remove_core = ANT } }
+}
+}
+}
+}

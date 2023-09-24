@@ -1,0 +1,1170 @@
+#Cundinamarca Region (5840)
+#Ruled by Colombia 18
+#Bogota (2400/600 POPS)
+2247 = {
+    aristocrats = {
+culture = native_american_minor
+religion = animist
+        size = 21
+    }
+
+    bureaucrats = {
+culture = native_american_minor
+religion = animist
+        size = 3
+    }
+
+    officers = {
+culture = native_american_minor
+religion = animist
+        size = 2
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 8
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 44
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 220
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 881
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 3
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 42
+    }
+
+    slaves = {
+culture = native_american_minor
+religion = animist
+        size = 21
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 3
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 62
+    }
+}
+#Ibaque (880/220 POPS)
+2248 = {
+    aristocrats = {
+culture = native_american_minor
+religion = animist
+        size = 7
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 3
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 16
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 3
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 292
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 11
+    }
+
+    slaves = {
+culture = native_american_minor
+religion = animist
+        size = 4
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 1
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 31
+    }
+}
+#Tunja (560/140 POPS)
+2249 = {
+    aristocrats = {
+culture = native_american_minor
+religion = animist
+        size = 5
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 1
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 7
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 1
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 136
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 4
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 79
+    }
+}
+#Manizales (1160/290 POPS)
+2250 = {
+    aristocrats = {
+culture = native_american_minor
+religion = animist
+        size = 10
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 4
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 24
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 18
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 453
+    }
+}
+#Cucuta (840/210 POPS)
+2251 = {
+    aristocrats = {
+culture = native_american_minor
+religion = animist
+        size = 5
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 2
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 13
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 2
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 246
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 4
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 79
+    }
+}
+#Antioquia Region (4520)
+#Ruled by Colombia 18
+#Medellin (1280/320 POPS)
+2252 = {
+    aristocrats = {
+culture = native_american_minor
+religion = animist
+        size = 11
+    }
+
+    bureaucrats = {
+culture = native_american_minor
+religion = animist
+        size = 2
+    }
+
+    officers = {
+culture = native_american_minor
+religion = animist
+        size = 2
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 3
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 18
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 18
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 286
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 6
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 1
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 93
+    }
+
+    slaves = {
+culture = native_american_minor
+religion = animist
+        size = 51
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 2
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 47
+    }
+}
+#Quibdo (480/120 POPS)
+2253 = {
+    aristocrats = {
+culture = native_american_minor
+religion = animist
+        size = 4
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 4
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 74
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 1
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 1
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 25
+    }
+
+    slaves = {
+culture = native_american_minor
+religion = animist
+        size = 85
+    }
+}
+#Cartagena de Indias (1440/360 POPS)
+2254 = {
+    aristocrats = {
+culture = native_american_minor
+religion = animist
+        size = 11
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 2
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 11
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 18
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 179
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 1
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 17
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 3
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 266
+    }
+
+    slaves = {
+culture = native_american_minor
+religion = animist
+        size = 68
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 1
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 31
+    }
+}
+#Barranquilla (1320/330 POPS)
+2255 = {
+    aristocrats = {
+culture = native_american_minor
+religion = animist
+        size = 11
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 2
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 11
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 18
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 179
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 1
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 15
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 3
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 251
+    }
+
+    slaves = {
+culture = native_american_minor
+religion = animist
+        size = 51
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 15
+    }
+}
+#Cauca Region (3000)
+#Ruled by Colombia 18
+#Cali (920/230 POPS)
+2256 = {
+    aristocrats = {
+culture = native_american_minor
+religion = animist
+        size = 8
+    }
+
+    bureaucrats = {
+culture = native_american_minor
+religion = animist
+        size = 1
+    }
+
+    officers = {
+culture = native_american_minor
+religion = animist
+        size = 1
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 2
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 14
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 18
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 243
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 2
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 34
+    }
+
+    slaves = {
+culture = native_american_minor
+religion = animist
+        size = 12
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 2
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 47
+    }
+}
+#Popayan (680/170 POPS)
+2257 = {
+    aristocrats = {
+culture = native_american_minor
+religion = animist
+        size = 5
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 1
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 9
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 2
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 167
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 1
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 1
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 94
+    }
+}
+#Buenaventura (600/150 POPS)
+2258 = {
+    aristocrats = {
+culture = native_american_minor
+religion = animist
+        size = 5
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 1
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 7
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 52
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 1
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 1
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 30
+    }
+
+    slaves = {
+culture = native_american_minor
+religion = animist
+        size = 85
+    }
+}
+#Pasto (800/200 POPS)
+2259 = {
+    aristocrats = {
+culture = native_american_minor
+religion = animist
+        size = 7
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 1
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 7
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 1
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 134
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 9
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 2
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 174
+    }
+}
+#Rio Negro Region (1280) #see Brazil.txt for balance of region
+#Ruled by Colombia 18
+#San Jose del Guaviare (360/90 POPS)
+2260 = {
+    aristocrats = {
+culture = native_american_minor
+religion = animist
+        size = 1
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 1
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 2
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 45
+    }
+
+    aristocrats = {
+culture = native_american_minor
+religion = animist
+        size = 1
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 5
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 1
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 93
+    }
+}
+#Obando (200/50 POPS)
+2261 = {
+    aristocrats = {
+culture = native_american_minor
+religion = animist
+        size = 1
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 4
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 77
+    }
+}
+#Casanare (600/150 POPS)
+2262 = {
+    aristocrats = {
+culture = native_american_minor
+religion = animist
+        size = 2
+    }
+
+    bureaucrats = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    officers = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 1
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 3
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 59
+    }
+
+    aristocrats = {
+culture = native_american_minor
+religion = animist
+        size = 2
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 1
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 6
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 1
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 124
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 2
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 26
+    }
+
+    slaves = {
+culture = native_american_minor
+religion = animist
+        size = 21
+    }
+}
+#El Encanto (120/30 POPS)
+2263 = {
+    aristocrats = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    clergymen = {
+culture = native_american_minor
+religion = animist
+        size = 1
+    }
+
+    artisans = {
+culture = native_american_minor
+religion = animist
+        size = 2
+    }
+
+    soldiers = {
+culture = native_american_minor
+religion = animist
+        size = 0
+    }
+
+    farmers = {
+culture = native_american_minor
+religion = animist
+        size = 45
+    }
+}

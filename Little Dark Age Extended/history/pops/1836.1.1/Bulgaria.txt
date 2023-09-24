@@ -1,0 +1,837 @@
+#Macedonia Region (153600) #see Greece.txt and Macedonia.txt for balance of region 
+#under the rule of Ottoman Empire in 1468  
+#Petrich (153600/38400 POPS) #now part of Bulgaria 
+808 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 878
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 158
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 1200
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 240
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 12720
+	}
+
+	clergymen = {
+		culture = thracian
+religion = catholic
+		size = 338
+	}
+
+	artisans = {
+		culture = thracian
+religion = catholic
+		size = 720
+	}
+
+	soldiers = {
+		culture = thracian
+religion = catholic
+		size = 158
+	}
+
+	farmers = {
+		culture = thracian
+religion = catholic
+		size = 22298
+	}
+}
+#Bulgaria Region (905599)
+#under the rule of Ottoman Empire in 1468
+#Sofia (207998/51998 POPS)
+809 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 1159
+	}
+
+	bureaucrats = {
+culture = greek
+religion = catholic
+		size = 319
+	}
+
+	officers = {
+culture = greek
+religion = catholic
+		size = 240
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 180
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 1999
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 158
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 12739
+	}
+
+	clergymen = {
+		culture = thracian
+religion = catholic
+		size = 139
+	}
+
+	artisans = {
+		culture = thracian
+religion = catholic
+		size = 1920
+	}
+
+	soldiers = {
+		culture = thracian
+religion = catholic
+		size = 1538
+	}
+
+	farmers = {
+		culture = thracian
+religion = catholic
+		size = 30799
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 120
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 679
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 19
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 780
+	}
+}
+#Vidin (99199/24799 POPS)
+810 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 518
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 60
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 1440
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 578
+	}
+
+	clergymen = {
+		culture = thracian
+religion = catholic
+		size = 120
+	}
+
+	artisans = {
+		culture = thracian
+religion = catholic
+		size = 398
+	}
+
+	farmers = {
+		culture = thracian
+religion = catholic
+		size = 21079
+	}
+
+	farmers = {
+		culture = thracian
+religion = catholic
+		size = 21079
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 2
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 194
+	}
+}
+#Ruse (150398/37598 POPS)
+811 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 840
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 79
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 840
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 158
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 5479
+	}
+
+	clergymen = {
+		culture = thracian
+religion = catholic
+		size = 158
+	}
+
+	artisans = {
+		culture = thracian
+religion = catholic
+		size = 600
+	}
+
+	soldiers = {
+		culture = thracian
+religion = catholic
+		size = 319
+	}
+
+	farmers = {
+		culture = thracian
+religion = catholic
+		size = 28519
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 7
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 590
+	}
+}
+#Pleven (156799/39199 POPS)
+812 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 698
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 79
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 1080
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 158
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 5978
+	}
+
+	clergymen = {
+		culture = thracian
+religion = catholic
+		size = 199
+	}
+
+	artisans = {
+		culture = thracian
+religion = catholic
+		size = 878
+	}
+
+	soldiers = {
+		culture = thracian
+religion = catholic
+		size = 1118
+	}
+
+	farmers = {
+		culture = thracian
+religion = catholic
+		size = 28999
+	}
+}
+#Shumen (115200/28800 POPS)
+813 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 518
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 98
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 758
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 638
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 7658
+	}
+
+	clergymen = {
+		culture = thracian
+religion = catholic
+		size = 120
+	}
+
+	artisans = {
+		culture = thracian
+religion = catholic
+		size = 679
+	}
+
+
+	soldiers = {
+		culture = thracian
+religion = catholic
+		size = 158
+	}
+
+	farmers = {
+		culture = thracian
+religion = catholic
+		size = 18240
+	}
+}
+#Varna (175999/43999 POPS)
+814 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 1039
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 139
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 1680
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 1598
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 9938
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 180
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 1519
+	}
+
+	soldiers = {
+		culture = thracian
+religion = catholic
+		size = 158
+	}
+
+	farmers = {
+		culture = thracian
+religion = catholic
+		size = 12000
+	}
+
+	farmers = {
+		culture = thracian
+religion = catholic
+		size = 16538
+	}
+
+}
+#Rumelia Region (316800)
+#under the rule of Ottoman Empire in 1468
+#Plovdiv (96000/24000 POPS)
+815 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 638
+	}
+
+	bureaucrats = {
+culture = greek
+religion = catholic
+		size = 439
+	}
+
+	officers = {
+culture = greek
+religion = catholic
+		size = 79
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 79
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 878
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 139
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 5220
+	}
+
+	clergymen = {
+		culture = thracian
+religion = catholic
+		size = 60
+	}
+
+	artisans = {
+		culture = thracian
+religion = catholic
+		size = 360
+	}
+
+	soldiers = {
+		culture = thracian
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = thracian
+religion = catholic
+		size = 10778
+	}
+
+	clergymen = {
+		culture = thracian
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+		culture = thracian
+religion = catholic
+		size = 158
+	}
+
+	farmers = {
+		culture = thracian
+religion = catholic
+		size = 2198
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 79
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 480
+	}
+
+	soldiers = {
+		culture = greek
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 1759
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 7
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 590
+	}
+}
+#Stara Zagora (63998/15998 POPS)
+816 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 259
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 439
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 3979
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 60
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 360
+	}
+
+	soldiers = {
+		culture = thracian
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = thracian
+religion = catholic
+		size = 9098
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 19
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 1500
+	}
+}
+#Burgas (156799/39199 POPS)
+817 = {
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 878
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 98
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 720
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 199
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 8498
+	}
+
+	clergymen = {
+		culture = thracian
+religion = catholic
+		size = 139
+	}
+
+	artisans = {
+		culture = thracian
+religion = catholic
+		size = 439
+	}
+
+	soldiers = {
+		culture = thracian
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = thracian
+religion = catholic
+		size = 20138
+	}
+
+	clergymen = {
+		culture = thracian
+religion = catholic
+		size = 60
+	}
+
+	artisans = {
+		culture = thracian
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = thracian
+religion = catholic
+		size = 3000
+	}
+
+	clergymen = {
+		culture = greek
+religion = catholic
+		size = 120
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 720
+	}
+
+	soldiers = {
+		culture = greek
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = greek
+religion = catholic
+		size = 3878
+	}
+
+}
+#Dobruja Region (67200) #see Romania.txt for balance of Region  
+#under the rule of the Ottoman Empire in 1468 
+#Silistre (67200/16800 POPS) #now part of Bulgaria  
+818 = {
+	clergymen = {
+		culture = thracian
+religion = catholic
+		size = 38 
+	}
+
+	artisans = {
+		culture = thracian
+religion = catholic
+		size = 360
+	}
+
+	soldiers = {
+		culture = thracian
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+		culture = thracian
+religion = catholic
+		size = 7519
+	}
+
+	clergymen = {
+		culture = romanian
+religion = catholic
+		size = 60 
+	}
+
+	artisans = {
+		culture = dachian
+religion = catholic
+		size = 158
+	}
+
+	soldiers = {
+		culture = dachian
+religion = catholic
+		size = 79 
+	}
+
+	farmers = {
+		culture = dachian
+religion = catholic
+		size = 3698 
+	}
+
+	aristocrats = {
+culture = greek
+religion = catholic
+		size = 319 
+	}
+
+	clergymen = {
+culture = greek
+religion = catholic
+		size = 38
+	}
+
+	artisans = {
+culture = greek
+religion = catholic
+		size = 360
+	}
+
+	soldiers = {
+culture = greek
+religion = catholic
+		size = 79
+	}
+
+	farmers = {
+culture = greek
+religion = catholic
+		size = 4080  
+	}
+}

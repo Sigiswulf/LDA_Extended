@@ -1,0 +1,213 @@
+leader = {
+	name = "Qii Chong"
+	picture = chi_gen_zuozongtang
+	date = 500.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+
+leader = {
+	name = "Bu Bu"
+	picture = chi_gen_zhidong
+	date = 500.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+
+army = {
+	name = "Army of The Shanghai Blue Banner"
+	location = 2221
+
+	regiment = {
+		name= "1.Shanghai Blue Banner"
+		type = irregular
+		home = 1536
+	}
+
+	regiment = {
+		name= "2.Shanghai Blue Banner"
+		type = irregular
+		home = 1543
+	}
+
+	regiment = {
+		name= "3.Shanghai Blue Banner"
+		type = irregular
+		home = 1541
+	}
+	
+	regiment = {
+		name= "4.Shanghai Blue Banner"
+		type = irregular
+		home = 1540
+	}
+
+	regiment = {
+		name= "5.Shanghai Blue Banner"
+		type = irregular
+		home = 1539
+	}
+
+	regiment = {
+		name= "6.Shanghai Blue Banner"
+		type = irregular
+		home = 1537
+	}
+	
+	regiment = {
+		name= "7.Shanghai Blue Banner"
+		type = irregular
+		home = 1608
+	}
+
+	regiment = {
+		name= "8.Shanghai Blue Banner"
+		type = irregular
+		home = 1477
+	}
+
+	regiment = {
+		name= "9.Shanghai Blue Banner"
+		type = irregular
+		home = 1475
+	}
+
+	regiment = {
+		name= "10.Shanghai Blue Banner"
+		type = cavalry
+		home = 1474
+	}
+}
+
+army = {
+	name = "1st Green Standard Army"
+	location = 1522
+	regiment = {
+		name= "1st Green Standard"
+		type = irregular
+		home = 1470
+	}
+
+	regiment = {
+		name= "2nd Green Standard"
+		type = irregular
+		home = 1471
+	}
+
+	regiment = {
+		name= "3rd Green Standard"
+		type = irregular
+		home = 1518
+	}
+	
+	regiment = {
+		name= "4th Green Standard"
+		type = irregular
+		home = 1516
+	}
+
+	regiment = {
+		name= "5th Green Standard"
+		type = irregular
+		home = 1517
+	}
+
+	regiment = {
+		name= "6th Green Standard"
+		type = irregular
+		home = 1520
+	}
+	
+		regiment = {
+		name= "7th Green Standard"
+		type = irregular
+		home = 1523
+	}
+
+	regiment = {
+		name= "8th Green Standard"
+		type = irregular
+		home = 1521
+	}
+
+	regiment = {
+		name= "9th Green Standard"
+		type = irregular
+		home = 1581
+	}
+	
+	regiment = {
+		name= "10th Green Standard"
+		type = cavalry
+		home = 1579
+	}
+}
+
+army = {
+	name = "2nd Green Standard Army"
+	location = 1493
+	
+	regiment = {
+		name= "10th Green Standard"
+		type = irregular
+		home = 1530
+	}
+
+	regiment = {
+		name= "11th Green Standard"
+		type = irregular
+		home = 1524
+	}
+
+	regiment = {
+		name= "12th Green Standard"
+		type = irregular
+		home = 1529
+	}
+	
+	regiment = {
+		name= "13th Green Standard"
+		type = irregular
+		home = 1493
+	}
+
+	regiment = {
+		name= "14th Green Standard"
+		type = irregular
+		home = 1496
+	}
+
+	regiment = {
+		name= "15th Green Standard"
+		type = irregular
+		home = 1494
+	}
+	
+	regiment = {
+		name= "16th Green Standard"
+		type = irregular
+		home = 1583
+	}
+
+	regiment = {
+		name= "17th Green Standard"
+		type = irregular
+		home = 1482
+	}
+
+	regiment = {
+		name= "18th Green Standard"
+		type = irregular
+		home = 1550
+	}
+	
+	regiment = {
+		name= "19th Green Standard"
+		type = cavalry
+		home = 1584
+	}
+}

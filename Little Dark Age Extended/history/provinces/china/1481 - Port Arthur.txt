@@ -1,0 +1,8 @@
+owner = GOG
+controller = GOG
+add_core = GOG
+trade_goods = precious_metal
+life_rating = 35
+fort = 2
+
+set_province_flag = mine

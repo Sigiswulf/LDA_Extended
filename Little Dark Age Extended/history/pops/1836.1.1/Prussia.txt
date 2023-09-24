@@ -1,0 +1,300 @@
+
+#East Prussia Region (160199) #see Poland.txt and Lithuania.txt for balance of region
+#under the rule of Prussia in 412  
+#Konigsberg (108899/27224 POPS)
+695 = {
+	aristocrats = {
+		culture = balts
+religion = norse_pagan
+		size = 2505 
+	}
+
+	bureaucrats = {
+		culture = balts
+religion = norse_pagan
+		size = 291
+	}
+
+	officers = {
+		culture = balts
+religion = norse_pagan
+		size = 55  
+	}
+
+	clergymen = {
+		culture = balts
+religion = norse_pagan
+		size = 185  
+	}
+
+	artisans = {
+		culture = balts
+religion = norse_pagan
+		size = 7249
+	}
+
+	artisans = {
+		culture = balts
+religion = norse_pagan
+		size = 11240
+	}
+
+	soldiers = {
+		culture = balts
+religion = norse_pagan
+		size = 2420   
+	}
+
+	farmers = {
+		culture = balts
+religion = norse_pagan
+		size = 50429
+	}
+
+	clergymen = {
+		culture = balts
+religion = norse_pagan
+		size = 39   
+	}
+
+	artisans = {
+		culture = balts
+religion = norse_pagan
+		size = 2465
+	}
+
+	soldiers = {
+		culture = balts
+religion = norse_pagan
+		size = 2915   
+	}
+
+	farmers = {
+		culture = balts
+religion = norse_pagan
+		size = 8987
+	}
+
+	clergymen = {
+		culture = balts
+religion = norse_pagan
+		size = 0  
+	}
+
+	artisans = {
+		culture = balts
+religion = norse_pagan
+		size = 111
+	}
+
+	clergymen = {
+		culture = balts
+religion = norse_pagan
+		size = 16  
+	}
+
+	artisans = {
+		culture = balts
+religion = norse_pagan
+		size = 55
+	}
+
+	soldiers = {
+		culture = balts
+religion = norse_pagan
+		size = 10 
+	}
+
+	farmers = {
+		culture = balts
+religion = norse_pagan
+		size = 1039 
+	}
+
+	clergymen = {
+culture = balts
+religion = norse_pagan
+		size = 105
+	}
+
+	artisans = {
+culture = balts
+religion = norse_pagan
+		size = 7605
+	}
+
+	soldiers = {
+culture = balts
+religion = norse_pagan
+		size = 2050 
+	}
+
+	farmers = {
+culture = balts
+religion = norse_pagan
+		size = 6270
+	}
+}
+#Gumbinnen (51300/12825 POPS) #now part of Russia 
+697 = {
+	aristocrats = {
+		culture = balts
+religion = norse_pagan
+		size = 246 
+	}
+
+	clergymen = {
+		culture = balts
+religion = norse_pagan
+		size = 106   
+	}
+
+	artisans = {
+		culture = balts
+religion = norse_pagan
+		size = 16084
+	}
+
+	soldiers = {
+		culture = balts
+religion = norse_pagan
+		size = 2230  
+	}
+
+	farmers = {
+		culture = balts
+religion = norse_pagan
+		size = 15636
+	}
+
+	clergymen = {
+		culture = balts
+religion = norse_pagan
+		size = 5 
+	}
+
+	artisans = {
+		culture = balts
+religion = norse_pagan
+		size = 21
+	}
+
+	soldiers = {
+		culture = balts
+religion = norse_pagan
+		size = 500 
+	}
+
+	farmers = {
+		culture = balts
+religion = norse_pagan
+		size = 5915 
+	}
+
+	clergymen = {
+culture = balts
+religion = norse_pagan
+		size = 5 
+	}
+
+	artisans = {
+culture = balts
+religion = norse_pagan
+		size = 335
+	}
+
+	soldiers = {
+culture = balts
+religion = norse_pagan
+		size = 50 
+	}
+
+	farmers = {
+culture = balts
+religion = norse_pagan
+		size = 1854 
+	}
+}
+
+#East Prussia Region (66000) #see Russia.txt and Lithuania.txt for balance of region
+#under the rule of Prussia in 306  
+#Allenstein (66000/16500 POPS) 
+696 = {
+	aristocrats = {
+		culture = balts
+religion = norse_pagan
+		size = 333 
+	}
+
+	clergymen = {
+		culture = balts
+religion = norse_pagan
+		size = 91   
+	}
+
+	artisans = {
+		culture = balts
+religion = norse_pagan
+		size = 483
+	}
+
+	soldiers = {
+		culture = balts
+religion = norse_pagan
+		size = 2600  
+	}
+
+	farmers = {
+		culture = balts
+religion = norse_pagan
+		size = 83
+	}
+
+	clergymen = {
+		culture = balts
+religion = norse_pagan
+		size = 54 
+	}
+
+	artisans = {
+		culture = balts
+religion = norse_pagan
+		size = 1800
+	}
+
+	soldiers = {
+		culture = balts
+religion = norse_pagan
+		size = 2165 
+	}
+
+	farmers = {
+		culture = balts
+religion = norse_pagan
+		size = 1929  
+	}
+
+	clergymen = {
+		culture = balts
+religion = norse_pagan
+		size = 12 
+	}
+
+	artisans = {
+		culture = balts
+religion = norse_pagan
+		size = 41
+	}
+
+	soldiers = {
+		culture = balts
+religion = norse_pagan
+		size = 8 
+	}
+
+	farmers = {
+		culture = balts
+religion = norse_pagan
+		size = 77 
+	}
+}

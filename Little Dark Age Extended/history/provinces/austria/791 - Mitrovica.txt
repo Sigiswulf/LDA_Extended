@@ -1,0 +1,9 @@
+owner = GEP
+controller = GEP
+add_core = GEP
+add_core = ILY
+trade_goods = timber
+life_rating = 35
+1861.1.1 = { railroad = 3 }
+
+set_province_flag = mine

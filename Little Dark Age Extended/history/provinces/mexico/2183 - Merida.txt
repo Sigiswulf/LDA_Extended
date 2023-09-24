@@ -1,0 +1,4 @@
+owner = YUCcontroller = YUCadd_core = YUCtrade_goods = grain
+life_rating = 30
+set_province_flag = farm
+add_core = AMR

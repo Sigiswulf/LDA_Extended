@@ -1,0 +1,7 @@
+owner = JEW
+controller = JEW
+add_core = JEW
+trade_goods = wool
+life_rating = 0
+
+set_province_flag = farm

@@ -1,0 +1,163 @@
+
+#### PLAUGE OF JUSTINIAN ####
+
+country_event = {
+	id = 536002
+	title = "Plague Ravages Nation"
+	desc = "A plauge has been spreading throughout our nation, its destruction leaves no one untouched. Population growth will be extremely affected."
+	picture = "plauge"
+
+trigger = {
+year = 541
+NOT = { has_country_flag = pluage_jst}
+NOT = { has_country_flag = had_pluage_jst }
+}
+
+mean_time_to_happen = { 
+months = 6}
+
+
+option = {
+name = "This is bad"
+set_country_flag = pluage_jst
+add_country_modifier = { name = pluage_jst duration = -1 }
+}
+}
+
+country_event = {
+	id = 536003
+	title = "Plague Calms Down"
+	desc = "A plauge has been spreading throughout our nation, it has now receeded and lives are begining to be normal once more. Population growth will be extremely positively affected."
+	picture = "plauge"
+
+trigger = {
+year = 548
+has_country_flag = pluage_jst
+NOT = { has_country_flag = had_pluage_jst }
+}
+
+
+mean_time_to_happen = { 
+months = 12}
+
+
+option = {
+name = "This is good"
+remove_country_modifier = pluage_jst
+set_country_flag = had_pluage_jst 
+}
+
+}
+
+
+
+
+##### LITTLE ICE AGE #####
+
+country_event = {
+	id = 536004
+	title = "The Little Ice Age"
+	desc = "POPs & militancy will be affected"
+	picture = "dixie"
+
+trigger = {
+year = 536
+NOT = { primary_culture = bedouin}
+NOT = { primary_culture = afro_asiatic}
+NOT = { has_country_flag = iceage_1}
+NOT = { has_country_flag = had_iceage_1 }
+}
+
+mean_time_to_happen = { 
+months = 6}
+
+
+option = {
+name = "This is bad"
+set_country_flag = iceage_1
+add_country_modifier = { name = iceage_1 duration = -1 }
+}
+}
+
+country_event = {
+	id = 536005
+	title = "ice_age_2"
+	desc = "POPs & militancy will be affected"
+	picture = "dixie"
+
+trigger = {
+year = 560
+NOT = { primary_culture = bedouin}
+NOT = { primary_culture = afro_asiatic}
+has_country_flag = iceage_1
+NOT = { has_country_flag = had_iceage_1 }
+}
+
+
+mean_time_to_happen = { 
+months = 12}
+
+
+option = {
+name = "This is good"
+remove_country_modifier = iceage_1
+set_country_flag = had_iceage_1 
+}
+
+}
+
+country_event = {
+	id = 536006
+	title = "The Little Ice Age - Arabian Penninsula"
+	desc = "POPs & militancy will be affected"
+	picture = "dixie"
+
+trigger = {
+year = 536
+OR = {
+primary_culture = bedouin
+primary_culture = afro_asiatic}
+
+NOT = { has_country_flag = iceage_arab}
+NOT = { has_country_flag = had_iceage_arab }
+}
+
+mean_time_to_happen = { 
+months = 6}
+
+
+option = {
+name = "This is excellent"
+set_country_flag = iceage_arab
+add_country_modifier = { name = iceage_arab duration = -1 }
+}
+}
+
+country_event = {
+	id = 536007
+	title = "Ice Age Ends - Arabian Penninsula"
+	desc = "POP growth & RGOs will be affected"
+	picture = "dixie"
+
+trigger = {
+year = 560
+OR = {
+primary_culture = bedouin
+primary_culture = afro_asiatic}
+has_country_flag = iceage_arab
+NOT = { has_country_flag = had_iceage_arab }
+}
+
+
+mean_time_to_happen = { 
+months = 12}
+
+
+option = {
+name = "It was fun while it lasted"
+remove_country_modifier = iceage_arab
+set_country_flag = had_iceage_arab 
+}
+
+}
+

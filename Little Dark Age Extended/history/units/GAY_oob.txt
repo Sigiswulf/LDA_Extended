@@ -1,0 +1,56 @@
+army = {
+	name = "Reserve Army"
+	location = 3298
+	regiment = {
+		name= "1. Reserve"
+		type = irregular
+		home = 3298	
+	}
+
+	regiment = {
+		name= "2. Reserve"
+		type = irregular
+		home = 3298	
+	}
+
+	regiment = {
+		name= "3. Reserve"
+		type = irregular
+		home = 3298	
+	}
+}
+
+navy = {
+	name = "Gaya Fleet"
+	location = 3298	
+	ship = {
+		name= "Yarr"
+		type = frigate
+	}
+
+	ship = {
+		name= "Harr"
+		type = frigate
+	}
+
+	ship = {
+		name= "Cointaker"
+		type = frigate
+	}
+
+	ship = {
+		name= "Treasuremaker"
+		type = frigate
+	}
+
+	ship = {
+		name= "Skullard"
+		type = frigate
+	}
+
+	ship = {
+		name= "Red and Black"
+		type = frigate
+	}
+}
+

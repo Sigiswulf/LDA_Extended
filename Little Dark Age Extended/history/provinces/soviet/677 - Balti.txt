@@ -1,0 +1,13 @@
+owner = SKV
+controller = SKV
+add_core = SKV
+
+trade_goods = fruit
+life_rating = 35
+1861.1.1 = {
+	remove_core = MOL
+}
+
+set_province_flag = farm
+add_core = DAC
+add_core = SIB

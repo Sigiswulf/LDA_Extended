@@ -1,0 +1,986 @@
+#Congo Region (18040)
+##under the rule of Kongo in 18
+#Kinshasa (14080/3520 POPS)
+1982 = {
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 61
+	}
+	
+	bureaucrats = {
+		culture = bantu
+		religion = animist
+		size = 7
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 35
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 100
+	}
+	
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 40
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 30
+
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 5
+
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 2469
+	}
+
+	slaves = {
+		culture = bantu
+		religion = animist
+		size = 770
+	}
+}
+#Boma (3960/990 POPS)
+1983 = {
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 6
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 3
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 43
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 11
+
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 742
+	}
+
+	slaves = {
+		culture = bantu
+		religion = animist
+		size = 200
+	}
+}
+#Kasai Region (54560)
+#under the rule of Kuba in 18
+#Kananga (20240/5060 POPS)
+1984 = {
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 2
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 1
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 7
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 5
+
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 168
+	}
+
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 22
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 14
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 60
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 30
+
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 16
+
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 1326
+	}
+
+	slaves = {
+		culture = bantu
+		religion = animist
+		size = 503
+	}
+}
+#Kumbana (13640/3410 POPS)
+1985 = {
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 11
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 5
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 23
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 19
+
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 796
+	}
+
+	slaves = {
+		culture = bantu
+		religion = animist
+		size = 30
+	}
+
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 11
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 5
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 27
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 16
+
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 731
+	}
+
+	slaves = {
+		culture = bantu
+		religion = animist
+		size = 203
+	}
+}
+#under the rule of Luba in 18
+#Lusambo (20680/5170 POPS)
+1986 = {
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 11
+	}
+	
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 5
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 23
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 19
+
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 419
+	}
+
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 22
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 11
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 56
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 15
+
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 1084
+	}
+
+	slaves = {
+		culture = bantu
+		religion = animist
+		size = 270
+	}
+}
+#Katanga Region (91564)
+#under the rule of Kazembe in 18
+#Bunkeya (48884/12221 POPS)
+1987 = {
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 71
+	}
+
+	bureaucrats = {
+		culture = bantu
+		religion = animist
+		size = 0
+	}
+
+	officers = {
+		culture = bantu
+		religion = animist
+		size = 2
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 35
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 100
+	}
+	
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 43
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 30
+
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 10
+
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 2971
+	}
+
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 9
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 4
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 23
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 13
+
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 434
+	}
+
+	slaves = {
+		culture = bantu
+		religion = animist
+		size = 330
+	}
+}
+#under the rule of Luba in 18
+#Mussumba (11880/2970 POPS)
+1988 = {
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 11
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 6
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 24
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 19
+
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 354
+	}
+
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 6
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 3
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 18
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 11
+
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 334
+	}
+
+	slaves = {
+		culture = bantu
+		religion = animist
+		size = 220
+	}
+}
+#under the rule of Luba in 18
+#Munza (30800/7700 POPS)
+1989 = {
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 40
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 18
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 75
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 27
+
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 1243
+	}
+
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 12
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 7
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 34
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 22
+
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 630
+	}
+
+	slaves = {
+		culture = bantu
+		religion = animist
+		size = 476
+	}
+}
+#Maniema Region (33044)
+#under the rule of Luba in 18
+#Nyangwe (11440/2860 POPS)
+1990 = {
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 8
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 4
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 19
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 13
+
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 393
+	}
+
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 9
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 4
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 23
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 13
+
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 534
+	}
+
+	slaves = {
+		culture = bantu
+		religion = animist
+		size = 196
+	}
+}
+#Uvira (8360/2090 POPS)
+1991 = {
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 13
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 7
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 28
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 22
+
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 593
+	}
+
+	slaves = {
+		culture = bantu
+		religion = animist
+		size = 196
+	}
+}
+#Basoko (13244/3311 POPS)
+1992 = {
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 21
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 11
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 44
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 11
+
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 859
+	}
+
+	slaves = {
+		culture = bantu
+		religion = animist
+		size = 256
+	}
+}
+#Equateur Region (25520)
+#uncolonized in 18
+#Irebu (6600/1650 POPS)
+1993 = {
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 11
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 5
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 22
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 16
+
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 596
+	}
+
+	slaves = {
+		culture = bantu
+		religion = animist
+		size = 150
+	}
+}
+#Nsheng (6600/1650 POPS)
+1994 = {
+	aristocrats = {
+		culture = bantu
+		religion = animist
+		size = 11
+	}
+
+	clergymen = {
+		culture = bantu
+		religion = animist
+		size = 5
+	}
+
+	artisans = {
+		culture = bantu
+		religion = animist
+		size = 22
+	}
+
+	soldiers = {
+		culture = bantu
+		religion = animist
+		size = 16
+
+	}
+
+	farmers = {
+		culture = bantu
+		religion = animist
+		size = 596
+	}
+
+	slaves = {
+		culture = bantu
+		religion = animist
+		size = 150
+	}
+}
+#Gemena (12320/3080 POPS)
+1995 = {
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 20
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 11
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 41
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 11
+
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 797
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 146
+	}
+}
+#Ituri-Uele Region (37400)
+#uncolonized in 18/dominated by Luba
+#Kisangani (17160/4290 POPS)
+1996 = {
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 28
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 14
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 57
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 14
+
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 1221
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 393
+	}
+}
+#uncolonized in 18/under the domination of the Azande
+#Mungbane (8360/2090 POPS)
+1997 = {
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 6
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 3
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 13
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 11
+
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 329
+	}
+
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 6
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 3
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 18
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 11
+
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 404
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 103
+	}
+}
+#Baramo (11880/2970 POPS)
+1998 = {
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 19
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 11
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 49
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 30
+
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 0
+
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 901
+	}
+
+}

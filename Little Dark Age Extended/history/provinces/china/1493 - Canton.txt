@@ -1,0 +1,16 @@
+add_core = QII
+#add_core = GNG
+#add_core = GXI
+#add_core = TPG
+trade_goods = silk
+life_rating = 32
+owner = QII
+controller = QII
+fort = 1
+1861.1.1 = { 
+	naval_base = 1
+owner = QII
+controller = QII
+}
+
+set_province_flag = farm

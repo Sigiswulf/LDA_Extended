@@ -1,0 +1,3119 @@
+#Bukovina Region (54666) #See Romania.txt for balance of region 
+#under the rule of Austria in 612  
+#Cernauti (54666/13666 POPS)  
+662 = {
+	clergymen = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 25 
+	}
+
+	artisans = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 133
+	}
+
+	soldiers = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 100
+	}
+
+	farmers = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 3141 
+	}
+
+	clergymen = {
+culture = south_slavs
+religion = norse_pagan
+		size = 66   
+	}
+
+	artisans = {
+culture = south_slavs
+religion = norse_pagan
+		size = 366
+	}
+
+	soldiers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 66  
+	}
+
+	farmers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 6533   
+	}
+
+	aristocrats = {
+culture = south_slavs
+religion = norse_pagan
+		size = 233    
+	}
+
+	bureaucrats = {
+culture = south_slavs
+religion = norse_pagan
+		size = 10 
+	}
+
+	officers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 20  
+	}
+
+	clergymen = {
+culture = south_slavs
+religion = norse_pagan
+		size = 16 
+	}
+
+	artisans = {
+culture = south_slavs
+religion = norse_pagan
+		size = 100
+	}
+
+	soldiers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 16  
+	}
+
+	farmers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 1270
+	}
+
+	bureaucrats = {
+		culture = south_german
+religion = norse_pagan
+		size = 11
+	}
+
+	officers = {
+		culture = south_german
+religion = norse_pagan
+		size = 13  
+	}
+
+	clergymen = {
+		culture = south_german
+religion = norse_pagan
+		size = 16 
+	}
+
+	artisans = {
+		culture = south_german
+religion = norse_pagan
+		size = 66
+	}
+
+	soldiers = {
+		culture = south_german
+religion = norse_pagan
+		size = 8   
+	}
+
+	farmers = {
+		culture = south_german
+religion = norse_pagan
+		size = 883   
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 16    
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 200
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 8 
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 775      
+	}
+}
+#Bessarabia Region (110666) #see Moldova.txt for balance of Region  
+#under the rule of Russia in 612 
+#Ismail (110666/27666 POPS)  
+678 = {
+	aristocrats = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 700 
+	}
+
+	clergymen = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 200 
+	}
+
+	artisans = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 1000
+	}
+
+	soldiers = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 200 
+	}
+
+	farmers = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 17933 
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 25    
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 466
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 25  
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 1816     
+	}
+
+	clergymen = {
+		culture = bulgarian
+religion = norse_pagan
+		size = 16 
+	}
+
+	artisans = {
+		culture = bulgarian
+religion = norse_pagan
+		size = 25
+	}
+
+	soldiers = {
+		culture = bulgarian
+religion = norse_pagan
+		size = 8 
+	}
+
+	farmers = {
+		culture = bulgarian
+religion = norse_pagan
+		size = 950
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 33 
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 166
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 33 
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 3100 
+	}
+
+	clergymen = {
+culture = greek
+religion = norse_pagan
+		size = 16   
+	}
+
+	artisans = {
+culture = greek
+religion = norse_pagan
+		size = 50
+	}
+
+	soldiers = {
+culture = greek
+religion = norse_pagan
+		size = 8   
+	}
+
+	farmers = {
+culture = greek
+religion = norse_pagan
+		size = 925 
+	}
+}
+#Felvidek Region (285333) #see Hungary.txt and Slovakia.txt for balance of Region
+#under the rule of Austria in 612  
+#Uzgorod (285333/71333 POPS) #Part of Ukraine today
+950 = {
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 283  
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 1533
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 300  
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 28550  
+	}
+
+	clergymen = {
+culture = lombard
+religion = norse_pagan
+		size = 50 
+	}
+
+	artisans = {
+culture = lombard
+religion = norse_pagan
+		size = 283
+	}
+
+	soldiers = {
+culture = lombard
+religion = norse_pagan
+		size = 58 
+	}
+
+	farmers = {
+culture = lombard
+religion = norse_pagan
+		size = 5275
+	}
+
+	aristocrats = {
+		culture = lombard
+religion = norse_pagan
+		size = 1416  
+	}
+
+	clergymen = {
+		culture = lombard
+religion = norse_pagan
+		size = 141  
+	}
+
+	artisans = {
+		culture = lombard
+religion = norse_pagan
+		size = 716
+	}
+
+	soldiers = {
+		culture = lombard
+religion = norse_pagan
+		size = 150 
+	}
+
+	farmers = {
+		culture = lombard
+religion = norse_pagan
+		size = 11908  
+	}
+
+	clergymen = {
+		culture = lombard
+religion = norse_pagan
+		size = 133  
+	}
+
+	artisans = {
+		culture = lombard
+religion = norse_pagan
+		size = 750
+	}
+
+	soldiers = {
+		culture = lombard
+religion = norse_pagan
+		size = 133  
+	}
+
+	farmers = {
+		culture = lombard
+religion = norse_pagan
+		size =  12983   
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 25  
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 266
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 16 
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 1025    
+	}
+
+	clergymen = {
+		culture = south_german
+religion = norse_pagan
+		size = 8  
+	}
+
+	artisans = {
+		culture = south_german
+religion = norse_pagan
+		size = 25
+	}
+
+	soldiers = {
+		culture = south_german
+religion = norse_pagan
+		size = 8  
+	}
+
+	farmers = {
+		culture = south_german
+religion = norse_pagan
+		size = 291  
+	}
+
+	clergymen = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 41  
+	}
+
+	artisans = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 250
+	}
+
+	soldiers = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 50  
+	}
+
+	farmers = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 4658
+	}
+}
+#Galicia Region (858666) #see Poland.txt for balance of region 
+#under the rule of Austria in 612
+#Lvov (220000/55000 POPS) #now part of Ukraine 
+702 = {
+	clergymen = {
+culture = south_slavs
+religion = norse_pagan
+		size = 250
+	}
+
+	artisans = {
+culture = south_slavs
+religion = norse_pagan
+		size = 1400
+	}
+
+	soldiers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 366
+	}
+
+	farmers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 26016
+	}
+
+	aristocrats = {
+culture = south_slavs
+religion = norse_pagan
+		size = 1250
+	}
+
+	bureaucrats = {
+culture = south_slavs
+religion = norse_pagan
+		size = 433
+	}
+
+	officers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 250
+	}
+
+	clergymen = {
+culture = south_slavs
+religion = norse_pagan
+		size = 258
+	}
+
+	artisans = {
+culture = south_slavs
+religion = norse_pagan
+		size = 1083
+	}
+
+	soldiers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 216
+	}
+
+	farmers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 18241
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 41
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 933
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 41
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 3650
+	}
+
+	clergymen = {
+		culture = south_german
+religion = norse_pagan
+		size = 16
+	}
+
+	artisans = {
+		culture = south_german
+religion = norse_pagan
+		size = 33
+	}
+
+	soldiers = {
+		culture = south_german
+religion = norse_pagan
+		size = 8
+	}
+
+	farmers = {
+		culture = south_german
+religion = norse_pagan
+		size = 608
+	}
+}
+#Stryi (134666/33666 POPS) #now part of Ukraine  
+951 = {
+	clergymen = {
+culture = south_slavs
+religion = norse_pagan
+		size = 158
+	}
+
+	artisans = {
+culture = south_slavs
+religion = norse_pagan
+		size = 850
+	}
+
+	soldiers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 166
+	}
+
+	farmers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 15825
+	}
+
+	aristocrats = {
+culture = south_slavs
+religion = norse_pagan
+		size = 1666
+	}
+
+	clergymen = {
+culture = south_slavs
+religion = norse_pagan
+		size = 141
+	}
+
+	artisans = {
+culture = south_slavs
+religion = norse_pagan
+		size = 700
+	}
+
+	soldiers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 150
+	}
+
+	farmers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 11341
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 16
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 466
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 25
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 1825
+	}
+
+	clergymen = {
+		culture = south_german
+religion = norse_pagan
+		size = 6
+	}
+
+	artisans = {
+		culture = south_german
+religion = norse_pagan
+		size = 16
+	}
+
+	soldiers = {
+		culture = south_german
+religion = norse_pagan
+		size = 3
+	}
+
+	farmers = {
+		culture = south_german
+religion = norse_pagan
+		size = 306
+	}
+}
+#Ternopil (378666/94666 POPS) #now part of Ukraine  
+952 = {
+	clergymen = {
+culture = south_slavs
+religion = norse_pagan
+		size = 650
+	}
+
+	artisans = {
+culture = south_slavs
+religion = norse_pagan
+		size = 3300
+	}
+
+	soldiers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 650
+	}
+
+	farmers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 61400
+	}
+
+	aristocrats = {
+culture = south_slavs
+religion = norse_pagan
+		size = 2166
+	}
+
+	clergymen = {
+culture = south_slavs
+religion = norse_pagan
+		size = 233
+	}
+
+	artisans = {
+culture = south_slavs
+religion = norse_pagan
+		size = 1133
+	}
+
+	soldiers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 233
+	}
+
+	farmers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 18900
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 58
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 1133
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 50
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 4425
+	}
+
+	clergymen = {
+		culture = south_german
+religion = norse_pagan
+		size = 6
+	}
+
+	artisans = {
+		culture = south_german
+religion = norse_pagan
+		size = 16
+	}
+
+	soldiers = {
+		culture = south_german
+religion = norse_pagan
+		size = 3
+	}
+
+	farmers = {
+		culture = south_german
+religion = norse_pagan
+		size = 306
+	}
+}
+#Stanislavov (125333/31333 POPS) #now part of Ukraine  
+953 = {
+	clergymen = {
+culture = south_slavs
+religion = norse_pagan
+		size = 166
+	}
+
+	artisans = {
+culture = south_slavs
+religion = norse_pagan
+		size = 883
+	}
+
+	soldiers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 175
+	}
+
+	farmers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 16441
+	}
+
+	aristocrats = {
+culture = south_slavs
+religion = norse_pagan
+		size = 716
+	}
+
+	clergymen = {
+culture = south_slavs
+religion = norse_pagan
+		size = 108
+	}
+
+	artisans = {
+culture = south_slavs
+religion = norse_pagan
+		size = 550
+	}
+
+	soldiers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 108
+	}
+
+	farmers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 9516
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 16
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 466
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 25
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 1825
+	}
+
+	clergymen = {
+		culture = south_german
+religion = norse_pagan
+		size = 6
+	}
+
+	artisans = {
+		culture = south_german
+religion = norse_pagan
+		size = 16
+	}
+
+	soldiers = {
+		culture = south_german
+religion = norse_pagan
+		size = 3
+	}
+
+	farmers = {
+		culture = south_german
+religion = norse_pagan
+		size = 306
+	}
+}
+#Volhynia-Podolia Region (630666)
+#under the rule of Russia in 612
+#Vinnitsa (164000/41000 POPS)
+954 = {
+	clergymen = {
+culture = south_slavs
+religion = norse_pagan
+		size = 366
+	}
+
+	artisans = {
+culture = south_slavs
+religion = norse_pagan
+		size = 1950
+	}
+
+	soldiers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 350
+	}
+
+	farmers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 32033
+	}
+
+	aristocrats = {
+culture = south_slavs
+religion = norse_pagan
+		size = 666
+	}
+
+	bureaucrats = {
+culture = south_slavs
+religion = norse_pagan
+		size = 41
+	}
+
+	officers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 133
+	}
+
+	clergymen = {
+culture = south_slavs
+religion = norse_pagan
+		size = 25
+	}
+
+	artisans = {
+culture = south_slavs
+religion = norse_pagan
+		size = 100
+	}
+
+	soldiers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 16
+	}
+
+	farmers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 108
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 41
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 1000
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 50
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 3908
+	}
+
+	aristocrats = {
+		culture = russian
+religion = norse_pagan
+		size = 225
+	}
+
+	bureaucrats = {
+		culture = russian
+religion = norse_pagan
+		size = 58
+	}
+
+	officers = {
+		culture = russian
+religion = norse_pagan
+		size = 33
+	}
+
+	clergymen = {
+		culture = russian
+religion = norse_pagan
+		size = 16
+	}
+}
+#Proskorov (165333/41333 POPS)
+955 = {
+	clergymen = {
+culture = south_slavs
+religion = norse_pagan
+		size = 316
+	}
+
+	artisans = {
+culture = south_slavs
+religion = norse_pagan
+		size = 816
+	}
+
+	soldiers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 366
+	}
+
+	farmers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 31200
+	}
+
+	aristocrats = {
+culture = south_slavs
+religion = norse_pagan
+		size = 916
+	}
+
+	clergymen = {
+culture = south_slavs
+religion = norse_pagan
+		size = 33
+	}
+
+	artisans = {
+culture = south_slavs
+religion = norse_pagan
+		size = 216
+	}
+
+	soldiers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 33
+	}
+
+	farmers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 2133
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 41
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 1000
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 50
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 3908
+	}
+
+	clergymen = {
+		culture = south_german
+religion = norse_pagan
+		size = 8
+	}
+
+	artisans = {
+		culture = south_german
+religion = norse_pagan
+		size = 33
+	}
+
+	soldiers = {
+		culture = south_german
+religion = norse_pagan
+		size = 8
+	}
+
+	farmers = {
+		culture = south_german
+religion = norse_pagan
+		size = 283
+	}
+}
+#Rovne (153333/38333 POPS)
+956 = {
+	clergymen = {
+culture = south_slavs
+religion = norse_pagan
+		size = 275
+	}
+
+	artisans = {
+culture = south_slavs
+religion = norse_pagan
+		size = 800
+	}
+
+	soldiers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 366
+	}
+
+	farmers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 27925
+	}
+
+	aristocrats = {
+culture = south_slavs
+religion = norse_pagan
+		size = 866
+	}
+
+	clergymen = {
+culture = south_slavs
+religion = norse_pagan
+		size = 41
+	}
+
+	artisans = {
+culture = south_slavs
+religion = norse_pagan
+		size = 250
+	}
+
+	soldiers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 50
+	}
+
+	farmers = {
+culture = south_slavs
+religion = norse_pagan
+		size = 3458
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 41
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 866
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 41
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 3416
+	}
+}
+#Kovel (148000/37000 POPS)
+957 = {
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 275
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 783
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 366
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 27608
+	}
+
+	aristocrats = {
+culture = slavs
+religion = norse_pagan
+		size = 766
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 33
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 200
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 41
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 2625
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 41
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 866
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 41
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 3416
+	}
+}
+#Ukraine Region (1342666)
+#under the rule of Russia in 612
+#Kiev (164000/41000 POPS)
+958 = {
+	aristocrats = {
+culture = slavs
+religion = norse_pagan
+		size = 433
+	}
+
+	bureaucrats = {
+culture = slavs
+religion = norse_pagan
+		size = 83
+	}
+
+	officers = {
+culture = slavs
+religion = norse_pagan
+		size = 200
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 300
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 3166
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 366
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 27483
+	}
+
+	aristocrats = {
+culture = slavs
+religion = norse_pagan
+		size = 500
+	}
+
+	bureaucrats = {
+culture = slavs
+religion = norse_pagan
+		size = 50
+	}
+
+	officers = {
+culture = slavs
+religion = norse_pagan
+		size = 100
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 33
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 366
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 33
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 2283
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 50
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 1100
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 58
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 4125
+	}
+
+	aristocrats = {
+		culture = russian
+religion = norse_pagan
+		size = 150
+	}
+
+	bureaucrats = {
+		culture = russian
+religion = norse_pagan
+		size = 83
+	}
+
+	officers = {
+		culture = russian
+religion = norse_pagan
+		size = 50
+	}
+
+	clergymen = {
+		culture = russian
+religion = norse_pagan
+		size = 16
+	}
+
+	soldiers = {
+		culture = russian
+religion = norse_pagan
+		size = 33
+	}
+}
+#Korosten (149333/37333 POPS)
+959 = {
+	aristocrats = {
+culture = slavs
+religion = norse_pagan
+		size = 566
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 291
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 700
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 300
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 27808
+	}
+
+	aristocrats = {
+culture = slavs
+religion = norse_pagan
+		size = 300
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 33
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 250
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 33
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 2716
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 41
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 916
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 50
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 3325
+	}
+}
+#Zhitomir (153333/38333 POPS)
+960 = {
+	aristocrats = {
+culture = slavs
+religion = norse_pagan
+		size = 533
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 366
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 866
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 366
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 30933
+	}
+
+	aristocrats = {
+culture = slavs
+religion = norse_pagan
+		size = 266
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 16
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 50
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 8
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 325
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 50
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 1000
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 50
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 3566
+	}
+}
+#Cherkassy (153333/38333 POPS)
+961 = {
+	aristocrats = {
+culture = slavs
+religion = norse_pagan
+		size = 533
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 266
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 650
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 300
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 27250
+	}
+
+	aristocrats = {
+culture = slavs
+religion = norse_pagan
+		size = 233
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 33
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 200
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 33
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 2833
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 50
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 1000
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 50
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 3566
+	}
+
+	aristocrats = {
+		culture = russian
+religion = norse_pagan
+		size = 150
+	}
+
+	clergymen = {
+		culture = russian
+religion = norse_pagan
+		size = 16
+	}
+
+	artisans = {
+		culture = russian
+religion = norse_pagan
+		size = 66
+	}
+
+	soldiers = {
+		culture = russian
+religion = norse_pagan
+		size = 25
+	}
+
+	farmers = {
+		culture = russian
+religion = norse_pagan
+		size = 1108
+	}
+}
+#Chernigov (205333/51333 POPS)
+962 = {
+	aristocrats = {
+culture = slavs
+religion = norse_pagan
+		size = 1000
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 466
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 2000
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 483
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 44050
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 25
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 500
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 200
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 2108
+	}
+
+	aristocrats = {
+		culture = russian
+religion = norse_pagan
+		size = 166
+	}
+
+	clergymen = {
+		culture = russian
+religion = norse_pagan
+		size = 16
+	}
+
+	artisans = {
+		culture = russian
+religion = norse_pagan
+		size = 50
+	}
+
+	soldiers = {
+		culture = russian
+religion = norse_pagan
+		size = 200
+	}
+
+	farmers = {
+		culture = russian
+religion = norse_pagan
+		size = 416
+	}
+}
+#Poltava (517333/129333 POPS)
+963 = {
+	aristocrats = {
+culture = slavs
+religion = norse_pagan
+		size = 2000
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 1166
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 3333
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 2000
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 5000
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 114116
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 50
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 1083
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 250
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 3983
+	}
+
+	aristocrats = {
+		culture = russian
+religion = norse_pagan
+		size = 166
+	}
+
+	clergymen = {
+		culture = russian
+religion = norse_pagan
+		size = 25
+	}
+
+	artisans = {
+		culture = russian
+religion = norse_pagan
+		size = 33
+	}
+
+	soldiers = {
+		culture = russian
+religion = norse_pagan
+		size = 200
+	}
+
+	farmers = {
+		culture = russian
+religion = norse_pagan
+		size = 91
+	}
+}
+#Odessa Region (496000)
+#under the rule of Russia in 612
+#Odessa (82666/20666 POPS)
+968 = {
+	aristocrats = {
+culture = slavs
+religion = norse_pagan
+		size = 183
+	}
+
+	bureaucrats = {
+culture = slavs
+religion = norse_pagan
+		size = 25
+	}
+
+	officers = {
+culture = slavs
+religion = norse_pagan
+		size = 66
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 141
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 2500
+	}
+
+	clerks = {
+culture = slavs
+religion = norse_pagan
+		size = 16
+	}
+
+	craftsmen = {
+culture = slavs
+religion = norse_pagan
+		size = 1000
+	}
+	
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 1000
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 10225
+	}
+
+	aristocrats = {
+culture = slavs
+religion = norse_pagan
+		size = 50
+	}
+
+	officers = {
+culture = slavs
+religion = norse_pagan
+		size = 16
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 16
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 166
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 100
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 408
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 25
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 433
+	}
+
+	clerks = {
+culture = slavs
+religion = norse_pagan
+		size = 33
+	}
+
+	craftsmen = {
+culture = slavs
+religion = norse_pagan
+		size = 166
+	}
+	
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 100
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 1816
+	}
+
+	aristocrats = {
+		culture = russian
+religion = norse_pagan
+		size = 33
+	}
+
+	bureaucrats = {
+		culture = russian
+religion = norse_pagan
+		size = 50
+	}
+
+	officers = {
+		culture = russian
+religion = norse_pagan
+		size = 50
+	}
+
+	clergymen = {
+		culture = russian
+religion = norse_pagan
+		size = 8
+	}
+
+	artisans = {
+		culture = russian
+religion = norse_pagan
+		size = 66
+	}
+
+	soldiers = {
+		culture = russian
+religion = norse_pagan
+		size = 100
+	}
+
+	farmers = {
+		culture = russian
+religion = norse_pagan
+		size = 116
+	}
+
+	clergymen = {
+		culture = greek
+religion = norse_pagan
+		size = 8
+	}
+
+	artisans = {
+		culture = greek
+religion = norse_pagan
+		size = 250
+	}
+
+	soldiers = {
+		culture = greek
+religion = norse_pagan
+		size = 100
+	}
+
+	farmers = {
+		culture = greek
+religion = norse_pagan
+		size = 66
+	}
+
+	clergymen = {
+culture = roman_african
+religion = norse_pagan
+		size = 16
+	}
+
+	artisans = {
+culture = roman_african
+religion = norse_pagan
+		size = 1300
+	}
+
+	clerks = {
+culture = roman_african
+religion = norse_pagan
+		size = 33
+	}
+
+	craftsmen = {
+culture = roman_african
+religion = norse_pagan
+		size = 166
+	}
+	
+	soldiers = {
+culture = roman_african
+religion = norse_pagan
+		size = 100
+	}
+
+	farmers = {
+culture = roman_african
+religion = norse_pagan
+		size = 133
+	}
+
+	clergymen = {
+		culture = south_german
+religion = norse_pagan
+		size = 16
+	}
+
+	artisans = {
+		culture = south_german
+religion = norse_pagan
+		size = 250
+	}
+
+	soldiers = {
+		culture = south_german
+religion = norse_pagan
+		size = 100
+	}
+
+	farmers = {
+		culture = south_german
+religion = norse_pagan
+		size = 391
+	}
+}
+#Pervomaisk (165333/41333 POPS)
+969 = {
+	aristocrats = {
+culture = slavs
+religion = norse_pagan
+		size = 666
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 366
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 883
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 1000
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 33666
+	}
+
+	aristocrats = {
+culture = slavs
+religion = norse_pagan
+		size = 250
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 16
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 116
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 100
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 933
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 41
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 1000
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 200
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 3908
+	}
+
+	clergymen = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 25
+	}
+
+	artisans = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 66
+	}
+
+	soldiers = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 100
+	}
+
+	farmers = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 1541
+	}
+}
+#Nikolaev (82666/20666 POPS)
+970 = {
+	aristocrats = {
+culture = slavs
+religion = norse_pagan
+		size = 283
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 91
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 233
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 100
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 9291
+	}
+
+	aristocrats = {
+culture = slavs
+religion = norse_pagan
+		size = 83
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 16
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 50
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 100
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 508
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 16
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 500
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 100
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 1791
+	}
+
+	aristocrats = {
+		culture = russian
+religion = norse_pagan
+		size = 116
+	}
+
+	clergymen = {
+		culture = russian
+religion = norse_pagan
+		size = 16
+	}
+
+	artisans = {
+		culture = russian
+religion = norse_pagan
+		size = 83
+	}
+
+	soldiers = {
+		culture = russian
+religion = norse_pagan
+		size = 100
+	}
+
+	farmers = {
+		culture = russian
+religion = norse_pagan
+		size = 1433
+	}
+
+	clergymen = {
+		culture = south_german
+religion = norse_pagan
+		size = 16
+	}
+
+	artisans = {
+		culture = south_german
+religion = norse_pagan
+		size = 50
+	}
+
+	soldiers = {
+		culture = south_german
+religion = norse_pagan
+		size = 100
+	}
+
+	farmers = {
+		culture = south_german
+religion = norse_pagan
+		size = 925
+	}
+
+	clergymen = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 41
+	}
+
+	artisans = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 116
+	}
+
+	soldiers = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 100
+	}
+
+	farmers = {
+		culture = south_slavs
+religion = norse_pagan
+		size = 4791
+	}
+}
+#Krivoy Rog (81333/20333 POPS)
+971 = {
+	aristocrats = {
+culture = slavs
+religion = norse_pagan
+		size = 366
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 166
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 433
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 500
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 16225
+	}
+
+	aristocrats = {
+culture = slavs
+religion = norse_pagan
+		size = 83
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 16
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 83
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 100
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 475
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 16
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 500
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 100
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 1791
+	}
+}
+#Ekaterinoslav (84000/21000 POPS)
+972 = {
+	aristocrats = {
+culture = slavs
+religion = norse_pagan
+		size = 283
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 175
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 633
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 500
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 16391
+	}
+
+	aristocrats = {
+		culture = russian
+religion = norse_pagan
+		size = 183
+	}
+
+	clergymen = {
+		culture = russian
+religion = norse_pagan
+		size = 25
+	}
+
+	artisans = {
+		culture = russian
+religion = norse_pagan
+		size = 66
+	}
+
+	soldiers = {
+		culture = russian
+religion = norse_pagan
+		size = 100
+	}
+
+	farmers = {
+		culture = russian
+religion = norse_pagan
+		size = 708
+	}
+
+	clergymen = {
+		culture = north_german
+religion = norse_pagan
+		size = 25
+	}
+
+	artisans = {
+		culture = north_german
+religion = norse_pagan
+		size = 100
+	}
+
+	soldiers = {
+		culture = north_german
+religion = norse_pagan
+		size = 100
+	}
+
+	farmers = {
+		culture = north_german
+religion = norse_pagan
+		size = 1191
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 16
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 250
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 100
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 716
+	}
+}
+#Zaporozhia Region (216000)
+#under the rule of Russia in 612
+#Melitopol (28000/7000 POPS)
+973 = {
+	aristocrats = {
+culture = slavs
+religion = norse_pagan
+		size = 83
+	}
+
+	bureaucrats = {
+culture = slavs
+religion = norse_pagan
+		size = 16
+	}
+
+	officers = {
+culture = slavs
+religion = norse_pagan
+		size = 25
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 50
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 216
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 250
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 5216
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 3
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 66
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 180
+	}
+
+	aristocrats = {
+		culture = russian
+religion = norse_pagan
+		size = 66
+	}
+
+	bureaucrats = {
+		culture = russian
+religion = norse_pagan
+		size = 8
+	}
+
+	officers = {
+		culture = russian
+religion = norse_pagan
+		size = 33
+	}
+
+	clergymen = {
+		culture = russian
+religion = norse_pagan
+		size = 25
+	}
+
+	artisans = {
+		culture = russian
+religion = norse_pagan
+		size = 66
+	}
+
+	soldiers = {
+		culture = russian
+religion = norse_pagan
+		size = 100
+	}
+
+	farmers = {
+		culture = russian
+religion = norse_pagan
+		size = 866
+	}
+}
+#Kramatorsk (80000/20000 POPS)
+974 = {
+	aristocrats = {
+culture = slavs
+religion = norse_pagan
+		size = 416
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 183
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 750
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 1000
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 17625
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 16
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 250
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 100
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 558
+	}
+}
+#Yuzovka (25333/6333 POPS)
+975 = {
+	aristocrats = {
+culture = slavs
+religion = norse_pagan
+		size = 100
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 41
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 166
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 250
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 4308
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 3
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 66
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 180
+	}
+
+	aristocrats = {
+		culture = russian
+religion = norse_pagan
+		size = 50
+	}
+
+	clergymen = {
+		culture = russian
+religion = norse_pagan
+		size = 16
+	}
+
+	artisans = {
+		culture = russian
+religion = norse_pagan
+		size = 83
+	}
+
+	soldiers = {
+		culture = russian
+religion = norse_pagan
+		size = 250
+	}
+
+	farmers = {
+		culture = russian
+religion = norse_pagan
+		size = 1250
+	}
+}
+#Mariopol (82666/20666 POPS)
+976 = {
+	aristocrats = {
+culture = slavs
+religion = norse_pagan
+		size = 466
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 175
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 425
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 1000
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 17383
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 16
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 250
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 100
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 558
+	}
+
+	clergymen = {
+		culture = greek
+religion = norse_pagan
+		size = 16
+	}
+
+	artisans = {
+		culture = greek
+religion = norse_pagan
+		size = 366
+	}
+
+	soldiers = {
+		culture = greek
+religion = norse_pagan
+		size = 100
+	}
+
+	farmers = {
+		culture = greek
+religion = norse_pagan
+		size = 1300
+	}
+
+	clergymen = {
+		culture = south_german
+religion = norse_pagan
+		size = 8
+	}
+
+	artisans = {
+		culture = south_german
+religion = norse_pagan
+		size = 25
+	}
+
+	soldiers = {
+		culture = south_german
+religion = norse_pagan
+		size = 100
+	}
+
+	farmers = {
+		culture = south_german
+religion = norse_pagan
+		size = 291
+	}
+}
+#Kursk Region (198666) #see Russia.txt for balance of region
+#under the rule of Russia in 612
+#Kharkov (198666/49666 POPS) #now part of Ukraine  
+978 = {
+	aristocrats = {
+culture = slavs
+religion = norse_pagan
+		size = 750
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 458
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 2066
+	}
+
+	clerks = {
+culture = slavs
+religion = norse_pagan
+		size = 33
+	}
+
+	craftsmen = {
+culture = slavs
+religion = norse_pagan
+		size = 1266
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 2500
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 41708
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 3
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 180
+	}
+
+	clerks = {
+culture = slavs
+religion = norse_pagan
+		size = 33
+	}
+
+	craftsmen = {
+culture = slavs
+religion = norse_pagan
+		size = 33
+	}
+	
+	aristocrats = {
+		culture = russian
+religion = norse_pagan
+		size = 83
+	}
+
+	clergymen = {
+		culture = russian
+religion = norse_pagan
+		size = 25
+	}
+
+	artisans = {
+		culture = russian
+religion = norse_pagan
+		size = 166
+	}
+
+	soldiers = {
+		culture = russian
+religion = norse_pagan
+		size = 100
+	}
+
+	farmers = {
+		culture = russian
+religion = norse_pagan
+		size = 2358
+	}
+}
+#Donbass Region (217333) #see Russia.txt for balance of region 
+#under the rule of Russia in 612
+#Luhansk (217333/54333 POPS) #now part of Ukraine 
+980 = {
+	aristocrats = {
+culture = slavs
+religion = norse_pagan
+		size = 966
+	}
+
+	clergymen = {
+culture = slavs
+religion = norse_pagan
+		size = 441
+	}
+
+	artisans = {
+culture = slavs
+religion = norse_pagan
+		size = 2333
+	}
+
+	soldiers = {
+culture = slavs
+religion = norse_pagan
+		size = 2500
+	}
+
+	farmers = {
+culture = slavs
+religion = norse_pagan
+		size = 42783
+	}
+
+	aristocrats = {
+		culture = russian
+religion = norse_pagan
+		size = 150
+	}
+
+	clergymen = {
+		culture = russian
+religion = norse_pagan
+		size = 75
+	}
+
+	artisans = {
+		culture = russian
+religion = norse_pagan
+		size = 366
+	}
+
+	soldiers = {
+		culture = russian
+religion = norse_pagan
+		size = 250
+	}
+
+	farmers = {
+		culture = russian
+religion = norse_pagan
+		size = 6666
+	}
+
+}

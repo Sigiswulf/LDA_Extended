@@ -1,0 +1,65 @@
+#Sao Tome e Principe (1600)
+#Under Portuguese Rule 183
+#Sao Tome (1600/400 POPS)
+1954 = {
+	aristocrats = {
+		culture = portuguese
+		religion = catholic
+		size = 2
+	}
+
+	clergymen = {
+		culture = portuguese
+		religion = catholic
+		size = 0
+	}
+
+	bureaucrats = {
+		culture = portuguese
+		religion = catholic
+		size = 0
+	}
+
+	artisans = {
+		culture = portuguese
+		religion = catholic
+		size = 0
+	}
+
+	soldiers = {
+		culture = portuguese
+		religion = catholic
+		size = 0
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = catholic
+		size = 5
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = catholic
+		size = 20
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = catholic
+		size = 10
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = catholic
+		size = 55
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = catholic
+		size = 345
+	}
+
+}

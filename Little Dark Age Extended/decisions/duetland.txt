@@ -1,0 +1,184 @@
+political_decisions = {	
+	aleman_acceptance = { 
+	potential = { 
+	OR = { tag = MEC tag = SAX }
+	NOT = { accepted_culture = south_german }
+	NOT = { has_country_flag = aleman_acc }
+	}
+	
+	allow = { 
+	ideological_thought = 1 
+	any_owned_province = { is_core = WUR }
+	}
+	
+	effect = { 
+	set_country_flag = aleman_acc
+	add_accepted_culture = south_german 
+	}
+	
+	}
+	thrung_acceptance = { 
+	potential = { 
+	OR = { tag = WUR tag = SAX }
+	NOT = { accepted_culture = czech }
+	NOT = { has_country_flag = thrung_acc }
+	}
+	
+	allow = { 
+	ideological_thought = 1 
+	any_owned_province = { is_core = MEC }
+	}
+	
+	effect = { 
+	set_country_flag = thrung_acc
+	add_accepted_culture = czech
+	}
+	
+	}
+	saxon_acceptance = { 
+	potential = { 
+	OR = { tag = MEC tag = WUR }
+	NOT = { accepted_culture = north_german }
+	NOT = { has_country_flag = saxon_acc }
+	}
+	
+	allow = { 
+	ideological_thought = 1 
+	any_owned_province = { is_core = SAX }
+	}
+	
+	effect = { 
+	set_country_flag = saxon_acc
+	add_accepted_culture = south_german 
+	}
+	
+	}
+	make_germany = {
+		picture = gerform
+		potential = {
+			NOT = { has_global_flag = germsunite }
+			OR = { 
+				tag = WUR
+				tag = SAX
+				tag = MEC
+			}
+		}	
+		allow = {
+			state_n_government = 1 
+			NOT = { war = yes }
+			NOT = { part_of_sphere = yes }
+			AND = { 
+			THR = {
+				capital_scope = {
+			OR = { 
+				owned_by = THIS
+				owner = {
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+					}
+				}
+			}
+				}
+			}	
+			MEC = { 
+				capital_scope = {
+			OR = { 
+				owned_by = THIS
+				owner = {
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+					}
+				}
+			}
+				}
+			}
+			WUR = { 
+				capital_scope = {
+			OR = { 
+				owned_by = THIS
+				owner = {
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+					}
+				}
+			}
+				}
+			}
+			AUS_625 = { 
+			OR = { 
+				owned_by = THIS
+				owner = {
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+					}
+				}
+			}
+			}
+			PRU_549 = { 
+			OR = { 
+				owned_by = THIS
+				owner = {
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+					}
+				}
+			}
+			}
+			PRU_553 = { 
+			OR = { 
+				owned_by = THIS
+				owner = {
+					OR = {
+						in_sphere = THIS
+						vassal_of = THIS
+					}
+				}
+			}
+		}
+		}
+		effect = {
+			change_tag = GER
+			prestige = 30
+				any_country = {
+				limit = {
+					NOT = {
+						has_country_flag = new_world_nation
+						is_greater_power = yes
+					}
+					OR = { 
+						primary_culture = north_german
+						primary_culture = south_german
+						primary_culture = czech
+					}
+					OR = {
+						in_sphere = THIS
+						overlord = {
+							tag = THIS
+						}
+					}
+				}
+				country_event = { id=11101 days=0 }
+			}
+			set_global_flag = germsunite
+			WUR = { all_core = { add_core = THIS } }
+			MEC = { all_core = { add_core = THIS } }
+			SAX = { all_core = { add_core = THIS } }
+			THIS = { all_core = { remove_core = WUR } }
+			THIS = { all_core = { remove_core = MEC } }
+			THIS = { all_core = { remove_core = SAX } }
+			add_accepted_culture = north_german
+			add_accepted_culture = south_german
+			add_accepted_culture = czech
+		}
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	}
+}
+}	

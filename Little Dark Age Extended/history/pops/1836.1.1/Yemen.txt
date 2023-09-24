@@ -1,0 +1,454 @@
+#Hadramaut Region (108000) #see Oman.txt for balance of region  
+#under the rule of Yemen in 1652  
+#Mukalla (28800/7200 POPS)   
+1173 = {
+	aristocrats = {
+		culture = bedouin
+religion = jewish
+		size = 120
+	}
+
+	bureaucrats = {
+		culture = bedouin
+religion = jewish
+		size = 12
+	}
+
+	officers = {
+		culture = bedouin
+religion = jewish
+		size = 22
+	}
+
+	clergymen = {
+		culture = bedouin
+religion = jewish
+		size = 66
+	}
+
+	artisans = {
+		culture = bedouin
+religion = jewish
+		size = 360
+	}
+
+	soldiers = {
+		culture = bedouin
+religion = jewish
+		size = 990
+	}
+
+	farmers = {
+		culture = bedouin
+religion = jewish
+		size = 5714
+	}
+}
+#Ghaydah (18000/4500 POPS)   
+1175 = {
+	aristocrats = {
+		culture = bedouin
+religion = jewish
+		size = 90
+	}
+
+	clergymen = {
+		culture = bedouin
+religion = jewish
+		size = 44
+	}
+
+	artisans = {
+		culture = bedouin
+religion = jewish
+		size = 224
+	}
+
+	soldiers = {
+		culture = bedouin
+religion = jewish
+		size = 44
+	}
+
+	farmers = {
+		culture = bedouin
+religion = jewish
+		size = 4184
+	}
+}
+#Bayda (61200/15300 POPS)   
+1176 = {
+	aristocrats = {
+		culture = bedouin
+religion = jewish
+		size = 246
+	}
+
+	clergymen = {
+		culture = bedouin
+religion = jewish
+		size = 156
+	}
+
+	artisans = {
+		culture = bedouin
+religion = jewish
+		size = 764
+	}
+
+	soldiers = {
+		culture = bedouin
+religion = jewish
+		size = 156
+	}
+
+	farmers = {
+		culture = bedouin
+religion = jewish
+		size = 13972
+	}
+}
+#under the rule of Oman in 1652  
+#Socotra (14400/3600 POPS)   
+1177 = {
+	aristocrats = {
+		culture = bedouin
+religion = jewish
+		size = 44
+	}
+
+	clergymen = {
+		culture = bedouin
+religion = jewish
+		size = 44
+	}
+
+	artisans = {
+		culture = bedouin
+religion = jewish
+		size = 134
+	}
+
+	soldiers = {
+		culture = bedouin
+religion = jewish
+		size = 22
+	}
+
+	farmers = {
+		culture = bedouin
+religion = jewish
+		size = 2496
+	}
+
+	slaves = {
+		culture = afro_asiatic
+		religion = animist
+		size = 990
+	}
+}
+#Yemen Region (201600)  
+#under the rule of Yemen in 1652  
+#Sana (111600/27900 POPS)   
+1178 = {
+	aristocrats = {
+culture = bedouin
+religion = jewish
+		size = 426
+	}
+
+	bureaucrats = {
+culture = bedouin
+religion = jewish
+		size = 44
+	}
+
+	officers = {
+culture = bedouin
+religion = jewish
+		size = 66
+	}
+
+	clergymen = {
+culture = bedouin
+religion = jewish
+		size = 224
+	}
+
+	artisans = {
+culture = bedouin
+religion = jewish
+		size = 1146
+	}
+
+	soldiers = {
+culture = bedouin
+religion = jewish
+		size = 3600
+	}
+
+	farmers = {
+culture = bedouin
+religion = jewish
+		size = 17436
+	}
+
+	aristocrats = {
+		culture = bedouin
+religion = jewish
+		size = 66
+	}
+
+	clergymen = {
+		culture = bedouin
+religion = jewish
+		size = 66
+	}
+
+	artisans = {
+		culture = bedouin
+religion = jewish
+		size = 134
+	}
+
+	soldiers = {
+		culture = bedouin
+religion = jewish
+		size = 44
+	}
+
+	farmers = {
+		culture = bedouin
+religion = jewish
+		size = 3284
+	}
+
+	clergymen = {
+		culture = sephardic
+		religion = jewish
+		size = 22
+	}
+
+	artisans = {
+		culture = sephardic
+		religion = jewish
+		size = 1326
+	}
+}
+#Hodeida (43200/10800 POPS)   
+1179 = {
+	aristocrats = {
+culture = bedouin
+religion = jewish
+		size = 134
+	}
+
+	clergymen = {
+culture = bedouin
+religion = jewish
+		size = 90
+	}
+
+	artisans = {
+culture = bedouin
+religion = jewish
+		size = 450
+	}
+
+	soldiers = {
+culture = bedouin
+religion = jewish
+		size = 990
+	}
+
+	farmers = {
+culture = bedouin
+religion = jewish
+		size = 7424
+	}
+
+	aristocrats = {
+		culture = bedouin
+religion = jewish
+		size = 22
+	}
+
+	clergymen = {
+		culture = bedouin
+religion = jewish
+		size = 44
+	}
+
+	artisans = {
+		culture = bedouin
+religion = jewish
+		size = 90
+	}
+
+	soldiers = {
+		culture = bedouin
+religion = jewish
+		size = 22
+	}
+
+	farmers = {
+		culture = bedouin
+religion = jewish
+		size = 1620
+	}
+}
+#Taizz (46800/11700 POPS)   
+1180 = {
+	aristocrats = {
+culture = bedouin
+religion = jewish
+		size = 990
+	}
+
+	clergymen = {
+culture = bedouin
+religion = jewish
+		size = 44
+	}
+
+	artisans = {
+culture = bedouin
+religion = jewish
+		size = 224
+	}
+
+	soldiers = {
+culture = bedouin
+religion = jewish
+		size = 990
+	}
+
+	farmers = {
+culture = bedouin
+religion = jewish
+		size = 3262
+	}
+
+	aristocrats = {
+culture = bedouin
+religion = jewish
+		size = 112
+	}
+
+	clergymen = {
+culture = bedouin
+religion = jewish
+		size = 66
+	}
+
+	artisans = {
+culture = bedouin
+religion = jewish
+		size = 360
+	}
+
+	soldiers = {
+culture = bedouin
+religion = jewish
+		size = 66
+	}
+
+	farmers = {
+culture = bedouin
+religion = jewish
+		size = 5760
+	}
+}
+#Aden (36000/9000 POPS)   
+1412 = {
+	aristocrats = {
+culture = bedouin
+religion = jewish
+		size = 66
+	}
+
+	clergymen = {
+culture = bedouin
+religion = jewish
+		size = 44
+	}
+
+	artisans = {
+culture = bedouin
+religion = jewish
+		size = 224
+	}
+
+	soldiers = {
+culture = bedouin
+religion = jewish
+		size = 44
+	}
+
+	farmers = {
+culture = bedouin
+religion = jewish
+		size = 3262
+	}
+
+	aristocrats = {
+culture = bedouin
+religion = jewish
+		size = 44
+	}
+
+	clergymen = {
+culture = bedouin
+religion = jewish
+		size = 66
+	}
+
+	artisans = {
+culture = bedouin
+religion = jewish
+		size = 134
+	}
+
+	soldiers = {
+culture = bedouin
+religion = jewish
+		size = 990
+	}
+
+	farmers = {
+culture = bedouin
+religion = jewish
+		size = 2406
+	}
+
+	aristocrats = {
+		culture = bedouin
+religion = jewish
+		size = 22
+	}
+
+	clergymen = {
+		culture = bedouin
+religion = jewish
+		size = 22
+	}
+
+	artisans = {
+		culture = bedouin
+religion = jewish
+		size = 90
+	}
+
+	soldiers = {
+		culture = bedouin
+religion = jewish
+		size = 22
+	}
+
+	farmers = {
+		culture = bedouin
+religion = jewish
+		size = 1642
+	}
+
+}

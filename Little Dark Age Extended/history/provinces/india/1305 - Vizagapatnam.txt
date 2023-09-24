@@ -1,0 +1,7 @@
+owner = NLA
+controller = NLA
+add_core = NLA
+trade_goods = tobacco
+life_rating = 32
+
+set_province_flag = farm

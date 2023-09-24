@@ -1,0 +1,7 @@
+owner = HIN
+controller = HIN
+add_core = HIN
+trade_goods = tea
+life_rating = 0
+
+set_province_flag = farm

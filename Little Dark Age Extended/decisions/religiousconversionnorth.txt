@@ -1,0 +1,31 @@
+political_decisions = {
+
+christian_north = {
+
+potential = {
+OR = {primary_culture = swedish primary_culture = slavs primary_culture = south_slavs primary_culture = finnish primary_culture = saxon primary_culture = dutch primary_culture = gepid primary_culture = british primary_culture = burgundian primary_culture = ugrian primary_culture = czech primary_culture = south_german primary_culture = north_german primary_culture = balts }
+NOT = {has_country_flag =christian_north}
+}
+
+allow = {
+state_n_government = 1
+year = 520
+}
+
+
+effect = {
+
+religion = catholic
+prestige = 20
+relation = {
+with = BYZ
+value = 200}
+set_country_flag  = christian_north
+
+
+}
+		ai_will_do = {
+			factor = 0
+		}
+}
+}

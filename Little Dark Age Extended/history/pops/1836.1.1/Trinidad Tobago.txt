@@ -1,0 +1,115 @@
+#Trinidad & Tobago Region (6900/1475 POPS)
+#ruled by Britain 183
+#Trinidad (4400/1100 POPS)
+2237 = {
+	aristocrats = {
+		culture = native_american_minor
+religion = animist
+		size = 2
+	}
+
+	bureaucrats = {
+		culture = native_american_minor
+religion = animist
+		size = 1
+	}
+
+	clergymen = {
+		culture = native_american_minor
+religion = animist
+		size = 2
+	}
+
+	artisans = {
+		culture = native_american_minor
+religion = animist
+		size = 50
+	}
+
+	soldiers = {
+		culture = native_american_minor
+religion = animist
+		size = 2
+	}
+
+	farmers = {
+		culture = native_american_minor
+religion = animist
+		size = 41
+	}
+
+	clergymen = {
+		culture = native_american_minor
+religion = animist
+		size = 7
+	}
+
+	artisans = {
+		culture = native_american_minor
+religion = animist
+		size = 75
+	}
+
+	soldiers = {
+		culture = native_american_minor
+religion = animist
+		size = 10
+	}
+
+	farmers = {
+		culture = native_american_minor
+religion = animist
+		size = 907
+	}
+}
+#Tobago (1500/375 POPS)
+2238 = {
+	aristocrats = {
+		culture = native_american_minor
+religion = animist
+		size = 1
+	}
+
+	clergymen = {
+		culture = native_american_minor
+religion = animist
+		size = 0
+	}
+
+	artisans = {
+		culture = native_american_minor
+religion = animist
+		size = 2
+	}
+
+	farmers = {
+		culture = native_american_minor
+religion = animist
+		size = 6
+	}
+
+	clergymen = {
+		culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	artisans = {
+		culture = native_american_minor
+religion = animist
+		size = 15
+	}
+
+	soldiers = {
+		culture = native_american_minor
+religion = animist
+		size = 5
+	}
+
+	farmers = {
+		culture = native_american_minor
+religion = animist
+		size = 340
+	}
+
+}

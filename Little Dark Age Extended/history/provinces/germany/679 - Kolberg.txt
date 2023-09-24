@@ -1,0 +1,15 @@
+owner = GMI
+controller = GMI
+add_core = GMI
+trade_goods = grain
+life_rating = 38
+1861.1.1 = {
+	state_building = {
+		level = 2
+		building = canned_food_factory
+		upgrade = yes
+	}
+}
+1861.1.1 = { railroad = 3 }
+
+set_province_flag = farm

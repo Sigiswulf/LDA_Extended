@@ -1,0 +1,9 @@
+owner = GUP
+controller = GUP
+add_core = GUP
+trade_goods = timber
+life_rating = 32
+1861.1.1 = {
+}
+
+set_province_flag = mine

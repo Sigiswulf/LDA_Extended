@@ -1,0 +1,50 @@
+army = {
+	name = "Reserve Army"
+	location = 1637
+	regiment = {
+		name= "1. Reserve"
+		type = irregular
+		home = 1637
+	}
+
+	regiment = {
+		name= "2. Reserve"
+		type = irregular
+		home = 1637
+	}
+}
+
+navy = {
+	name = "Jeju Fleet"
+	location = 1637
+	ship = {
+		name= "Yarr"
+		type = frigate
+	}
+
+	ship = {
+		name= "Harr"
+		type = frigate
+	}
+
+	ship = {
+		name= "Cointaker"
+		type = frigate
+	}
+
+	ship = {
+		name= "Treasuremaker"
+		type = frigate
+	}
+
+	ship = {
+		name= "Skullard"
+		type = frigate
+	}
+
+	ship = {
+		name= "Red and Black"
+		type = frigate
+	}
+}
+

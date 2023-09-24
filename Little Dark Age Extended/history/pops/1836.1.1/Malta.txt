@@ -1,0 +1,59 @@
+#Malta - 40000
+#Ruled by Britain 612
+#Valetta (40000/10000 POPS)
+854 = {
+	bureaucrats = {
+		culture = greek
+religion = catholic
+		size = 1600
+	}
+
+	soldiers = {
+		culture = greek
+religion = catholic
+		size = 1660
+	}
+
+	artisans = {
+		culture = greek
+religion = catholic
+		size = 5000
+	}
+
+	aristocrats = {
+culture = roman
+		religion = catholic
+		size = 660
+	}
+
+	bureaucrats = {
+culture = greek
+		religion = catholic
+		size = 3000
+	}
+
+	clergymen = {
+culture = roman
+		religion = catholic
+		size = 910
+	}
+
+	artisans = {
+culture = roman
+		religion = catholic
+		size = 2666
+	}
+
+	soldiers = {
+culture = greek
+		religion = catholic
+		size = 1130
+	}
+
+	farmers = {
+culture = roman
+		religion = catholic
+		size = 8250
+	}
+
+}

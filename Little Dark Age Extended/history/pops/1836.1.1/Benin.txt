@@ -1,0 +1,367 @@
+#Dahomey Region (51200)
+#uncolonized in 183/ruled by Dahomey
+#Cotonou (27200/6800 POPS)
+1919 = {
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 97
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 205
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 50
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 2997
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 200
+	}
+
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 27
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 15
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 75
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 15
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 1367
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 1300
+	}
+
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 2
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 5
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 10
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 2
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 180
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 200
+	}
+}
+#Abomey (24000/6000 POPS)
+1920 = {
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 105
+	}
+
+	bureaucrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 5
+	}
+
+	officers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 10
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 50
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 212
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 55
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 4262
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 400
+	}
+
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 5
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 5
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 20
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 5
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 365
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 110
+	}
+
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 5
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 7
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 15
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 2
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 270
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 110
+	}
+}
+#Borgu Region (7600) #see Nigeria.txt for balance of region  
+#ruled by Sokoto in 183
+#Nikki (4800/1200 POPS)
+1921 = {
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 5
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 7
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 15
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 2
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 270
+	}
+
+	slaves = {
+		culture = niger_congo_a
+		religion = animist
+		size = 110
+	}
+
+	aristocrats = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 17
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 10
+	}
+
+	artisans = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 37
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 10
+	}
+
+	farmers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 725
+	}
+}
+#Jugu (2800/700 POPS)
+1922 = {
+	aristocrats = {
+		culture = niger_congo_a
+		religion = animist
+		size = 7
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+		religion = animist
+		size = 5
+	}
+
+	artisans = {
+		culture = niger_congo_a
+		religion = animist
+		size = 25
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 5
+	}
+
+	farmers = {
+		culture = niger_congo_a
+		religion = animist
+		size = 457
+	}
+
+	aristocrats = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 2
+	}
+
+	clergymen = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 5
+	}
+
+	artisans = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 10
+	}
+
+	soldiers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 2
+	}
+
+	farmers = {
+		culture = niger_congo_a
+religion = zoroastrianism
+		size = 180
+	}
+
+}
