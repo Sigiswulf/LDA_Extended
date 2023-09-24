@@ -205,61 +205,61 @@ religion = zoroastrianism
 #Herat (316406/79101 POPS)
 1212 = {
 	aristocrats = {
-		culture = turkic
-religion = animist
+		culture = parthian
+religion = zoroastrianism
 		size = 315
 	}
 
 	clergymen = {
-		culture = turkic
-religion = animist
+		culture = parthian
+religion = zoroastrianism
 		size = 166
 	}
 
 	artisans = {
-		culture = turkic
-religion = animist
+		culture = parthian
+religion = zoroastrianism
 		size = 827
 	}
 
 	soldiers = {
-		culture = turkic
-religion = animist
+		culture = parthian
+religion = zoroastrianism
 		size = 1072
 	}
 
 	farmers = {
-		culture = turkic
-religion = animist
+		culture = parthian
+religion = zoroastrianism
 		size = 14303
 	}
 
 	aristocrats = {
-		culture = turkic
-religion = animist
+		culture = parthian
+religion = zoroastrianism
 		size = 21218
 	}
 
 	clergymen = {
-		culture = turkic
-religion = animist
+		culture = parthian
+religion = zoroastrianism
 		size = 620
 	}
 
 	artisans = {
-		culture = turkic
-religion = animist
+		culture = parthian
+religion = zoroastrianism
 		size = 3125
 	}
 
 	soldiers = {
-		culture = turkic
-religion = animist
+		culture = parthian
+religion = zoroastrianism
 		size = 3906
 	}
 
 	farmers = {
-		culture = aryan
+		culture = bactrian
 religion = zoroastrianism
 		size = 33625
 	}

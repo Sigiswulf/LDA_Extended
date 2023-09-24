@@ -251,6 +251,10 @@ RUS_999;Poltava;;;;;;;;;;;;;x;;
 #Additional Cultures;;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
 aryan;Persian;;;;;;;;;x;;;;
+parthian;Parthian;;;;;;;;;x;;;;
+bactrian;Bactrian;;;;;;;;;x;;;;
+sogdian;Sogdian;;;;;;;;;x;;;;
+tocharian;Tocharian;;;;;;;;;x;;;;
 turkic;Turkic;;;;;;;;;x;;;;
 bantu;Bantu;;;;;;;;;x;;;;
 austronesian;Austronesian;;;;;;;;;x;;;;

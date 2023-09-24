@@ -3,26 +3,26 @@
 #Erivan (106665/26665 POPS)
 1098 = {
 	bureaucrats = {
-		culture = russian
-religion = catholic
+		culture = parthian
+religion = zoroastrianism
 		size = 40
 	}
 
 	clergymen = {
-		culture = russian
-religion = catholic
+		culture = parthian
+religion = zoroastrianism
 		size = 7
 	}
 
 	artisans = {
-		culture = russian
-religion = catholic
+		culture = parthian
+religion = zoroastrianism
 		size = 12
 	}
 
 	soldiers = {
-		culture = russian
-religion = catholic
+		culture = parthian
+religion = zoroastrianism
 		size = 62
 	}
 
@@ -69,7 +69,7 @@ religion = catholic
 	}
 
 	aristocrats = {
-		culture = azerbaijani
+		culture = parthian
 religion = catholic
 		size = 165
 	}
@@ -125,7 +125,7 @@ religion = catholic
 #Gyumri (56665/14165 POPS)
 1099 = {
 	aristocrats = {
-		culture = armenian
+		culture = parthian
 religion = catholic
 		size = 250
 	}
@@ -187,7 +187,7 @@ religion = catholic
 #Kapan (36665/9165 POPS)
 1100 = {
 	aristocrats = {
-		culture = armenian
+		culture = parthian
 religion = catholic
 		size = 102
 	}
@@ -249,7 +249,7 @@ religion = catholic
 #Nakhichevan (50000/12500 POPS) #now part of Azerbaijan 
 1101 = {
 	aristocrats = {
-		culture = armenian
+		culture = parthian
 religion = catholic
 		size = 102
 	}

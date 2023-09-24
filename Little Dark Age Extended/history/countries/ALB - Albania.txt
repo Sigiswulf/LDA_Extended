@@ -1,5 +1,6 @@
 capital = 849
-primary_culture = azerbaijani
+primary_culture = parthian
+culture = azerbaijani
 religion = zoroastrianism
 government = absolute_monarchy
 plurality = 0.4

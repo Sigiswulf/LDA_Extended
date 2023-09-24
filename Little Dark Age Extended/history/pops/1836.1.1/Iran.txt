@@ -595,31 +595,31 @@ religion = zoroastrianism
     }
 	
 	aristocrats = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 322
     }
 
     clergymen = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 158
     }
 
     artisans = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 843
     }
 
     soldiers = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 158
     }
 
     farmers = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 15428
     }
@@ -1015,31 +1015,31 @@ religion = catholic
     }
 	
 	aristocrats = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 908
     }
 
     clergymen = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 487
     }
 
     artisans = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 6507
     }
 
     soldiers = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 1428
     }
 
     farmers = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 36358
     }
@@ -1336,55 +1336,55 @@ religion = zoroastrianism
 #Kashan (145831/36456 POPS)
 1129 = {
     aristocrats = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 713
     }
 
     clergymen = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 353
     }
 
     artisans = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 1820
     }
 
     soldiers = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 1428
     }
 
     farmers = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 32257
     }
 	
 	aristocrats = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 908
     }
 
     clergymen = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 452
     }
 
     artisans = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 8135
     }
 
     soldiers = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 1428
     }
@@ -2298,79 +2298,79 @@ religion = zoroastrianism
 #Mashhad (494788/123695 POPS)
 1147 = {
     aristocrats = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 5245
     }
 
     bureaucrats = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 507
     }
 
     officers = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 588
     }
 
     clergymen = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 2791
     }
 
     artisans = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 3851
     }
 
     artisans = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 8460
     }
 
     soldiers = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 3721
     }
 
     farmers = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 8682
     }
 
     aristocrats = {
-        culture = turkic
+        culture = aryan
 religion = zoroastrianism
         size = 257
     }
 
     clergymen = {
-        culture = turkic
+        culture = aryan
 religion = zoroastrianism
         size = 127
     }
 
     artisans = {
-        culture = turkic
+        culture = aryan
 religion = zoroastrianism
         size = 713
     }
 
     soldiers = {
-        culture = turkic
+        culture = aryan
 religion = zoroastrianism
         size = 127
     }
 
     farmers = {
-        culture = turkic
+        culture = aryan
 religion = zoroastrianism
         size = 13085
     }
@@ -2390,33 +2390,39 @@ religion = zoroastrianism
 #Birjand (119788/29945 POPS)
 1148 = {
     aristocrats = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 1522
     }
 
     clergymen = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 760
     }
 
     artisans = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 3890
     }
 
     soldiers = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 3721
+    }
+	
+	farmers = {
+        culture = parthian
+religion = zoroastrianism
+        size = 30000
     }
 
     farmers = {
         culture = aryan
 religion = zoroastrianism
-        size = 68553
+        size = 38553
     }
 }
 #Sabzevar (93750/23437 POPS)
@@ -2446,7 +2452,7 @@ religion = zoroastrianism
     }
 
     farmers = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 55518
     }
@@ -2454,121 +2460,121 @@ religion = zoroastrianism
 #Bojnurd (72913/18226 POPS)
 1150 = {
     aristocrats = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 1690
     }
 
     clergymen = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 843
     }
 
     artisans = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 4397
     }
 
     soldiers = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 3721
     }
 
     farmers = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 77695
     }
 
     aristocrats = {
-        culture = turkic
+        culture = aryan
 religion = zoroastrianism
         size = 226
     }
 
     clergymen = {
-        culture = turkic
+        culture = aryan
 religion = zoroastrianism
         size = 96
     }
 
     artisans = {
-        culture = turkic
+        culture = aryan
 religion = zoroastrianism
         size = 585
     }
 
     soldiers = {
-        culture = turkic
+        culture = aryan
 religion = zoroastrianism
         size = 127
     }
 
     farmers = {
-        culture = turkic
+        culture = aryan
 religion = zoroastrianism
         size = 10675
     }
 	
 	aristocrats = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 335
     }
 
     clergymen = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 166
     }
 
     artisans = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 843
     }
 
     soldiers = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 166
     }
 
     farmers = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 15401
     }
 
     aristocrats = {
-        culture = turkic
+        culture = aryan
 religion = zoroastrianism
         size = 257
     }
 
     clergymen = {
-        culture = turkic
+        culture = aryan
 religion = zoroastrianism
         size = 96
     }
 
     artisans = {
-        culture = turkic
+        culture = aryan
 religion = zoroastrianism
         size = 550
     }
 
     soldiers = {
-        culture = turkic
+        culture = aryan
 religion = zoroastrianism
         size = 96
     }
 
     farmers = {
-        culture = turkic
+        culture = aryan
 religion = zoroastrianism
         size = 10706
     }

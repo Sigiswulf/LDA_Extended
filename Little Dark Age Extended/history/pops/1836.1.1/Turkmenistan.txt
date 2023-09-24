@@ -43,14 +43,14 @@ religion = animist
 	}
 
 	clergymen = {
-		culture = turkic
-religion = animist
+		culture = parthian
+religion = zoroastrianism
 		size = 68
 	}
 
 	artisans = {
-		culture = turkic
-religion = animist
+		culture = parthian
+religion = zoroastrianism
 		size = 312
 	}
 
@@ -61,32 +61,32 @@ religion = animist
 	}
 
 	farmers = {
-		culture = turkic
-religion = animist
+		culture = parthian
+religion = zoroastrianism
 		size = 6418
 	}
 
 	clergymen = {
-		culture = aryan
-religion = zoroastrianism
+		culture = turkic
+religion = animist
 		size = 6
 	}
 
 	artisans = {
-		culture = aryan
-religion = zoroastrianism
+		culture = turkic
+religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = aryan
-religion = zoroastrianism
+		culture = turkic
+religion = animist
 		size = 6
 	}
 
 	farmers = {
-		culture = aryan
-religion = zoroastrianism
+		culture = turkic
+religion = animist
 		size = 937
 	}
 }
@@ -99,14 +99,14 @@ religion = animist
 	}
 
 	clergymen = {
-		culture = turkic
-religion = animist
+		culture = parthian
+religion = zoroastrianism
 		size = 43
 	}
 
 	artisans = {
-		culture = turkic
-religion = animist
+		culture = parthian
+religion = zoroastrianism
 		size = 212
 	}
 
@@ -117,32 +117,32 @@ religion = animist
 	}
 
 	farmers = {
-		culture = turkic
-religion = animist
+		culture = parthian
+religion = zoroastrianism
 		size = 4350
 	}
 
 	clergymen = {
-		culture = aryan
-religion = zoroastrianism
+		culture = turkic
+religion = animist
 		size = 6
 	}
 
 	artisans = {
-		culture = aryan
-religion = zoroastrianism
+		culture = turkic
+religion = animist
 		size = 37
 	}
 
 	soldiers = {
-		culture = aryan
-religion = zoroastrianism
+		culture = turkic
+religion = animist
 		size = 6
 	}
 
 	farmers = {
-		culture = aryan
-religion = zoroastrianism
+		culture = turkic
+religion = animist
 		size = 700
 	}
 }
@@ -150,8 +150,8 @@ religion = zoroastrianism
 #Merv (33000/8250 POPS)   
 1206 = {
 	aristocrats = {
-		culture = turkic
-religion = animist
+		culture = aryan
+religion = zoroastrianism
 		size = 6
 	}
 
@@ -186,13 +186,13 @@ religion = animist
 	}
 
 	clergymen = {
-		culture = turkic
+		culture = parthian
 religion = animist
 		size = 56
 	}
 
 	artisans = {
-		culture = turkic
+		culture = parthian
 religion = animist
 		size = 275
 	}
@@ -204,38 +204,38 @@ religion = animist
 	}
 
 	farmers = {
-		culture = turkic
-religion = animist
+		culture = parthian
+religion = zoroastrianism
 		size = 5256
 	}
 
 	aristocrats = {
-		culture = aryan
+		culture = parthian
 religion = zoroastrianism
 		size = 12
 	}
 
 	clergymen = {
-		culture = aryan
-religion = zoroastrianism
+		culture = turkic
+religion = animist
 		size = 12
 	}
 
 	artisans = {
-		culture = aryan
-religion = zoroastrianism
+		culture = turkic
+religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = aryan
-religion = zoroastrianism
+		culture = turkic
+religion = animist
 		size = 18
 	}
 
 	farmers = {
-		culture = aryan
-religion = zoroastrianism
+		culture = turkic
+religion = animist
 		size = 1856
 	}
 
