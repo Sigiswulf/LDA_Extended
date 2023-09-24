@@ -6404,31 +6404,31 @@ culture = romano_gallic
 #Macon (111168/27790 POPS)
 431 = {
 	aristocrats = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 225
 	}
 
 	clergymen = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 225
 	}
 
 	artisans = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 1034
 	}
 
 	soldiers = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 1243
 	}
 
 	farmers = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 26089
 	}
@@ -6438,49 +6438,49 @@ culture = romano_gallic
 #Besancon (124443/31109 POPS)
 432 = {
 	aristocrats = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 288
 	}
 
 	officers = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 49
 	}
 
 	bureaucrats = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 112
 	}
 
 	clergymen = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 298
 	}
 
 	artisans = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 1449
 	}
 
 	craftsmen = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 205
 	}
 	
 	soldiers = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 1243
 	}
 
 	farmers = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 28380
 	}
@@ -6488,31 +6488,31 @@ culture = romano_gallic
 #Lons (65123/16279 POPS)
 433 = {
 	aristocrats = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 142
 	}
 
 	clergymen = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 163
 	}
 
 	artisans = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 828
 	}
 
 	soldiers = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 1243
 	}
 
 	farmers = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 14930
 	}
@@ -6523,115 +6523,115 @@ culture = romano_gallic
 #Lyon (170900/42723 POPS)
 451 = {
 	aristocrats = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 414
 	}
 
 	officers = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 142
 	}
 
 	bureaucrats = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 340
 	}
 
 	capitalists = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 29
 	}
 
 	clerks = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 70
 	}
 
 	craftsmen = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 2382
 	}
 
 	clergymen = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 414
 	}
 
 	artisans = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 2072
 	}
 
 	artisans = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 2072
 	}
 
 	artisans = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 2072
 	}
 
 	artisans = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 2072
 	}
 
 	artisans = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 2072
 	}
 
 	artisans = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 620
 	}
 
 	soldiers = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 1492
 	}
 
 	farmers = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 26971
 	}
 
 	clergymen = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 2
 	}
 
 	clerks = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 2
 	}
 
 	craftsmen = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 49
 	}
 
 	artisans = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 454
 	}
@@ -6692,43 +6692,43 @@ culture = romano_gallic
 #Valence (136057/34014 POPS)
 453 = {
 	aristocrats = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 329
 	}
 
 	clergymen = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 340
 	}
 
 	artisans = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 1449
 	}
 
 	clerks = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 18
 	}
 
 	craftsmen = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 414
 	}
 	
 	soldiers = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 1243
 	}
 
 	farmers = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 31109
 	}
@@ -6737,31 +6737,31 @@ culture = romano_gallic
 #Grenoble (144354/36086 POPS)
 454 = {
 	aristocrats = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 350
 	}
 
 	clergymen = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 361
 	}
 
 	artisans = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 1761
 	}
 
 	soldiers = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 1492
 	}
 
 	farmers = {
-		culture = burgundian
+		culture = goths
 		religion = arian
 		size = 33245
 	}

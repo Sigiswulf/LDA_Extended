@@ -1,4 +1,4 @@
-owner = ENL
+owner = SCO
 #controller = SCO
 add_core = SCO
 trade_goods = coal

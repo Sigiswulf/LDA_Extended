@@ -285,133 +285,133 @@
 #Vienna (406499/101624 POPS)
 619 = {
 	aristocrats = {
-		culture = lombard
+		culture = south_german
 		religion = arian
 		size = 1593 
 	}
 
 	bureaucrats = {
-		culture = lombard
+		culture = south_german
 		religion = arian
 		size = 523 
 	}
 
 	officers = {
-		culture = lombard
+		culture = south_german
 		religion = arian
 		size = 225 
 	}
 
 	clergymen = {
-		culture = lombard
+		culture = south_german
 		religion = arian
 		size = 1030
 	}
 
 	artisans = {
-		culture = lombard
+		culture = south_german
 		religion = arian
 		size = 3749
 	}
 
 	artisans = {
-		culture = lombard
+		culture = south_german
 		religion = arian
 		size = 3749
 	}
 
 	artisans = {
-		culture = lombard
+		culture = south_german
 		religion = arian
 		size = 3749
 	}
 
 	artisans = {
-		culture = lombard
+		culture = south_german
 		religion = arian
 		size = 3749
 	}
 
 	artisans = {
-		culture = lombard
+		culture = south_german
 		religion = arian
 		size = 3749
 	}
 
 	artisans = {
-		culture = lombard
+		culture = south_german
 		religion = arian
 		size = 599
 	}
 
 	clerks = {
-		culture = lombard
+		culture = south_german
 		religion = arian
 		size = 18
 	}
 	
 	craftsmen = {
-		culture = lombard
+		culture = south_german
 		religion = arian
 		size = 2211
 	}
 	
 	soldiers = {
-		culture = lombard
+		culture = south_german
 		religion = arian
 		size = 1030 
 	}
 
 	farmers = {
-		culture = lombard
+		culture = south_german
 		religion = arian
 		size = 72936
 	}
 
 	clergymen = {
-		culture = lombard
+		culture = south_german
 		religion = arian
 		size = 36
 	}
 
 	craftsmen = {
-		culture = lombard
+		culture = south_german
 		religion = arian
 		size = 36
 	}
 
 	artisans = {
-		culture = lombard
+		culture = south_german
 		religion = arian
 		size = 2211
 	}
 
 	clergymen = {
-		culture = lombard
+		culture = south_german
 		religion = arian
 		size = 36 
 	}
 
 	artisans = {
-		culture = lombard
+		culture = south_german
 		religion = arian
 		size = 337
 	}
 
 	clergymen = {
-		culture = lombard
+		culture = south_german
 		religion = arian
 		size = 36 
 	}
 
 	artisans = {
-		culture = lombard
+		culture = south_german
 		religion = arian
 		size = 149
 	}
 
 	craftsmen = {
-		culture = lombard
+		culture = south_german
 		religion = arian
 		size = 36 
 	}
@@ -463,37 +463,37 @@
 #Krems (90000/22500 POPS)
 621 = {
 	aristocrats = {
-		culture = lombard
+		culture = south_german
 		religion = arian
 		size = 346 
 	}
 
 	clergymen = {
-		culture = lombard
+		culture = south_german
 		religion = arian
 		size = 234
 	}
 
 	artisans = {
-		culture = lombard
+		culture = south_german
 		religion = arian
 		size = 1125
 	}
 
 	craftsmen = {
-		culture = lombard
+		culture = south_german
 		religion = arian
 		size = 36
 	}
 
 	soldiers = {
-		culture = lombard
+		culture = south_german
 		religion = arian
 		size = 243 
 	}
 
 	farmers = {
-		culture = lombard
+		culture = south_german
 		religion = arian
 		size = 20511
 	}

@@ -30,43 +30,43 @@ religion = norse_pagan
 #Aarhus (99199/24799 POPS)
 366 = {
 	aristocrats = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 300
 	}
 
 	bureaucrats = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 210
 	}
 
 	officers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 120
 	}
 
 	clergymen = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 2240
 	}
 
 	artisans = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 1950
 	}
 
 	soldiers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 4200
 	}
 
 	farmers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 32194
 	}
@@ -74,31 +74,31 @@ religion = norse_pagan
 #Alborg (60799/15199 POPS)
 367 = {
 	aristocrats = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 129
 	}
 
 	clergymen = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 129
 	}
 
 	artisans = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 12000
 	}
 
 	soldiers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 3000
 	}
 
 	farmers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 28000 #1k moved to 1022
 	}
@@ -106,31 +106,31 @@ religion = norse_pagan
 #Ribe (59199/14799 POPS)
 368 = {
 	aristocrats = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 150
 	}
 
 	clergymen = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 150
 	}
 
 	artisans = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 16600
 	}
 
 	soldiers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 3000
 	}
 
 	farmers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 24400 #3k moved to 1022
 	}
@@ -140,27 +140,27 @@ religion = norse_pagan
 # Esbjerg (Pops moved from Aalborg)
 2557 = {
 	artisans = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 36600
 	}
 	clergymen = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 74
 	}
 	soldiers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 1500
 	}
 	aristocrats = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 150
 	}
 	farmers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 8640
 	}
@@ -171,73 +171,73 @@ religion = norse_pagan
 #Flensburg (94399/23599 POPS)
 370 = {
 	bureaucrats = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 60
 	}
 
 	clergymen = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 74
 	}
 
 	artisans = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 900
 	}
 
 	soldiers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 150
 	}
 
 	farmers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 8414
 	}
 
 	aristocrats = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 390
 	}
 
 	bureaucrats = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 60
 	}
 
 	officers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 90
 	}
 
 	clergymen = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 150
 	}
 
 	artisans = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 1500
 	}
 
 	soldiers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 300
 	}
 
 	farmers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 23310
 	}
@@ -245,55 +245,55 @@ religion = norse_pagan
 #Aabenra (39999/9999 POPS)
 371 = {
 	clergymen = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 74
 	}
 
 	artisans = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 11660
 	}
 
 	soldiers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 150
 	}
 
 	farmers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 9974
 	}
 
 	aristocrats = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 60
 	}
 
 	clergymen = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 30
 	}
 
 	artisans = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 150
 	}
 
 	soldiers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 30
 	}
 
 	farmers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 13930
 	}
@@ -432,103 +432,103 @@ religion = norse_pagan
 #Kiel (115198/28798 POPS)
 369 = {
 	aristocrats = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 270  
 	}
 
 	bureaucrats = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 78 
 	}
 
 	officers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 43  
 	}
 
 	clergymen = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 256
 	}
 
 	artisans = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 10800
 	}
 
 	soldiers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 17980 
 	}
 
 	farmers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 21891
 	}
 
 	clergymen = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 21 
 	}
 
 	artisans = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 43
 	}
 
 	soldiers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 10 
 	}
 
 	farmers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 820 
 	}
 
 	clergymen = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 3 
 	}
 
 	artisans = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 219
 	}
 
 	clergymen = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 21
 	}
 
 	artisans = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 88
 	}
 
 	soldiers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 21 
 	}
 
 	farmers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 2113 
 	}
@@ -536,31 +536,31 @@ religion = norse_pagan
 #Lauenburg (66598/16648 POPS)
 529 = {
 	aristocrats = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 156 
 	}
 
 	clergymen = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 168 
 	}
 
 	artisans = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 18200
 	}
 
 	soldiers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 4930 
 	}
 
 	farmers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 15073
 	}
@@ -570,55 +570,55 @@ religion = norse_pagan
 #Lubeck (17998/4498 POPS)
 530 = {
 	aristocrats = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 21 
 	}
 
 	bureaucrats = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 10 
 	}
 
 	officers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 1000 
 	}
 
 	clergymen = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 32 
 	}
 
 	artisans = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 2676
 	}
 
 	soldiers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 4930
 	}
 
 	farmers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 15076 
 	}
 
 	artisans = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 13400
 	}
 
 	farmers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 88 
 	}

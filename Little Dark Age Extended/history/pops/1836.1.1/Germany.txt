@@ -2,41 +2,41 @@
 #Neustrelitz (40500/10124 POPS)
 545 = {
 	aristocrats = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 88 
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 100
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 505
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 1000
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 6977
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = arian
 		size = 1000
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = catholic
 		size = 1000
 	}
@@ -47,41 +47,41 @@ religion = catholic
 #Swinemunde (59400/14850 POPS)
 547 = {
 	aristocrats = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 134 
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 145
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 741
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 1000
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 12149
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = arian
 		size = 1000
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = catholic
 		size = 1000
 	}
@@ -90,77 +90,77 @@ religion = catholic
 #Stralsund (70648/17661 POPS)
 548 = {
 	aristocrats = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 88 
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 88 
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 1056
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 1000 
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 9021
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 67   
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 628
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 1000    
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 3511
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 0    
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 108
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = arian
 		size = 1000
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = catholic
 		size = 1000
 	}
@@ -171,185 +171,185 @@ religion = catholic
 #Berlin (347398/86848 POPS)
 549 = {
 	aristocrats = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 786 
 	}
 
 	bureaucrats = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 1214
 	}
 
 	officers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 270 
 	}
 
 	capitalists = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 32
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 674 
 	}
 
 	clerks = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 270
 	}
 
 	craftsmen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 2935
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 4498
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 4498
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 4498
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 4498
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 4498
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 2430
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 4000 
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 46127
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 21     
 	}
 
 	craftsmen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 67 
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 607
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 40      
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 1528      
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 13     
 	}
 
 	clerks = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 21 
 	}
 
 	craftsmen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 223 
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 637
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 21    
 	}
 
 	craftsmen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 67
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 831
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 40     
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 1303   
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = arian
 		size = 1000
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = catholic
 		size = 1000
 	}
@@ -358,41 +358,41 @@ religion = catholic
 #Prenzlau (125998/31498 POPS)
 550 = {
 	aristocrats = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 313 
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 302
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 1573
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 2000 
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 26123
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = arian
 		size = 1000
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = catholic
 		size = 1000
 	}
@@ -401,41 +401,41 @@ religion = catholic
 #Pritzwalk (104398/26098 POPS)
 551 = {
 	aristocrats = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 246 
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 256
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 1350
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 2000
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 21162
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = arian
 		size = 1000
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = catholic
 		size = 1000
 	}
@@ -444,65 +444,65 @@ religion = catholic
 #Cottbus (154798/38698 POPS)
 552 = {
 	aristocrats = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 337 
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 337
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 1798
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 2000 
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 32038
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 21     
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 134
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 100      
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 1518     
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = arian
 		size = 1000
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = catholic
 		size = 1000
 	}
@@ -514,131 +514,131 @@ religion = catholic
 #Dresden (305548/76386 POPS)
 558 = {
 	aristocrats = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 718 
 	}
 
 	bureaucrats = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 313 
 	}
 
 	officers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 19 
 	}
 
 	capitalists = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 10
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 729
 	}
 
 	clerks = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 32
 	}
 
 	craftsmen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 685
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 4498
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 111
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 1400 
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 63926 
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 21      
 	}
 
 	craftsmen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 78
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 415
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 100        
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 1708       
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 0     
 	}
 
 	clerks = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 6 
 	}
 
 	craftsmen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 67
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 259
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = arian
 		size = 1000
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = catholic
 		size = 1000
 	}
@@ -647,77 +647,77 @@ religion = catholic
 #Leipzig (189000/47250 POPS)
 559 = {
 	aristocrats = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 493 
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 493 
 	}
 
 	clerks = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 32
 	}
 
 	craftsmen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 482
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 4071
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 1000 
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 38770 
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 3     
 	}
 
 	clerks = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 6
 	}
 
 	craftsmen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 32
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 404
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = arian
 		size = 1000
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = catholic
 		size = 1000
 	}
@@ -726,41 +726,41 @@ religion = catholic
 #Chemnitz (125998/31498 POPS)
 560 = {
 	aristocrats = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 358 
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 280
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 2248
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 1000
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 26066
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = arian
 		size = 1000
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = catholic
 		size = 1000
 	}
@@ -771,67 +771,67 @@ religion = catholic
 #Stettin (161333/40333 POPS) #Part of Poland since 648
 546 = {
 	aristocrats = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 416 
 	}
 
 	bureaucrats = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 433
 	}
 
 	officers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 116 
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 375
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 1750
 	}
 
 	clerks = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 33
 	}
 
 	craftsmen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 1333
 	}
 	
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 1100 
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 36708
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 8 
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 325
 	}
@@ -860,12 +860,12 @@ religion = norse_pagan
 		size = 306   
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = arian
 		size = 1000
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = catholic
 		size = 1000
 	}
@@ -874,65 +874,65 @@ religion = catholic
 #Kolberg (53333/13333 POPS) #Part of Poland since 648
 679 = {
 	aristocrats = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 116 
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 125
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 633
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 433 
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 9358
 	}
 
 	clergymen = {
-culture = czech
+culture = south_german
 religion = norse_pagan
 		size = 16   
 	}
 
 	artisans = {
-culture = czech
+culture = south_german
 religion = norse_pagan
 		size = 33
 	}
 
 	soldiers = {
-culture = czech
+culture = south_german
 religion = norse_pagan
 		size = 8     
 	}
 
 	farmers = {
-culture = czech
+culture = south_german
 religion = norse_pagan
 		size = 608    
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = arian
 		size = 1000
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = catholic
 		size = 1000
 	}
@@ -1018,12 +1018,12 @@ religion = norse_pagan
 		size = 608   
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = arian
 		size = 1000
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = catholic
 		size = 1000
 	}
@@ -1034,178 +1034,178 @@ religion = catholic
 #Kustrin (69333/17333 POPS) #Part of Poland since 648
 681 = {
 	aristocrats = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 175 
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 150 
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 800
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 766 
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 13375
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 66
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = arian
 		size = 1000
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = catholic
 		size = 1000
 	}
 
 }
-#Silesia Region (856000) #see Czechia.txt and Germany.txt for balance of region
+#Silesia Region (856000) #see south_germania.txt and Germany.txt for balance of region
 #under the rule of Prussia in 612  
 #Breslau (312000/78000 POPS) 
 682 = {
 	aristocrats = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 1250
 	}
 
 	bureaucrats = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 1066
 	}
 
 	officers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 250 
 	}
 
 	capitalists = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 6
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 583 
 	}
 
 	clerks = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 75
 	}
 
 	craftsmen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 5666
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 3333
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 91
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 1166 
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 47093
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 58
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 300
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 433 
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 5208
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 8  
 	}
 
 	clerks = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 8
 	}
 
 	craftsmen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 50
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 441
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 8 
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 150  
 	}
@@ -1240,12 +1240,12 @@ religion = norse_pagan
 		size = 8200 
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = arian
 		size = 1000
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = catholic
 		size = 1000
 	}
@@ -1253,61 +1253,61 @@ religion = catholic
 #Liegnitz (161333/40333 POPS) 
 683 = {
 	aristocrats = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 666
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 308
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 1516
 	}
 
 	craftsmen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 1800
 	}
 	
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 408 
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 32300
 	}	
 	
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 25 
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 66
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 16 
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 1225 
 	}
@@ -1337,35 +1337,35 @@ religion = norse_pagan
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 5 
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 16
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 3 
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 308 
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = arian
 		size = 1000
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = catholic
 		size = 1000
 	}
@@ -1373,85 +1373,85 @@ religion = catholic
 #Oppeln (164000/41000 POPS) 
 684 = {
 	aristocrats = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 666
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 108 
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 633
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 466 
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 10791  
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 41
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 250
 	}
 
 	craftsmen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 333
 	}
 	
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 375 
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 2000
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 8  
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 366
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 8 
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 283  
 	}
@@ -1487,35 +1487,35 @@ religion = norse_pagan
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 16 
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 66
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 8 
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 1241 
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = arian
 		size = 1000
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = catholic
 		size = 1000
 	}
@@ -1523,55 +1523,55 @@ religion = catholic
 #Kattowitz (150666/37666 POPS) 
 685 = {
 	aristocrats = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 583
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 25 
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 166
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 33 
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 2525  
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 58
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 366
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 433 
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 3841 
 	}
@@ -1607,41 +1607,41 @@ religion = norse_pagan
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 16 
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 133
 	}
 
 	craftsmen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 66
 	}
 	
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 33 
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 3083
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = arian
 		size = 1000
 	}
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = catholic
 		size = 1000
 	}
@@ -1652,67 +1652,67 @@ religion = catholic
 #Hamburg (71998/17998 POPS)
 528 = {
 	aristocrats = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 134
 	}
 
 	bureaucrats = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 43
 	}
 
 	officers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 10
 	}
 
 	clergymen = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 145
 	}
 
 	artisans = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 4498
 	}
 
 	artisans = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 14498
 	}
 
 	artisans = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 4498
 	}
 
 	soldiers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 4930
 	}
 
 	farmers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 2811
 	}
 
 	clergymen = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 21
 	}
 
 	artisans = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 877
 	}
@@ -1829,55 +1829,55 @@ religion = norse_pagan
 #Schwerin (217798/54448 POPS)
 544 = {
 	aristocrats = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 550 
 	}
 
 	bureaucrats = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 122 
 	}
 
 	officers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 67 
 	}
 
 	clergymen = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 540 
 	}
 
 	artisans = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 12700
 	}
 
 	soldiers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 5610 
 	}
 
 	farmers = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 49410 
 	}
 
 	clergymen = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 10 
 	}
 
 	artisans = {
-		culture = swedish
+		culture = north_german
 religion = norse_pagan
 		size = 438
 	}

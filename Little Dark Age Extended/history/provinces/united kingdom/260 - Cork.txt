@@ -1,4 +1,4 @@
-owner = WHA
+owner = IRE
 #controller = IRE
 add_core = IRE
 

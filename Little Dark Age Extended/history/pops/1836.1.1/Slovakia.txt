@@ -3,7 +3,7 @@
 #Bratislava (261333/65333 POPS)
 633 = {
 	bureaucrats = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 41 
 	}
@@ -15,97 +15,97 @@ religion = norse_pagan
 	}
 	
 	officers = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 25 
 	}
 
 	clergymen = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 400 
 	}
 
 	artisans = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 2066
 	}
 
 	soldiers = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 4000 
 	}
 
 	farmers = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 38383
 	}
 
 	aristocrats = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 750  
 	}
 
 	bureaucrats = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 100  
 	}
 
 	officers = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 66   
 	}
 
 	clergymen = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 66  
 	}
 
 	artisans = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 416
 	}
 
 	soldiers = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 400  
 	}
 
 	farmers = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 5200   
 	}
 
 	clergymen = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 41
 	}
 
 	artisans = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 366
 	}
 
 	soldiers = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 400  
 	}
 
 	farmers = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 4908    
 	}
@@ -185,25 +185,25 @@ religion = norse_pagan
 #Trencin (76000/19000 POPS)
 634 = {
 	clergymen = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 166 
 	}
 
 	artisans = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 866
 	}
 
 	soldiers = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 1000 
 	}
 
 	farmers = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 16133
 	}
@@ -265,79 +265,79 @@ religion = norse_pagan
 #Nitra (117333/29333 POPS)
 635 = {
 	clergymen = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 216
 	}
 
 	artisans = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 1133
 	}
 
 	soldiers = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 2000 
 	}
 
 	farmers = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 21100
 	}
 
 	aristocrats = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 366  
 	}
 
 	clergymen = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 25
 	}
 
 	artisans = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 116
 	}
 
 	soldiers = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 300 
 	}
 
 	farmers = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 1800 
 	}
 
 	clergymen = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 16  
 	}
 
 	artisans = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 133
 	}
 
 	soldiers = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 300  
 	}
 
 	farmers = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 2491    
 	}
@@ -393,25 +393,25 @@ religion = norse_pagan
 #Banska Bystrica (74666/18666 POPS)
 636 = {
 	clergymen = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 158
 	}
 
 	artisans = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 883
 	}
 
 	soldiers = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 1000 
 	}
 
 	farmers = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 16458 
 	}
@@ -445,103 +445,103 @@ religion = norse_pagan
 #Kosice (237333/59333POPS)
 637 = {
 	bureaucrats = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 25 
 	}
 
 	officers = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 25 
 	}
 
 	clergymen = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 325
 	}
 
 	artisans = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 1666
 	}
 
 	soldiers = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 3000 
 	}
 
 	farmers = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 31291 
 	}
 
 	aristocrats = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 1000  
 	}
 
 	bureaucrats = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 166 
 	}
 
 	officers = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 125 
 	}
 
 	clergymen = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 66  
 	}
 
 	artisans = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 366
 	}
 
 	soldiers = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 1000  
 	}
 
 	farmers = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 4941  
 	}
 
 	clergymen = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 58 
 	}
 
 	artisans = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 366
 	}
 
 	soldiers = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 1000  
 	}
 
 	farmers = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 6175
 	}
@@ -657,79 +657,79 @@ religion = norse_pagan
 #Roznava (49333/12333 POPS)
 638 = {
 	clergymen = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 58
 	}
 
 	artisans = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 366
 	}
 
 	soldiers = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 1000 
 	}
 
 	farmers = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 6208 
 	}
 
 	aristocrats = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 250  
 	}
 
 	clergymen = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 25  
 	}
 
 	artisans = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 133
 	}
 
 	soldiers = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 100 
 	}
 
 	farmers = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 2225 
 	}
 
 	clergymen = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 16  
 	}
 
 	artisans = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 133
 	}
 
 	soldiers = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 200  
 	}
 
 	farmers = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 2158    
 	}

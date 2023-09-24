@@ -1,5 +1,5 @@
 capital = 647
-primary_culture = gepid
+primary_culture = goths
 religion = arian
 government = absolute_monarchy
 plurality = 25.0

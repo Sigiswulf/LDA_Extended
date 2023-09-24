@@ -3,7 +3,7 @@
 #Oradea (281333/70333 POPS) #part of Romania today
 647 = {
 	clergymen = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 416  
 	}
@@ -15,7 +15,7 @@ religion = norse_pagan
 	}
 
 	artisans = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 2166
 	}
@@ -27,61 +27,61 @@ religion = norse_pagan
 	}
 
 	farmers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 42300   
 	}
 
 	aristocrats = {
-culture = gepid
+culture = goths
 religion = norse_pagan
 		size = 833 
 	}
 
 	bureaucrats = {
-culture = gepid
+culture = goths
 religion = norse_pagan
 		size = 350 
 	}
 
 	officers = {
-culture = gepid
+culture = goths
 religion = norse_pagan
 		size = 100 
 	}
 
 	clergymen = {
-culture = gepid
+culture = goths
 religion = norse_pagan
 		size = 100 
 	}
 
 	artisans = {
-culture = gepid
+culture = goths
 religion = norse_pagan
 		size = 466
 	}
 
 	soldiers = {
-culture = gepid
+culture = goths
 religion = norse_pagan
 		size = 500 
 	}
 
 	farmers = {
-culture = gepid
+culture = goths
 religion = norse_pagan
 		size = 7416 
 	}
 
 	aristocrats = {
-culture = gepid
+culture = goths
 religion = norse_pagan
 		size = 666 
 	}
 
 	officers = {
-culture = gepid
+culture = goths
 religion = norse_pagan
 		size = 116 
 	}
@@ -99,13 +99,13 @@ religion = norse_pagan
 	}
 
 	soldiers = {
-culture = gepid
+culture = goths
 religion = norse_pagan
 		size = 500    
 	}
 
 	farmers = {
-culture = gepid
+culture = goths
 religion = norse_pagan
 		size = 11258   
 	}
@@ -117,7 +117,7 @@ religion = norse_pagan
 	}
 
 	artisans = {
-culture = gepid
+culture = goths
 religion = norse_pagan
 		size = 366
 	}
@@ -129,31 +129,31 @@ religion = norse_pagan
 	}
 
 	farmers = {
-culture = gepid
+culture = goths
 religion = norse_pagan
 		size = 275     
 	}
 
 	clergymen = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 16  
 	}
 
 	artisans = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 150
 	}
 
 	soldiers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 100    
 	}
 
 	farmers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 1808  
 	}
@@ -269,25 +269,25 @@ religion = norse_pagan
 	}
 
 	clergymen = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 16  
 	}
 
 	artisans = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 150
 	}
 
 	soldiers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 100    
 	}
 
 	farmers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 2141
 	}
@@ -321,13 +321,13 @@ religion = norse_pagan
 #Temesvar (313333/78333 POPS) #part of Romania today
 652 = {
 	clergymen = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 91 
 	}
 
 	artisans = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 466
 	}
@@ -339,7 +339,7 @@ religion = norse_pagan
 	}
 
 	farmers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 9675 
 	}
@@ -351,7 +351,7 @@ religion = norse_pagan
 	}
 
 	bureaucrats = {
-culture = gepid
+culture = goths
 religion = norse_pagan
 		size = 133 
 	}
@@ -363,7 +363,7 @@ religion = norse_pagan
 	}
 
 	clergymen = {
-culture = gepid
+culture = goths
 religion = norse_pagan
 		size = 50  
 	}
@@ -375,13 +375,13 @@ religion = norse_pagan
 	}
 
 	soldiers = {
-culture = gepid
+culture = goths
 religion = norse_pagan
 		size = 100 
 	}
 
 	farmers = {
-culture = gepid
+culture = goths
 religion = norse_pagan
 		size = 4166  
 	}
@@ -417,85 +417,85 @@ religion = norse_pagan
 	}
 
 	aristocrats = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 116  
 	}
 
 	bureaucrats = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 158 
 	}
 
 	officers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 116 
 	}
 
 	clergymen = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 266   
 	}
 
 	artisans = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 1500
 	}
 
 	soldiers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 600     
 	}
 
 	farmers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 25008  
 	}
 
 	clergymen = {
-culture = gepid
+culture = goths
 religion = norse_pagan
 		size = 50   
 	}
 
 	artisans = {
-culture = gepid
+culture = goths
 religion = norse_pagan
 		size = 283
 	}
 
 	soldiers = {
-culture = gepid
+culture = goths
 religion = norse_pagan
 		size = 120 
 	}
 
 	farmers = {
-culture = gepid
+culture = goths
 religion = norse_pagan
 		size = 6266 
 	}
 
 	clergymen = {
-culture = gepid
+culture = goths
 religion = norse_pagan
 		size = 183 
 	}
 
 	artisans = {
-culture = gepid
+culture = goths
 religion = norse_pagan
 		size = 1000
 	}
 
 	soldiers = {
-culture = gepid
+culture = goths
 religion = norse_pagan
 		size = 500 
 	}
@@ -557,31 +557,31 @@ religion = norse_pagan
 	}
 
 	aristocrats = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 366  
 	}
 
 	clergymen = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 50   
 	}
 
 	artisans = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 266
 	}
 
 	soldiers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 100     
 	}
 
 	farmers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 4300 
 	}
@@ -597,7 +597,7 @@ religion = norse_pagan
 	}
 
 	bureaucrats = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 150
 	}
@@ -705,43 +705,43 @@ religion = norse_pagan
 	}
 
 	aristocrats = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 116   
 	}
 
 	bureaucrats = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 83  
 	}
 
 	officers = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 33 
 	}
 
 	clergymen = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 26    
 	}
 
 	artisans = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 283
 	}
 
 	soldiers = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 32     
 	}
 
 	farmers = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 1106   
 	}
@@ -857,31 +857,31 @@ religion = norse_pagan
 	}
 
 	aristocrats = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 116  
 	}
 
 	clergymen = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 16    
 	}
 
 	artisans = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 116
 	}
 
 	soldiers = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 50     
 	}
 
 	farmers = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 2058   
 	}
@@ -997,25 +997,25 @@ religion = norse_pagan
 	}
 
 	clergymen = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 8    
 	}
 
 	artisans = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 33
 	}
 
 	soldiers = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 32     
 	}
 
 	farmers = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 616   
 	}
@@ -1053,7 +1053,7 @@ religion = norse_pagan
 	}
 
 	bureaucrats = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 250
 	}
@@ -1137,31 +1137,31 @@ religion = norse_pagan
 	}
 
 	aristocrats = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 316  
 	}
 
 	clergymen = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 75    
 	}
 
 	artisans = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 416
 	}
 
 	soldiers = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 160     
 	}
 
 	farmers = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 7108
 	}
@@ -1277,31 +1277,31 @@ religion = norse_pagan
 	}
 
 	aristocrats = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 116  
 	}
 
 	clergymen = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 25    
 	}
 
 	artisans = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 800
 	}
 
 	soldiers = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 60     
 	}
 
 	farmers = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 2025   
 	}
@@ -1417,25 +1417,25 @@ religion = norse_pagan
 	}
 
 	clergymen = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 16    
 	}
 
 	artisans = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 50
 	}
 
 	soldiers = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 16     
 	}
 
 	farmers = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 591    
 	}
@@ -1551,31 +1551,31 @@ religion = norse_pagan
 	}
 
 	aristocrats = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 133  
 	}
 
 	clergymen = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 25    
 	}
 
 	artisans = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 141
 	}
 
 	soldiers = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 50     
 	}
 
 	farmers = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 2341  
 	}
@@ -1691,31 +1691,31 @@ religion = norse_pagan
 	}
 
 	aristocrats = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 66  
 	}
 
 	clergymen = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 16     
 	}
 
 	artisans = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 116
 	}
 
 	soldiers = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 32      
 	}
 
 	farmers = {
-		culture = gepid #Transylvanian. Saxons
+		culture = goths #Transylvanian. Saxons
 religion = norse_pagan
 		size = 1783   
 	}
@@ -1827,25 +1827,25 @@ religion = norse_pagan
 	}
 
 	clergymen = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 16 
 	}
 
 	artisans = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 200
 	}
 
 	soldiers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 32   
 	}
 
 	farmers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 1433    
 	}

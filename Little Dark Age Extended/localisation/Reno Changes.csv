@@ -303,13 +303,13 @@ welsh;Briton;;;;;;;;;;;;;;x
 create_pannonia_title;Unite as Pannonia;;;;;;;;;;;;;;x
 create_pannonia_desc;With brute force we can carve out our own empire;;;;;;;;;;;;;;x
 french;Romano-Gallic;;;;;;;;;;;;;;x
-wallonian;Frankish;;;;;;;;;;;;;;x
+wallonian;Istvaeonic;;;;;;;;;;;;;;x
 flemish;Burgundian;;;;;;;;;;;;;;x
 dutch;Frisian;;;;;;;;;;;;;;x
 danish;Jute;;;;;;;;;;;;;;x
 czech;Thuringian;;;;;;;;;;;;;;x
-north_german;Saxon;;;;;;;;;;;;;;x
-south_german;Alemmani;;;;;;;;;;;;;;x
+north_german;Ingvaeonic;;;;;;;;;;;;;;x
+south_german;Irminonic;;;;;;;;;;;;;;x
 swiss;Vandal;;;;;;;;;;;;;;x
 roman_african;Romano-African;;;;;;;;;;;;;;x
 sardinian;Romano-Sardinian;;;;;;;;;;;;;;x
@@ -344,7 +344,7 @@ PROV1709;Hippo Regius;;;;;;;;;;;;;;x
 slavs;Slavic;;;;;;;;;;;;;;x
 south_slavs;South Slavic;;;;;;;;;;;;;;x
 balts;Baltic;;;;;;;;;;;;;;x
-goths;Gothic;;;;;;;;;;;;;;x
+goths;East Germanic;;;;;;;;;;;;;;x
 frankish;Frankish;;;;;;;;;;;;;;x
 burgundian;Burgund;;;;;;;;;;;;;;x
 romano_hispanic;Romano-Hispanic;;;;;;;;;;;;;;x

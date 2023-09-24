@@ -107,61 +107,61 @@ religion = catholic
 	}
 
 	aristocrats = {
-		culture = gepid
+		culture = goths
 		religion = catholic
 		size = 480  
 	}
 
 	clergymen = {
-		culture = gepid
+		culture = goths
 		religion = catholic
 		size = 79  
 	}
 
 	artisans = {
-		culture = gepid
+		culture = goths
 		religion = catholic
 		size = 398
 	}
 
 	soldiers = {
-		culture = gepid
+		culture = goths
 		religion = catholic
 		size = 79  
 	}
 
 	farmers = {
-		culture = gepid
+		culture = goths
 		religion = catholic
 		size = 6960 
 	}
 
 	aristocrats = {
-		culture = gepid
+		culture = goths
 		religion = catholic
 		size = 878  
 	}
 
 	clergymen = {
-		culture = gepid
+		culture = goths
 		religion = catholic
 		size = 158   
 	}
 
 	artisans = {
-		culture = gepid
+		culture = goths
 		religion = catholic
 		size = 878
 	}
 
 	soldiers = {
-		culture = gepid
+		culture = goths
 		religion = catholic
 		size = 158     
 	}
 
 	farmers = {
-		culture = gepid
+		culture = goths
 		religion = catholic
 		size = 14078  
 	}
@@ -223,31 +223,31 @@ religion = catholic
 	}
 
 	aristocrats = {
-		culture = gepid
+		culture = goths
 		religion = catholic
 		size = 1118  
 	}
 
 	clergymen = {
-		culture = gepid
+		culture = goths
 		religion = catholic
 		size = 240  
 	}
 
 	artisans = {
-		culture = gepid
+		culture = goths
 		religion = catholic
 		size = 1200
 	}
 
 	soldiers = {
-		culture = gepid
+		culture = goths
 		religion = catholic
 		size = 240  
 	}
 
 	farmers = {
-		culture = gepid
+		culture = goths
 		religion = catholic
 		size = 21199 
 	}
@@ -301,31 +301,31 @@ culture = lombard
 	}
 
 	aristocrats = {
-		culture = gepid
+		culture = goths
 		religion = catholic
 		size = 878  
 	}
 
 	clergymen = {
-		culture = gepid
+		culture = goths
 		religion = catholic
 		size = 180
 	}
 
 	artisans = {
-		culture = gepid
+		culture = goths
 		religion = catholic
 		size = 919
 	}
 
 	soldiers = {
-		culture = gepid
+		culture = goths
 		religion = catholic
 		size = 199     
 	}
 
 	farmers = {
-		culture = gepid
+		culture = goths
 		religion = catholic
 		size = 16298 
 	}

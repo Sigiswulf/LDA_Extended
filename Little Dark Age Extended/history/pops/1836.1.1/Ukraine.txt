@@ -287,127 +287,127 @@ religion = norse_pagan
 #Uzgorod (285333/71333 POPS) #Part of Ukraine today
 950 = {
 	clergymen = {
-culture = slavs
+culture = south_slavs
 religion = norse_pagan
 		size = 283  
 	}
 
 	artisans = {
-culture = slavs
+culture = south_slavs
 religion = norse_pagan
 		size = 1533
 	}
 
 	soldiers = {
-culture = slavs
+culture = south_slavs
 religion = norse_pagan
 		size = 300  
 	}
 
 	farmers = {
-culture = slavs
+culture = south_slavs
 religion = norse_pagan
 		size = 28550  
 	}
 
 	clergymen = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 50 
 	}
 
 	artisans = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 283
 	}
 
 	soldiers = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 58 
 	}
 
 	farmers = {
-culture = lombard
+culture = south_german
 religion = norse_pagan
 		size = 5275
 	}
 
 	aristocrats = {
-		culture = lombard
+		culture = south_german
 religion = norse_pagan
 		size = 1416  
 	}
 
 	clergymen = {
-		culture = lombard
+		culture = south_german
 religion = norse_pagan
 		size = 141  
 	}
 
 	artisans = {
-		culture = lombard
+		culture = south_german
 religion = norse_pagan
 		size = 716
 	}
 
 	soldiers = {
-		culture = lombard
+		culture = south_german
 religion = norse_pagan
 		size = 150 
 	}
 
 	farmers = {
-		culture = lombard
+		culture = south_german
 religion = norse_pagan
 		size = 11908  
 	}
 
 	clergymen = {
-		culture = lombard
+		culture = south_german
 religion = norse_pagan
 		size = 133  
 	}
 
 	artisans = {
-		culture = lombard
+		culture = south_german
 religion = norse_pagan
 		size = 750
 	}
 
 	soldiers = {
-		culture = lombard
+		culture = south_german
 religion = norse_pagan
 		size = 133  
 	}
 
 	farmers = {
-		culture = lombard
+		culture = south_german
 religion = norse_pagan
 		size =  12983   
 	}
 
 	clergymen = {
-culture = slavs
+culture = south_slavs
 religion = norse_pagan
 		size = 25  
 	}
 
 	artisans = {
-culture = slavs
+culture = south_slavs
 religion = norse_pagan
 		size = 266
 	}
 
 	soldiers = {
-culture = slavs
+culture = south_slavs
 religion = norse_pagan
 		size = 16 
 	}
 
 	farmers = {
-culture = slavs
+culture = south_slavs
 religion = norse_pagan
 		size = 1025    
 	}

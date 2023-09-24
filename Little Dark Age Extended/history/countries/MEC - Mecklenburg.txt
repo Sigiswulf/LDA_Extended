@@ -1,5 +1,5 @@
 capital = 544
-primary_culture = czech
+primary_culture = south_german
 religion = norse_pagan
 government = absolute_monarchy
 plurality = 25.0

@@ -1,5 +1,5 @@
 capital = 390
-primary_culture = burgundian
+primary_culture = goths
 culture = raetian
 religion = arian
 government = absolute_monarchy

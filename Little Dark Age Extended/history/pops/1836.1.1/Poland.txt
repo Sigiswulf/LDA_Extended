@@ -227,31 +227,31 @@ religion = norse_pagan
 #Deutsche Krone (42666/10666 POPS) 
 692 = {
 	aristocrats = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 208
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 58  
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 416
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 1600  
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 7216
 	}
@@ -263,7 +263,7 @@ religion = norse_pagan
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 116
 	}
@@ -275,7 +275,7 @@ religion = norse_pagan
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 2208
 	}
@@ -469,7 +469,7 @@ religion = norse_pagan
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 8841
 	}
@@ -808,25 +808,25 @@ religion = norse_pagan
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 25   
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 66
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 100   
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 1233
 	}
@@ -912,25 +912,25 @@ religion = norse_pagan
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 16   
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 66
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 100   
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 1241  
 	}
@@ -1717,25 +1717,25 @@ religion = norse_pagan
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 16
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 833
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 16
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 1133
 	}
@@ -1877,25 +1877,25 @@ religion = norse_pagan
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 11
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 83
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 8
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 896
 	}
@@ -2013,25 +2013,25 @@ religion = norse_pagan
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 8
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 83
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 8
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 566
 	}
@@ -2200,118 +2200,118 @@ religion = norse_pagan
 
 }
 
-#Silesia Region (89998) #see Czechia.txt and Poland.txt for balance of region
+#Silesia Region (89998) #see south_germania.txt and Poland.txt for balance of region
 #under the rule of Prussia in 825  
 #Gorlitz (89998/22498 POPS) 
 687 = {
 	aristocrats = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 381
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 178  
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 1033
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 628 
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 22971
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 30 
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 88
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 21  
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 1654  
 	}
 }
-#Silesia Region (89998) #see Czechia.txt and Poland.txt for balance of region
+#Silesia Region (89998) #see south_germania.txt and Poland.txt for balance of region
 #under the rule of Prussia in 825  
 #Gorlitz (89998/22498 POPS) 
 687 = {
 	aristocrats = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 381
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 178  
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 1033
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 628 
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 22971
 	}
 
 	clergymen = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 30 
 	}
 
 	artisans = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 88
 	}
 
 	soldiers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 21  
 	}
 
 	farmers = {
-		culture = czech
+		culture = south_german
 religion = norse_pagan
 		size = 1654  
 	}

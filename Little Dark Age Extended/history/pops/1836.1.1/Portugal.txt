@@ -271,49 +271,49 @@ culture = romano_hispanic
 #Oporto (711107/177775 POPS)
 518 = {
 	aristocrats = {
-		culture = suebian
+		culture = south_german
 		religion = arian
 		size = 1387
 	}
 
 	officers = {
-		culture = suebian
+		culture = south_german
 		religion = arian
 		size = 457
 	}
 
 	bureaucrats = {
-		culture = suebian
+		culture = south_german
 		religion = arian
 		size = 737
 	}
 
 	clergymen = {
-		culture = suebian
+		culture = south_german
 		religion = arian
 		size = 1015
 	}
 
 	artisans = {
-		culture = suebian
+		culture = south_german
 		religion = arian
 		size = 9255
 	}
 
 	artisans = {
-		culture = suebian
+		culture = south_german
 		religion = arian
 		size = 5090
 	}
 	
 	soldiers = {
-		culture = suebian
+		culture = south_german
 		religion = arian
 		size = 5000
 	}
 
 	farmers = {
-		culture = suebian
+		culture = south_german
 		religion = arian
 		size = 157590
 	}

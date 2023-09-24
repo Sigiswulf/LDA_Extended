@@ -3,25 +3,25 @@
 #Tunis (823496/205871 POPS) 
 1725 = {
 	aristocrats = {
-culture = swiss
+culture = goths
 religion = arian
 		size = 3963
 	}
 
 	bureaucrats = {
-culture = swiss
+culture = goths
 religion = arian
 		size = 862
 	}
 
 	officers = {
-culture = swiss
+culture = goths
 religion = arian
 		size = 11712
 	}
 
 	clergymen = {
-culture = swiss
+culture = goths
 religion = arian
 		size = 8275
 	}
@@ -84,7 +84,7 @@ culture = roman
 	}
 
 	artisans = {
-		culture = swiss
+		culture = goths
 		religion = arian
 		size = 3590
 	}
@@ -92,13 +92,13 @@ culture = roman
 #Bizerte (452247/113060 POPS) 
 1726 = {
 	aristocrats = {
-culture = swiss
+culture = goths
 religion = arian
 		size = 3355
 	}
 
 	clergymen = {
-culture = swiss
+culture = goths
 religion = arian
 		size = 1138
 	}
@@ -146,13 +146,13 @@ religion = catholic
 #Gafsa (188997/47247 POPS) 
 1727 = {
 	aristocrats = {
-culture = swiss
+culture = goths
 religion = arian
 		size = 2508
 	}
 
 	clergymen = {
-culture = swiss
+culture = goths
 religion = arian
 		size = 1335
 	}
@@ -242,7 +242,7 @@ religion = arian
 #Tozeur (162000/40500 POPS) 
 1729 = {
 	aristocrats = {
-culture = swiss
+culture = goths
 religion = arian
 		size = 1586
 	}
@@ -279,13 +279,13 @@ religion = arian
 #Gabes (337496/84371 POPS) 
 1730 = {
 	aristocrats = {
-culture = swiss
+culture = goths
 religion = arian
 		size = 2268
 	}
 
 	clergymen = {
-culture = swiss
+culture = goths
 religion = arian
 		size = 1172
 	}

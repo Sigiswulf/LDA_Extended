@@ -447,61 +447,61 @@ religion = catholic
 #Newcastle-upon-Tyne (276000/69000 POPS)
 280 = {
 	aristocrats = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 499
 	}
 
 	clergymen = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 375
 	}
 
 	clerks = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 199
 	}
 
 	craftsmen = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 1125
 	}
 	
 	artisans = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 4999
 	}
 
 	artisans = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 1200
 	}
 
 	soldiers = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 750
 	}
 
 	labourers = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 53524
 	}
 
 	craftsmen = {
-		culture = british
+		culture = north_german
 		religion = catholic
 		size = 99
 	}
 	
 	labourers = {
-		culture = british
+		culture = north_german
 		religion = catholic
 		size = 1899
 	}
@@ -509,56 +509,56 @@ religion = norse_pagan
 #Hull (255999/63999 POPS)
 281 = {
 	aristocrats = {
-		culture = british
+		culture = north_german
 religion = catholic
 		size = 549
 	}
 
 	clergymen = {
-		culture = british
+		culture = north_german
 religion = catholic
 		size = 375
 	}
 
 
 	artisans = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 4999
 	}
 
 	artisans = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 649
 	}
 
 	craftsmen = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 1125
 	}
 	
 	soldiers = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 549
 	}
 
 	labourers = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 50574
 	}
 
 	craftsmen = {
-		culture = british
+		culture = north_german
 		religion = catholic
 		size = 99
 	}
 	
 	labourers = {
-		culture = british
+		culture = north_german
 		religion = catholic
 		size = 2400
 	}
@@ -566,43 +566,43 @@ religion = norse_pagan
 #Leeds (234000/58500 POPS)
 282 = {
 	aristocrats = {
-		culture = british
+		culture = north_german
 religion = catholic
 		size = 274
 	}
 
 	clergymen = {
-		culture = british
+		culture = north_german
 religion = catholic
 		size = 312
 	}
 
 	clerks = {
-		culture = british
+		culture = north_german
 religion = catholic
 		size = 199
 	}
 
 	craftsmen = {
-		culture = british
+		culture = north_german
 religion = catholic
 		size = 1125
 	}
 	
 	artisans = {
-		culture = british
+		culture = north_german
 religion = catholic
 		size = 4999
 	}
 
 	artisans = {
-		culture = british
+		culture = north_german
 religion = catholic
 		size = 1275
 	}
 
 	soldiers = {
-		culture = british
+		culture = north_german
 religion = catholic
 		size = 624
 	}
@@ -628,61 +628,61 @@ religion = catholic
 #Sheffield (328999/82249 POPS)
 283 = {
 	aristocrats = {
-		culture = british
+		culture = north_german
 religion = catholic
 		size = 924
 	}
 
 	officers = {
-		culture = british
+		culture = north_german
 religion = catholic
 		size = 624
 	}
 
 	bureaucrats = {
-		culture = british
+		culture = north_german
 religion = catholic
 		size = 624
 	}
 
 	officers = {
-		culture = british
+		culture = north_german
 religion = catholic
 		size = 549
 	}
 
 	clergymen = {
-		culture = british
+		culture = north_german
 religion = catholic
 		size = 436
 	}
 
 	clerks = {
-		culture = british
+		culture = north_german
 religion = catholic
 		size = 249
 	}
 
 	craftsmen = {
-		culture = british
+		culture = north_german
 religion = catholic
 		size = 1125
 	}
 	
 	artisans = {
-		culture = british
+		culture = north_german
 religion = catholic
 		size = 7999
 	}
 
 	artisans = {
-		culture = british
+		culture = north_german
 religion = catholic
 		size = 1174
 	}
 
 	soldiers = {
-		culture = british
+		culture = north_german
 religion = catholic
 		size = 750
 	}
@@ -924,55 +924,55 @@ religion = catholic
 #Nottingham (241999/60499 POPS)
 288 = {
 	aristocrats = {
-		culture = british
+		culture = north_german
 religion = catholic
 		size = 375
 	}
 
 	officers = {
-		culture = british
+		culture = north_german
 religion = catholic
 		size = 549
 	}
 
 	bureaucrats = {
-		culture = british
+		culture = north_german
 religion = catholic
 		size = 375
 	}
 
 	clergymen = {
-		culture = british
+		culture = north_german
 religion = catholic
 		size = 249
 	}
 
 	capitalists = {
-		culture =british
+		culture =north_german
 religion = catholic
 		size = 49
 	}
 
 	clerks = {
-		culture = british
+		culture = north_german
 religion = catholic
 		size = 99
 	}
 
 	craftsmen = {
-		culture = british
+		culture = north_german
 religion = catholic
 		size = 1875
 	}
 
 	artisans = {
-		culture = british
+		culture = north_german
 religion = catholic
 		size = 3499
 	}
 
 	soldiers = {
-		culture = british
+		culture = north_german
 religion = catholic
 		size = 549
 	}
@@ -998,37 +998,37 @@ religion = catholic
 #Leicester (201999/50499 POPS)
 289 = {
 	aristocrats = {
-		culture = british
+		culture = north_german
 religion = catholic
 		size = 124
 	}
 
 	clergymen = {
-		culture = british
+		culture = north_german
 religion = catholic
 		size = 187
 	}
 
 	clerks = {
-		culture = british
+		culture = north_german
 religion = catholic
 		size = 61
 	}
 
 	craftsmen = {
-		culture = british
+		culture = north_german
 religion = catholic
 		size = 7500
 	}
 	
 	artisans = {
-		culture =british
+		culture =north_german
 religion = catholic
 		size = 3750
 	}
 
 	soldiers = {
-		culture = british
+		culture = north_german
 religion = catholic
 		size = 549
 	}
@@ -1042,37 +1042,37 @@ religion = catholic
 #Lincoln (168000/42000 POPS)
 290 = {
 	aristocrats = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 249
 	}
 
 	clergymen = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 249
 	}
 
 	craftsmen = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 750
 	}
 	
 	artisans = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 2499
 	}
 
 	soldiers = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 549
 	}
 
 	labourers = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 37749
 	}
@@ -1082,55 +1082,55 @@ religion = norse_pagan
 #Cambridge (153999/38499 POPS)
 291 = {
 	aristocrats = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 249
 	}
 
 	officers = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 124
 	}
 
 	bureaucrats = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 375
 	}
 
 	clergymen = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 249
 	}
 
 	clerks = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 49
 	}
 
 	craftsmen = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 1500
 	}
 	
 	artisans = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 2749
 	}
 
 	soldiers = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 549
 	}
 
 	labourers = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 34249
 	}
@@ -1138,43 +1138,43 @@ religion = norse_pagan
 #Ipswich (337999/84499 POPS)
 292 = {
 	aristocrats = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 750
 	}
 
 	clergymen = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 549
 	}
 
 	clerks = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 49
 	}
 
 	craftsmen = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 1500
 	}
 	
 	artisans = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 4200
 	}
 
 	soldiers = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 750
 	}
 
 	labourers = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 75249
 	}
@@ -1182,49 +1182,49 @@ religion = norse_pagan
 #Chelmsford (138000/34500 POPS)
 293 = {
 	aristocrats = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 249
 	}
 
 	clergymen = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 187
 	}
 
 	clerks = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 2400
 	}
 
 	craftsmen = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 2625
 	}
 	
 	artisans = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 11250
 	}
 
 	soldiers = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 750
 	}
 
 	labourers = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 28036
 	}
 
 	labourers = {
-		culture = british
+		culture = north_german
 		religion = catholic
 		size = 999
 	}
@@ -1234,49 +1234,49 @@ religion = norse_pagan
 #147 : Oxford (151999/37999 POPS)
 294 = {
 	aristocrats = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 375
 	}
 
 	officers = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 124
 	}
 
 	bureaucrats = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 187
 	}
 
 	clergymen = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 249
 	}
 
 	artisans = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 2749
 	}
 
 	craftsmen = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 249
 	}
 	
 	soldiers = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 750
 	}
 
 	labourers = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 33312
 	}
@@ -1284,37 +1284,37 @@ religion = norse_pagan
 #St. Albans (156000/39000 POPS)
 295 = {
 	aristocrats = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 375
 	}
 
 	clergymen = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 249
 	}
 
 	artisans = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 1749
 	}
 
 	craftsmen = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 249
 	}
 	
 	soldiers = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 549
 	}
 
 	labourers = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 35874
 	}
@@ -1550,205 +1550,205 @@ religion = catholic
 #London (1026000/256500 POPS)
 300 = {
 	aristocrats = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 750
 	}
 
 	officers = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 999
 	}
 
 	bureaucrats = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 999
 	}
 
 	clergymen = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 1624
 	}
 
 	capitalists = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 1249
 	}
 
 	clerks = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 4999
 	}
 
 	craftsmen = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 1875
 	}
 
 	artisans = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 4999
 	}
 
 	artisans = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 4999
 	}
 
 	artisans = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 4999
 	}
 
 	artisans = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 4999
 	}
 
 	artisans = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 4999
 	}
 
 	artisans = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 4999
 	}
 
 	artisans = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 4999
 	}
 
 	artisans = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 4999
 	}
 
 	artisans = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 4999
 	}
 
 	artisans = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 4999
 	}
 
 	artisans = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 4999
 	}
 
 	artisans = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 4999
 	}
 
 	artisans = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 4999
 	}
 
 	artisans = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 4999
 	}
 
 	artisans = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 4999
 	}
 
 	soldiers = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 4500
 	}
 
 	labourers = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 64125
 	}
 
 	clerks = {
-		culture = british
+		culture = north_german
 		religion = catholic
 		size = 49
 	}
 	
 	craftsmen = {
-		culture = british
+		culture = north_german
 		religion = catholic
 		size = 999
 	}
 	
 	artisans = {
-		culture = british
+		culture = north_german
 		religion = catholic
 		size = 3000
 	}
 
 	labourers = {
-		culture = british
+		culture = north_german
 		religion = catholic
 		size = 8449
 	}
 
 	clerks = {
-		culture = british
+		culture = north_german
 		religion = jewish
 		size = 49
 	}
 
 	craftsmen = {
-		culture = british
+		culture = north_german
 		religion = jewish
 		size = 849
 	}
 
 	artisans = {
-		culture = british
+		culture = north_german
 		religion = jewish
 		size = 1599
 	}
 
 	clergymen = {
-		culture = british
+		culture = north_german
 		religion = catholic
 		size = 49
 	}
 	
 	craftsmen = {
-		culture = british
+		culture = north_german
 		religion = catholic
 		size = 3150
 	}
 
 	artisans = {
-		culture = british
+		culture = north_german
 		religion = catholic
 		size = 4800
 	}
@@ -1758,49 +1758,49 @@ religion = norse_pagan
 #Canterbury (237999/48999 POPS)
 301 = {
 	aristocrats = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 375
 	}
 
 	bureaucrats = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 375
 	}
 	
 	clergymen = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 312
 	}
 
 	clerks = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 1995
 	}
 	
 	craftsmen = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 750
 	}
 	
 	artisans = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 1999
 	}
 
 	soldiers = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 549
 	}
 
 	labourers = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 42687
 	}
@@ -1820,43 +1820,43 @@ religion = norse_pagan
 #Brighton (201999/50499 POPS)
 302 = {
 	aristocrats = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 3750
 	}
 
 	clergymen = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 249
 	}
 
 	clerks = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 99
 	}
 	
 	craftsmen = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 2625
 	}
 	
 	artisans = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 4624
 	}
 
 	soldiers = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 549
 	}
 
 	labourers = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 42249
 	}
@@ -1864,43 +1864,43 @@ religion = norse_pagan
 #Southampton (165999/41499 POPS)
 303 = {
 	aristocrats = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 375
 	}
 
 	officers = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 549
 	}
 
 	clergymen = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 249
 	}
 
 	artisans = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 2625
 	}
 
 	craftsmen = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 1875
 	}
 	
 	soldiers = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 549
 	}
 
 	labourers = {
-		culture = british
+		culture = north_german
 religion = norse_pagan
 		size = 36499
 	}

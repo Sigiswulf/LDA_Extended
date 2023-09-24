@@ -5,7 +5,7 @@ germanic = {
 	leader = european
 	unit = EuropeanGC
 	north_german = { 
-		color = { 80 80 80 }
+		color = { 100 80 80 }
 		first_names = { Adelbert Adolf Albrecht Alexander Alfred August Bernhard Burkhard Dieter
 		Eduard Edwin Erwin Erich Ernst Ewald Felix Florian Franz Friedrich Fritz Georg Günther
 		Gustav Hans Hasso Heinrich Helmuth Hermann Hugo Joachim Johann Julius Jürgen Karl
@@ -32,7 +32,7 @@ germanic = {
 		}
 	}
 	south_german = {
-		color = { 60 80 80}
+		color = { 80 80 80}
 		first_names = { Adolf Albrecht Alexander Alfons Alois Anton Arthur Bernhard Christian Daniel
 		Edmund Eduard Emil Engelbert Ernst Erwin Eugen Ferdinand Franz Friedrich Gebhard Gerhard Gottfried
 		Günther Gustav Heinrich Hermann Horst Jakob Joachim Johann Joseph
@@ -158,7 +158,7 @@ germanic = {
 		}
 	}
 	frankish = {
-		color = {20 20 100}
+		color = {80 80 110}
 		first_names = { Adolf Albrecht Alexander Alfons Alois Anton Arthur Bernhard Christian Daniel
 		Edmund Eduard Emil Engelbert Ernst Erwin Eugen Ferdinand Franz Friedrich Gebhard Gerhard Gottfried
 		Günther Gustav Heinrich Hermann Horst Jakob Joachim Johann Joseph
@@ -310,7 +310,7 @@ scandinavian = {
 	leader = european
 	unit = EuropeanGC
 	swedish = { 
-		color = { 20 40 160}
+		color = { 100 124 150}
 		first_names = { Albrecht Alexander Arnold August Axel Baltzar Carl Christofer Didrik Edvard
 		Elias Emil Erik Esaias Fabian Frans Fredrik Gunnar Gustav Henrik
 		Jakob Jesper Johan Julius Knut Lars Ludvig Magnus Michael Nikolaus
@@ -1362,6 +1362,46 @@ iranian_turanian = {
 			Jahanbani Kashani Khan Khuzai
 			Meshhedi Nakhchevani Pesyan Rokni Shafaei Shahbakhti 
 			Shirazi Tabrizi Tahmasebi Zahedi
+			}
+	}
+	parthian = {
+		color = {196 153 125}
+		first_names = {
+			Abdal Abdulkarim Bedr Hafid Ihsan Mahmud Mohammed Qazi Reshid Said Ubaydallah
+			}
+		
+		last_names = {
+			Badirkhan Barzani Khan Shilak
+			}
+	}
+	bactrian = {
+		color = {183 130 133}
+		first_names = {
+			Abdal Abdulkarim Bedr Hafid Ihsan Mahmud Mohammed Qazi Reshid Said Ubaydallah
+			}
+		
+		last_names = {
+			Badirkhan Barzani Khan Shilak
+			}
+	}
+	sogdian = {
+		color = {135 106 75}
+		first_names = {
+			Abdal Abdulkarim Bedr Hafid Ihsan Mahmud Mohammed Qazi Reshid Said Ubaydallah
+			}
+		
+		last_names = {
+			Badirkhan Barzani Khan Shilak
+			}
+	}
+	tocharian = {
+		color = {181 111 99}
+		first_names = {
+			Abdal Abdulkarim Bedr Hafid Ihsan Mahmud Mohammed Qazi Reshid Said Ubaydallah
+			}
+		
+		last_names = {
+			Badirkhan Barzani Khan Shilak
 			}
 	}
 	kurdish = {

@@ -2,95 +2,95 @@
 #Amsterdam (241278/60318 POPS)
 375 = {
 	clergymen = {
-		culture = dutch
+		culture = north_german
 		religion = jewish
 		size = 78
 	}
 
 	clerks = {
-		culture = dutch
+		culture = north_german
 		religion = jewish
 		size = 78
 	}
 	
 	craftsmen = {
-		culture = dutch
+		culture = north_german
 		religion = jewish
 		size = 702
 	}
 	
 	artisans = {
-		culture = dutch
+		culture = north_german
 		religion = jewish
 		size = 4602
 	}
 
 	aristocrats = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 390
 	}
 
 	officers = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 39
 	}
 
 	bureaucrats = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 1248
 	}
 
 	clergymen = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 429
 	}
 
 	artisans = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 7800
 	}
 
 	artisans = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 780
 	}
 
 	artisans = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 780
 	}
 
 	artisans = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 7098
 	}
 
 	clerks = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 78
 	}
 	craftsmen = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 3042
 	}
 	soldiers = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 858
 	}
 
 	farmers = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 14976
 	}
@@ -110,55 +110,55 @@ religion = arian
 #Rotterdam (294840/73710 POPS)
 376 = {
 	aristocrats = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 585
 	}
 
 	clergymen = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 486
 	}
 
 	artisans = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 7800
 	}
 
 	artisans = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 5226
 	}
 
 	craftsmen = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 1404
 	}
 	
 	soldiers = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 975
 	}
 
 	farmers = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 14136
 	}
 
 	craftsmen = {
-		culture = dutch
+		culture = north_german
 		religion = jewish
 		size = 156
 	}
 	
 	artisans = {
-		culture = dutch
+		culture = north_german
 		religion = jewish
 		size = 1014
 	}
@@ -172,43 +172,43 @@ religion = arian
 #Utrecht (79038/19758 POPS)
 377 = {
 	aristocrats = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 234
 	}
 
 	clergymen = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 171
 	}
 
 	artisans = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 7800
 	}
 
 	artisans = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 780
 	}
 
 	craftsmen = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 780
 	}
 	
 	soldiers = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 858
 	}
 
 	farmers = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 19128
 	}
@@ -216,49 +216,49 @@ religion = arian
 #Arnhem (214239/53559 POPS)
 382 = {
 	artisans = {
-		culture = dutch
+		culture = north_german
 		religion = jewish
 		size = 195
 	}
 
 	aristocrats = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 297
 	}
 
 	bureaucrats = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 56
 	}
 
 	clergymen = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 195
 	}
 
 	artisans = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 1170
 	}
 
 	craftsmen = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 1170
 	}
 	
 	soldiers = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 429
 	}
 
 	farmers = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 37971
 	}
@@ -284,49 +284,49 @@ religion = arian
 
 3257 = {
 	artisans = {
-		culture = dutch
+		culture = north_german
 		religion = jewish
 		size = 195
 	}
 
 	aristocrats = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 297
 	}
 
 	bureaucrats = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 56
 	}
 
 	clergymen = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 195
 	}
 
 	artisans = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 1170
 	}
 
 	craftsmen = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 1170
 	}
 	
 	soldiers = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 429
 	}
 
 	farmers = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 37971
 	}
@@ -354,49 +354,49 @@ religion = arian
 #Groningen (97032/24258 POPS)
 383 = {
 	artisans = {
-		culture = dutch
+		culture = north_german
 		religion = jewish
 		size = 195
 	}
 
 	aristocrats = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 234
 	}
 
 	officers = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 117
 	}
 
 	bureaucrats = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 624
 	}
 
 	clergymen = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 156
 	}
 
 	artisans = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 5460
 	}
 
 	soldiers = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 3120
 	}
 
 	farmers = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 27651
 	}
@@ -410,31 +410,31 @@ religion = arian
 #Zwolle (123759/30939 POPS)
 384 = {
 	aristocrats = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 195
 	}
 
 	clergymen = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 117
 	}
 
 	artisans = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 1521
 	}
 
 	soldiers = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 429
 	}
 
 	farmers = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 16692
 	}
@@ -454,31 +454,31 @@ religion = arian
 
 3256 = {
 	aristocrats = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 195
 	}
 
 	clergymen = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 117
 	}
 
 	artisans = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 1521
 	}
 
 	soldiers = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 429
 	}
 
 	farmers = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 16692
 	}
@@ -498,31 +498,31 @@ religion = arian
 #Leeuwarden (108783/27195 POPS)
 385 = {
 	aristocrats = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 234
 	}
 
 	clergymen = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 213
 	}
 
 	artisans = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 4680
 	}
 
 	soldiers = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 858
 	}
 
 	farmers = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 34884
 	}
@@ -530,31 +530,31 @@ religion = arian
 #Assen (41598/10398 POPS)
 386 = {
 	aristocrats = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 117
 	}
 
 	clergymen = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 78
 	}
 
 	artisans = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 858
 	}
 
 	soldiers = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 858
 	}
 
 	farmers = {
-		culture = dutch
+		culture = north_german
 religion = arian
 		size = 13065
 	}

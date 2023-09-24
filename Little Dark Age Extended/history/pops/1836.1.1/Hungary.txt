@@ -427,169 +427,169 @@ religion = catholic
 #Budapest (352185/88045 POPS) 
 641 = {
 	aristocrats = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 1502 
 	}
 
 	bureaucrats = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 328 
 	}
 	
 	bureaucrats = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 328 
 	}
 
 	officers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 176 
 	}
 
 	clergymen = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 450
 	}
 
 	artisans = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 4921
 	}
 
 	clerks = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 26
 	}
 
 	craftsmen = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 819
 	}
 	
 	soldiers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 1200 
 	}
 
 	farmers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 33632
 	}
 
 	aristocrats = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 272 
 	}
 
 	clergymen = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 245  
 	}
 
 	artisans = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 4101
 	}
 
 	clerks = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 26
 	}
 
 	craftsmen = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 819
 	}
 	
 	soldiers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 1200    
 	}
 
 	farmers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size =  21053    
 	}
 
 	clergymen = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 26 
 	}
 
 	artisans = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 2732
 	}
 
 	soldiers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 80  
 	}
 
 	farmers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 476    
 	}
 
 	aristocrats = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 435  
 	}
 
 	bureaucrats = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 272  
 	}
 
 	officers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 94  
 	}
 
 	clergymen = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 135
 	}
 
 	artisans = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 4101
 	}
 
 	soldiers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 300   
 	}
 
 	farmers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 9023
 	}
@@ -932,109 +932,109 @@ religion = arian
 #Kecskemet (59062/14765 POPS) 
 645 = {
 	aristocrats = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 217 
 	}
 
 	clergymen = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 66 
 	}
 
 	artisans = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 1748
 	}
 
 	soldiers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 160 
 	}
 
 	farmers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 4988 
 	}
 
 	aristocrats = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 148 
 	}
 
 	clergymen = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 40  
 	}
 
 	artisans = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 1640
 	}
 
 	soldiers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 100    
 	}
 
 	farmers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 3034     
 	}
 
 	clergymen = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 26  
 	}
 
 	artisans = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 902
 	}
 
 	soldiers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 30  
 	}
 
 	farmers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 696   
 	}
 
 	clergymen = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 13 
 	}
 
 	artisans = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 81
 	}
 
 	soldiers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 30   
 	}
 
 	farmers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 435 
 	}
@@ -1044,85 +1044,85 @@ religion = norse_pagan
 #Miskolc (174998/43748 POPS) #Part of Hungary Today
 646 = {
 	aristocrats = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 955  
 	}
 
 	clergymen = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 231  
 	}
 	
 	bureaucrats = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 381 
 	}
 
 	artisans = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 2050
 	}
 
 	soldiers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 500 
 	}
 
 	farmers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 20028 
 	}
 
 	clergymen = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 135  
 	}
 
 	artisans = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 1338
 	}
 
 	soldiers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 300  
 	}
 
 	farmers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 13191   
 	}
 
 	clergymen = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 26  
 	}
 
 	artisans = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 874
 	}
 
 	soldiers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 30 
 	}
 
 	farmers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 722    
 	}
@@ -1156,91 +1156,91 @@ religion = norse_pagan
 #Debrecen (85312/21328 POPS) 
 648 = {
 	aristocrats = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 368 
 	}
 
 	clergymen = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 135
 	}
 
 	bureaucrats = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 272 
 	}
 	
 	artisans = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 1830
 	}
 
 	soldiers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 1200
 	}
 
 	farmers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 10238
 	}
 
 	aristocrats = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 163
 	}
 
 	clergymen = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 53    
 	}
 
 	artisans = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 1365
 	}
 
 	soldiers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 120    
 	}
 
 	farmers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 4906    
 	}
 
 	clergymen = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 26 
 	}
 
 	artisans = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 600
 	}
 
 	soldiers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 30  
 	}
 
 	farmers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 450     
 	}
@@ -1272,115 +1272,115 @@ religion = norse_pagan
 #Szeged (343436/85858 POPS) 
 649 = {
 	aristocrats = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 819 
 	}
 	
 	bureaucrats = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 328 
 	}
 
 	clergymen = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 341 
 	}
 
 	artisans = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 1365
 	}
 
 	soldiers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 1200 
 	}
 
 	farmers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 29736 
 	}
 
 	aristocrats = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 1365
 	}
 
 	clergymen = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 463   
 	}
 
 	artisans = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 2132
 	}
 
 	soldiers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 1000     
 	}
 
 	farmers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 44214    
 	}
 
 	clergymen = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 26 
 	}
 
 	artisans = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 600
 	}
 
 	soldiers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 30  
 	}
 
 	farmers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 450     
 	}
 
 	clergymen = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 26  
 	}
 
 	artisans = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 272
 	}
 
 	soldiers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 80    
 	}
 
 	farmers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 2937  
 	}
@@ -1388,115 +1388,115 @@ religion = norse_pagan
 #Bekescsab (179374/44842 POPS) 
 650 = {
 	aristocrats = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 600 
 	}
 
 	bureaucrats = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 328 
 	}
 	
 	clergymen = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 163
 	}
 
 	artisans = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 1037
 	}
 
 	soldiers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 300 
 	}
 
 	farmers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 14970
 	}
 
 	aristocrats = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 518
 	}
 
 	clergymen = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 231    
 	}
 
 	artisans = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 1230
 	}
 
 	soldiers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 500    
 	}
 
 	farmers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 23473    
 	}
 
 	clergymen = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 26 
 	}
 
 	artisans = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 600
 	}
 
 	soldiers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 30  
 	}
 
 	farmers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 450     
 	}
 
 	clergymen = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 26  
 	}
 
 	artisans = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 135
 	}
 
 	soldiers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 30    
 	}
 
 	farmers = {
-		culture = gepid
+		culture = goths
 religion = norse_pagan
 		size = 915  
 	}
