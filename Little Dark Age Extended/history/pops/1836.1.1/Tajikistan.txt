@@ -91,40 +91,40 @@ religion = animist
 	}
 
 	farmers = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 6862
 	}
 }
 #Khorugh (23000/5750 POPS)   
 1208 = {
 	aristocrats = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 87
 	}
 
 	clergymen = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 43
 	}
 
 	artisans = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 212
 	}
 
 	soldiers = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 43
 	}
 
 	farmers = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 4362
 	}
 

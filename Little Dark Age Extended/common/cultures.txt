@@ -4,31 +4,84 @@
 germanic = {
 	leader = european
 	unit = EuropeanGC
-	north_german = { 
+	north_german = { #Ingvaeonic
 		color = { 100 80 80 }
-		first_names = { Adelbert Adolf Albrecht Alexander Alfred August Bernhard Burkhard Dieter
-		Eduard Edwin Erwin Erich Ernst Ewald Felix Florian Franz Friedrich Fritz Georg G¸nther
-		Gustav Hans Hasso Heinrich Helmuth Hermann Hugo Joachim Johann Julius J¸rgen Karl
-		Konrad Kurt Leonhard Leopold Lothar Ludwig Lukas Manfred Maximilian Michael Nikolaus Oskar Otto
-		Pascal Paul Peter Reinhard Rudolf Ruprecht Stefan Theodor Walther Wilhelm Wolfgang }
+		first_names = { 
+			#Saxons
+			Irmin Radolf Widukind Folcmar ∆algar Haguna Ulrik Wine Bieda 
+			Beorhtfrith Beorhthelm BeorhtmÊr Beorhtnoth Beorhtric Beorhtsige Beorhtwine Beorn BeornrÊd Beornwulf
+			Burgheard Byrhtnoth Cearl Cenfus CenrÊd Cenwulf Ceolwulf Cerdic Copsige
+			Cuthberht CuthrÊd Cynehelm Cynewulf Cytelbearn Eadberht Eadfrith Eadgar Eadmund EadmÊr Eadric
+			EadrÊd Eadsige Eadulf Eadweald Eadweard Eadwig Eadwine Eadwulf Ealdhun Ealdmund EaldrÊd Ealdwine
+			Ealdwulf Eanberht Eanfrith Eanhere Eardwulf Eastmund Ecgberht Ecgfrith Gamall Godwine Gospatric Guthfrith Guthmund
+			Gyrth Hacon_Hakon Harold Heahberht Hereberht Hereweald Hereweard Hlothere Hrodberht_Robert InwÊr Leofheah Leofhelm Leofric Leofweald Leofwine Maccus Morcar MÊrleswegn Offa Onlaf Ordgar
+			Oscytel Oshere Osmund Osric OsrÊd Osulf Osweald Oswine Oswulf Petre RÊdwulf RÊgenweald Scule
+			Sigeberht Sigehelm Sigeric SigerÊd Sighere Siweard Stigand Swegn Swithelm SwithrÊd SwÊfrÊd SÊbert SÊlrÊd SÊweald SÊxbald SÊxrÊd ThorÊd Thurcytel Thurfrith Tostig UhtrÊd Ulf Ulfcytel Waltheof Werestan Wiglaf WihtrÊd
+			Wistan Wulf Wulfgar Wulfgeat Wulfhelm Wulfhere WulfmÊr Wulfnoth Wulfstan ∆lfgar ∆lfmÊr ∆lfnoth ∆lfric ∆lfrÊd ∆lfsige
+			∆lfstan ∆lfwald ∆lfweard ∆lfwig ∆lfwine ∆lle ∆thelbald ∆thelberht ∆thelfrith ∆thelhere ∆thelmÊr
+			∆thelric ∆thelrÊd ∆thelsige ∆thelstan ∆thelweald ∆thelweard ∆thelwine ∆thelwold ∆thelwulf
+			Eormenred Eorcenberht Eormenric Eadbald RÊdwald Vúrmund Bata Hama 
+			
+			#Angles
+			Acca Adda Alweo Alwig Angel˛eow Anna Bata Beadowine Beda Beorna Beornhe˛ Beornred 
+			Berhtfri˛ Berhtred Berhtwald Bisi Bosa Bubba Ceadda Cearl Cedbed Celin Cenred 
+			Ceolfri˛ Ceolmund Ceolred Ceolwald Ceolwulf Ceta Clappa Cnebba Cnobhere Coifi Creoda Cretta Cu˛a 
+			Cu˛berht Cu˛wine Cwelgils Cyneberht Cynewald Cynibil Eadberht Eadfri˛ 
+			Eadgar Eadgils Eadhed Eadwine Eadwulf Ealdfri˛ Ealdhelm Ealdred Ealdwine 
+			Ealdwulf Ealhfri˛ Ealhwine Eanberht Eanfer Eanfri˛ Eanhere Earnwine Eata Eatta 
+			Ecgberht Ecgfri˛ Ecgric Ecgwald Ecgwulf Edde Elfwald Elfwine Ella Eni Eomer 
+			Eoppa Eorpwald Eowa Ercenwald Esa Escwulf Etla E˛elberht E˛elfri˛ E˛elheard 
+			E˛elhere E˛elhund E˛elmod E˛elmund E˛elred E˛elric E˛elwald E˛elwine 
+			Finn Frealaf Freawine Fri˛uberht Fri˛uger Fri˛uwald Fri˛uwulf Geot
+			Germund Godwulf Hama Headda Heardred Heormine Hereric Hering He˛ulac Hussa Icel Ida Jonnes 
+			Leodwald Meaca Merewealh Mildred Mofda Myrga Nor˛berht Ocg Ocga Oftfor Oscfrea Osfri˛ Osgar
+			Oshere Osred Osric Oswald Oswig Pals Penda Pybba Redwald Regenhere Regenweald 
+			Ricberht Sceafa Sebald Sefugl Segegeot Sigeberht Sigehere Swebdeg Tondberht 
+			Tunberht Tytila Uhtred Weaga Wecca Wegdeg Weo˛ulgeot Wermund Westerfalca Wig Wihtleg 
+			Wilfri˛ Willgils Willhelm Winfri˛ Winta Wuffa Wulfhere Yffe ∆thelweard ﬁeodbald 
+			ﬁeodor ﬁeodric
+			
+			#Frisians
+			Abba Bata Beornhard Beornlaf Ceorl Cristihanu Degeberht Docco Eadgils 
+			Eadwulf Ege Egebern Egedeg Elfbodo Ethelbeorn Ethelberht Ethelhere Ethelwine 
+			Finn Folcbeorn Folcwald Frealaf Freomann Frithuger Frithuhard Frithuwulf 
+			Gerdeg Gerhard Gerwulf Gifuwulf Goderic Groni Guthbodo Guthhere Hama Harilo Hengest 
+			Hildegrimo Hludger Hludgod Horsa Hrethric Jonnes Megenberht Megenhard 
+			Megenwulf Osberht Owon Poppo Redbodo Redwald Renwulf Scanomodu Ubba Waldger 
+			Willbodo Willfrith Willhelm Wine Winifrith Wuffa Wulf Wulfram Wurssing Wursso 
+			Theodberht Theodric
+			
+			#Jutes
+			Alric Arwald Bata Berhtwald Cearl Cerdic Degberht Eadbald Eadberht Eadric 
+			Ealhmund Eardwulf Earendel Ecgberht Emluth Eorcenberht Eormenred Eormenric 
+			Eosa Ethelred Ethelberht Ethelwald Ethelwine Feng Finn Folcwald Frealof 
+			Frithwulf Gerwulf Gifuwulf Gerwinedeall Getwulf Godwine Guthulf Hama Hengest 
+			Hlothhere Hlothweoh Horsa Hrethric Leodheard Oeric Ohta Oisc Oswine Redwulf 
+			Seberht Sigered Stuf Stufberht Swefberht Swefheard Ubba Wegdeg Weohleg 
+			Wihtgar Wihtgils Wihtleg Wihtred Witta Wulfgar Theodberht Theodric	
+			}
 		
 		last_names = { 
-		Beck Behncke Brommy Cordemann Dreyer Droste "Edler von der Planitz" "Einem von Rothmaler""Emanuel von Jachmann" "Emil von Lettow-Vorbeck" Funke Groener "Herwarth von Bittenfeld" Heppendorf Heye Hoffmann 
-		"Kress von Kressenstein" Krohn Ludendorff Raeder Reinhardt "Ritter von Hipper" Scheer "Sixt von Armin"
-		"Vogel von Falkenstein" "von Alten" "von Alvensleben" "von Anhalt" "von Arentschildt" 
-		"von B¸low" "von Below" "von Bismarck-Bohlen" "von Blumenthal" "von Blomberg" "von Bonin" "von Borstell" "von Bose" "von Bothmer"
-		"von Boyen" "von Braunschweig" "von Collas" "von Colomb" "von Deimling""von dem Knesebeck" "von der Marwitz""von Eichhorn" "von Emmich" "von Fabeck" "von Falkenhausen" "von Falkenhayn""von Fransecky" "von Fritsch" 
-		"von der Goltz" "von Gallwitz" "von Gebser" "von Goeben" "von Grolman" "von Gronau"
-		"von H‰nisch" "von Hahnke" "von Halkett" "von Hannover" "von Hausen" "von Heeringen" "von Hessen-Darmstadt" "von Hessen-Kassel" "von Hindersin" "von Hohenzollern" "von Holstein-Gottorp" "von Hutier"
-		"von Ingenohl" "von Kameke""von Knorr" "von Kleefeld" "von Kluck" "von Krauseneck" "von Leeb" "von Linsingen" "von LoÎ" "von Lochow"
-		"von Mackensen" "von Manteuffel" "von Mecklenburg-Schwerin" "von Mecklenburg-Strelitz" "von Moltke" "von M¸ffling""von Mudra" "von Neumann-Cosel"  
-		"von Oldenburg"
-		"von Pohl" "von Pfuel" "von Prittwitz" "von Quast"
-		"von Rauch" "von Ravensberg" "von Reuter" "von Reyher" "von Richthofen" "R¸hle von Lilienstern"
-		"von Sachsen-Altenburg" "von Sachsen-Coburg-Gotha" "von Sachsen-Meiningen" "von Sachsen-Weimar-Eisenach" "von Schellendorff" "von Schlieffen" "von Scholtz" "von Schwarzburg" 
-		"von Seeckt" "von Spee" "von Steinmetz" "von Stosch"
-		"von Tirpitz" "von Trotha" "von T¸mpling" "von Voigts-Rhetz" "von Waldeck und Pyrmont" "von Waldersee" "von Wartensleben" "von Werder" "von Wettin" "von Wittich"
-		"von Wrangel" "von Zieten" "zu Dohna-Schlobitten""zur Lippe" Zenker 
+			#Saxons
+			Dageling Seaxneating Gewissae Hwiccas Radingas SeaxrÊding Myrging Geldering Eadwealding
+			Cenwulfing ∆thalgaring Ealdwulfing SwithrÊding Sigericing RÊdwulfing Thurfrithing 
+			RÊgenwealding Eanberhting SigerÊding Eadwacering Siwearding BeornrÊding Eormenreding
+			Thurcyteling Ceolwulfing Heahberhting Haconing
+			
+			#Angles
+			RÊdwalding Osgaring Accing Winting Icling Wuffing Cwengilling Mofding Ceolreding 
+			Eatting Cnebbing Eadwulfing Frithuwalding Eadgaring Herericing Leodwalding
+			Meacing Wilfrithing Oshering Eadwulfing ∆thelfrithing Eadricing Yffing Coenwalhing
+			Wiglafing Beorning
+			
+			#Frisians
+			Guboding Haming Waldgering Doccing Hrericing E˛elberhting Redboding Elfboding
+			Eadwulfing Ubbing Folcwalding Osberhting Gerwulfing Aldegiseling
+			
+			#Jutes
+			Wulfgaring Rudych Meonwara Wihtwara Gefwulfing Emlu˛ing Arwalding Cerdicing Eadbalding
+			Eardwulfing Ecgberhting Eormenreding Earendeling E˛elwalding Garulfing Oiscing Sigereding
+			Swefhearding Wihtreding
 		}
 	}
 	south_german = {
@@ -103,22 +156,81 @@ germanic = {
 		Wagner Wittmann "zu Hohenlohe" 
 		}
 	}
-	goths = {
+	goths = { #used for East Germanic as a whole
 		color = { 90 83 68}
-		first_names = { Adolf Albrecht Alexander Alfons Alois Anton Arthur Bernhard Christian Daniel
-		Edmund Eduard Emil Engelbert Ernst Erwin Eugen Ferdinand Franz Friedrich Gebhard Gerhard Gottfried
-		G¸nther Gustav Heinrich Hermann Horst Jakob Joachim Johann Joseph
-		Julius Karl Konrad Kurt Leonhard Leopold Lorenz Lothar Ludwig Maximilian
-		Michael Otto Reinhold Rudolf Stefan Theodor Viktor Walter Werner Wilhelm }
+		first_names = { 
+			#Goths
+			Adalfuns Agila Agiwulfs Ahlreiks Aidawiggs Aidawulfs Aithareiks Aiwareiks Akhila Alareiks 
+			Alathius Albawins Amal Amalabairga Amalareiks Anagast Ansemunds Ansila Ansula Anthageis Anthila Aoreiks 
+			Arareiks Ardabast Ardo Ariareiks Arnegisk Athal Athalagild Athalareiks Athanagilds Athanareiks 
+			Atharid Athaulf Athavulf Audawakrs Audawins Audawulfs Audo Ausvinthus Auvitha Avagis 
+			AÌrmanareiks Badwilas Beramunds Bothereiks Braulio Bulgar Burell Dago 
+			Eboreiks Ebrimuth Eireiks Eisarneins Ergika Ermenigeld Erwig Favila Ferhonanths 
+			Framidaneus Frithareikeis Frithugairns Frogellus Gainas Gaisumunths Garswinths Gaut Geisoharths Godas 
+			Guntheigs Gunthemar Gunthigeis GÌbereiks GÌsalareiks GÌsaleiks Haduswinth 
+			Haiduwiggs Hairuwulf Handugei Hathus Hildefuns Himnerith Hulmahls Hulmuls Hunimunths 
+			Hunuwil Ildibad Judila Julianus Kindaswinth Kinthila Kniwa Kunimund Liuva Liuvigild 
+			Liuvila Pirmin Radistis Raginarith Rekeswinth Rekkared Respa Retemer Rikkila 
+			Rikimer Rothareiks Sabbas Safrak Sarus Sidumunds Sigureiks Silo Sisebert 
+			Sisibuth Sisinanths Sonahilds Sunifrith Sunihilds Swinthila Tekla Thaurismoths Thaurismunths Thiudafriths 
+			Thiudageisls Thiudaguta Thiudahathus Thiudamunds Thiudareiks Thiudeis Thiudigisk 
+			Thiudimer Thuruar Totila Tulga Tulguwins UnwÈn Vadakars Valarauans Vulfila 
+			Walahrafns Walamers Waldamarka Wallia Wamba Wandalharja Weidamers Weidareiks WermundWiduk 
+			Wingureiks Winitharja Witireiks Wittiza Wulthuwulfs 
+			Agiwulfs Airewulfs Airmanareiks Airthaweihs Aithika Aithiwulfs Alareiks Alathius Alaweihs Albeis Albila Aligairns Aliso Aliwulfs Amal Amala
+			Amalafritha Amalareiks Anagasts Andagais Andila Andwets Ansila Ansimunds Arda Argaiths Argibauds Arigairns Arinthius Arjareiks Asinareis Askareiks Athala
+			Athalareiks Athareiks Athawulfs Audawulfs Audathius Augeis Aunawulfs Auswins Awila Badwila Bairika Bairimoths Batja Batwins Bauja Bawiwulfs 
+			Bleda Brandila Dagalaifs Dagila Dagisthius Dans Eisarns Eisarneins Eraharius Evermoths Fritha Frithugairns Frumareths Gailamers Gaina Gaisalaiks Gaisila Gaisamunds 
+			Gamoths Gastinasjis Gatha Gaujaharjis Gauts Gautareths Gibamers Gibamunds Gibareiks Gibawulths Gibika Gibls Gildila Goda Godagis Godamers Greipa Gudwins 
+			Gudisl Gumaharjis Gunthiharjis Gunthigisls Gunthiwulfs Gunthja Hamjis Hamathius Harimunds Hariwulfs Harjamers Harjamunds Hauhreiks Hauhamers Hildibads 
+			Hildimers Hildimunds Hildireiks Hildireths Hildwulfs Hilpideis Hruthareiks Hunila Hunimunds Hunireiks Hunwens Juthareiks Kunigasts Leodefritha Liubeis 
+			Matja Mikka Neithada Oppa Raginarith Qithila Sarwila Sibja Sinthareths Sinthila Thaurisa Thaurismo˛s Thaurismunds Thela Thitha Thiudahathus Thiudamunds 
+			Thiudareiks Thiudamers Totila Triggva Thulwins Walaharjis Walahrabns Walamers Walja Widuharjis Widumers Wiljathagks Winithaharjis Witigis Witigisls 
+			
+			#Burgundians
+			Agjabairhts Airknsbalths Aldswins Alfreiks Alathius Amalsgails Amalsreiks Andwulfs 
+			Arnswalthu
+			Arnswulfs Athalsbairhts Athalsreiks Athalswulfs Authsmar Bairanhards Bairanmunds 
+			Bairhtshraban Balthwins Baurgeinshards Burgundsfarar Burgundsreiks Filubairhts 
+			Fridureiks Fridugails Gailshards Gailswalthu Gaislbairhts Gaislharjis Gaislwalthu_Giswald 
+			Gebika Greimagails Gunthsbad Gunthsharjis Gunthshraban Gunthsmari Gunthswalthu Gunthsweihs Gutabairhts Gutafridu Gutagaisl Gutamari Hadsbrannja Hagnsreiks Hagnswalthu Haguna Hairto 
+			Hairtobairhts Hardswins Hendino Hildsbrannja Hildsreiks Hilpareiks Hunbairhts 
+			Joshans Karl Kristsjans Kunireds Liuthsgails Liuthswins Nihwelas Odo Peturs 
+			Raginharjis Raginwalthu Raho Riuthsgails Riuthswulfs Rothareiks Savareiks Sigisbrannja Sigisfridu 
+			Sigismunds Sigisreiks Thagkireds Thagkiwards Thiudabalths Thiudareiks Walthubairhts 
+			Walthuharjis Walthuhlutrs Walthushraban Warjaharjis Wiljabad Wiljahilms
+			
+			#Vandals
+			Adeodatus Agileius Amata Ambri Ammatas Andwit Ariarith Arifridos Baudus Becca Beremut 
+			Bictoricus Bleda Blumarit Bothericus Brandini Cyrila Deogratias Deusdedit Ermanarix Etemund Feva 
+			Flavius Fridamal Fridubalth Fridus Fronimuth Fulgentius Gabadus Gamuth Gardingi Geilarith 
+			Geilimer Geisarix Geisericus Geisirith Genton Genzon Gibamundu Godas Godigisel Gotthaeus 
+			Gudulo Gudulus Gundericus Guntari Gunthamundus Guntharix Guntheus Gunthimer Harjarith 
+			Hildericus Hildirix Hoageis Hoamer Hraftus Hraos Hunericus Hunirix Iason Ingila Iulius 
+			Karthagus Lacringus Manno Marivadus Messius Oarit Ostrafroia Phuscias Pinta Raginari Sallusticius 
+			Scarila Sigisteus Sindivult Stilicho Stutia Supserik Svartifan Svesaon Tata Theodariu 
+			Theoderix Thrasamundus Tzazo Usclu Vandalarius Victorinus Vilimut Visimar Vitalis 
+			Vitarit Vulfbaudus Wulfgar WÌtaricus
+			}
 		
 		last_names = { 
-		"Arz von Straussenburg " Beck-Rzikowsky Blos Dankl "David von Rohnfeld" Eisner Geiss Goering Gr¸nne Hainisch Hartung Haus Held Hellpach Hoffmann Hummel 
-		Jelacic Kˆhler "Kuhn von Kuhnenfeld" Mergenthaler Miklas "Radetzky von Radetz" "Ramming von Riedkirchen" Remmele Schmitt "Schˆnburg-Hartenstein" Schobber Seitz Steeb
-		Stolzer Trunk "von Albori" "von Baden" "von Benedek" "von Burgneust‰tten" "von Bˆhm-Ermolli" "von Brudermann" "von Clam-Gallas" "von der Tann" "von Dietrich" "von Gablenz"
-		"von Gr¸nne" "von Habsburg" "von Hartmann" "von Haynau" "von Hess" "von Hohenhausen" "d'Aspre von Hoobreuk" "von Hortstein" "von Hˆtzendorf" "von John" 
-		"von Kaiffel" "von Kirbach" "von Kobratin" "von Krasnik" "von Mittrowitz-Nettolitzky" "von Pflanzer-Baltin" "von Philippsberg" "von Puchner" 
-		"von Salis-Soglio" "von Schˆnburg" "von Schˆnhals" "von Steeb" "von Tegetthoff" "von Uchatius" "von ‹xk¸ll-Gyllenband" "von Wittelsbach" "von W¸rttemberg" "von Zahringen" 
-		Wagner Wittmann "zu Hohenlohe" 
+			#Goths
+			Agiling Alareiking Ardabasting Balthings Therving Athaling Badwiling Bothereiking Dagoning
+			Athaulfing Amalings Faviling Frithugairning Guntheiging GÌbereiking Haduswinthing GÌsalareiking
+			Himnering Hunimunthing Kinthiling Kniwing Radisting Rekkaring Rikkiling Rothareiking Saring
+			Sisibuthing Swinthiling Thiudaguting Thiudareiking Thuruaring Totiling Vulfiling Weidamering
+			Widuking Amalings Fililas Wandil Harilas Bairhts Wodings
+			
+			#Burgundians
+			Nihweling Sigisfriding Alfreiking Authsmaring Bairhtshrabaning Baurgeinsharding Gailsharding
+			Gaislharjing Gebiking Gunthsharjing Gutabairhting Burgundsreiking Hagnsreiking Haguning
+			Hildspreiking Raginharjing Riuthgailing Savareiking Sigisbrannjaring Thagkiwarding
+			Walthuhlutring Aldswining
+			
+			#Vandals
+			Hasding Genseri Siling Lacring Victorinus Gudoling Guthamunding Sallusticius Guntaring
+			Tzazoning Vulfbaudus Godigiseling Ingiling Fridamaling Supseriking Iulius Stutia Karthagus
+			Manno Guntharicing Fulgentius Visimaring
 		}
 	}
 	suebian = {
@@ -309,17 +421,52 @@ pan_swiss = {
 scandinavian = {
 	leader = european
 	unit = EuropeanGC
-	swedish = { 
+	swedish = { #Used for all Norse
 		color = { 100 124 150}
-		first_names = { Albrecht Alexander Arnold August Axel Baltzar Carl Christofer Didrik Edvard
-		Elias Emil Erik Esaias Fabian Frans Fredrik Gunnar Gustav Henrik
-		Jakob Jesper Johan Julius Knut Lars Ludvig Magnus Michael Nikolaus
-		Nils Olof Oscar Per Rudolf Sten Theodor Verner Viktor Vilhelm }
+		first_names = { 
+			Agharjar Agi Agilamundur Agilar Agiwaldar Agithewar Aglaivar Agvarr Agwala 
+			Ainalivar Aiwamundur Aiwarikiar Aiwigairar Aiwiharjar Ala Alarikiar Albigairar Albiharjar 
+			Albir Alugoda Alunir AluwÌhar AnagÊirr Andswarur Angathewar Ansubernur Ansulaivar 
+			Anugairar Anugairar Anuherr Anula Anulaivar Anumundur Anuwandur Arnubernur 
+			Arnukatil Askaharjar Asugis Asugisalar Aujastainar Aujawindur Authabernur Authawinir 
+			Awiomundur AthagÌslar Athawinir Athawulfar Banastainar Badufridur Baduheldio Baduherr 
+			Bergiar Bernur Bewwarjar Bijowulfar Brekka Brond Domaharjar Domawaldar Duggwi 
+			Eldaiarn Erminlaivar Erminmarir Erminrikiar Etunabernur Evurar Feldunir 
+			Finnalba Finnar Fraujabernur Fraujagardio Fraujastainar Frawaradar FrÛdi Gairathewar 
+			Gardio Gautar Gautawulfar Gisur Givuka Godabrandar Godafridur Godaga Godagastir 
+			Godalaivar Godamundur Godathormar Gramar Granamarir Greipar GrÌma Gulvir Gunthaharjar 
+			Habukothur Hagani Hagustaldar Hailaga Haidiokyn Haki Halbadanir Hallukatil HalluthÛnr 
+			Harabanar Hariuha Hariwulfar Harjabaldar Harjagairar Harjamodar Harjar Harjawaldar 
+			Harjathewar Harduradar Haukothur HavathÛnr Hathubroddar Hathulaivar Hathuwardur Hathuwulfar 
+			Heldar Heldio Heldiowulfar Heruwardur Heruwulfar Hilmir Hjalmar Hjalmharjar 
+			Hlewagastir Hlewar Hnavi Hok Hrathar Hringar Hrussabernur HrÛthigairar HrÛthilar 
+			HrÛthimundur HrÛthirikiar HrÛthiwulfar HrÛthiwÌhar HrÛthuwulfar Hugilaikar Hunafridur 
+			Hunathewar Ingwar Ingwiamundur Ingwiawaldar Ingwiawinir Janas Jarawindur Kjuwwi 
+			Kristan Kunimundur Laivar Leugar Muha MÛdwÌhar Naudigastir Nithahathur Ohtaharjar Pal Petir 
+			Raginaharjar Raginalba Raginawaldar Raumar Raunijar Resir Saiwafara Saluga Sawilagar 
+			Sigisfridur Sigisgairar Sigisharjar Sigismundur Sigistrug Sigiswaldar Sigiswardur 
+			Sigiwarur Skelbathewar Skilf Skuld Snaiwar Sowihar SpÊrdla Stainawarijar Starkahathur 
+			Sturgardio Swabaharjar Swanar Swartingar Swartkatil Swipdagar Tuntha T˙kiar Ubar Waigomundur 
+			Waihalar Walhar Wandar·dar Wanilandar Wanilo Welandar Wikoharjar Wiwar Woduridar Wonradar 
+			Wulfagairar Wulfar Wulthur WulthuwÌhar Wulthuthewar Wurmar WÌhabernur WÌhagardio WÌhar WÌhastainar
+			WÌhlaivar WÌwila Thengilar Thijalfiharjar ThrawÛwindur Thrummar Thunragardio Thunragautar 
+			Thunrastainar Thunrawulfar ThunrawÌhar
+			Ansmundur
+			}
 		
-		last_names = { Abelin Bernardotte Bildt Bjˆrnstjerna Brahe Brakenhielm Breitholtz Chrsiterson Crusebjˆrn Dyrssen
-		Ehnemark Ehrenstam Gyllengranat Gyndestolpe Ingelman Leijonhufvud Lindman Mˆrner Nordenskiˆld "Palanger af Vega"
-		Palmstierna Peyron Rappe Reuterskiˆld Rosensv‰rd Ryding Sprengtportem Strˆm Taube Tawast
-		Thˆrnell Thulstrup Tingsten Ulner Virgin "von Essen" "von Hohenhausen" "von Otter" "von Platen" Weidenhielm }
+		last_names = { 
+			Oswining HrÛthilaring WÊgmunding Bragning Lofdung Budlung Agilamunding Agvarring
+			Ainalibaring Albing Anawanduring Aukwuning Athawining Badufriduring Berziaring
+			Erminmering Gudagasting Gudaswihing Halbadaning Iwaning Hrodiwulfing Sigiswarduring
+			SnÊrring Waniling Thunragauting Asugisling Thorstenning Helling Haguning Wulthuwing
+			MÛdwÌharing Danning Godormring Thieluaring Halbadaning Frodisunur Agithewing
+			Ulwihazing Anuwanduring Wiwiling GÛrring MÛdwÌharing Agvarring Hrathazing
+			Anuherring Hardurada Wandar·daring Thunragauting SnÊrring AnagÊirring Hagunaning
+			T˙kiaring Thunrawulfing Iwaning Woduriding SvartkÊtilling Hocing SpÊrdling
+			Sikling Wiwaring Baduherring Hathulaivaring NÌdudring AnagÊirring RÌging
+			Yngling Volsungar T˙kiaring Sigiwaruring Harjamodaring Hlewagastiring
+			Alugoding HavathÛnring Sowiharing Hlewaring Bergiaring Wandar·daring
+		}
 	}
 	danish = { 
 		color = { 220 40 40}
@@ -403,50 +550,106 @@ british = {
 		color = { 35 140 50}
 		radicalism = 15
 		primary = IRE
-		first_names = { Alexander Arthur Brian Cathal Christopher Con Daniel Denis Desmond …amon
-		Edward Ernes Fion·n Frank George Harry Jack James John Joseph
-		Kevin Liam Michael Patrick Peter Richard Robert SÈan Thomas William }
+		first_names = { ¡ed ¡ed·n Aedh ¡engus Aenghusa …amon …icnech·n …nri ”engus ”lchobar
+			Ailill Ainmere AmlaÌb Amhalgaidh Ardgar Art Artgal Art˙r Augaire  
+			B·et·n Blathmac Bran Brandub Brian BrÛen Carlus Cathal Cathal·n Cellach CennÈtig Cenn-F·elad Cerbal
+			Cin·ed Coirpre Colm·n Conall Conchobar Congalach Conn ConstantÌn
+			Cormac Cormaic Crimthann Cremthainn Crundm·el Cuscrach DabÌd Demm·n Diarmait Domnall
+			Donnchad Donchaidh Donncuan Duach D˙nchad D˙ngal D˙nlaing EÛgan Eachern Eochaid Echach
+			F·el·n F·elbe Feargna Fergal Fergus Fergusa Feidlimid Fedlimid Fedelmid
+			Fiachnae Fingen Finn Finnechtae Flaithbertach Flann Fogartach
+			Gabr·n Gilbert
+			Issa LÛeguire Loingsech Lorc·n Lugaid Lugdach Lochlann M·el
+			Maghnus Mathgamain Martan Matud·n Muiredach Muiredaig Murchad 
+			"Nath Õ" Niall Oengus P·traic Pilib Ricard RÛen Roderick Se·n
+			Selbach Seo·n Taidhg T˙athal Tibraide Tigern·n Toirdelbach Tom·s Ualtar Uilliam }
 		
-		last_names = { Aiken Ashe Breen Brugha Collins Connolly Cosgrave Craig "de Valera" Donnelly
-		FitzGerald Griffith Kelly Larkin Lynch Mallin McCartan McCullough McGarry McGuinness
-		Mulcahy O'Brien O'Connor O'Doherty O'Higgins O'Leary O'Mara Pearse Plunket White }
+		last_names = { 
+			Derlas "UÌ Braenain" "UÌ Donnail" "Mac Carthaigh" "Ceiteach" "UÌ Liathain"
+			"UÌ Dubag·in" "Connachta" "UÌ NÈill" "Corcu LoÌgde" Lorc "D·l Fiatach"
+			Laigin "UÌ Ceinnselaig" EÛganachta CÈtchathach "UÌ Bri˙in" "UÌ Macc Uais"
+			"UÌ Limerick" "UÌ Maolduin" "UÌ Glenfarne" "UÌ Cavan" "UÌ Ros Com·in"
+			"UÌ Maine" "UÌ Dunlaing" "UÌ Faelain" "D·l Birn" "UÌ M·ele ”drain"
+			"UÌ MaÌl Doraid" Cholm·in "UÌ Cerbaill" "D·l Cuinn" "UÌ M·il" "UÌ B·egill"
+			"D·l Birn" "UÌ …remÛin" "D·l n'Araide" Ceinfarfog Finnfechtnach "UÌ Fiachrach"
+			"UÌ n'Ailello" "UÌ Bri˙in" D·irine "SÌl Conairi" "D·l Niad Cuirp" "Mac Conall"
+			"UÌ Conrai" Ciannachta "SÌl Fiachra" "UÌ Garrchon" "UÌ Bairrche" "D·l Birn"
+			"D·l Messin Corb" Fotharta LoÌgis DÈisi Deirgtine M˙scraighe "Corcu Duibne"
+			Ciarraige "mac RÛich" "Corcu Baiscind" "Corcu Mruad" "DÈisi Tuisceart"
+			Uaithne "⁄i MÈith" Mugdorna "D·l Mennat" …ile Gailenga Luighne Soghaine
+			Delbhna ConmhaÌcne Dartraighe Masraige "Fir Rois" "SÌl Fiachra Cass·n"
+		}
 	}
 	pictish = { 
 		color = { 16 56 125}
 		radicalism = 15
-		primary = IRE
-		first_names = { Alexander Arthur Brian Cathal Christopher Con Daniel Denis Desmond …amon
-		Edward Ernes Fion·n Frank George Harry Jack James John Joseph
-		Kevin Liam Michael Patrick Peter Richard Robert SÈan Thomas William }
+		primary = SCO
+		first_names = { Aelpein Afarnach Ailean Alesander Alwin Aodh Aodhan Aonghas Artair Aulay Ainmure Breth Broichan Brude Cailean
+			Calum Celtran Clinoch Coinneach Constantin Deord DÚmhnall Donnach Drest Drust Elfin Esca EÚghann Eoganan Fearchar Galan GillechrÏost Guaire
+			Geirr Giolla Gofraid Goraidh Grim Grimur GrimÛlf Gudbrand Gyrom
+			Guirmean Guret Ãomhair I˘rnan Laise Latharn Luag Lutrin Machar Manachan Maon Morleo Murchad Niall RÚidh Roithrid RÚnan Ruairidh
+			Taran Torcuil Tormad Uallas Ualraig Uisdean Natholocus Morbet
+			Adomn·n AlpÌn ¡ed Aniel Bran Cailtram Cinioch Crimthann Conall Caustantin Crautreic
+			D˙ngal Dargart Drostan Domnall Deort Domelch EÛgan Eugein Fergus Ferchair Gigurum Giric Garthnaith Gede Gest
+			Mogons Murtolic Maelchon Nechtan Ougen Selbach Talorgan T˙athal·n Tarain Uvan }
 		
-		last_names = { Aiken Ashe Breen Brugha Collins Connolly Cosgrave Craig "de Valera" Donnelly
-		FitzGerald Griffith Kelly Larkin Lynch Mallin McCartan McCullough McGarry McGuinness
-		Mulcahy O'Brien O'Connor O'Doherty O'Higgins O'Leary O'Mara Pearse Plunket White }
+		last_names = { "map Cainnig" "na Ceardadh" "map Finnag·in" Neacail Lachlainn "Map Duib"
+		Floclaid Fortrenn Caimnach ¡egus Lochore Ceitein Torfin Guorthinmoc "a Gabr·in" Machair
+		Caldaich Errol Olifard "Map Donnel" Cormaig Kennog Lochore Archil Ceitein Machair Fothriff
+		"of Loch Duin" "of Din Eidyn" "Map Uilleim" Gallaibh "Map Aniel" "Strath Nid" Corbredus
+		"map Gyrom" Talorgan Cadallanus Uerturio Circinn
+		}
 	}
 	brythonic = { 
 		color = { 92 116 99}
 		radicalism = 15
-		primary = IRE
-		first_names = { Alexander Arthur Brian Cathal Christopher Con Daniel Denis Desmond …amon
-		Edward Ernes Fion·n Frank George Harry Jack James John Joseph
-		Kevin Liam Michael Patrick Peter Richard Robert SÈan Thomas William }
+		primary = WHA
+		first_names = { Aeddan Agrafin Alan Alexander Alwyn Annan Apon Aradig Aradoc Arawain Arod Arthfael Arthur Agravain
+			Balin Balise Bedwyr Bedwyn Bleddyn Bleiddig Bors Britannicus Brochvael Brochmael Brwyn Brychan Br‚n
+			Caddan Cadell Cadfael Cadog Cadwal Cadwallon Cadwy Caelgyn Cai Carig Cain Caleddin Caradoc Caraled Carawain Cavan
+			Caswallon Cerdig Cerdoc Cerfin Cerlyn Cerwain Celwin Cedwyn Ceredig Coel Corineus Custennin
+			Cynfarch Cynfelyn Cynfyn Cynwallon Culhwch Dafydd Deiniol Derella Dyrrig Dyfrig Dorfael Drystan
+			Edern Edwyn Ector Einion Eldoc Elgwyn Eachern Elwain Elwydd Emrys Ermid Erbin Fergal
+			Gadric Galed Gareth Gawain Gerdin Gereint Geralt Gerled Gerlyd Gerreth Gerwain Griffid Gruffud
+			Gruffydd Gudovan Gwerthern Gwidyr Gwydre Gwylyddyn Gyllad Hywel Iorweth Ithel Idfael Issa Leudonus
+			Lanval Ligessac Licat Llanval Lladarn Llyr Llywelyn Mardoc Madog Mael Maelfin Maelgyr Maelgwyn Maelgore Mapon Mared Malaine
+			Meilyr Meirion Merfyn Meric Meriadoc Meurig Minac Morfans Morien Morridig Nabur Nasiens
+			Oreth Owain Padarn Padern Perddel Peredyr Peredur Rainal Rigertus Rodericus Rowain Severus Sestus
+			Taliesin Tewdric Tristan Tudwal Tudwallon Urien Uther Valerin }
 		
-		last_names = { Aiken Ashe Breen Brugha Collins Connolly Cosgrave Craig "de Valera" Donnelly
-		FitzGerald Griffith Kelly Larkin Lynch Mallin McCartan McCullough McGarry McGuinness
-		Mulcahy O'Brien O'Connor O'Doherty O'Higgins O'Leary O'Mara Pearse Plunket White }
+		last_names = { Pendragon Wyllt Corneu Cadelling Caradoc Gogyrfan Beisrudd Madoc
+		Wyn Owens Tewdwr Meilyr Llewellyn Morys Llywarch Cynnir Cadarn Leget Caffyn Cadfeal
+		Cannevet Belgarum Prydain Gwynael Llifon Gilmyn Conwy Isaled Llechwedd Caenogion
+		Gruffydd Elfael Mynydd Llandaf Llanbadarn Llancarfan Avenel Teithfall Lugg Reiden
+		Dellen Hafren Cambulus Dynod Trevelyan Madron Apis Talgarth Brychan Aberdaron Elfael
+		Arfon Rhosyr Eginog Cefeliog Arwys Gilmyn Mechain Penllyn Cedewain Rudlan Caereinion
+		Lannstefan Trevanion Halcwym Cicucium Martinus Cunetio Cunedog Tegernacus Clutorix 
+		Isca Salcidunus Ebrauc Dinefwr CÙel Edern Beven CÊnadius Galenus Gurgustus "of Eden"
+		"of Deva" "of Burrium" Tudwaling "of Eburacum" Macsen "of The Downs" Germanianus
+		Mascuid Galenus Guletic Arthuis "Moel Ros"}
 	}
 	breton = {
 		color = { 119 115 149}
 		radicalism = 15
 		primary = BRT
 		   first_names = {
-            Yann Yannic Pierre Jakez Elouan FraÒsez Jaoua Paol Segal Alain
-            Henri HoÅE Michel ThÈodore
+            Alain Alwyn Anton Aldred Arnald Arthur
+			Baldoen Ban Bertram Benabic Bleiddig Bors Brandon Brian
+			Brient Budic Cadoc Carig Camran Celwin Conrad Corineus Daniel Derrien Donoal Dinas Ector Edern Edouard Eon
+			Erwan Fragan Everard Feldan Fychan Galahad Gawain Geoffroy Gregor
+			Guy Guimarc'h Guyomarc'h Guyomarc Guimarc
+			HoÎl Ilan Jacob Jehan Gilbert Jord
+			Karl Kevan Klaod 
+			Lavaine Laorans Louis Lucas Maelog Maeliaw Martin Meagon Meriadog Malaine
+			Mikael Morvan Morfans Nabur Nicholas NominoÎ Podric Peredur
+			Renan Riaged Roparz Ronan Stefen Rivod
+			Taliesin Urvod Yann
         }
 
         last_names = {
-            "de Cornouaille" Karter Gallo Kergoulay Bellec "le Goff" Treguier Riou Morvan Peron
-            Jezeguel Salaun "le Bihan"
+            "du Lac" Magnus Metellus Falco Acilianus Dalmatius Eumenius Cynfyn Cadfeal
+			Beven Cynoel Edern Trencavel Vercintrix Morles Broest Broeves Constantius
+			Balliol Trebesian Combourg "a Bleaz" "of Brittany" 
         }
     }
 	
@@ -475,11 +678,26 @@ italian = {
 	}
 	roman = { 
 		color = { 100 28 28}
-		first_names = { Albus Agustus Aenas Consus Cupid Cassius Apollo Faunnus Liber Felix Julius Cicero Marcellus Marcus Maximus Octavius Orlando 
-		Regalus Remus Roberto Stefano Sylvester Dominic Emilius Vulcan Antony Giorgio Titus Albanus Avitus Brutus Gallus Hilarius Junius Edoardo 
-		Ioannes Thomas Lucas Matthaeus Anicius Manlius Severinus Paulus Timotheus Philipus Alexandrus Victor Constans Constantinus Constantinius Gaius Flavius Tiberius 
-		Prospero Pertan Priscus Cladius Galba Otho Vitellus Nerva Antoninus Didius Pescennius Decius Aemilianus Gallienus Postumus
-		Laelian Domitianus Odenathus Quintillus Aurelian Licinus Jovian Honorius Eugenius Gratianus Anastasius Leo Theodosius }
+		first_names = { 
+			Adelphius Aetius Ampelius Armentarius Ausonius Bacauda Concessus Dalmatius Equitius Ennodius Leo Leontius Magnus
+			Marinus Maximus Maximinus Metranus Nepos Optatus Praejectus Priscus Proculus Sabinus Romanus_Roman Romulus Rufus Rufinus Rusticus
+			Traianus Urbanus Venantius Vitalis Victor Victorinus
+			Avitus Decimus Decius Faustus Faustinus Gavinus
+			Lucius Lucullus Marcellinus Marcellus Marcus_Mark Publilius Publicius Quintillus
+			Alexander Anthemius Anthemiolus Eutychianus Herculius
+			Orestes Philippus Theodorus Theodosius 
+			Apollinaris Dionysius Parthenius Minervius Martinus Saturninus
+			Adeodatus Amantius Amatus Ambrosius Anastasius Arsenius
+			Auxilius Benedictus Bonifacius Clemens Concordius Cresconius Donatus Eusebius Eustadius Felix Gennadius Germanus Gregorius Gerontius Hilarius Himerius Joannes Laurentius Liberius Luperculus Nectarius Pamphilus Paulinus Paulus Pelagius Petrus Prosper Quirinus Reparatus Renatus Salventius Sebastianus Syrus Victricius Vincentius Zephyrinus Firmus Habitus Nerva 
+			Valens Valentinus Celsus Celsinus Longus Balbus Blaesus Brutus Lentulus 
+			Celer Fulgentius Crassipes Gemellus Geminus Laevinus Scaeva Scaevola Candidus Candidinus Pulcher
+			Bucco Crassus Quadratus Scapula Taurus Tubero Tubertus Baburrus Abundius_Abundius Abundantius Honestus Defendens Defendentius Silvester Jucundus
+			Iovinus Licinius Felicissimus Fortunatus Gaudentius Decus Decentius Dignus Iustus Iustinus Honorius Honoratus Probus Probinus Vigilius  Pientius Pius
+			Carinus Carus Durus Tetricus Florus Luminosus Palladius Burdunellus Castulus Castus
+			Mansuetus Severinus Severus Placentius Constans Constantinus Constantius Patiens Benignus Bonitius Clementius 
+			Placidus Modestus Simplicius Albidus Albinus Mauricius Melanius Niger Nigellus
+			Aurelianus Flavianus Julianus Valerianus Titianus 
+			}
 		
 		last_names = { 
 		Afra Amabilia Amadeus Amata Anatolia Angela Barbara Beatrix Benedictus Candida Carina Christiana Clara Delphina Delphi Florentina Vesta
@@ -491,11 +709,24 @@ italian = {
 	}
 	raetian = { 
 		color = { 190 130 120}
-		first_names = { Albus Agustus Aenas Consus Cupid Cassius Apollo Faunnus Liber Felix Julius Cicero Marcellus Marcus Maximus Octavius Orlando 
-		Regalus Remus Roberto Stefano Sylvester Dominic Emilius Vulcan Antony Giorgio Titus Albanus Avitus Brutus Gallus Hilarius Junius Edoardo 
-		Ioannes Thomas Lucas Matthaeus Anicius Manlius Severinus Paulus Timotheus Philipus Alexandrus Victor Constans Constantinus Constantinius Gaius Flavius Tiberius 
-		Prospero Pertan Priscus Cladius Galba Otho Vitellus Nerva Antoninus Didius Pescennius Decius Aemilianus Gallienus Postumus
-		Laelian Domitianus Odenathus Quintillus Aurelian Licinus Jovian Honorius Eugenius Gratianus Anastasius Leo Theodosius }
+		first_names = { ∆tius Agrippa Albanus Albus Ambrosinus Antoninus Appius Attilius Aulus Aurelius Ariovistus Arrius
+			Brutus Caecilius Caius Camillus Cassianus Cassius Cato Claudius Decius Crixus
+			Cornelius Domitianus Dubricius Eunius Fulvius Gaius Germanus Gratianus Galerius Gallienus Gelasius
+			Gannicus Horatius Iulius Iulianus Julius Livius Longinus Liscus Lucretius Lyciscus Marcellus
+			Marcus Marianus Marius Maximianus Maximus Maugannius Mummolus Nero Numerius Octavianus Octavius Olybrius
+			Paulus Piramus Plinius Pontius Publius Quintus Regulus Romolus Rufus Pertinax
+			Secundus Sertorius Septimus Severus Sextus Tacitus Tadioceus Tertius Titus
+			Varius Victorinus Avitus Alethius Mercurius Sanus
+			Vindotorix Verutius Sedullus Luctemarus Lugo Ceretiacus Cerevanus Adiarius Callistus Carinus Cassiodorus
+			Critiacus Ceredumnus Brennus Convictogenus Rianorius Lutacos Vibius
+
+			Maroveus Eufronius Venantius Fortunatus Junianus Gregorius Privatus Censorius Montanus Remigius Mummolus Peonius 
+			Emilius Vedastus Principius Apollinaris Arcadius Sollius Sidonius Ennodius Felix Eparchius Ruricius Deciderius 
+			Parthenius Firminus Tonantius Anicius Ommatius Philagrius Leontius Constantius Aurelianus Rusticus Lupicinus Aquilinus Eulalius 
+			Decimus Florentinus Nicetius Alcimus Ecdicius Claudianus Mamertus Ferreolus Nectaridus Medardus Gallus Aprunculus Fibicius
+			Modestus Miletius Mauritius Goarus Hesychius Aega 
+			Eleutherius Romanus Lupus Bonifatius Honoratus Anthemiolus Agricola Agroecius Caesarius
+			Amandus Acarius Iustus Alpinus Martinus Elpidius Antiochus Sicarius Sacerdos Christianus }
 		
 		last_names = { 
 		Afra Amabilia Amadeus Amata Anatolia Angela Barbara Beatrix Benedictus Candida Carina Christiana Clara Delphina Delphi Florentina Vesta
@@ -523,31 +754,84 @@ italian = {
 	}
 	roman_african = {
 		color = { 196 97 97}
-		first_names = { Alessandro Alberto Alfredo Armando Augusto Camillo Carlo Cesare Corrado Domenico Dentice 
-		Enrico Ettore Fabio Fabrizio Ferdinando Filippo Francesco Gaetano Gennaro Giacomo GiosuË Giovanni Giulio Giuseppe Graziani Guglielmo 
-		Leopoldo Lorenzo Ludovico Marcantonio Marino Mario Matteo Nicola Orazio Paolo Pirzio
-		Rafaelle Riccardo Rodolfo Ruggiero Salvatore Sigismondo Tommasso Vincenzo }
+		first_names = { 
+			"Aurelius Usamauca" "Iulius Victor" "Valerius Zabullus" Aelius Antalas Antonius Augustinus Bitipten Bocchus Burco Caecilius Carcasan 
+			Ceraus Corippus Cresconius Christianus Cusina Cutzinas Donatus Esdilasas Felix Firmus Flavius Florus Gaius Gasmulem Gildo 
+			Gnaeus Guarizila Guenfan Guentan Iabdas Iaudas Ierna Ifisdaias Iider Iidir Iuba Iugmena Iulianus Iulius Iunius Iurphuthes Iutungun 
+			Jugurtha Laurentius Maccus Majorinus Marcus Marius Masgiven Masinissa Masties Mastigas Mastinas Masuna Maximus Medisinissas Messorus Metcun Nero 
+			Nuvel Patricius Peregrinus Petronius Rufus Safar Saturnius Tacfarinas Titus Traianus Valerius Varius Victor Vitus Zabeas
+			Musulamius 
+			
+			#Vandals
+			Adeodatus Agileius Amata Ambri Ammatas Andwit Ariarith Arifridos Baudus Becca Beremut 
+			Bictoricus Bleda Blumarit Bothericus Brandini Cyrila Deogratias Deusdedit Ermanarix Etemund Feva 
+			Flavius Fridamal Fridubalth Fridus Fronimuth Fulgentius Gabadus Gamuth Gardingi Geilarith 
+			Geilimer Geisarix Geisericus Geisirith Genton Genzon Gibamundu Godas Godigisel Gotthaeus 
+			Gudulo Gudulus Gundericus Guntari Gunthamundus Guntharix Guntheus Gunthimer Harjarith 
+			Hildericus Hildirix Hoageis Hoamer Hraftus Hraos Hunericus Hunirix Iason Ingila Iulius 
+			Karthagus Lacringus Manno Marivadus Messius Oarit Ostrafroia Phuscias Pinta Raginari Sallusticius 
+			Scarila Sigisteus Sindivult Stilicho Stutia Supserik Svartifan Svesaon Tata Theodariu 
+			Theoderix Thrasamundus Tzazo Usclu Vandalarius Victorinus Vilimut Visimar Vitalis 
+			Vitarit Vulfbaudus Wulfgar WÌtaricus
+			Adalbertus Adeodatus Agileius Alfredus Amalafridus Ammatas Antonius Appius Arbogastus Ardo 
+			Arminius Arnoldus Arnulfus Ariovistus Artorius Attila Batavus Bodivarius Burcardus
+			Campanus Cassius Chariovalda Childericus Chlodovicus Chrocus Cimberius Cniva Cunimundus Cyrila 
+			Desiderius Egbertus Emeramus Fengo Feva Flavius Froio Gaius Galerius Geisericus 
+			Gannascus "Gerardus Antonius" Gerardus Gildo Gnodomarius Gocar Gudilo Hadrianus Hagano Heremigarius
+			Hulricus Iorecus Iulius Juvenalis Lotharius Leudegarius Ludhartus Marcus 
+			Maroboduus Menico Merovius Nectaridus Nero Odoacerus Otilo Oto Poppo Radbodo 
+			Reginaldus Ragnarius Ragunfridus Rando Ranilo Recco Ribuarius Ricardo Richila Ricimer 
+			Robertus Rodericus Rudolfus Saxo Septimus Sicfridus Sido Sigurturius Stilicho Sunno Tadaco Tado 
+			Theodemer Theodericus Tzazo Ubaldus Ulfo Varus Victorinus Vitalis Vitarit Walterius Wido Wilelmus
+			Zacco ∆milius ∆tius
+			Frowinus Athislus Offa Bonifatius Scefius Beda Aeduinus Alcuinus Ennius
+			Audoenus Bertefridus Waldelenus Gebicca Christianus Chamo Imerix Servofredus Leonardus
+			Bladastes Arbogastes Magnericus Chlotharius Severus Carolus Dagobertus Godinus
+			Chugus Chugoberctus Landericus Landebertus Radobertus Renartus Richomeres
+			Audomarus Chadalricus Rabanus Sugillarius Leodardus
+			}
 		
 		last_names = { 
-		Acton Anfora Bastico Barberini-Colonna "Beneventano del Bosco" Biroli Bonaccorsi Borges Caraga Cattaneo Chigi Clary Colonna Corsi 
-		"de Cosa" "de Liguori" "de Riseis" de'Sangro "della Rovere" "di Borbone della Due Sicilia" Diaz 
-		Ferrari FÈrgola Filangieri Gironda Gravina Grenet Grifeo Lanza Lombardo Lunardi Molinelli
-		Negri Nunziante Orsini Ottaviani Pianell Pinto Pollio Pironti Resta Ruffo Ritucci Santini Scammacca Torlonia Traversa Turrisi "Ugo Conz" Vernazza Zunica 
+			Clodius Lusius Julius Alfenus Apuleius Cornelius Lollius Honoratus Minucius Maurus
+			Tertullianus Aurelius Lactantius
+			
+			#Vandals
+			Hasding Genseri Siling Lacring Victorinus Gudoling Guthamunding Sallusticius Guntaring
+			Tzazoning Vulfbaudus Godigiseling Ingiling Fridamaling Supseriking Iulius Stutia Karthagus
+			Manno Guntharicing Fulgentius Visimaring
+			Civilis Paullus Acceptus Florentinus Mallius Maianus Seccus Carantus Smertullianus
+			Bellicus Saturninus Secundus Senecianus Servandus Faustinus Spectata Claudius
+			Cassianus Aurelius 
 		}
 		radicalism = 10
 	}
 	romano_illyrian = {
 		color = { 180 130 140}
-		first_names = { Alessandro Alberto Alfredo Armando Augusto Camillo Carlo Cesare Corrado Domenico Dentice 
-		Enrico Ettore Fabio Fabrizio Ferdinando Filippo Francesco Gaetano Gennaro Giacomo GiosuË Giovanni Giulio Giuseppe Graziani Guglielmo 
-		Leopoldo Lorenzo Ludovico Marcantonio Marino Mario Matteo Nicola Orazio Paolo Pirzio
-		Rafaelle Riccardo Rodolfo Ruggiero Salvatore Sigismondo Tommasso Vincenzo }
+		first_names = { ∆tius Agrippa Albanus Albus Ambrosinus Antoninus Appius Attilius Aulus Aurelius Ariovistus Arrius
+			Brutus Caecilius Caius Camillus Cassianus Cassius Cato Claudius Decius Crixus
+			Cornelius Domitianus Dubricius Eunius Fulvius Gaius Germanus Gratianus Galerius Gallienus Gelasius
+			Gannicus Horatius Iulius Iulianus Julius Livius Longinus Liscus Lucretius Lyciscus Marcellus
+			Marcus Marianus Marius Maximianus Maximus Maugannius Mummolus Nero Numerius Octavianus Octavius Olybrius
+			Paulus Piramus Plinius Pontius Publius Quintus Regulus Romolus Rufus Pertinax
+			Secundus Sertorius Septimus Severus Sextus Tacitus Tadioceus Tertius Titus
+			Varius Victorinus Avitus Alethius Mercurius Sanus
+			Vindotorix Verutius Sedullus Luctemarus Lugo Ceretiacus Cerevanus Adiarius Callistus Carinus Cassiodorus
+			Critiacus Ceredumnus Brennus Convictogenus Rianorius Lutacos Vibius
+
+			Maroveus Eufronius Venantius Fortunatus Junianus Gregorius Privatus Censorius Montanus Remigius Mummolus Peonius 
+			Emilius Vedastus Principius Apollinaris Arcadius Sollius Sidonius Ennodius Felix Eparchius Ruricius Deciderius 
+			Parthenius Firminus Tonantius Anicius Ommatius Philagrius Leontius Constantius Aurelianus Rusticus Lupicinus Aquilinus Eulalius 
+			Decimus Florentinus Nicetius Alcimus Ecdicius Claudianus Mamertus Ferreolus Nectaridus Medardus Gallus Aprunculus Fibicius
+			Modestus Miletius Mauritius Goarus Hesychius Aega 
+			Eleutherius Romanus Lupus Bonifatius Honoratus Anthemiolus Agricola Agroecius Caesarius
+			Amandus Acarius Iustus Alpinus Martinus Elpidius Antiochus Sicarius Sacerdos Christianus }
 		
 		last_names = { 
-		Acton Anfora Bastico Barberini-Colonna "Beneventano del Bosco" Biroli Bonaccorsi Borges Caraga Cattaneo Chigi Clary Colonna Corsi 
-		"de Cosa" "de Liguori" "de Riseis" de'Sangro "della Rovere" "di Borbone della Due Sicilia" Diaz 
-		Ferrari FÈrgola Filangieri Gironda Gravina Grenet Grifeo Lanza Lombardo Lunardi Molinelli
-		Negri Nunziante Orsini Ottaviani Pianell Pinto Pollio Pironti Resta Ruffo Ritucci Santini Scammacca Torlonia Traversa Turrisi "Ugo Conz" Vernazza Zunica 
+		Afra Amabilia Amadeus Amata Anatolia Angela Barbara Beatrix Benedictus Candida Carina Christiana Clara Delphina Delphi Florentina Vesta
+		Salacia Maia Juventus Aneas Consus Aries Romulus Amulius Saturn Remus Quirinus Pollux Pluto Numitor Janus Vulcan Tatius Summanus Silvus Silvanus
+		Neputne Italus Evandrus Ahenobarbus Albina Albus Antonia Agustus Brutus Caesar Carbo Cassia Cicero Claudia Colambanus Decimus Deusdedit Domitia Drusus
+		Fabius Felice Felix Frugi Gabinus Hadriana Hortensia Juluius Marcellus Mariana Maximus Metellus Octavia Pulcher Scipiones Servus Titus Velentius
+		Vita Valor Acisclus Antias Cato Catullus Corvinus Falto Fava Flaccus Manius Rufus Paulus Seneca Sextus Martinus 
 		}
 		radicalism = 10
 	}
@@ -570,15 +854,19 @@ iberian = {
 	unit = SpanishGC
 	basque = {
 		color = {220 170 30}
-		first_names = { AgustÌn Aitor Alberto Ander Andoni AndrÈs ¡ngel Antonio Arturo Carlos
-		Ceferino Cosme Cristobal Dami·n Endika "Francisco Javier" Ignacio Imanol IÒaki Jes˙s
-		Jon "JosÈ Antonio" "JosÈ MarÌa" Joseba Josu Juan Julen Koldobika Luis Manuel
-		Marino Miguel Paulino Pedro Rafael Ramiro RamÛn Sabino Tom·s Vicente }
+		first_names = { 
+			Abain Ahoztar Aio Andos Apalo Arixo Arixoni Azeari Azubeli Balcoe Bals Beila Belasco_Vasco Belas Blasco_Vasco Cison Enneco
+			Ereti Erramel Erramon Erramos Garsia Hanna Haros Harsi Heraus Ilun Iluntso Ilintso Ilunosi Ilurde Iaun Iaunti Leheren 
+			Lohis Obeco Otxoa_Ochoa Sembe Selatse Munino Monioni Nabar Ubeltso Txaran Txatzel Txipi Urdin Yssuri Cigor Cilar 
+			}
 		
 		last_names = { Aguirre Ajuriaguerra Aldecoa Arana Aranzadi Arizmendiarrieta Armend·riz Aznar Balenciaga Berasategui 
 		Bilbao CampiÛn Churruca "de AmÈsquita" "de Azpilicueta" "de Erauso" "de RenterÌa" "de Ubisztongo" Echag¸e Echave
 	 	Echegaray EchevarrÌa Elorza GaztaÒeta Ibarrola Ib·rruri Irujo Lazcano Mendizabal Moneo 
-		N·rdiz Olano Olave Oyarz·bal Rotaeche Uzcudun Zam·rraga Z·rate Zavala Zumalac·rregui }
+		N·rdiz Olano Olave Oyarz·bal Rotaeche Uzcudun Zam·rraga Z·rate Zavala Zumalac·rregui
+
+		Enneconnis Sembeconnis Beltesonis AurÈliez S·nchez LÛpez Fort˙nez Vel·squez GalÌndez Gonz·lez
+		}
 		radicalism = 15
 	}
 	spanish = {
@@ -601,21 +889,55 @@ iberian = {
 	}
 	romano_hispanic = {
 		color = {220 220 30}
-		first_names = { AgustÌn Alberto Alejandro Alfonso ¡lvaro Antonio "Antonio MarÌa" Arsenio Augusto Baldomero
-		Baltasar Benito Bernardino Bernardo Calixto Carlos Celestino Claudio Cristobal D·maso
-		Diego Dionisio Eduardo Emilio Estanislao Federico Felipe FÈlix Fernando Francisco
-		"Francisco Javier" Gabino Gabriel Gaspar Genaro Gonzalo Ignacio Isidro Jacobo Jaime
-		JoaquÌn JosÈ "JosÈ Antonio" "JosÈ Manuel" "JosÈ MarÌa" Juan "Juan Bautista" Julio Leopoldo Lorenzo 
-		Luis Manuel Marcelo Mariano Mateo Melchor Miguel Nicol·s Pablo Pascual
-		Pedro Rafael Raimundo RamÛn Ricardo Santiago Sebasti·n Segismundo Valeriano Vicente }
+		first_names = { ∆tius Agrippa Albanus Albus Ambrosinus Antoninus Appius Attilius Aulus Aurelius Ariovistus Arrius
+			Brutus Caecilius Caius Camillus Cassianus Cassius Cato Claudius Decius Crixus
+			Cornelius Domitianus Dubricius Eunius Fulvius Gaius Germanus Gratianus Galerius Gallienus Gelasius
+			Gannicus Horatius Iulius Iulianus Julius Livius Longinus Liscus Lucretius Lyciscus Marcellus
+			Marcus Marianus Marius Maximianus Maximus Maugannius Mummolus Nero Numerius Octavianus Octavius Olybrius
+			Paulus Piramus Plinius Pontius Publius Quintus Regulus Romolus Rufus Pertinax
+			Secundus Sertorius Septimus Severus Sextus Tacitus Tadioceus Tertius Titus
+			Varius Victorinus Avitus Alethius Mercurius Sanus
+			Vindotorix Verutius Sedullus Luctemarus Lugo Ceretiacus Cerevanus Adiarius Callistus Carinus Cassiodorus
+			Critiacus Ceredumnus Brennus Convictogenus Rianorius Lutacos Vibius
+
+			Maroveus Eufronius Venantius Fortunatus Junianus Gregorius Privatus Censorius Montanus Remigius Mummolus Peonius 
+			Emilius Vedastus Principius Apollinaris Arcadius Sollius Sidonius Ennodius Felix Eparchius Ruricius Deciderius 
+			Parthenius Firminus Tonantius Anicius Ommatius Philagrius Leontius Constantius Aurelianus Rusticus Lupicinus Aquilinus Eulalius 
+			Decimus Florentinus Nicetius Alcimus Ecdicius Claudianus Mamertus Ferreolus Nectaridus Medardus Gallus Aprunculus Fibicius
+			Modestus Miletius Mauritius Goarus Hesychius Aega 
+			Eleutherius Romanus Lupus Bonifatius Honoratus Anthemiolus Agricola Agroecius Caesarius
+			Amandus Acarius Iustus Alpinus Martinus Elpidius Antiochus Sicarius Sacerdos Christianus 
+			
+			#Goths
+			Adalbertus Adeodatus Agileius Alfredus Amalafridus Ammatas Antonius Appius Arbogastus Ardo 
+			Arminius Arnoldus Arnulfus Ariovistus Artorius Attila Batavus Bodivarius Burcardus
+			Campanus Cassius Chariovalda Childericus Chlodovicus Chrocus Cimberius Cniva Cunimundus Cyrila 
+			Desiderius Egbertus Emeramus Fengo Feva Flavius Froio Gaius Galerius Geisericus 
+			Gannascus "Gerardus Antonius" Gerardus Gildo Gnodomarius Gocar Gudilo Hadrianus Hagano Heremigarius
+			Hulricus Iorecus Iulius Juvenalis Lotharius Leudegarius Ludhartus Marcus 
+			Maroboduus Menico Merovius Nectaridus Nero Odoacerus Otilo Oto Poppo Radbodo 
+			Reginaldus Ragnarius Ragunfridus Rando Ranilo Recco Ribuarius Ricardo Richila Ricimer 
+			Robertus Rodericus Rudolfus Saxo Septimus Sicfridus Sido Sigurturius Stilicho Sunno Tadaco Tado 
+			Theodemer Theodericus Tzazo Ubaldus Ulfo Varus Victorinus Vitalis Vitarit Walterius Wido Wilelmus
+			Zacco ∆milius ∆tius
+			Frowinus Athislus Offa Bonifatius Scefius Beda Aeduinus Alcuinus Ennius
+			Audoenus Bertefridus Waldelenus Gebicca Christianus Chamo Imerix Servofredus Leonardus
+			Bladastes Arbogastes Magnericus Chlotharius Severus Carolus Dagobertus Godinus
+			Chugus Chugoberctus Landericus Landebertus Radobertus Renartus Richomeres
+			Audomarus Chadalricus Rabanus Sugillarius Leodardus
+			}
 		
-	last_names = { AcuÒa Aguirre Alcal·-Zamora Allendesalazar Alonso ¡lvarez "¡lvarez de Toledo" Aranda Arg¸elles-Meres Asensio
-		Aznar Barradas Bugallal Cabrera "Cagigal de la Vega" Cano Cervera "de Albornoz" "de BorbÛn"
-		"de Carvajal" "de la Fuente" "de Orleans" DÌaz Espartero Fern·ndez "Fern·ndez de CÛrdoba" "Fitz-James Stuart" Franco 
-		GarcÌa "GarcÌa de la Noceda" Gonz·lez Heredia Hern·ndez Herrera Hevia "Hidalgo de Cisneros" Linares LÛpez 
-		Maroto M·rquez MartÌnez-Campos Maura MenÈndez Miaja Mill·n-Astray Mina Mola MuÒoz 
-		Narv·ez O'Donnell Ortega PavÌa PÈrez "Primo de Rivera" "Queipo de Llano" RodrÌguez Rojo Ruiz 
-		Sanjurjo Serrano Silvestre Topete ValdÈs Varela Villapol Villar Weyler Yag¸e }
+	last_names = { 
+		Afra Amabilia Amadeus Amata Anatolia Angela Barbara Beatrix Benedictus Candida Carina Christiana Clara Delphina Delphi Florentina Vesta
+		Salacia Maia Juventus Aneas Consus Aries Romulus Amulius Saturn Remus Quirinus Pollux Pluto Numitor Janus Vulcan Tatius Summanus Silvus Silvanus
+		Neputne Italus Evandrus Ahenobarbus Albina Albus Antonia Agustus Brutus Caesar Carbo Cassia Cicero Claudia Colambanus Decimus Deusdedit Domitia Drusus
+		Fabius Felice Felix Frugi Gabinus Hadriana Hortensia Juluius Marcellus Mariana Maximus Metellus Octavia Pulcher Scipiones Servus Titus Velentius
+		Vita Valor Acisclus Antias Cato Catullus Corvinus Falto Fava Flaccus Manius Rufus Paulus Seneca Sextus Martinus  
+		
+		Civilis Paullus Acceptus Florentinus Mallius Maianus Seccus Carantus Smertullianus
+		Bellicus Saturninus Secundus Senecianus Servandus Faustinus Spectata Claudius
+		Cassianus Aurelius 
+		}
 	}
 
 	catalan = {

@@ -4,98 +4,98 @@
 #Peshawar (148750/37187 POPS)
 1218 = {
 	bureaucrats = {
-		culture = turkic
+		culture = bactrian
 religion = mahayana
 		size = 15
 	}
 
 	artisans = {
-		culture = turkic
+		culture = bactrian
 religion = mahayana
 		size = 46
 	}
 
 	soldiers = {
-		culture = turkic
+		culture = bactrian
 religion = mahayana
 		size = 93
 	}
 
 	aristocrats = {
-		culture = turkic
+		culture = bactrian
 religion = hindu
 		size = 375
 	}
 
 	bureaucrats = {
-		culture = turkic
+		culture = bactrian
 religion = hindu
 		size = 46
 	}
 
 	clergymen = {
-		culture = turkic
+		culture = bactrian
 religion = hindu
 		size = 375
 	}
 
 	artisans = {
-		culture = turkic
+		culture = bactrian
 religion = hindu
 		size = 3125
 	}
 
 	artisans = {
-		culture = turkic
+		culture = bactrian
 religion = hindu
 		size = 1406
 	}
 
 	soldiers = {
-		culture = turkic
+		culture = bactrian
 religion = hindu
 		size = 1250
 	}
 	farmers = {
-		culture = turkic
+		culture = bactrian
 	religion = hindu
 		size = 23827
 	}
 	farmers = {
-		culture = aryan
-religion = hindu
+		culture = turkic
+religion = mahayana
 		size = 13827
 	}
 }
 #Chitral (50000/12500 POPS)
 1223 = {
 	aristocrats = {
-		culture = aryan
-religion = zoroastrianism
+		culture = turkic
+religion = animist
 		size = 156
 	}
 
 	clergymen = {
-		culture = aryan
-religion = zoroastrianism
+		culture = turkic
+religion = animist
 		size = 156
 	}
 
 	artisans = {
-		culture = aryan
-religion = zoroastrianism
+		culture = turkic
+religion = animist
 		size = 6250
 	}
 
 	soldiers = {
-		culture = aryan
-religion = zoroastrianism
+		culture = turkic
+religion = animist
 		size = 1560
 	}
 
 	farmers = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 12812
 	}
 
@@ -104,31 +104,31 @@ religion = animist
 #Quetta (38750/9687 POPS)
 1219 = {
 	aristocrats = {
-		culture = aryan
+		culture = bactrian
 religion = hindu
 		size = 108
 	}
 
 	clergymen = {
-		culture = aryan
+		culture = bactrian
 religion = hindu
 		size = 101
 	}
 
 	artisans = {
-		culture = aryan
+		culture = bactrian
 religion = hindu
 		size = 937
 	}
 
 	soldiers = {
-		culture = aryan
+		culture = bactrian
 religion = hindu
 		size = 2187
 	}
 
 	farmers = {
-		culture = aryan
+		culture = bactrian
 religion = hindu
 		size = 6351
 	}
@@ -319,7 +319,7 @@ religion = mahayana
 	}
 
 	farmers = {
-		culture = indo_aryan
+		culture = bactrian
 religion = mahayana
 		size = 9366
 	}
@@ -367,39 +367,39 @@ religion = animist
 	}
 
 	farmers = {
-		culture = turkic
-religion = animist
+		culture = indo_aryan
+religion = mahayana
 		size = 25882
 	}
 }
 #Gilgit (82500/20625 POPS)
 1225 = {
 	aristocrats = {
-		culture = aryan
+		culture = bactrian
 religion = zoroastrianism
 		size = 15
 	}
 
 	clergymen = {
-		culture = aryan
+		culture = bactrian
 religion = hindu
 		size = 15
 	}
 
 	artisans = {
-		culture = aryan
+		culture = bactrian
 religion = zoroastrianism
 		size = 77
 	}
 
 	soldiers = {
-		culture = aryan
+		culture = bactrian
 religion = zoroastrianism
 		size = 15
 	}
 
 	farmers = {
-		culture = aryan
+		culture = bactrian
 religion = hindu
 		size = 1437
 	}
@@ -538,7 +538,7 @@ religion = hindu
 	}
 
 	bureaucrats = {
-		culture = turkic
+		culture = bactrian
 		religion = animist
 		size = 437
 	}
@@ -574,7 +574,7 @@ religion = hindu
 	}
 
 	farmers = {
-		culture = turkic
+		culture = indo_aryan
 		religion = animist
 		size = 117796
 	}
@@ -586,7 +586,7 @@ religion = hindu
 	}
 
 	bureaucrats = {
-		culture = indo_aryan
+		culture = bactrian
 		religion = hindu
 		size = 171
 	}
@@ -610,7 +610,7 @@ religion = hindu
 	}
 
 	farmers = {
-		culture = indo_aryan
+		culture = turkic
 		religion = hindu
 		size = 27687
 	}
@@ -770,8 +770,8 @@ religion = mahayana
 	}
 
 	farmers = {
-		culture = turkic
-religion = animist
+		culture = indo_aryan
+religion = mahayana
 		size = 36062
 	}
 
@@ -800,7 +800,7 @@ religion = mahayana
 	}
 
 	farmers = {
-		culture = indo_aryan
+		culture = bactrian
 religion = mahayana
 		size = 2718
 	}
@@ -832,8 +832,8 @@ religion = hindu
 	}
 
 	farmers = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 14687
 	}
 

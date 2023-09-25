@@ -3,202 +3,202 @@
 #Kabul (972656/243163 POPS)
 1209 = {
 	aristocrats = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 2682
 	}
 
 	bureaucrats = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 803
 	}
 
 	officers = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 608
 	}
 
 	clergymen = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 1338
 	}
 
 	artisans = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 5272
 	}
 
 	soldiers = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 20741
 	}
 
 	farmers = {
-		culture = aryan
-religion = animist
+		culture = turkic
+religion = zoroastrianism
 		size = 100375
 	}
 
 	aristocrats = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 1952
 	}
 
 	officers = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 338
 	}
 
 	clergymen = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 947
 	}
 
 	artisans = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 4783
 	}
 
 	soldiers = {
-		culture = aryan
-religion = animist
+		culture = turkic
+religion = zoroastrianism
 		size = 1072
+	}
+
+	farmers = {
+		culture = bactrian
+religion = zoroastrianism
+		size = 86690
+	}
+
+	aristocrats = {
+		culture = turkic
+religion = animist
+		size = 241
+	}
+
+	clergymen = {
+		culture = turkic
+religion = animist
+		size = 132
+	}
+
+	artisans = {
+		culture = turkic
+religion = animist
+		size = 781
+	}
+
+	soldiers = {
+		culture = turkic
+religion = animist
+		size = 143
 	}
 
 	farmers = {
 		culture = turkic
 religion = animist
-		size = 86690
-	}
-
-	aristocrats = {
-		culture = aryan
-religion = zoroastrianism
-		size = 241
-	}
-
-	clergymen = {
-		culture = aryan
-religion = zoroastrianism
-		size = 132
-	}
-
-	artisans = {
-		culture = aryan
-religion = zoroastrianism
-		size = 781
-	}
-
-	soldiers = {
-		culture = aryan
-religion = zoroastrianism
-		size = 143
-	}
-
-	farmers = {
-		culture = aryan
-religion = zoroastrianism
 		size = 14315
 	}
 }
 #Balkh (503906/125976 POPS)
 1211 = {
 	aristocrats = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 1562
 	}
 
 	clergymen = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 791
 	}
 
 	artisans = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 1608
 	}
 
 	soldiers = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 803
 	}
 
 	farmers = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 74327
 	}
 
 	aristocrats = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 728
 	}
 
 	clergymen = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 377
 	}
 
 	artisans = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 1853
 	}
 
 	soldiers = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 362
 	}
 
 	farmers = {
-		culture = aryan
-religion = animist
+		culture = turkic
+religion = zoroastrianism
 		size = 33772
 	}
 
 	aristocrats = {
-		culture = aryan
-religion = zoroastrianism
+		culture = turkic
+religion = animist
 		size = 143
 	}
 
 	clergymen = {
-		culture = aryan
-religion = zoroastrianism
+		culture = turkic
+religion = animist
 		size = 85
 	}
 
 	artisans = {
-		culture = aryan
-religion = zoroastrianism
+		culture = turkic
+religion = animist
 		size = 487
 	}
 
 	soldiers = {
-		culture = aryan
-religion = zoroastrianism
+		culture = turkic
+religion = animist
 		size = 96
 	}
 
 	farmers = {
-		culture = aryan
-religion = zoroastrianism
+		culture = turkic
+religion = animist
 		size = 8945
 	}
 }
@@ -267,62 +267,62 @@ religion = zoroastrianism
 #Bamyan (402343/100585 POPS)
 1213 = {
 	aristocrats = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 315
 	}
 
 	clergymen = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 166
 	}
 
 	artisans = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 827
 	}
 
 	soldiers = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 1072
 	}
 
 	farmers = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 14303
 	}
 
 	aristocrats = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 241
 	}
 
 	clergymen = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 132
 	}
 
 	artisans = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 682
 	}
 
 	soldiers = {
-		culture =turkic
-religion = animist
+		culture =bactrian
+religion = zoroastrianism
 		size = 1072
 	}
 
 	farmers = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 11632
 	}
 
@@ -351,37 +351,37 @@ religion = zoroastrianism
 	}
 
 	farmers = {
-		culture = turkic
+		culture = bactrian
 religion = zoroastrianism
 		size = 28070
 	}
 
 	aristocrats = {
-		culture = aryan
+		culture = turkic
 religion = animist
 		size = 338
 	}
 
 	clergymen = {
-		culture = aryan
+		culture = turkic
 religion = animist
 		size = 182
 	}
 
 	artisans = {
-		culture = aryan
+		culture = turkic
 religion = animist
 		size = 827
 	}
 
 	soldiers = {
-		culture = aryan
+		culture = turkic
 religion = animist
 		size = 1072
 	}
 
 	farmers = {
-		culture = aryan
+		culture = turkic
 religion = animist
 		size = 35245
 	}
@@ -451,91 +451,91 @@ religion = animist
 #Qandahar (359375/89843 POPS)
 1215 = {
 	aristocrats = {
-		culture = aryan
+		culture = bactrian
 religion = animist
 		size = 1171
 	}
 
 	clergymen = {
-		culture = aryan
+		culture = bactrian
 religion = animist
 		size = 608
 	}
 
 	artisans = {
-		culture = aryan
+		culture = bactrian
 religion = animist
 		size = 2928
 	}
 
 	soldiers = {
-		culture = aryan
+		culture = bactrian
 religion = animist
 		size = 1072
 	}
 
 	farmers = {
-		culture = aryan
+		culture = bactrian
 religion = animist
 		size = 53096
 	}
 
 	aristocrats = {
-		culture = aryan
+		culture = bactrian
 religion = animist
 		size = 390
 	}
 
 	clergymen = {
-		culture = aryan
+		culture = bactrian
 religion = animist
 		size = 206
 	}
 
 	artisans = {
-		culture = aryan
+		culture = bactrian
 religion = animist
 		size = 1022
 	}
 
 	soldiers = {
-		culture = aryan
+		culture = bactrian
 religion = animist
 		size = 1072
 	}
 
 	farmers = {
-		culture = aryan
+		culture = bactrian
 religion = animist
 		size = 17906
 	}
 
 	aristocrats = {
-		culture = aryan
+		culture = bactrian
 religion = zoroastrianism
 		size = 166
 	}
 
 	clergymen = {
-		culture = aryan
+		culture = bactrian
 religion = zoroastrianism
 		size = 96
 	}
 
 	artisans = {
-		culture = aryan
+		culture = bactrian
 religion = zoroastrianism
 		size = 510
 	}
 
 	soldiers = {
-		culture = aryan
+		culture = bactrian
 religion = zoroastrianism
 		size = 96
 	}
 
 	farmers = {
-		culture = aryan
+		culture = bactrian
 religion = zoroastrianism
 		size = 9862
 	}
@@ -543,37 +543,37 @@ religion = zoroastrianism
 #Jalalabad (261718/65428 POPS)
 1216 = {
 	aristocrats = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 1268
 	}
 
 	clergymen = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 656
 	}
 
 	artisans = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 3268
 	}
 
 	soldiers = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 3906
 	}
 
 	farmers = {
-		culture = aryan
-religion = zoroastrianism
+		culture = turkic
+religion = animist
 		size = 26625
 	}
 		farmers = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 30000
 	}
 
@@ -611,31 +611,31 @@ religion = animist
 	}
 
 	aristocrats = {
-		culture = aryan
+		culture = bactrian
 religion = zoroastrianism
 		size = 195
 	}
 
 	clergymen = {
-		culture = aryan
+		culture = bactrian
 religion = zoroastrianism
 		size = 108
 	}
 
 	artisans = {
-		culture = aryan
+		culture = bactrian
 religion = zoroastrianism
 		size = 632
 	}
 
 	soldiers = {
-		culture = aryan
+		culture = bactrian
 religion = zoroastrianism
 		size = 120
 	}
 
 	farmers = {
-		culture = aryan
+		culture = bactrian
 religion = zoroastrianism
 		size = 51632
 	}
@@ -645,67 +645,67 @@ religion = zoroastrianism
 #Faizabad (332031/83007 POPS)
 1210 = {
 	aristocrats = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrian
 		size = 120
 	}
 
 	clergymen = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrian
 		size = 57
 	}
 
 	artisans = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrian
 		size = 338
 	}
 
 	soldiers = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrian
 		size = 1072
 	}
 
 	farmers = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrian
 		size = 5382
 	}
 
 	aristocrats = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrian
 		size = 1608
 	}
 
 	clergymen = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrian
 		size = 752
 	}
 
 	artisans = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrian
 		size = 3658
 	}
 
 	soldiers = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrian
 		size = 3906
 	}
 
 	farmers = {
-		culture = aryan
-religion = zoroastrianism
+		culture = turkic
+religion = animist
 		size = 26233
 	}
 	farmers = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrian
 		size = 40000
 	}
 
