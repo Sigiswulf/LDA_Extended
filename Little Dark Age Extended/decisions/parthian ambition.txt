@@ -1,0 +1,55 @@
+political_decisions = {
+	unite_caucasus_parthia = {
+	potential = {
+		tag = ALB
+		ideological_thought = 1
+		NOT = { has_country_flag = unite_caucasus }
+		}
+	allow = {
+		war = no
+		}
+	effect = {
+		set_country_flag = unite_caucasus 
+		GEO = { all_core = { add_core = THIS } }
+		add_accepted_culture = georgian
+		}
+	}		
+	arsacid_ambition = {
+	potential = {
+		tag = ALB
+		has_country_flag = unite_caucasus
+		NOT = { has_country_flag = arsacid_ambition }
+		}
+	allow = {
+		owns = 1090
+		}
+	effect = {
+		PER = { all_core = { add_core = ALB } }
+		ARM = { all_core = { add_core = ALB } }
+		prestige = 20
+		add_accepted_culture = armenian
+		set_country_flag = arsacid_ambition
+		}
+	}
+	arsacids_triumphant = {
+	potential = {
+		tag = ALB
+		has_country_flag = arsacid_ambition
+		NOT = { has_country_flag = arsacid_persia }
+		}
+	allow = {
+		tag = ALB
+		PER = { exists = no }
+		owns = 1121
+		owns = 926
+		owns = 1135
+		}
+	effect = {
+		prestige = 100
+		change_tag = PER
+		set_country_flag = arsacid_persia
+		all_core = { add_core = PER remove_core = ALB }
+		add_accepted_culture = persian
+		}
+	}
+}
