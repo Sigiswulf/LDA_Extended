@@ -78,3 +78,80 @@ objectTypes = {
 		attachId=4
 		}
 	}
+	EMFXActorType = {
+		name = "IndianGCIrregular"
+		actorfile = "gfx\anims\indian_light_infantry.xac"
+		
+		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
+		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
+		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
+		scale = 1.0
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		
+		}
+		attach={
+		name="CK_Sword_M"
+		node="Right_hand_node"
+		attachId=3
+		}
+		}
+		EMFXActorType = {
+		name = "IndianGCInfantry_Defensive"
+		actorfile = "gfx\anims\indian_heavy_infantry.xac"
+		
+		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
+		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
+		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
+		scale = 1.0
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		
+		}
+		attach={
+		name="CK_Sword_M"
+		node="Right_hand_node"
+		attachId=3
+		}
+		}
+		EMFXActorType = {
+		name = "IndianGCInfantry_Offensive"
+		actorfile = "gfx\anims\indian_light_infantry.xac"
+		
+		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
+		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
+		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
+		scale = 1.0
+		
+		attach = {
+			name = "InfantryShadowblob"
+			node = "Root"
+			attachId = 2
+		
+		}
+		attach={
+		name="CK_Sword_M"
+		node="Right_hand_node"
+		attachId=3
+		}
+		}
+		EMFXActorType = {
+        name = "IndianGCCavalry"
+        actorfile = "gfx\anims\indian_heavy_cavalry.xac"
+        idle   = "gfx\anims\Heavy_Cavalry_2_Idle.xsm"
+        move   = "gfx\anims\Heavy_Cavalry_2_Moving.xsm"
+        attack = "gfx\anims\persian_heavy_cavalry_2_attack.xsm"
+        scale = 0.9
+		
+		attach={
+		name="CK_Cav"
+		node="Right_hand_node"
+		attachId=3
+		}
+	}
