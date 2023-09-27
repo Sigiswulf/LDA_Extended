@@ -23,30 +23,30 @@ germanic = {
 			Eormenred Eorcenberht Eormenric Eadbald Rædwald Vœrmund Bata Hama 
 			
 			#Angles
-			Acca Adda Alweo Alwig Angelþeow Anna Bata Beadowine Beda Beorna Beornheþ Beornred 
-			Berhtfriþ Berhtred Berhtwald Bisi Bosa Bubba Ceadda Cearl Cedbed Celin Cenred 
-			Ceolfriþ Ceolmund Ceolred Ceolwald Ceolwulf Ceta Clappa Cnebba Cnobhere Coifi Creoda Cretta Cuþa 
-			Cuþberht Cuþwine Cwelgils Cyneberht Cynewald Cynibil Eadberht Eadfriþ 
-			Eadgar Eadgils Eadhed Eadwine Eadwulf Ealdfriþ Ealdhelm Ealdred Ealdwine 
-			Ealdwulf Ealhfriþ Ealhwine Eanberht Eanferð Eanfriþ Eanhere Earnwine Eata Eatta 
-			Ecgberht Ecgfriþ Ecgric Ecgwald Ecgwulf Edde Elfwald Elfwine Ella Eni Eomer 
-			Eoppa Eorpwald Eowa Ercenwald Esa Escwulf Etla Eþelberht Eþelfriþ Eþelheard 
-			Eþelhere Eþelhund Eþelmod Eþelmund Eþelred Eþelric Eþelwald Eþelwine 
-			Finn Frealaf Freawine Friþuberht Friþuger Friþuwald Friþuwulf Geot
-			Germund Godwulf Hama Headda Heardred Heormine Hereric Hering Heþulac Hussa Icel Ida Jonnes 
-			Leodwald Meaca Merewealh Mildred Mofda Myrga Norþberht Ocg Ocga Oftfor Oscfrea Osfriþ Osgar
+			Acca Adda Alfeo Alfig Angeltheow Anna Bata Beadowine Beda Beorna Beornheth Beornred 
+			Berhtfrith Berhtred Berhtwald Bisi Bosa Bubba Ceadda Cearl Cedbed Celin Cenred 
+			Ceolfrith Ceolmund Ceolred Ceolwald Ceolwulf Ceta Clappa Cnebba Cnobhere Coifi Creoda Cretta Cutha 
+			Cuthberht Cuthwine Cwelgils Cyneberht Cynewald Cynibil Eadberht Eadfrith 
+			Eadgar Eadgils Eadhed Eadwine Eadwulf Ealdfrith Ealdhelm Ealdred Ealdwine 
+			Ealdwulf Ealhfrith Ealhwine Eanberht Eanferd Eanfrith Eanhere Earnwine Eata Eatta 
+			Ecgberht Ecgfrith Ecgric Ecgwald Ecgwulf Edde Elfwald Elfwine Ella Eni Eomer 
+			Eoppa Eorpwald Eowa Ercenwald Esa Escwulf Etla Ethelberht Ethelfrith Ethelheard 
+			Ethelhere Ethelhund Ethelmod Ethelmund Ethelred Ethelric Ethelwald Ethelwine 
+			Finn Frealaf Freawine Frithuberht Frithuger Frithuwald Frithuwulf Geot
+			Germund Godwulf Hama Headda Heardred Heormine Hereric Hering Hethulac Hussa Icel Ida Jonnes 
+			Leodwald Meaca Merewealh Mildred Mofda Myrga Northberht Ocg Ocga Oftfor Oscfrea Osfrith Osgar
 			Oshere Osred Osric Oswald Oswig Pals Penda Pybba Redwald Regenhere Regenweald 
 			Ricberht Sceafa Sebald Sefugl Segegeot Sigeberht Sigehere Swebdeg Tondberht 
-			Tunberht Tytila Uhtred Weaga Wecca Wegdeg Weoþulgeot Wermund Westerfalca Wig Wihtleg 
-			Wilfriþ Willgils Willhelm Winfriþ Winta Wuffa Wulfhere Yffe Æthelweard Þeodbald 
-			Þeodor Þeodric
+			Tunberht Tytila Uhtred Weaga Wecca Wegdeg Weothulgeot Wermund Westerfalca Wig Wihtleg 
+			Wilfrith Willgils Willhelm Winfrith Winta Wuffa Wulfhere Yffe Æthelweard Theodbald 
+			Theodor Theodric
 			
 			#Frisians
 			Abba Bata Beornhard Beornlaf Ceorl Cristihanu Degeberht Docco Eadgils 
 			Eadwulf Ege Egebern Egedeg Elfbodo Ethelbeorn Ethelberht Ethelhere Ethelwine 
 			Finn Folcbeorn Folcwald Frealaf Freomann Frithuger Frithuhard Frithuwulf 
 			Gerdeg Gerhard Gerwulf Gifuwulf Goderic Groni Guthbodo Guthhere Hama Harilo Hengest 
-			Hildegrimo Hludger Hludgod Horsa Hrethric Jonnes Megenberht Megenhard 
+			Hildegrimo Hludger Hludgod Horsa Hredric Jonnes Megenberht Megenhard 
 			Megenwulf Osberht Owon Poppo Redbodo Redwald Renwulf Scanomodu Ubba Waldger 
 			Willbodo Willfrith Willhelm Wine Winifrith Wuffa Wulf Wulfram Wurssing Wursso 
 			Theodberht Theodric
@@ -75,34 +75,70 @@ germanic = {
 			Wiglafing Beorning
 			
 			#Frisians
-			Guðboding Haming Waldgering Doccing Hreðricing Eþelberhting Redboding Elfboding
+			Gudboding Haming Waldgering Doccing Hredricing Ethelberhting Redboding Elfboding
 			Eadwulfing Ubbing Folcwalding Osberhting Gerwulfing Aldegiseling
 			
 			#Jutes
-			Wulfgaring Rudych Meonwara Wihtwara Gefwulfing Emluþing Arwalding Cerdicing Eadbalding
-			Eardwulfing Ecgberhting Eormenreding Earendeling Eþelwalding Garulfing Oiscing Sigereding
+			Wulfgaring Rudych Meonwara Wihtwara Gefwulfing Emluthing Arwalding Cerdicing Eadbalding
+			Eardwulfing Ecgberhting Eormenreding Earendeling Ethelwalding Garulfing Oiscing Sigereding
 			Swefhearding Wihtreding
 		}
 	}
-	south_german = {
+	south_german = { #Irminonic
 		color = { 80 80 80}
-		first_names = { Adolf Albrecht Alexander Alfons Alois Anton Arthur Bernhard Christian Daniel
-		Edmund Eduard Emil Engelbert Ernst Erwin Eugen Ferdinand Franz Friedrich Gebhard Gerhard Gottfried
-		Günther Gustav Heinrich Hermann Horst Jakob Joachim Johann Joseph
-		Julius Karl Konrad Kurt Leonhard Leopold Lorenz Lothar Ludwig Maximilian
-		Michael Otto Reinhold Rudolf Stefan Theodor Viktor Walter Werner Wilhelm }
+		first_names = { 
+			#Alamanni
+			Athalberht Athalriki Agnariki Ansger Batso Berdwald Budilin Burghard 
+			Daginberht 
+			Tassilo Tello Thiudobald Thiudofrithu Drokdulf Eburhard Eddo Erganbald Ewariki 
+			Garibald Gebawuld Gerbold Gibuka Godfrithu Grimowald Gundfrithu Gundkellin 
+			Gundmagt Gundmari Gunzo Hadubrand Hamo Heribald Heriberht Heriland 
+			Herimenriki Herimiger Heriwolf Hildibrand Hludfrithu Hludhard Hludheri 
+			Hnabi Hokking Hrodoberht Hrodland Hrodnend Judung Konirad Kroka Landagar 
+			Landfrithu Maganagar Mariwig Medriki Odilo Odmar Odo Rando Rigila Swabaheri 
+			Swomari Ur Waifaro Walahfrithu Waldmari Wesdralb Willaheri Othilriki Wolf Zakko 
+			Ágil Ágilwolf
+			
+			#Thuringians
+			Ado Agíheri Agíwolf Alfharti Alfheri Alfriki Amalfrithu Ansger Answolf Athalwert 
+			Athalwald Athalwig Batso Eggawalt Eggaberht Erganwald Erwes Eburharti Frithunenth 
+			Frithuriki Garl Gonirath Gotfrithu Gotleiwa Gotwald Gotberht Gunniberht 
+			Gunthheri Gunthram Hamo Hathubrand Hartirath Heilwig Haimwolf Heriland Heriman 
+			Herimanfrithu Heriberht Hethan Hildaberht Hildawig Hildabrand Hlutheri 
+			Hludwig Hludwolf Hoger Landfrithu Landberht Maganfrithu Merwig Odo Othwolf 
+			Rathwolf Rigiwolf Sigiberht Baderiki Waltfrithu Waltheri Warjanheri Basin 
+			Berhtwalt Berthagar Berthar Wigariki Wigberht Willaheri Widualfa Widuwolf 
+			Wod Burgharti Thiudger Thiudmari Thiuderiki Thiudwalth
+			
+			#Bavarians
+			Angulskalk Ansgar Arnwolf Athalberht Athalwolf Bernhardi Berhthold 
+			Burghardi Eburhard Erganbald Frithunand Garibald Gerhardi Gibuka 
+			Gotberht Godfrithu Gotlaiba Gotwald Grimwald Gundheri Hadubrand Hamo
+			Herihardi Heriman Herimeriki Hildibrand Hludbald Hludheri Hludwig 
+			Hugberht Hildawolf Landberht Aribo Otilo Oto Sigibald Sigifrithu 
+			Tassuwilo Thiudbald Thiudberht Thiudo Thiudriki
+		}
 		
 		last_names = { 
-		"Arz von Straussenburg " Beck-Rzikowsky Blos Dankl "David von Rohnfeld" Eisner Geiss Goering Grünne Hainisch Hartung Haus Held Hellpach Hoffmann Hummel 
-		Jelacic Köhler "Kuhn von Kuhnenfeld" Mergenthaler Miklas "Radetzky von Radetz" "Ramming von Riedkirchen" Remmele Schmitt "Schönburg-Hartenstein" Schobber Seitz Steeb
-		Stolzer Trunk "von Albori" "von Baden" "von Benedek" "von Burgneustätten" "von Böhm-Ermolli" "von Brudermann" "von Clam-Gallas" "von der Tann" "von Dietrich" "von Gablenz"
-		"von Grünne" "von Habsburg" "von Hartmann" "von Haynau" "von Hess" "von Hohenhausen" "d'Aspre von Hoobreuk" "von Hortstein" "von Hötzendorf" "von John" 
-		"von Kaiffel" "von Kirbach" "von Kobratin" "von Krasnik" "von Mittrowitz-Nettolitzky" "von Pflanzer-Baltin" "von Philippsberg" "von Puchner" 
-		"von Salis-Soglio" "von Schönburg" "von Schönhals" "von Steeb" "von Tegetthoff" "von Uchatius" "von Üxküll-Gyllenband" "von Wittelsbach" "von Württemberg" "von Zahringen" 
-		Wagner Wittmann "zu Hohenlohe" 
+			#Alamanni
+			Adalberhting Berhtwalding Tassiling Thiudfrithing Edding Gerbolding Grimowalding
+			Gundmaring Gunzing Haming Herilanding Hludfriding Judunging Kroking Maganagaring
+			Medriging Swabahering Walahfriding Willahering Zakking
+			
+			#Thuringians
+			Thuring Agíwolfing Alwhering Athalwerting Eggaberhting Frithuriking
+			Gotleiwing Gunthhering Hartirathing Haimwolfing Herimaning Hildaberhting
+			Hludwolfing Landfrithing Odoning Thiudgering Thiudwalding Waderiking
+			Bertharing Wigariking Wituwolfing
+			
+			#Bavarians
+			Agilolfing Arnwolfing Athalberhting Burgharding Erganbalding
+			Frithunanthing Garibalding Godberhting Gotwalding Grimwalding
+			Gunthering Herimeriking Hludbalding Hugberhting Hildawolfing Aribing
+			Otiling Sigibalding Tassuwilowing Thiudbalding Thiudoning Hludbolding
 		}
 	}
-	czech = {
+	czech = { #Thuringian, unused leftover from OG LDA
 		color = {70 80 80}
 		first_names = { Adolf Albrecht Alexander Alfons Alois Anton Arthur Bernhard Christian Daniel
 		Edmund Eduard Emil Engelbert Ernst Erwin Eugen Ferdinand Franz Friedrich Gebhard Gerhard Gottfried
@@ -120,7 +156,7 @@ germanic = {
 		Wagner Wittmann "zu Hohenlohe" 
 		}
 	}
-	gepid = {
+	gepid = { #Unused leftover from OG LDA
 		color = { 10 30 30}
 		first_names = { Adolf Albrecht Alexander Alfons Alois Anton Arthur Bernhard Christian Daniel
 		Edmund Eduard Emil Engelbert Ernst Erwin Eugen Ferdinand Franz Friedrich Gebhard Gerhard Gottfried
@@ -138,7 +174,7 @@ germanic = {
 		Wagner Wittmann "zu Hohenlohe" 
 		}
 	}
-	lombard = {
+	lombard = { #Unused leftover from OG LDA
 		color = { 146  108  146}
 		first_names = { Adolf Albrecht Alexander Alfons Alois Anton Arthur Bernhard Christian Daniel
 		Edmund Eduard Emil Engelbert Ernst Erwin Eugen Ferdinand Franz Friedrich Gebhard Gerhard Gottfried
@@ -174,8 +210,8 @@ germanic = {
 			Rikimer Rothareiks Sabbas Safrak Sarus Sidumunds Sigureiks Silo Sisebert 
 			Sisibuth Sisinanths Sonahilds Sunifrith Sunihilds Swinthila Tekla Thaurismoths Thaurismunths Thiudafriths 
 			Thiudageisls Thiudaguta Thiudahathus Thiudamunds Thiudareiks Thiudeis Thiudigisk 
-			Thiudimer Thuruar Totila Tulga Tulguwins Unwén Vadakars Valarauans Vulfila 
-			Walahrafns Walamers Waldamarka Wallia Wamba Wandalharja Weidamers Weidareiks WermundWiduk 
+			Thiudimer Thuruar Totila Tulga Tulguwins Unwén Wadakars Walarauans Wulfila 
+			Walahrafns Walamers Waldamarka Wallia Wamba Wandalharja Weidamers Weidareiks Wermund Widuk 
 			Wingureiks Winitharja Witireiks Wittiza Wulthuwulfs 
 			Agiwulfs Airewulfs Airmanareiks Airthaweihs Aithika Aithiwulfs Alareiks Alathius Alaweihs Albeis Albila Aligairns Aliso Aliwulfs Amal Amala
 			Amalafritha Amalareiks Anagasts Andagais Andila Andwets Ansila Ansimunds Arda Argaiths Argibauds Arigairns Arinthius Arjareiks Asinareis Askareiks Athala
@@ -184,14 +220,14 @@ germanic = {
 			Gamoths Gastinasjis Gatha Gaujaharjis Gauts Gautareths Gibamers Gibamunds Gibareiks Gibawulths Gibika Gibls Gildila Goda Godagis Godamers Greipa Gudwins 
 			Gudisl Gumaharjis Gunthiharjis Gunthigisls Gunthiwulfs Gunthja Hamjis Hamathius Harimunds Hariwulfs Harjamers Harjamunds Hauhreiks Hauhamers Hildibads 
 			Hildimers Hildimunds Hildireiks Hildireths Hildwulfs Hilpideis Hruthareiks Hunila Hunimunds Hunireiks Hunwens Juthareiks Kunigasts Leodefritha Liubeis 
-			Matja Mikka Neithada Oppa Raginarith Qithila Sarwila Sibja Sinthareths Sinthila Thaurisa Thaurismoþs Thaurismunds Thela Thitha Thiudahathus Thiudamunds 
+			Matja Mikka Neithada Oppa Raginarith Qithila Sarwila Sibja Sinthareths Sinthila Thaurisa Thaurismoths Thaurismunds Thela Thitha Thiudahathus Thiudamunds 
 			Thiudareiks Thiudamers Totila Triggva Thulwins Walaharjis Walahrabns Walamers Walja Widuharjis Widumers Wiljathagks Winithaharjis Witigis Witigisls 
 			
 			#Burgundians
 			Agjabairhts Airknsbalths Aldswins Alfreiks Alathius Amalsgails Amalsreiks Andwulfs 
 			Arnswalthu
-			Arnswulfs Athalsbairhts Athalsreiks Athalswulfs Authsmar Bairanhards Bairanmunds 
-			Bairhtshraban Balthwins Baurgeinshards Burgundsfarar Burgundsreiks Filubairhts 
+			Arnswulfs Athalabairhts Athalareiks Athalawulfs Authsmar Bairanhards Bairanmunds 
+			Bairhtshraban Balthwins Baurgeinshards Burgundafarar Burgundareiks Filubairhts 
 			Fridureiks Fridugails Gailshards Gailswalthu Gaislbairhts Gaislharjis Gaislwalthu_Giswald 
 			Gebika Greimagails Gunthsbad Gunthsharjis Gunthshraban Gunthsmari Gunthswalthu Gunthsweihs Gutabairhts Gutafridu Gutagaisl Gutamari Hadsbrannja Hagnsreiks Hagnswalthu Haguna Hairto 
 			Hairtobairhts Hardswins Hendino Hildsbrannja Hildsreiks Hilpareiks Hunbairhts 
@@ -233,7 +269,7 @@ germanic = {
 			Manno Guntharicing Fulgentius Visimaring
 		}
 	}
-	suebian = {
+	suebian = { #Unused leftover from OG LDA
 		color = { 50 80 80}
 		first_names = { Adolf Albrecht Alexander Alfons Alois Anton Arthur Bernhard Christian Daniel
 		Edmund Eduard Emil Engelbert Ernst Erwin Eugen Ferdinand Franz Friedrich Gebhard Gerhard Gottfried
@@ -251,7 +287,7 @@ germanic = {
 		Wagner Wittmann "zu Hohenlohe" 
 		}
 	}
-	burgundian = {
+	burgundian = { #Not sure why this is here, wasn't even used in OG LDA
 		color = { 128 0 32}
 		first_names = { Adolf Albrecht Alexander Alfons Alois Anton Arthur Bernhard Christian Daniel
 		Edmund Eduard Emil Engelbert Ernst Erwin Eugen Ferdinand Franz Friedrich Gebhard Gerhard Gottfried
@@ -271,20 +307,31 @@ germanic = {
 	}
 	frankish = {
 		color = {80 80 110}
-		first_names = { Adolf Albrecht Alexander Alfons Alois Anton Arthur Bernhard Christian Daniel
-		Edmund Eduard Emil Engelbert Ernst Erwin Eugen Ferdinand Franz Friedrich Gebhard Gerhard Gottfried
-		Günther Gustav Heinrich Hermann Horst Jakob Joachim Johann Joseph
-		Julius Karl Konrad Kurt Leonhard Leopold Lorenz Lothar Ludwig Maximilian
-		Michael Otto Reinhold Rudolf Stefan Theodor Viktor Walter Werner Wilhelm }
+		first_names = { 
+			Aldifrithu Alfhari Amalgér Andrald Angulberht Angulgér Angulhramn Ansberht 
+			Ansgísel Ansmund Answald Aldomér Aldo Austergísel Athalgér Athalgísel 
+			Athalhard Athalhelm Athalrík Berhthari Berhtwald Bernhard Bibo Boso Dagoberht 
+			Draga Ebbo Eburhard Eburwini Eggehard Erkanwald Erminfrithu Franko Frithugér 
+			Frithuwulf Fulko Galtfrithu Galtlindi Godfrithu Grífo Grímwald Gundbald Gundhari 
+			Gundhramn Gundwulf Gérbald Gérhard Gérwald Gíselberht Gíselmér Hagano 
+			Hagnowald Haimrík Hariberht Hariwald Hildberht Hildibrand Hilderík Hlódhari 
+			Hlódwulf Hlódwíg Hramn Hróthberht Hróthgang Hróthland Hróthman Hróthrík Hugo 
+			Hugobald Hugoberht Hulperík Hunwald Inghramn Ioannes Karl Karloman Konrád 
+			Laidbald Landberht Lando Landrád Landrík Lewohard Léodberht Léodgér Léodwini 
+			Maginhard Mahtfrithu Martinus Mérawíg Niblung Néowhard Raginfrithu Raginhard 
+			Raginhari Raginwald Remigius Rádagér Rádwulf Ríkberht Ríkbodo Ríkhard Samson 
+			Sigiberht Sigihramn Walhlindi Wandrógísel Warnhari Werrád Wido Willahelm 
+			Wulfhadu Wulfhramn Wulfwald Érawald Théodbald Théodberht Théodgrím Théodogísel 
+			Théodhard Théoderík Théodwald
+			Aldfin Fingast Finwald
+		}
 		
 		last_names = { 
-		"Arz von Straussenburg " Beck-Rzikowsky Blos Dankl "David von Rohnfeld" Eisner Geiss Goering Grünne Hainisch Hartung Haus Held Hellpach Hoffmann Hummel 
-		Jelacic Köhler "Kuhn von Kuhnenfeld" Mergenthaler Miklas "Radetzky von Radetz" "Ramming von Riedkirchen" Remmele Schmitt "Schönburg-Hartenstein" Schobber Seitz Steeb
-		Stolzer Trunk "von Albori" "von Baden" "von Benedek" "von Burgneustätten" "von Böhm-Ermolli" "von Brudermann" "von Clam-Gallas" "von der Tann" "von Dietrich" "von Gablenz"
-		"von Grünne" "von Habsburg" "von Hartmann" "von Haynau" "von Hess" "von Hohenhausen" "d'Aspre von Hoobreuk" "von Hortstein" "von Hötzendorf" "von John" 
-		"von Kaiffel" "von Kirbach" "von Kobratin" "von Krasnik" "von Mittrowitz-Nettolitzky" "von Pflanzer-Baltin" "von Philippsberg" "von Puchner" 
-		"von Salis-Soglio" "von Schönburg" "von Schönhals" "von Steeb" "von Tegetthoff" "von Uchatius" "von Üxküll-Gyllenband" "von Wittelsbach" "von Württemberg" "von Zahringen" 
-		Wagner Wittmann "zu Hohenlohe" 
+			Meroing Landberhting Gíselberhting Gúthlanding Austrawíging Gérharding
+			Ríkberhting Markaméring Hróthiríking Hróthganging Hildagéring
+			Haimoing Bekkoing Jahaning Arnwulfing Athalberhting Maginríking
+			Wallíthing Ríkharing Hariberhting Kunniberhting Gíselaméring
+			Agiwulfing Hugobalding Dagberhting Sigiwalding 
 		}
 	}
 	
@@ -359,7 +406,7 @@ beneluxian = {
 			Wolterbeek
 		}
 	}
-	flemish = { 
+	flemish = { #Burgundian, unused leftover from OG LDA
 		color = { 250 180 80}
 		first_names = { Adolf Adolphe Alexander Alexandre Alfons Alphonse Adriaan Albert Andries Antoine Auguste Boudewijn Bonifaas 
 		Camille Charles Constant David Désiré Diederik Edmond Emmanuel Etienne Eugène Félix Filip Frans Ferdinand François Frederik 
@@ -550,7 +597,8 @@ british = {
 		color = { 35 140 50}
 		radicalism = 15
 		primary = IRE
-		first_names = { Áed Áedán Aedh Áengus Aenghusa Éamon Éicnechán Énri Óengus Ólchobar
+		first_names = { 
+			Áed Áedán Aedh Áengus Aenghusa Éamon Éicnechán Énri Óengus Ólchobar
 			Ailill Ainmere Amlaíb Amhalgaidh Ardgar Art Artgal Artúr Augaire  
 			Báetán Blathmac Bran Brandub Brian Bróen Carlus Cathal Cathalán Cellach Cennétig Cenn-Fáelad Cerbal
 			Cináed Coirpre Colmán Conall Conchobar Congalach Conn Constantín
@@ -562,7 +610,8 @@ british = {
 			Issa Lóeguire Loingsech Lorcán Lugaid Lugdach Lochlann Máel
 			Maghnus Mathgamain Martan Matudán Muiredach Muiredaig Murchad 
 			"Nath Í" Niall Oengus Pátraic Pilib Ricard Róen Roderick Seán
-			Selbach Seoán Taidhg Túathal Tibraide Tigernán Toirdelbach Tomás Ualtar Uilliam }
+			Selbach Seoán Taidhg Túathal Tibraide Tigernán Toirdelbach Tomás Ualtar Uilliam 
+			}
 		
 		last_names = { 
 			Derlas "Uí Braenain" "Uí Donnail" "Mac Carthaigh" "Ceiteach" "Uí Liathain"
@@ -580,11 +629,12 @@ british = {
 			Delbhna Conmhaícne Dartraighe Masraige "Fir Rois" "Síl Fiachra Cassán"
 		}
 	}
-	pictish = { 
+	pictish = { #Unused but has custom names, may be used in future
 		color = { 16 56 125}
 		radicalism = 15
 		primary = SCO
-		first_names = { Aelpein Afarnach Ailean Alesander Alwin Aodh Aodhan Aonghas Artair Aulay Ainmure Breth Broichan Brude Cailean
+		first_names = { 
+			Aelpein Afarnach Ailean Alesander Alfin Aodh Aodhan Aonghas Artair Aulay Ainmure Breth Broichan Brude Cailean
 			Calum Celtran Clinoch Coinneach Constantin Deord Dòmhnall Donnach Drest Drust Elfin Esca Eòghann Eoganan Fearchar Galan Gillechrìost Guaire
 			Geirr Giolla Gofraid Goraidh Grim Grimur Grimólf Gudbrand Gyrom
 			Guirmean Guret Ìomhair Iùrnan Laise Latharn Luag Lutrin Machar Manachan Maon Morleo Murchad Niall Ròidh Roithrid Rònan Ruairidh
@@ -593,18 +643,20 @@ british = {
 			Dúngal Dargart Drostan Domnall Deort Domelch Eógan Eugein Fergus Ferchair Gigurum Giric Garthnaith Gede Gest
 			Mogons Murtolic Maelchon Nechtan Ougen Selbach Talorgan Túathalán Tarain Uvan }
 		
-		last_names = { "map Cainnig" "na Ceardadh" "map Finnagáin" Neacail Lachlainn "Map Duib"
-		Floclaid Fortrenn Caimnach Áegus Lochore Ceitein Torfin Guorthinmoc "a Gabráin" Machair
-		Caldaich Errol Olifard "Map Donnel" Cormaig Kennog Lochore Archil Ceitein Machair Fothriff
-		"of Loch Duin" "of Din Eidyn" "Map Uilleim" Gallaibh "Map Aniel" "Strath Nid" Corbredus
-		"map Gyrom" Talorgan Cadallanus Uerturio Circinn
+		last_names = { 
+			"map Cainnig" "na Ceardadh" "map Finnagáin" Neacail Lachlainn "Map Duib"
+			Floclaid Fortrenn Caimnach Áegus Lochore Ceitein Torfin Guorthinmoc "a Gabráin" Machair
+			Caldaich Errol Olifard "Map Donnel" Cormaig Kennog Lochore Archil Ceitein Machair Fothriff
+			"of Loch Duin" "of Din Eidyn" "Map Uilleim" Gallaibh "Map Aniel" "Strath Nid" Corbredus
+			"map Gyrom" Talorgan Cadallanus Uerturio Circinn
 		}
 	}
 	brythonic = { 
 		color = { 92 116 99}
 		radicalism = 15
 		primary = WHA
-		first_names = { Aeddan Agrafin Alan Alexander Alwyn Annan Apon Aradig Aradoc Arawain Arod Arthfael Arthur Agravain
+		first_names = { 
+			Aeddan Agrafin Alan Alexander Alfyn Annan Apon Aradig Aradoc Arawain Arod Arthfael Arthur Agravain
 			Balin Balise Bedwyr Bedwyn Bleddyn Bleiddig Bors Britannicus Brochvael Brochmael Brwyn Brychan Brân
 			Caddan Cadell Cadfael Cadog Cadwal Cadwallon Cadwy Caelgyn Cai Carig Cain Caleddin Caradoc Caraled Carawain Cavan
 			Caswallon Cerdig Cerdoc Cerfin Cerlyn Cerwain Celwin Cedwyn Ceredig Coel Corineus Custennin
@@ -617,23 +669,25 @@ british = {
 			Oreth Owain Padarn Padern Perddel Peredyr Peredur Rainal Rigertus Rodericus Rowain Severus Sestus
 			Taliesin Tewdric Tristan Tudwal Tudwallon Urien Uther Valerin }
 		
-		last_names = { Pendragon Wyllt Corneu Cadelling Caradoc Gogyrfan Beisrudd Madoc
-		Wyn Owens Tewdwr Meilyr Llewellyn Morys Llywarch Cynnir Cadarn Leget Caffyn Cadfeal
-		Cannevet Belgarum Prydain Gwynael Llifon Gilmyn Conwy Isaled Llechwedd Caenogion
-		Gruffydd Elfael Mynydd Llandaf Llanbadarn Llancarfan Avenel Teithfall Lugg Reiden
-		Dellen Hafren Cambulus Dynod Trevelyan Madron Apis Talgarth Brychan Aberdaron Elfael
-		Arfon Rhosyr Eginog Cefeliog Arwys Gilmyn Mechain Penllyn Cedewain Rudlan Caereinion
-		Lannstefan Trevanion Halcwym Cicucium Martinus Cunetio Cunedog Tegernacus Clutorix 
-		Isca Salcidunus Ebrauc Dinefwr Côel Edern Beven Cænadius Galenus Gurgustus "of Eden"
-		"of Deva" "of Burrium" Tudwaling "of Eburacum" Macsen "of The Downs" Germanianus
-		Mascuid Galenus Guletic Arthuis "Moel Ros"}
+		last_names = { 
+			Pendragon Wyllt Corneu Cadelling Caradoc Gogyrfan Beisrudd Madoc
+			Wyn Owens Tewdwr Meilyr Llewellyn Morys Llywarch Cynnir Cadarn Leget Caffyn Cadfeal
+			Cannevet Belgarum Prydain Gwynael Llifon Gilmyn Conwy Isaled Llechwedd Caenogion
+			Gruffydd Elfael Mynydd Llandaf Llanbadarn Llancarfan Avenel Teithfall Lugg Reiden
+			Dellen Hafren Cambulus Dynod Trevelyan Madron Apis Talgarth Brychan Aberdaron Elfael
+			Arfon Rhosyr Eginog Cefeliog Arwys Gilmyn Mechain Penllyn Cedewain Rudlan Caereinion
+			Lannstefan Trevanion Halcwym Cicucium Martinus Cunetio Cunedog Tegernacus Clutorix 
+			Isca Salcidunus Ebrauc Dinefwr Côel Edern Beven Cænadius Galenus Gurgustus "of Eden"
+			"of Deva" "of Burrium" Tudwaling "of Eburacum" Macsen "of The Downs" Germanianus
+			Mascuid Galenus Guletic Arthuis "Moel Ros"
+			}
 	}
 	breton = {
 		color = { 119 115 149}
 		radicalism = 15
 		primary = BRT
-		   first_names = {
-            Alain Alwyn Anton Aldred Arnald Arthur
+		first_names = {
+            Alain Alfyn Anton Aldred Arnald Arthur
 			Baldoen Ban Bertram Benabic Bleiddig Bors Brandon Brian
 			Brient Budic Cadoc Carig Camran Celwin Conrad Corineus Daniel Derrien Donoal Dinas Ector Edern Edouard Eon
 			Erwan Fragan Everard Feldan Fychan Galahad Gawain Geoffroy Gregor
@@ -807,7 +861,8 @@ italian = {
 	}
 	romano_illyrian = {
 		color = { 180 130 140}
-		first_names = { Ætius Agrippa Albanus Albus Ambrosinus Antoninus Appius Attilius Aulus Aurelius Ariovistus Arrius
+		first_names = { 
+			Ætius Agrippa Albanus Albus Ambrosinus Antoninus Appius Attilius Aulus Aurelius Ariovistus Arrius
 			Brutus Caecilius Caius Camillus Cassianus Cassius Cato Claudius Decius Crixus
 			Cornelius Domitianus Dubricius Eunius Fulvius Gaius Germanus Gratianus Galerius Gallienus Gelasius
 			Gannicus Horatius Iulius Iulianus Julius Livius Longinus Liscus Lucretius Lyciscus Marcellus
@@ -824,14 +879,17 @@ italian = {
 			Decimus Florentinus Nicetius Alcimus Ecdicius Claudianus Mamertus Ferreolus Nectaridus Medardus Gallus Aprunculus Fibicius
 			Modestus Miletius Mauritius Goarus Hesychius Aega 
 			Eleutherius Romanus Lupus Bonifatius Honoratus Anthemiolus Agricola Agroecius Caesarius
-			Amandus Acarius Iustus Alpinus Martinus Elpidius Antiochus Sicarius Sacerdos Christianus }
+			Amandus Acarius Iustus Alpinus Martinus Elpidius Antiochus Sicarius Sacerdos Christianus
+			}
 		
 		last_names = { 
-		Afra Amabilia Amadeus Amata Anatolia Angela Barbara Beatrix Benedictus Candida Carina Christiana Clara Delphina Delphi Florentina Vesta
-		Salacia Maia Juventus Aneas Consus Aries Romulus Amulius Saturn Remus Quirinus Pollux Pluto Numitor Janus Vulcan Tatius Summanus Silvus Silvanus
-		Neputne Italus Evandrus Ahenobarbus Albina Albus Antonia Agustus Brutus Caesar Carbo Cassia Cicero Claudia Colambanus Decimus Deusdedit Domitia Drusus
-		Fabius Felice Felix Frugi Gabinus Hadriana Hortensia Juluius Marcellus Mariana Maximus Metellus Octavia Pulcher Scipiones Servus Titus Velentius
-		Vita Valor Acisclus Antias Cato Catullus Corvinus Falto Fava Flaccus Manius Rufus Paulus Seneca Sextus Martinus 
+			Afra Amabilia Amadeus Amata Anatolia Angela Barbara Beatrix Benedictus Candida Carina Christiana Clara Delphina Delphi Florentina Vesta
+			Salacia Maia Juventus Aneas Consus Aries Romulus Amulius Saturn Remus Quirinus Pollux Pluto Numitor Janus Vulcan Tatius Summanus Silvus Silvanus
+			Neputne Italus Evandrus Ahenobarbus Albina Albus Antonia Agustus Brutus Caesar Carbo Cassia Cicero Claudia Colambanus Decimus Deusdedit Domitia Drusus
+			Fabius Felice Felix Frugi Gabinus Hadriana Hortensia Juluius Marcellus Mariana Maximus Metellus Octavia Pulcher Scipiones Servus Titus Velentius
+			Vita Valor Acisclus Antias Cato Catullus Corvinus Falto Fava Flaccus Manius Rufus Paulus Seneca Sextus Martinus 
+		
+			Flavius
 		}
 		radicalism = 10
 	}
@@ -889,7 +947,8 @@ iberian = {
 	}
 	romano_hispanic = {
 		color = {220 220 30}
-		first_names = { Ætius Agrippa Albanus Albus Ambrosinus Antoninus Appius Attilius Aulus Aurelius Ariovistus Arrius
+		first_names = { 
+			Ætius Agrippa Albanus Albus Ambrosinus Antoninus Appius Attilius Aulus Aurelius Ariovistus Arrius
 			Brutus Caecilius Caius Camillus Cassianus Cassius Cato Claudius Decius Crixus
 			Cornelius Domitianus Dubricius Eunius Fulvius Gaius Germanus Gratianus Galerius Gallienus Gelasius
 			Gannicus Horatius Iulius Iulianus Julius Livius Longinus Liscus Lucretius Lyciscus Marcellus
@@ -1079,18 +1138,53 @@ south_slavic = {
 	}
 	thracian = {
 		color = {65 150 100}
-		first_names = { Aleksandar Andrey Asen Atanas Atila Bogdan Boncho Boris Damyan Dimitar
-		Dobri Ferdinand Georgi Hristo Ilya Ivan Kalin Kardam Kimon Kiril
-		Kliment Konstantin Krastyu Leonid Mihail Nikifor Niloa Pencho Petar Petko
-		Petur Pravoslav Racho Radko Radoy Sava Simeon Sotir Stanislav Stanko
-		Stefan Stiliyan Stoyu Teodosi Todor Trifon Valko Vasil Velizar Vulko		
+		first_names = { 
+			#Native Thracians
+			Bikili Brasus Burebista Bryzos Byzo Dentupes Dentusucu Deopus Deospor Desakenthos Diazelmis Diazenis Dizapes 
+			Eptaikenthos Eptaper Eptaporis Heptaporis Eptarys Eptesuchis Ezbenis Gaidres Kerses Kerza Ketriporis Mukaboris Mukapius Pytros 
+			Rhaskos Rhaskuporis Rheskutorm Rhesos Satres Sautes Skaris Skilas Sura Taruthin Tarutinos Zile Zipaibes Ziper 
+			Zipuronn Zipyros
+			
+			#Romans
+			Ætius Agrippa Albanus Albus Ambrosinus Antoninus Appius Attilius Aulus Aurelius Ariovistus Arrius
+			Brutus Caecilius Caius Camillus Cassianus Cassius Cato Claudius Decius Crixus
+			Cornelius Domitianus Dubricius Eunius Fulvius Gaius Germanus Gratianus Galerius Gallienus Gelasius
+			Gannicus Horatius Iulius Iulianus Julius Livius Longinus Liscus Lucretius Lyciscus Marcellus
+			Marcus Marianus Marius Maximianus Maximus Maugannius Mummolus Nero Numerius Octavianus Octavius Olybrius
+			Paulus Piramus Plinius Pontius Publius Quintus Regulus Romolus Rufus Pertinax
+			Secundus Sertorius Septimus Severus Sextus Tacitus Tadioceus Tertius Titus
+			Varius Victorinus Avitus Alethius Mercurius Sanus
+			Vindotorix Verutius Sedullus Luctemarus Lugo Ceretiacus Cerevanus Adiarius Callistus Carinus Cassiodorus
+			Critiacus Ceredumnus Brennus Convictogenus Rianorius Lutacos Vibius
+
+			Maroveus Eufronius Venantius Fortunatus Junianus Gregorius Privatus Censorius Montanus Remigius Mummolus Peonius 
+			Emilius Vedastus Principius Apollinaris Arcadius Sollius Sidonius Ennodius Felix Eparchius Ruricius Deciderius 
+			Parthenius Firminus Tonantius Anicius Ommatius Philagrius Leontius Constantius Aurelianus Rusticus Lupicinus Aquilinus Eulalius 
+			Decimus Florentinus Nicetius Alcimus Ecdicius Claudianus Mamertus Ferreolus Nectaridus Medardus Gallus Aprunculus Fibicius
+			Modestus Miletius Mauritius Goarus Hesychius Aega 
+			Eleutherius Romanus Lupus Bonifatius Honoratus Anthemiolus Agricola Agroecius Caesarius
+			Amandus Acarius Iustus Alpinus Martinus Elpidius Antiochus Sicarius Sacerdos Christianus
+			
+			#Greeks
+			Adrianos Akakios Alexandros Alexios Anastasius Anatolios Andreas Andronicus Anthemios Anthimos Antiochos Antonius Apollonios Arsenios Artemios Athanasius Bardas
+			Bartholomeus Basileios Belisarius Boethios Bosporios Christophoros Chrysanthos Chrysogonos Damianos Daniel David Demetrius Diogenes Dionysus Dorotheos Eirenaios Eudoxios Eustratios
+			Eugenios Euphemios Eusebios Eustathios Evangelos Gabriel Gennadios Georgios Gerasimos Germanos Gregoras Gregorios Hektorios Helias Herakleios Hierotheos Himerios
+			Hippolytos Hypatios Iakobos Ignatius Innokentios Ioannes_John Ioannikios Iordanes Ioseph Isaakios Isaias Isidoros Ioulianos Ioustinianos Ioustinos Kaisarios
+			Kallinikos Kallistos Komitas Konstantinos Constantius Konstans Kosmas Kyriakos Kyrillos Kyros Laurentius Lazaros Leon Leontius Loukas Makarios Manuel Markos
+			Matthaios Maurikios Maximus Megistos Meletios Methodios Michael Narses Neophytos Nikephoros Niketas Nikodemos Nikolaos Niphon Orestes Pamphilios Pankratios Pantoleon Paschalis
+			Pavlos Pelagios Petros Philaretos Philippos Philotheos Phokas Photios Polykarpos Porphyrios Procopius Pyrros Raphail Romanos Sabas Samuel Serapion Sebastianos Sergius Stephanos
+			Staurakios Symeon Symmachos Theocharistos Theodoros Theodosios Theodotos Theodoulos Theoktistos Theophanes Theophilos Theophylaktos Thomas Tiberios Traianos
+			Timotheos Tryphon Valerios Zacharias Zenobios Zenon
 		}
 
-		last_names = { Agura Balabanov Balkanski Battemberg Blaskov Boyadzhiev Bradistilov Charakchiev Daskalov Dikov
-		Dimitriev Draganov Fichev Georgiev Hesapchiev Ilyev Ivanov Kirkov Kovachev Krayonski
-		Kutinchev Lazarov Lukov Marinkov Marinov Mutkorov Naydenov Nazlamov Nikiforov Nikolaev
-		Pakov Petrov Radev Saksokoburggotski Savov Sirakov Solarov Stoyanov Tenev Todorov
-		Tsaklev Valkov Valnarov Vasilev Vazov Velchev Zafirov Zhekov Zlatarev Zlatev
+		last_names = { 
+			Afra Amabilia Amadeus Amata Anatolia Angela Barbara Beatrix Benedictus Candida Carina Christiana Clara Delphina Delphi Florentina Vesta
+			Salacia Maia Juventus Aneas Consus Aries Romulus Amulius Saturn Remus Quirinus Pollux Pluto Numitor Janus Vulcan Tatius Summanus Silvus Silvanus
+			Neputne Italus Evandrus Ahenobarbus Albina Albus Antonia Agustus Brutus Caesar Carbo Cassia Cicero Claudia Colambanus Decimus Deusdedit Domitia Drusus
+			Fabius Felice Felix Frugi Gabinus Hadriana Hortensia Juluius Marcellus Mariana Maximus Metellus Octavia Pulcher Scipiones Servus Titus Velentius
+			Vita Valor Acisclus Antias Cato Catullus Corvinus Falto Fava Flaccus Manius Rufus Paulus Seneca Sextus Martinus 
+		
+			Flavius Aelius
 		}
 	}
 
@@ -1166,18 +1260,46 @@ pan_romanian = {
 	}
 	dachian = {
 		color = {240 240 140}
-		first_names = { Adrian Alexandru Andrei Anton Artur Bogdan Carol Cezar Constantin Constin
-		Cosmin Daniel Dumitru Emanuel Eremia Eugen Ferdinand Flaviu Florea Gheorghe
-		Grigore Henric Horatiu Iacob Ilie Ioan Ion "Ion Emanuel" Iosif Iulian
-		Iuliu Laurentiu Leontin Luca Lucian Mihai Mircea Nicolae Ovidiu Petru
-		Radu Sergiu Silviu Simion Stefan Valeriu Vasile Victor Vintila Vlad
+		first_names = { 
+			#Native Dacians
+			Avizina Bastiza Blegissa Bikili Burebista Bryzos Byzo Comosicus Cotiso Dablosa Dadas Dadazi Daizus Damanais Dapyx
+			Denzibalos Dekinais Dentupes Dentusucu Deopus Deospor Desakenthos Diazelmis Diazenis Dicomes Dieri Dizapes Dhegh 
+			Dourpokis Dotos Dotouzi Drilgisa Eptaikenthos Eptaper Eptaporis Heptaporis Eptarys Eptesuchis Ezbenis Gaidres Kaigiza 
+			Komakiza Kerses Kerza Ketriporis Komozoi Mucapor Mukaboris Mukapius Natopor Oroles 
+			Petipor Pouridour Pytros Rhaskos Rhaskuporis Rheskutorm Rhesos Rolouzis Satres Sautes Skaris Scorylo Skilas 
+			Sura Taruthin Tarutinos Thiamar Tsinna Zebeleizis Zile Zipaibes Ziper Zipuronn Zipyros
+			
+			#Romans
+			Ætius Agrippa Albanus Albus Ambrosinus Antoninus Appius Attilius Aulus Aurelius Ariovistus Arrius
+			Brutus Caecilius Caius Camillus Cassianus Cassius Cato Claudius Decius Crixus
+			Cornelius Domitianus Dubricius Eunius Fulvius Gaius Germanus Gratianus Galerius Gallienus Gelasius
+			Gannicus Horatius Iulius Iulianus Julius Livius Longinus Liscus Lucretius Lyciscus Marcellus
+			Marcus Marianus Marius Maximianus Maximus Maugannius Mummolus Nero Numerius Octavianus Octavius Olybrius
+			Paulus Piramus Plinius Pontius Publius Quintus Regulus Romolus Rufus Pertinax
+			Secundus Sertorius Septimus Severus Sextus Tacitus Tadioceus Tertius Titus
+			Varius Victorinus Avitus Alethius Mercurius Sanus
+			Vindotorix Verutius Sedullus Luctemarus Lugo Ceretiacus Cerevanus Adiarius Callistus Carinus Cassiodorus
+			Critiacus Ceredumnus Brennus Convictogenus Rianorius Lutacos Vibius
+
+			Maroveus Eufronius Venantius Fortunatus Junianus Gregorius Privatus Censorius Montanus Remigius Mummolus Peonius 
+			Emilius Vedastus Principius Apollinaris Arcadius Sollius Sidonius Ennodius Felix Eparchius Ruricius Deciderius 
+			Parthenius Firminus Tonantius Anicius Ommatius Philagrius Leontius Constantius Aurelianus Rusticus Lupicinus Aquilinus Eulalius 
+			Decimus Florentinus Nicetius Alcimus Ecdicius Claudianus Mamertus Ferreolus Nectaridus Medardus Gallus Aprunculus Fibicius
+			Modestus Miletius Mauritius Goarus Hesychius Aega 
+			Eleutherius Romanus Lupus Bonifatius Honoratus Anthemiolus Agricola Agroecius Caesarius
+			Amandus Acarius Iustus Alpinus Martinus Elpidius Antiochus Sicarius Sacerdos Christianus
 		}
 
-		last_names = { Angelescu Antonescu Argetoianu Averescu Baldescu Barozzi Berindei Cernat Christecu Cihoski
-		Ciuperca Coanda Crainiceanu Critescu Culcer Cuza "de Hohenzollern" Dona Dragalina Dumitrescu
-		Falcoianu Florescu Gardescu Grigorescu Froza Harjeu Holban Iancovescu Iliasevici Iliescu
-		Ionascu Ionescu Ionitiu Koslinski Lahovary Lupescu Mardarescu Murgescu Poenaru
-		Salajan Samsonovici Schitiu Scodrea Slaniceanu Steflea Tatarascu Tenescu Vaitoianu Zottu
+		last_names = { 
+			#Native Dacians
+			Rhaskuporis
+			
+			#Romans
+			Afra Amabilia Amadeus Amata Anatolia Angela Barbara Beatrix Benedictus Candida Carina Christiana Clara Delphina Delphi Florentina Vesta
+			Salacia Maia Juventus Aneas Consus Aries Romulus Amulius Saturn Remus Quirinus Pollux Pluto Numitor Janus Vulcan Tatius Summanus Silvus Silvanus
+			Neputne Italus Evandrus Ahenobarbus Albina Albus Antonia Agustus Brutus Caesar Carbo Cassia Cicero Claudia Colambanus Decimus Deusdedit Domitia Drusus
+			Fabius Felice Felix Frugi Gabinus Hadriana Hortensia Juluius Marcellus Mariana Maximus Metellus Octavia Pulcher Scipiones Servus Titus Velentius
+			Vita Valor Acisclus Antias Cato Catullus Corvinus Falto Fava Flaccus Manius Rufus Paulus Seneca Sextus Martinus 
 		}
 	}
 
@@ -1289,44 +1411,58 @@ east_slavic = {
         }
 	slavs = {
 		color = {0 70 10}
-                   first_names = { Adrian Aleksandr Alexander Alexandrovich Aleksey Alexei Andrei Andrey Anatoly Anton Avram Boris Dimitry Dmitry Fedor Fyodor Eduard Gennady 
-                                 Giorgi Grigoriy Igor Illarion Iosif Ivan Karl Kirill Kliment Konstantin Lavr Leonid Lev Matvey Maxim 
-                                 Mikhail Nikita Nikolai Nikolay Nikolayevich Oleg Pavel Petr Platon Pyotr Roman Semyon Sergei Stepan
-                                 Valery Vasily Viktor Vladimir Vladislav Vsevolod Yakov Yegor Yevgeny Yuri Zinovy }
+			first_names = { 
+				Bogodanu Borniméru Budigostu Gostislàvu Jaroslàvu Jizjeslàvu Miroslàvu Mistislàvu
+				Mistivoju Mistivuju Mojeslàvu Vjeteslàvu Voldiméru Zhiroslàvu Bozhetekhu Bogumilu Bogukhvalu
+				Boguslàvu Mistibogu Khvalibogu Chestibogu Bojeslàvu Jaroboju Mirogoju Mironegu
+				Bezméru Likhoméru Mediméru Moldoméru Radoméru Ljuboméru Ljutoméru Jaroméru Dorgoméru
+				Dobroméru Ladoméru Orstoméru Ljudiméru Chestiméru Mysliméru Lozhiméru Ortiméru Budiméru
+				Kloniméru Khorniméru Khotiméru Khvaliméru Krésiméru Kaziméru Boljegostu Dobrogostu
+				Gostomyslu Ljubogostu Milogostu Boleslàvu Borislàvu Bornislàvu Brjetislàvu Budislàvu
+				Chaslàvu Dobroslàvu Dorgoslàvu Gordislàvu Goreslàvu Jistislàvu Krésislàvu Ljuboslàvu
+				Ludislàvu Manislàvu Miloslàvu Murchislàvu Négoslàvu Ordoslàvu Orstislàvu Orzslàvu
+				Stanislàvu Svjetoslàvu Tvordislàvu Véroslàvu Khodislàvu Khornislàvu Khotislàvu Khvalislàvu
+				Zoreslàvu Domagostu Chagostu Jarobudu Jarognévu Jaropulku Mérogoju Méronégu Vojutékhu
+				Bivoju Borivoju Budivoju Khotivoju Ljubivoju Milivoju Dobrovoju Doljevoju Mojozhiru
+				Bélovold
+			}
 
-                   last_names = { 
-				  Abramov Alexseyev Annenkov Antonov Arklas Aslanbegov Azarov 
-				  Baklanov Barantsov Baratov Batyanov Baryatinsky Bebutov Belgard Bezobrazov Birilev Blaramberg Brusilov Budyonny Butakov 
-				  Chernyayev Chibisov Danilov Denikin Diteriks Dragomirov Drozdovsky Dubasov Dushkevich Dutov Evert Fostikov Frolov Frunze 
-			          Ganetsky Glazov Golovin Gorbatovsky Gorchakov Grabbe Grigorovich Gripenberg Grishin Gurko Imeretinsky Irmanov Istomin Ivanov
-				  Kaledin Kaulbars Kamenev Kalitin Kanin Kedrov Klembovsky Kolchak Kolomeytsev Kolpakovsky Konev Konstantinov Kornilov Kosych Krabbe Krasnov Kuropatkin Kutepov Kuzhmin-Karavayev
-                                  Lazarev Lebedev Lechitsky Lomnovsky Loris-Melikov Linevitch Liprandi Litke Litvinov
-				  Makarov Markov Menshikov Milyutin "Moller-Zakomelsky" "Muraviev-Amursky" "Muraviev-Karsky" 
-				  Nakhimov Nebogatov Nikitin Nikolaevich Ostrovsky Palitsyn Parsky Paskevich Pavlov Pleshkov Plehve Popov Putyatin 
-				  Radkevich Romanov "Romeyko-Gurko" Rozhestvensky Rennenkampf Rudnev Ruzsky
-				  Sakharov Sherbachev Selivanov Shaposhnikov Shikilinsky Shuvalov Shuvayev Sievers Skobelev Skrydlov Stoessel Stoletov Sukhomlinov Sukhozanet Surkov 
-				  Tottleben Tukhachevsky Ukhtomsky Vannovsky Vasilchikov Vorontsov Vorontsov-Dashkov Vitgeft Voroshilov Yanuskevich Yegorov Yudenich Zavoyko Zherebrekov Zhilinsky
+			last_names = { 
+				Radimiti Ljakhiti Séverinu Tivertinu Águliti Zerujaninu Dudlebinu Buzhaninu Drevljaninu
+				Drjegoviti Kriviti Polokhaninu Gopljaninu Ljedjaninu Mazovsjaninu Sjeradzjaninu Visljaninu
+				Kashubinu Pyritsjanin Velunjanin Slàvintsinu Bóburzjaninu Dadosezjaninu Goljesitsinu
+				Opoljaninu Selupjaninu Silezjaninu Bornimériti Jaroslàviti Ladomériti Dobroslàviti Chaslàviti
+				Jarobuditi Chagostiti Bezmériti Bivojiti Bogumiliti Krésimériti Stanislàviti Klonimériti
+				Gordislàviti Négoslàviti Jarognéviti Jaropulkiti Bogukhvaliti Gostomysliti Vojutékhiti 
+				Méronégiti Orstomériti Lozhimériti Mistibogiti Tvordislàviti Mérogojiti Khotislàviti
 		   }
         }
 	south_slavs = {
 		color = {140 200 50}
-                   first_names = { Adrian Aleksandr Alexander Alexandrovich Aleksey Alexei Andrei Andrey Anatoly Anton Avram Boris Dimitry Dmitry Fedor Fyodor Eduard Gennady 
-                                 Giorgi Grigoriy Igor Illarion Iosif Ivan Karl Kirill Kliment Konstantin Lavr Leonid Lev Matvey Maxim 
-                                 Mikhail Nikita Nikolai Nikolay Nikolayevich Oleg Pavel Petr Platon Pyotr Roman Semyon Sergei Stepan
-                                 Valery Vasily Viktor Vladimir Vladislav Vsevolod Yakov Yegor Yevgeny Yuri Zinovy }
+			first_names = { 
+				Bogodanu Borniméru Budigostu Gostislàvu Jaroslàvu Jizjeslàvu Miroslàvu Mistislàvu
+				Mistivoju Mistivuju Mojeslàvu Vjeteslàvu Voldiméru Zhiroslàvu Bozhetekhu Bogumilu Bogukhvalu
+				Boguslàvu Mistibogu Khvalibogu Chestibogu Bojeslàvu Jaroboju Mirogoju Mironegu
+				Bezméru Likhoméru Mediméru Moldoméru Radoméru Ljuboméru Ljutoméru Jaroméru Dorgoméru
+				Dobroméru Ladoméru Orstoméru Ljudiméru Chestiméru Mysliméru Lozhiméru Ortiméru Budiméru
+				Kloniméru Khorniméru Khotiméru Khvaliméru Krésiméru Kaziméru Boljegostu Dobrogostu
+				Gostomyslu Ljubogostu Milogostu Boleslàvu Borislàvu Bornislàvu Brjetislàvu Budislàvu
+				Chaslàvu Dobroslàvu Dorgoslàvu Gordislàvu Goreslàvu Jistislàvu Krésislàvu Ljuboslàvu
+				Ludislàvu Manislàvu Miloslàvu Murchislàvu Négoslàvu Ordoslàvu Orstislàvu Orzslàvu
+				Stanislàvu Svjetoslàvu Tvordislàvu Véroslàvu Khodislàvu Khornislàvu Khotislàvu Khvalislàvu
+				Zoreslàvu Domagostu Chagostu Jarobudu Jarognévu Jaropulku Mérogoju Méronégu Vojutékhu
+				Bivoju Borivoju Budivoju Khotivoju Ljubivoju Milivoju Dobrovoju Doljevoju Mojozhiru
+				Bélovold
+			}
 
-                   last_names = { 
-				  Abramov Alexseyev Annenkov Antonov Arklas Aslanbegov Azarov 
-				  Baklanov Barantsov Baratov Batyanov Baryatinsky Bebutov Belgard Bezobrazov Birilev Blaramberg Brusilov Budyonny Butakov 
-				  Chernyayev Chibisov Danilov Denikin Diteriks Dragomirov Drozdovsky Dubasov Dushkevich Dutov Evert Fostikov Frolov Frunze 
-			          Ganetsky Glazov Golovin Gorbatovsky Gorchakov Grabbe Grigorovich Gripenberg Grishin Gurko Imeretinsky Irmanov Istomin Ivanov
-				  Kaledin Kaulbars Kamenev Kalitin Kanin Kedrov Klembovsky Kolchak Kolomeytsev Kolpakovsky Konev Konstantinov Kornilov Kosych Krabbe Krasnov Kuropatkin Kutepov Kuzhmin-Karavayev
-                                  Lazarev Lebedev Lechitsky Lomnovsky Loris-Melikov Linevitch Liprandi Litke Litvinov
-				  Makarov Markov Menshikov Milyutin "Moller-Zakomelsky" "Muraviev-Amursky" "Muraviev-Karsky" 
-				  Nakhimov Nebogatov Nikitin Nikolaevich Ostrovsky Palitsyn Parsky Paskevich Pavlov Pleshkov Plehve Popov Putyatin 
-				  Radkevich Romanov "Romeyko-Gurko" Rozhestvensky Rennenkampf Rudnev Ruzsky
-				  Sakharov Sherbachev Selivanov Shaposhnikov Shikilinsky Shuvalov Shuvayev Sievers Skobelev Skrydlov Stoessel Stoletov Sukhomlinov Sukhozanet Surkov 
-				  Tottleben Tukhachevsky Ukhtomsky Vannovsky Vasilchikov Vorontsov Vorontsov-Dashkov Vitgeft Voroshilov Yanuskevich Yegorov Yudenich Zavoyko Zherebrekov Zhilinsky
+			last_names = { 
+				Radimiti Ljakhiti Séverinu Tivertinu Águliti Zerujaninu Dudlebinu Buzhaninu Drevljaninu
+				Drjegoviti Kriviti Polokhaninu Gopljaninu Ljedjaninu Mazovsjaninu Sjeradzjaninu Visljaninu
+				Kashubinu Pyritsjanin Velunjanin Slàvintsinu Bóburzjaninu Dadosezjaninu Goljesitsinu
+				Opoljaninu Selupjaninu Silezjaninu Bornimériti Jaroslàviti Ladomériti Dobroslàviti Chaslàviti
+				Jarobuditi Chagostiti Bezmériti Bivojiti Bogumiliti Krésimériti Stanislàviti Klonimériti
+				Gordislàviti Négoslàviti Jarognéviti Jaropulkiti Bogukhvaliti Gostomysliti Vojutékhiti 
+				Méronégiti Orstomériti Lozhimériti Mistibogiti Tvordislàviti Mérogojiti Khotislàviti
 		   }
         }
 
@@ -1421,18 +1557,36 @@ levantine = {
 	leader = european
 	greek = {
 		color = {147  82  173}
-		first_names = { Adamantios Alexandros Anastasios Andreas Antonios Aristidis Athanasios Augustinos Benizelos Charalambos
-		Charilaos Dimitrios Diomidis Eleftherios Emmanouil Epameinontas Evripidis Gennaios Georgios Ilias
-		Ionnis Kitsos Konstantinos Kyriakos Kyriakoulis Leonidas Makarios Markos Mikhael Militiadis
-		Nikolaos Odysseas Othon Panagiotis Pavlos Petros Sofoklis Sotiris Spyridion Spyros
-		Staikos Stefanos Stylianos Themistoklis Theodoros Tharyvoulos Tzannis Vasos Viktor Zinovios
+		first_names = { 
+			#Early Eastern Romans
+			Æmilius Ætius Agrippa Albanus Albus Ambrosinus Antoninus Appius Attilius Aulus Aurelius
+			Adrianos Alexandros Akákios Anatólios Andrónikos Anthémios Ánthimos Antíochos Bárdas
+			Basileios Belisarios Boethios Bosporius Demetrius Dionysus Dorotheus
+			Brutus Caecilius Caius Camillus Cassianus Cassius Cato Cicero Claudius
+			Cornelius Decimus Domitianus Dêmètrios Dôrótheos Eirênaíos Eudóxios Eustrátios Fabianus
+			Flavius Fulvius Gaius Germanus Gratianus Gerásimos Grêgórios Himérios
+			Horatius Iulius Iulianus Julius Livius Longinus Lucius Lucretius Marcellus
+			Marcus Marianus Marius Maximianus Maximus Makarios Megistos Meletios Methodios 
+			Nero Narses Nikodemos Octavianus Octavius Orestes Pancratius Philaretos
+			Gennadius Gerasimus Gregorios Himerios Hippolitus Ignatius Isaakios Isaias
+			Policarpos Procopius Pyrros Samuel Serapion Tiberios Zacharias Zênóbios Zènôn			 
+			Ioánnês Êsaïás Mégistos Nikêphóros Philótheos Theóktistos Theophánês
+			Paulus Plinius Pompeius Pontius Publius Quintus Regulus Romolus Rufus
+			Secundus Septimus Severus Sextus Tacitus Tertius Titus Valerianus Thalassius
+			Varius Vespasianus Victorinus Vitalinus	
 		}
 
-		last_names = { Charalambis Christakis-Zografos Danglis Dousmanis Foumis Gonatas Hatzianestis Kallergis Kanaris Katsimiros
-		Kolokotronis Kondylis Kountouriotis Kriezis Makriyannis Manos Mavrocordatos Mavrovouniotis Metaxas Mouskos
-		Nider Othonaios Palaskas Pangalos Papadiamantopoulos Papadopoulos Papagos Papoulas Parakevopouolos Plapoutas
-		Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas "tes Elladas"
-		Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
+		last_names = { 
+			#Custom
+			Troiades Epeiros Tarasones Lykandros Syrikos Kalaphates Autoreianos Priscus
+			Flavius Julius Argyros Lekapenos Artoukomites
+		
+			#Vanilla
+			Charalambis Christakis-Zografos Danglis Dousmanis Foumis Gonatas Hatzianestis Kallergis Kanaris Katsimiros
+			Kolokotronis Kondylis Kountouriotis Kriezis Makriyannis Manos Mavrocordatos Mavrovouniotis Metaxas Mouskos
+			Nider Othonaios Palaskas Pangalos Papadiamantopoulos Papadopoulos Papagos Papoulas Parakevopouolos Plapoutas
+			Plastiras Sapountzakis Sarafis Smolenskis Sofoulis Soutsos Spyromilios Staikopoulos Stanotas "tes Elladas"
+			Trikoupis Tsakalotos Tsolakoglou Typaldos-Alfonsatos Tzavelas Vassos Venizelos Voulgaris Zaimis Zymvrakakis
 		}
 		radicalism = 10
 	}

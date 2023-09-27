@@ -92,7 +92,7 @@ POR = {
 effect = {
 prestige = 10
 set_country_flag = suebiawith
-add_accepted_culture = suebian
+add_accepted_culture = south_german
 POR = { all_core = { add_core = THIS } }
 }}
 gaulic_domination_goths={
