@@ -1,3 +1,6 @@
+##############
+#autistic org#
+##############
 
 objectTypes = {	
 
@@ -8,7 +11,7 @@ objectTypes = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 1.0	
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -48,19 +51,9 @@ objectTypes = {
 	scale=0.8
 	}
 	EMFXActorType={
-	name="CK_Sword_N"
-	actorfile="gfx\anims\Norse_Axe.xac"
-	scale=1.0
-	}
-	EMFXActorType={
 	name="CK_Sword_SEX"
 	actorfile="gfx\anims\saxon_axe.xac"
 	scale=1.0
-	}
-	EMFXActorType = {
-		name = "CK_Cav"
-		actorfile = "gfx\anims\Spear_01.xac"
-		scale = 1.0
 	}
 	EMFXActorType={
 	name="CK_Sword_A"
@@ -84,7 +77,7 @@ objectTypes = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -111,7 +104,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -133,7 +126,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -154,7 +147,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -175,7 +168,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -196,7 +189,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -222,7 +215,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -244,7 +237,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -266,7 +259,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -303,7 +296,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -324,7 +317,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -345,7 +338,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -366,7 +359,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -387,7 +380,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -408,7 +401,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -429,7 +422,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -450,28 +443,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
-		
-		attach = {
-			name = "InfantryShadowblob"
-			node = "Root"
-			attachId = 2
-		
-		}
-		attach={
-		name="CK_Sword_M"
-		node="Right_hand_node"
-		attachId=3
-		}
-		}
-		EMFXActorType = {
-		name = "IndianGCIrregular"
-		actorfile = "gfx\anims\indian_light_infantry.xac"
-		
-		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
-		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
-		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -492,7 +464,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -513,7 +485,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -534,7 +506,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -555,7 +527,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -576,7 +548,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -597,7 +569,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -627,7 +599,7 @@ EMFXActorType = {
 		
 		}
 		attach={
-		name="CK_Sword_N"
+		name="CK_Axe"
 		node="Right_hand_node"
 		attachId=3
 		}
@@ -681,7 +653,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -702,7 +674,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -723,7 +695,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -737,21 +709,6 @@ EMFXActorType = {
 		attachId=3
 		}
 		}
-			EMFXActorType = {
-        name = "SpanishGCCavalry"
-        actorfile = "gfx\anims\saxon_heavy_cavalry.xac"
-        idle   = "gfx\anims\Heavy_Cavalry_2_Idle.xsm"
-        move   = "gfx\anims\Heavy_Cavalry_2_Moving.xsm"
-        attack = "gfx\anims\persian_heavy_cavalry_2_attack.xsm"
-        scale = 0.9
-		
-		attach={
-		name="CK_Cav"
-		node="Right_hand_node"
-		attachId=3
-		}
-	}
-	
 		EMFXActorType = {
 		name = "GenericIrregular"
 		actorfile = "gfx\anims\Western_Light_Infantry.xac"
@@ -759,7 +716,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -780,7 +737,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -801,7 +758,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -843,7 +800,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -864,7 +821,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -885,7 +842,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -906,7 +863,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -927,7 +884,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -941,62 +898,7 @@ EMFXActorType = {
 		attachId=3
 		}
 		}
-EMFXActorType = {
-        name = "ByzantineGCCavalry"
-        actorfile = "gfx\anims\Byzantine_Heavy_Cavalry_Rider.xac"
-        idle   = "gfx\anims\Heavy_Cavalry_2_Idle.xsm"
-        move   = "gfx\anims\Heavy_Cavalry_2_Moving.xsm"
-        attack = "gfx\anims\Heavy_Cavalry_2_Attack.xsm"
-        scale = 1.0
-		
-		attach={
-		name="CK_Cav"
-		node="Right_hand_node"
-		attachId=3
-		}
-	}
-	EMFXActorType = {
-        name = "RussianGCCavalry"
-        actorfile = "gfx\anims\Russian_Heavy_Cavalry.xac"
-        idle   = "gfx\anims\Heavy_Cavalry_2_Idle.xsm"
-        move   = "gfx\anims\Heavy_Cavalry_2_Moving.xsm"
-        attack = "gfx\anims\Heavy_Cavalry_2_Attack.xsm"
-        scale = 0.9
-		
-		attach={
-		name="CK_Cav"
-		node="Right_hand_node"
-		attachId=3
-		}
-	}
-	EMFXActorType = {
-        name = "SwedishGCCavalry"
-        actorfile = "gfx\anims\Norse_Heavy_Cavalry.xac"
-        idle   = "gfx\anims\Heavy_Cavalry_2_Idle.xsm"
-        move   = "gfx\anims\Heavy_Cavalry_2_Moving.xsm"
-        attack = "gfx\anims\Heavy_Cavalry_2_Attack.xsm"
-        scale = 0.9
-		
-		attach={
-		name="CK_Cav"
-		node="Right_hand_node"
-		attachId=3
-		}
-	}
-	EMFXActorType = {
-        name = "AfricanGCCavalry"
-        actorfile = "gfx\anims\African_Light_Cavalry.xac"
-        idle   = "gfx\anims\Heavy_Cavalry_2_Idle.xsm"
-        move   = "gfx\anims\Heavy_Cavalry_2_Moving.xsm"
-        attack = "gfx\anims\Heavy_Cavalry_2_Attack.xsm"
-        scale = 0.9
-		
-		attach={
-		name="CK_Cav"
-		node="Right_hand_node"
-		attachId=3
-		}
-	}
+
 	EMFXActorType = {
 		name = "PersianGCInfantry_Offensive"
 		actorfile = "gfx\anims\persian_light_infantry.xac"
@@ -1004,7 +906,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -1025,7 +927,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -1039,78 +941,9 @@ EMFXActorType = {
 		attachId=3
 		}
 		}
-		EMFXActorType = {
-        name = "PersianGCCavalry"
-        actorfile = "gfx\anims\persian_heavy_cavalry.xac"
-        idle   = "gfx\anims\Heavy_Cavalry_2_Idle.xsm"
-        move   = "gfx\anims\Heavy_Cavalry_2_Moving.xsm"
-        attack = "gfx\anims\persian_heavy_cavalry_2_attack.xsm"
-        scale = 0.9
-		
-		attach={
-		name="CK_Cav"
-		node="Right_hand_node"
-		attachId=3
-		}
-	}
-		EMFXActorType = {
-        name = "EuropeanGCCavalry"
-        actorfile = "gfx\anims\Western_Heavy_Cavalry.xac"
-        idle   = "gfx\anims\Heavy_Cavalry_2_Idle.xsm"
-        move   = "gfx\anims\Heavy_Cavalry_2_Moving.xsm"
-        attack = "gfx\anims\persian_heavy_cavalry_2_attack.xsm"
-        scale = 0.9
-		
-		attach={
-		name="CK_Cav"
-		node="Right_hand_node"
-		attachId=3
-		}
-		attach={
-		name="CK_Helmet"
-		node="Head"
-		attachId=4
-		}
-	}
-	EMFXActorType = {
-        name = "ItalianGCCavalry"
-        actorfile = "gfx\anims\saxon_heavy_cavalry.xac"
-        idle   = "gfx\anims\Heavy_Cavalry_2_Idle.xsm"
-        move   = "gfx\anims\Heavy_Cavalry_2_Moving.xsm"
-        attack = "gfx\anims\persian_heavy_cavalry_2_attack.xsm"
-        scale = 0.9
-		
-		attach={
-		name="CK_Cav"
-		node="Right_hand_node"
-		attachId=3
-		}
-	}
-	EMFXActorType = {
-        name = "SpanishGCCavalry"
-        actorfile = "gfx\anims\saxon_heavy_cavalry.xac"
-        idle   = "gfx\anims\Heavy_Cavalry_2_Idle.xsm"
-        move   = "gfx\anims\Heavy_Cavalry_2_Moving.xsm"
-        attack = "gfx\anims\persian_heavy_cavalry_2_attack.xsm"
-        scale = 0.9
-		
-		attach={
-		name="CK_Cav"
-		node="Right_hand_node"
-		attachId=3
-		}
-	}
-	EMFXActorType = {
-		name = "GenericMount"
-		actorfile = "gfx\anims\Byzantine_Light_Horse.xac"
-		
-		idle = "gfx\anims\Horse_2_Idle.xsm"
-		move = "gfx\anims\Horse_2_Moving.xsm"
-		attack = "gfx\anims\Horse_2_Idle.xsm"
-		scale = 1.0
 		
 		
-	}
+	
 	EMFXActorType = {
 		name = "MiddleEasternGCIrregular"
 		actorfile = "gfx\anims\Muslim_pikeman.xac"
@@ -1118,7 +951,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
@@ -1144,7 +977,7 @@ EMFXActorType = {
 		idle   = "gfx\anims\Infantry_Sword_and_Shield_Idle.xsm"
 		move   = "gfx\anims\Infantry_Sword_and_Shield_Moving.xsm"
 		attack = "gfx\anims\Infantry_Sword_and_Shield_Attack.xsm"
-		scale = 1.0
+		scale = 0.9
 		
 		attach = {
 			name = "InfantryShadowblob"
