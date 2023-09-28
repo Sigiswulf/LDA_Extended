@@ -9,7 +9,7 @@ religion = animist
 	}
 
 	bureaucrats = {
-		culture = turkic
+		culture = bactrian
 religion = animist
 		size = 62
 	}
@@ -27,7 +27,7 @@ religion = animist
 	}
 
 	artisans = {
-		culture = turkic
+		culture = tocharian
 religion = animist
 		size = 650
 	}
@@ -39,7 +39,7 @@ religion = animist
 	}
 
 	farmers = {
-		culture = turkic
+		culture = tocharian
 religion = animist
 		size = 11693
 	}
@@ -375,7 +375,7 @@ religion = animist
 	}
 
 	farmers = {
-		culture = turkic
+		culture = tocharian
 religion = animist
 		size = 10912
 	}
@@ -395,7 +395,7 @@ religion = animist
 	}
 
 	artisans = {
-		culture = turkic
+		culture = tocharian
 religion = animist
 		size = 275
 	}
@@ -407,7 +407,7 @@ religion = animist
 	}
 
 	farmers = {
-		culture = turkic
+		culture = tocharian
 religion = animist
 		size = 5006
 	}
@@ -665,7 +665,7 @@ religion = animist
 	}
 
 	artisans = {
-		culture = turkic
+		culture = tocharian
 religion = animist
 		size = 62
 	}
@@ -677,7 +677,7 @@ religion = animist
 	}
 
 	farmers = {
-		culture = turkic
+		culture = tocharian
 religion = animist
 		size = 1143
 	}

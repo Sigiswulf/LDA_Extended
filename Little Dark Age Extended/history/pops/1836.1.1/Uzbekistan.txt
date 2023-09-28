@@ -9,8 +9,8 @@ religion = animist
 	}
 
 	bureaucrats = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 31
 	}
 
@@ -27,8 +27,8 @@ religion = animist
 	}
 
 	artisans = {
-		culture = turkic
-religion = animist
+		culture = khwarezmian
+religion = zoroastrianism
 		size = 575
 	}
 
@@ -39,8 +39,8 @@ religion = animist
 	}
 
 	farmers = {
-		culture = turkic
-religion = animist
+		culture = khwarezmian
+religion = zoroastrianism
 		size = 9512
 	}
 
@@ -71,8 +71,8 @@ religion = animist
 	}
 
 	artisans = {
-		culture = turkic
-religion = animist
+		culture = khwarezmian
+religion = zoroastrianism
 		size = 287
 	}
 
@@ -113,8 +113,8 @@ religion = animist
 	}
 
 	farmers = {
-		culture = turkic
-religion = animist
+		culture = khwarezmian
+religion = zoroastrianism
 		size = 3475
 	}
 
@@ -177,8 +177,8 @@ religion = animist
 	}
 
 	artisans = {
-		culture = turkic
-religion = animist
+		culture = khwarezmian
+religion = zoroastrianism
 		size = 575
 	}
 
@@ -189,14 +189,14 @@ religion = animist
 	}
 
 	farmers = {
-		culture = turkic
-religion = animist
+		culture = khwarezmian
+religion = zoroastrianism
 		size = 9712
 	}
 
 	aristocrats = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 12
 	}
 
@@ -263,8 +263,8 @@ religion = animist
 	}
 
 	bureaucrats = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 50
 	}
 
@@ -281,8 +281,8 @@ religion = animist
 	}
 
 	artisans = {
-		culture = turkic
-religion = animist
+		culture = sogdian
+religion = zoroastrianism
 		size = 1762
 	}
 
@@ -293,8 +293,8 @@ religion = animist
 	}
 
 	farmers = {
-		culture = turkic
-religion = animist
+		culture = sogdian
+religion = zoroastrianism
 		size = 11587
 	}
 
@@ -368,8 +368,8 @@ religion = animist
 	}
 
 	bureaucrats = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 131
 	}
 
@@ -386,8 +386,8 @@ religion = animist
 	}
 
 	artisans = {
-		culture = turkic
-religion = animist
+		culture = khwarezmian
+religion = zoroastrianism
 		size = 1075
 	}
 
@@ -398,9 +398,15 @@ religion = animist
 	}
 
 	farmers = {
+		culture = khwarezmian
+religion = zoroastrianism
+		size = 22237
+	}
+	
+	farmers = {
 		culture = turkic
 religion = animist
-		size = 42237
+		size = 20000
 	}
 
 	aristocrats = {
@@ -490,8 +496,8 @@ religion = animist
 	}
 
 	artisans = {
-		culture = turkic
-religion = animist
+		culture = sogdian
+religion = zoroastrianism
 		size = 1175
 	}
 
@@ -502,25 +508,25 @@ religion = animist
 	}
 
 	farmers = {
-		culture = turkic
-religion = animist
+		culture = sogdian
+religion = zoroastrianism
 		size = 27700
 	}
 
 	aristocrats = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 12
 	}
 
 	clergymen = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 12
 	}
 
 	artisans = {
-		culture = turkic
+		culture = bactrian
 religion = animist
 		size = 75
 	}
@@ -582,7 +588,7 @@ religion = animist
 	}
 
 	artisans = {
-		culture = turkic
+		culture = khwarezmian
 religion = animist
 		size = 637
 	}
@@ -594,26 +600,26 @@ religion = animist
 	}
 
 	farmers = {
-		culture = turkic
-religion = animist
+		culture = sogdian
+religion = zoroastrianism
 		size = 11606
 	}
 
 	aristocrats = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 56
 	}
 
 	clergymen = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 25
 	}
 
 	artisans = {
-		culture = turkic
-religion = animist
+		culture = khwarezmian
+religion = zoroastrianism
 		size = 125
 	}
 
@@ -624,8 +630,8 @@ religion = animist
 	}
 
 	farmers = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 2768
 	}
 

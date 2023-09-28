@@ -3,7 +3,7 @@
 #Tabriz (1052081/263018 POPS)
 1108 = {
     aristocrats = {
-        culture = azerbaijani
+        culture = parthian
 religion = zoroastrianism
         size = 812
     }
@@ -21,7 +21,7 @@ religion = zoroastrianism
     }
 
     soldiers = {
-        culture = azerbaijani
+        culture = parthian
 religion = zoroastrianism
         size = 1428
     }
@@ -33,7 +33,7 @@ religion = zoroastrianism
     }
 
     aristocrats = {
-        culture = azerbaijani
+        culture = parthian
 religion = zoroastrianism
         size = 487
     }
@@ -93,13 +93,13 @@ religion = zoroastrianism
     }
 	
 	aristocrats = {
-        culture = azerbaijani
+        culture = parthian
 religion = zoroastrianism
         size = 3252
     }
 
     bureaucrats = {
-        culture = azerbaijani
+        culture = aramaic
 religion = zoroastrianism
         size = 647
     }
@@ -141,7 +141,7 @@ religion = zoroastrianism
     }
 
     aristocrats = {
-        culture = azerbaijani
+        culture = aryan
 religion = zoroastrianism
         size = 1952
     }
@@ -197,7 +197,7 @@ religion = catholic
 #Khvoy (218750/54687 POPS)
 1109 = {
     aristocrats = {
-        culture = azerbaijani
+        culture = parthian
 religion = zoroastrianism
         size = 226
     }
@@ -215,7 +215,7 @@ religion = zoroastrianism
     }
 
     soldiers = {
-        culture = azerbaijani
+        culture = parthian
 religion = zoroastrianism
         size = 127
     }
@@ -245,7 +245,7 @@ religion = zoroastrianism
     }
 
     soldiers = {
-        culture = azerbaijani
+        culture = parthian
 religion = zoroastrianism
         size = 158
     }
@@ -257,7 +257,7 @@ religion = zoroastrianism
     }
 
     aristocrats = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 195
     }
@@ -319,7 +319,7 @@ religion = zoroastrianism
 #Urumia (250000/62500 POPS)
 1110 = {
     aristocrats = {
-        culture = azerbaijani
+        culture = parthian
 religion = zoroastrianism
         size = 322
     }
@@ -337,7 +337,7 @@ religion = zoroastrianism
     }
 
     soldiers = {
-        culture = azerbaijani
+        culture = parthian
 religion = zoroastrianism
         size = 158
     }
@@ -349,7 +349,7 @@ religion = zoroastrianism
     }
 
     aristocrats = {
-        culture = azerbaijani
+        culture = parthian
 religion = zoroastrianism
         size = 353
     }
@@ -441,7 +441,7 @@ religion = zoroastrianism
 #Mahabad (260413/65101 POPS)
 1111 = {
     aristocrats = {
-        culture = azerbaijani
+        culture = parthian
 religion = zoroastrianism
         size = 843
     }
@@ -459,7 +459,7 @@ religion = zoroastrianism
     }
 
     soldiers = {
-        culture = azerbaijani
+        culture = parthian
 religion = zoroastrianism
         size = 1428
     }
@@ -471,7 +471,7 @@ religion = zoroastrianism
     }
 
     aristocrats = {
-        culture = azerbaijani
+        culture = aryan
 religion = zoroastrianism
         size = 390
     }
@@ -523,37 +523,37 @@ religion = zoroastrianism
 #Noshehr (114581/28643 POPS)
 1114 = {
     aristocrats = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 1038
     }
 
     bureaucrats = {
-        culture = aryan
+        culture = aramaic
 religion = zoroastrianism
         size = 127
     }
 
     officers = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 158
     }
 
     clergymen = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 550
     }
 
     artisans = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 2733
     }
 
     soldiers = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 1428
     }
@@ -571,19 +571,19 @@ religion = zoroastrianism
     }
 
     clergymen = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 291
     }
 
     artisans = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 1428
     }
 
     soldiers = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 291
     }
@@ -743,7 +743,7 @@ religion = zoroastrianism
     }
 
     bureaucrats = {
-        culture = aryan
+        culture = aramaic
 religion = zoroastrianism
         size = 252
     }
@@ -933,7 +933,7 @@ religion = zoroastrianism
 #Tehran (440101/110022 POPS)
 1121 = {
     aristocrats = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 2440
     }
@@ -943,7 +943,7 @@ religion = zoroastrianism
 		size = 6200
 	}
     bureaucrats = {
-        culture = aryan
+        culture = aramaic
 religion = zoroastrianism
         size = 421
     }
@@ -1045,7 +1045,7 @@ religion = zoroastrianism
     }
 	
 	aristocrats = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 1428
     }
@@ -1063,7 +1063,7 @@ religion = zoroastrianism
     }
 
     soldiers = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 1428
     }
@@ -1163,7 +1163,7 @@ religion = catholic
 #Zanjan (57288/14320 POPS)
 1123 = {
     aristocrats = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 257
     }
@@ -1181,7 +1181,7 @@ religion = zoroastrianism
     }
 
     soldiers = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 158
     }
@@ -1230,7 +1230,7 @@ religion = zoroastrianism
     }
 
     bureaucrats = {
-        culture = aryan
+        culture = aramaic
 religion = zoroastrianism
         size = 226
     }
@@ -1507,7 +1507,7 @@ religion = zoroastrianism
     }
 
     bureaucrats = {
-        culture = aryan
+        culture = aramaic
 religion = zoroastrianism
         size = 81
     }
@@ -1790,7 +1790,7 @@ religion = zoroastrianism
     }
 
     bureaucrats = {
-        culture = aryan
+        culture = aramaic
 religion = zoroastrianism
         size = 195
     }
@@ -1971,7 +1971,7 @@ religion = zoroastrianism
 		size = 6200
 	}
     bureaucrats = {
-        culture = aryan
+        culture = aramaic
 religion = zoroastrianism
         size = 127
     }
@@ -2038,19 +2038,19 @@ religion = zoroastrianism
 #Zahedan (93750/23437 POPS)
 1144 = {
     aristocrats = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 518
     }
 
     bureaucrats = {
-        culture = aryan
+        culture = aramaic
 religion = zoroastrianism
         size = 62
     }
 
     officers = {
-        culture = aryan
+        culture = parthian
 religion = zoroastrianism
         size = 195
     }
@@ -2104,7 +2104,7 @@ religion = zoroastrianism
     }
 
     farmers = {
-        culture = aryan
+        culture = baloch
 religion = zoroastrianism
         size = 16601
     }
@@ -2304,7 +2304,7 @@ religion = zoroastrianism
     }
 
     bureaucrats = {
-        culture = parthian
+        culture = aramaic
 religion = zoroastrianism
         size = 507
     }

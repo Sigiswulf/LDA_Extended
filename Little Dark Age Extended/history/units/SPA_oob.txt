@@ -72,7 +72,7 @@ leader = {
 	prestige = 0.1
 }
 leader = {
-	name = "Thiudeis the Ostrogoth"
+	name = "Thiudeis Austraguta"
 	picture = spa_gen_serrano
 	type = land
 	date="1833.1.1"
@@ -114,7 +114,7 @@ leader = {
 	prestige = 0.2
 }
 leader = {
-	name = "Juan Ramón Rodil"
+	name = "Athaulf Harilas"
 	picture = spa_gen_rodil
 	type = land
 	date="1824.1.1"
@@ -123,7 +123,7 @@ leader = {
 	prestige = 0.2
 }
 leader = {
-	name = "Luis Fernández de Córdova"
+	name = "Hathus Saring"
 	picture = spa_gen_luiscordova
 	type = land
 	date="1833.1.1"
@@ -131,7 +131,7 @@ leader = {
 	background = attack_1.1
 }
 leader = {
-	name = "Gaspar de Jáuregui"
+	name = "Wermund Agiling"
 	picture = spa_gen_jauregui
 	type = land
 	date="1833.1.1"
@@ -140,7 +140,7 @@ leader = {
 	prestige = 0.1
 }
 leader = {
-	name = "Francisco Javier de Uriarte"
+	name = "Airmanareiks Tulging"
 	picture = spa_adm_uriarte
 	type = sea
 	date="1802.1.1"
@@ -149,7 +149,7 @@ leader = {
 	prestige = 0.3
 }
 leader = {
-	name = "José Primo de Rivera"
+	name = "Rothareiks Rothareiking"
 	picture = spa_adm_primorivera
 	type = sea
 	date="1827.1.1"
@@ -158,7 +158,7 @@ leader = {
 	prestige = 0.1
 }
 leader = {
-	name = "Francisco Javier de Ulloa"
+	name = "Adalfuns of Massalia"
 	picture = spa_adm_ulloa
 	type = sea
 	date="1825.1.1"
@@ -167,7 +167,7 @@ leader = {
 	prestige = 0.2
 }
 leader = {
-	name = "Casimiro Vigodet"
+	name = "Safrak the Seasnake"
 	picture = spa_adm_vigodet
 	type = sea
 	date="1836.1.1"
@@ -177,7 +177,7 @@ leader = {
 
 #Army
 army = {
-	name = "Ejército Cristino del Centro"
+	name = "Reikis Harjis"
 	location = 487
 	regiment = {
 		name= "1. Granaderos del Rey"
@@ -241,7 +241,7 @@ army = {
 }
 
 army = {
-	name = "Ejército del Norte"
+	name = "Nurthreis Harjis"
 	location = 498
 	
 	regiment = {
@@ -306,7 +306,7 @@ army = {
 }
 
 navy = {
-	name = "Armada Real Española"
+	name = "Reikis Flota"
 	location = 506
 	
 	ship = {

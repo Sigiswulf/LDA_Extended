@@ -15,8 +15,8 @@ religion = animist
 	}
 
 	artisans = {
-		culture = turkic
-religion = animist
+		culture = khwarezmian
+religion = zoroastrianism
 		size = 112
 	}
 
@@ -27,9 +27,15 @@ religion = animist
 	}
 
 	farmers = {
-		culture = turkic
-religion = animist
-		size = 2300
+		culture = khwarezmian
+religion = zoroastrianism
+		size = 1300
+	}
+	
+	farmers = {
+		culture = parthian
+religion = zoroastrianism
+		size = 1000
 	}
 }
 #turkicia Region (92000) 
@@ -105,7 +111,7 @@ religion = zoroastrianism
 	}
 
 	artisans = {
-		culture = parthian
+		culture = khwarezmian
 religion = zoroastrianism
 		size = 212
 	}
@@ -150,7 +156,7 @@ religion = animist
 #Merv (33000/8250 POPS)   
 1206 = {
 	aristocrats = {
-		culture = aryan
+		culture = parthian
 religion = zoroastrianism
 		size = 6
 	}
@@ -187,13 +193,13 @@ religion = animist
 
 	clergymen = {
 		culture = parthian
-religion = animist
+religion = zoroastrianism
 		size = 56
 	}
 
 	artisans = {
-		culture = parthian
-religion = animist
+		culture = khwarezmian
+religion = zoroastrianism
 		size = 275
 	}
 
@@ -234,7 +240,7 @@ religion = animist
 	}
 
 	farmers = {
-		culture = turkic
+		culture = khwarezmian
 religion = animist
 		size = 1856
 	}

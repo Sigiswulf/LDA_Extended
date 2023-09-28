@@ -104,7 +104,7 @@ religion = zoroastrianism
 #Quetta (38750/9687 POPS)
 1219 = {
 	aristocrats = {
-		culture = bactrian
+		culture = parthian
 religion = hindu
 		size = 108
 	}
@@ -128,7 +128,7 @@ religion = hindu
 	}
 
 	farmers = {
-		culture = bactrian
+		culture = baloch
 religion = hindu
 		size = 6351
 	}
@@ -162,49 +162,55 @@ religion = hindu
 	farmers = {
 		culture = aryan
 religion = hindu
-		size = 4218
+		size = 2218
+	}
+	
+	farmers = {
+		culture = baloch
+religion = hindu
+		size = 2000
 	}
 }
 #Kalat (32500/8125 POPS)
 1221 = {
 	aristocrats = {
-		culture = aryan
+		culture = parthian
 religion = hindu
 		size = 77
 	}
 
 	bureaucrats = {
-		culture = aryan
+		culture = bactrian
 religion = hindu
 		size = 77
 	}
 
 	officers = {
-		culture = aryan
+		culture = parthian
 religion = hindu
 		size = 22
 	}
 
 	clergymen = {
-		culture = aryan
+		culture = bactrian
 religion = hindu
 		size = 77
 	}
 
 	artisans = {
-		culture = aryan
+		culture = bactrian
 religion = hindu
 		size = 390
 	}
 
 	soldiers = {
-		culture = aryan
+		culture = baloch
 religion = hindu
 		size = 2187
 	}
 
 	farmers = {
-		culture = aryan
+		culture = baloch
 religion = hindu
 		size = 5288
 	}
@@ -213,43 +219,43 @@ religion = hindu
 #Bela (38750/9687 POPS)
 1222 = {
 	aristocrats = {
-		culture = aryan
+		culture = parthian
 religion = hindu
 		size = 108
 	}
 
 	bureaucrats = {
-		culture = aryan
+		culture = bactrian
 religion = hindu
 		size = 70
 	}
 
 	officers = {
-		culture = aryan
+		culture = parthian
 religion = hindu
 		size = 70
 	}
 
 	clergymen = {
-		culture = aryan
+		culture = bactrian
 religion = hindu
 		size = 93
 	}
 
 	artisans = {
-		culture = aryan
+		culture = baloch
 religion = hindu
 		size = 468
 	}
 
 	soldiers = {
-		culture = aryan
+		culture = baloch
 religion = hindu
 		size = 1343
 	}
 
 	farmers = {
-		culture = aryan
+		culture = baloch
 religion = hindu
 		size = 28687
 	}
@@ -393,8 +399,8 @@ religion = zoroastrianism
 	}
 
 	soldiers = {
-		culture = bactrian
-religion = zoroastrianism
+		culture = turkic
+religion = animist
 		size = 15
 	}
 
@@ -405,14 +411,14 @@ religion = hindu
 	}
 
 	aristocrats = {
-		culture = indo_aryan
-religion = hindu
+		culture = turkic
+religion = animist
 		size = 140
 	}
 
 	clergymen = {
-		culture = indo_aryan
-religion = hindu
+		culture = turkic
+religion = animist
 		size = 132
 	}
 
@@ -429,7 +435,7 @@ religion = animist
 	}
 
 	farmers = {
-		culture = turkic
+		culture = tocharian
 religion = animist
 		size = 11476
 	}
@@ -962,26 +968,26 @@ religion = hindu
 #Shahpur (353750/88437 POPS)
 1232 = {
 	aristocrats = {
-		culture = indo_aryan
+		culture = turkic
 religion = mahayana
 		size = 15
 	}
 
 	clergymen = {
-		culture = indo_aryan
-religion = mahayana
+		culture = turkic
+religion = animist
 		size = 15
 	}
 
 	artisans = {
-		culture = indo_aryan
+		culture = turkic
 religion = mahayana
 		size = 343
 	}
 
 	soldiers = {
-		culture = indo_aryan
-religion = mahayana
+		culture = turkic
+religion = animist
 		size = 15
 	}
 
@@ -992,19 +998,19 @@ religion = mahayana
 	}
 
 	aristocrats = {
-		culture = indo_aryan
+		culture = bactrian
 religion = hindu
 		size = 781
 	}
 
 	clergymen = {
-		culture = indo_aryan
+		culture = bactrian
 religion = hindu
 		size = 781
 	}
 
 	artisans = {
-		culture = indo_aryan
+		culture = bactrian
 religion = hindu
 		size = 3125
 	}
@@ -5839,31 +5845,31 @@ religion = hindu
 	}
 
 	aristocrats = {
-		culture = indo_aryan
+		culture = parthian
 religion = zoroastrianism
 		size = 15
 	}
 
 	clergymen = {
-		culture = indo_aryan
+		culture = baloch
 religion = zoroastrianism
 		size = 15
 	}
 
 	artisans = {
-		culture = indo_aryan
+		culture = baloch
 religion = zoroastrianism
 		size = 93
 	}
 
 	soldiers = {
-		culture = indo_aryan
+		culture = baloch
 religion = zoroastrianism
 		size = 15
 	}
 
 	farmers = {
-		culture = indo_aryan
+		culture = baloch
 religion = zoroastrianism
 		size = 1765
 	}

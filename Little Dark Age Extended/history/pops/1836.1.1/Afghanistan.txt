@@ -389,7 +389,7 @@ religion = animist
 #Farrah (453125/113281 POPS)
 1214 = {
 	aristocrats = {
-		culture = aryan
+		culture = parthian
 religion = animist
 		size = 533
 	}
@@ -419,7 +419,7 @@ religion = animist
 	}
 
 	aristocrats = {
-		culture = aryan
+		culture = parthian
 religion = animist
 		size = 1682
 	}
@@ -451,62 +451,62 @@ religion = animist
 #Qandahar (359375/89843 POPS)
 1215 = {
 	aristocrats = {
-		culture = bactrian
-religion = animist
+		culture = parthian
+religion = zoroastrianism
 		size = 1171
 	}
 
 	clergymen = {
 		culture = bactrian
-religion = animist
+religion = zoroastrianism
 		size = 608
 	}
 
 	artisans = {
 		culture = bactrian
-religion = animist
+religion = zoroastrianism
 		size = 2928
 	}
 
 	soldiers = {
 		culture = bactrian
-religion = animist
+religion = zoroastrianism
 		size = 1072
 	}
 
 	farmers = {
 		culture = bactrian
-religion = animist
+religion = zoroastrianism
 		size = 53096
 	}
 
 	aristocrats = {
-		culture = bactrian
-religion = animist
+		culture = aryan
+religion = zoroastrianism
 		size = 390
 	}
 
 	clergymen = {
 		culture = bactrian
-religion = animist
+religion = zoroastrianism
 		size = 206
 	}
 
 	artisans = {
 		culture = bactrian
-religion = animist
+religion = zoroastrianism
 		size = 1022
 	}
 
 	soldiers = {
 		culture = bactrian
-religion = animist
+religion = zoroastrianism
 		size = 1072
 	}
 
 	farmers = {
 		culture = bactrian
-religion = animist
+religion = zoroastrianism
 		size = 17906
 	}
 
@@ -535,7 +535,7 @@ religion = zoroastrianism
 	}
 
 	farmers = {
-		culture = bactrian
+		culture = baloch
 religion = zoroastrianism
 		size = 9862
 	}

@@ -27,8 +27,8 @@ religion = animist
 	}
 
 	farmers = {
-		culture = turkic
-religion = animist
+		culture = sogdian
+religion = zoroastrianism
 		size = 9106
 	}
 
@@ -45,8 +45,8 @@ religion = animist
 	}
 
 	artisans = {
-		culture = turkic
-religion = animist
+		culture = sogdian
+religion = zoroastrianism
 		size = 125
 	}
 
@@ -57,8 +57,8 @@ religion = animist
 	}
 
 	farmers = {
-		culture = turkic
-religion = animist
+		culture = bactrian
+religion = zoroastrianism
 		size = 2287
 	}
 }
@@ -91,9 +91,15 @@ religion = animist
 	}
 
 	farmers = {
+		culture = sogdian
+religion = zoroastrianism
+		size = 3862
+	}
+	
+	farmers = {
 		culture = bactrian
 religion = zoroastrianism
-		size = 6862
+		size = 3000
 	}
 }
 #Khorugh (23000/5750 POPS)   
