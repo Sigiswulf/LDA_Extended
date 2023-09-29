@@ -3286,6 +3286,9 @@ GHA;Ghassanids;;;;;;;;;;;;;x
 LAK;Lakhmids;;;;;;;;;;;;;x
 NEJ;Kindah;;;;;;;;;;;;;x
 YEM;Himyar;;;;;;;;;;;;;x
+YEM_ADJ;Himyarite;;;;;;;;;;;;;x
+OMA;Azd;;;;;;;;;;;;;x
+OMA_ADJ;Azdi;;;;;;;;;;;;;x
 LUA;Chenla;;;;;;;;;;;;;x
 CAM;Khmer;;;;;;;;;;;;;x
 MON;Mon;;;;;;;;;;;;;x
@@ -3298,10 +3301,12 @@ SAM;Sami;;;;;;;;;;;;;x
 JUT;Jutland;;;;;;;;;;;;;x
 GET;Geatland;;;;;;;;;;;;;x
 CAN;Atlanta;;;;;;;;;;;;;x
-CAL;Califopolis;;;;;;;;;;;;;x
+CAL;Hesperia;;;;;;;;;;;;;x
+CAL_ADJ;Hesperian;;;;;;;;;;;;;x
 DES;Cascadia;;;;;;;;;;;;;x
-CSA; Civitates Confoederatae Atlantia;;;;;;;;;;;;;x
-MAN;New Eburakon;;;;;;;;;;;;;x
+CSA; Civitates Confoederatae Atlantiae;;;;;;;;;;;;;x
+MAN;New Albion;;;;;;;;;;;;;x
+MAN_ADJ;New Albionic;;;;;;;;;;;;;x
 MTC;Heartland Confederacy;;;;;;;;;;;;;x
 NEN;Virgo;;;;;;;;;;;;;x
 QUE;Kebec;;;;;;;;;;;;;x
@@ -3310,9 +3315,9 @@ PAT;Patagonia;;;;;;;;;;;;;x
 MGA;Mato Grosso Amazonas;;;;;;;;;;;;;x
 RCF;Recife;;;;;;;;;;;;;x
 OSU;Southern Republic of Atlantia;;;;;;;;;;;;;x
-BRZ;Brasila;;;;;;;;;;;;;x
+BRZ;Brasilia;;;;;;;;;;;;;x
 UCA;United Provinces of Central Atlantia;;;;;;;;;;;;;x
-RGD;Rio Magno;;;;;;;;;;;;;x
+RGD;Rivus Magnus;;;;;;;;;;;;;x
 WIF;West Indies;;;;;;;;;;;;;x
 YUC;Maya;;;;;;;;;;;;;x
 RPL;Atlantian Heartland;;;;;;;;;;;;;x
@@ -3354,7 +3359,7 @@ PAL_ADJ;Pallavan;;;;;;;;;;;;;x
 GAN_ADJ;Gangas;;;;;;;;;;;;;x
 QII_ADJ;Qi;;;;;;;;;;;;;x
 KAD_ADJ;Kalabhran;;;;;;;;;;;;;x
-GET_ADJ;Goatlandic;;;;;;;;;;;;;x
+GET_ADJ;Geatish;;;;;;;;;;;;;x
 DAC;Dacia;;;;;;;;;;;;;x
 DAC_ADJ;Dacian;;;;;;;;;;;;;x
 GER;Germania;;;;;;;;;;;;;x

@@ -105,13 +105,13 @@ religion = zoroastrianism
 1219 = {
 	aristocrats = {
 		culture = parthian
-religion = hindu
+religion = zoroastrianism
 		size = 108
 	}
 
 	clergymen = {
 		culture = bactrian
-religion = hindu
+religion = zoroastrianism
 		size = 101
 	}
 
@@ -130,7 +130,13 @@ religion = hindu
 	farmers = {
 		culture = baloch
 religion = hindu
-		size = 6351
+		size = 3351
+	}
+
+	farmers = {
+		culture = bactrian
+religion = hindu
+		size = 3000
 	}
 }
 #Dalbandin (27500/6875 POPS)
@@ -436,7 +442,7 @@ religion = animist
 
 	farmers = {
 		culture = tocharian
-religion = animist
+religion = mahayana
 		size = 11476
 	}
 

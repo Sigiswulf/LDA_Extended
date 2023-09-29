@@ -261,8 +261,8 @@ turkic;Turkic;;;;;;;;;x;;;;
 bantu;Bantu;;;;;;;;;x;;;;
 austronesian;Austronesian;;;;;;;;;x;;;;
 niger_congo_a;Niger-Congo A;;;;;;;;;x;;;;
-nilo_saharan;Nilo-Saharan;;;;;;;;;x;;;;
-afro_asiatic;Afro-Asiatic;;;;;;;;;x;;;;
+nilo_saharan;Nubian;;;;;;;;;x;;;;
+afro_asiatic;Ethiopic;;;;;;;;;x;;;;
 indo_aryan;Indo;;;;;;;;;x;;;;
 dravidian;Dravidian;;;;;;;;;x;;;;
 andean;Andean;;;;;;;;;x;;;;
@@ -274,6 +274,8 @@ quechua;Quechua;;;;;;;;;x;;;;
 aimara;Aimara;;;;;;;;;x;;;;
 nahua;Nahua;;;;;;;;;x;;;;
 maghrebi;African;;;;;;;;;x;;;;
+south_arabian;Sayhadic;;;;;;;;;x;;;;
+cushitic;Cushitic;;;;;;;;;x;;;;
 #############################################;;;;;;;;;;;;;;x
 #Additional Generic Fixes and Additions;;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
@@ -708,9 +710,9 @@ create_baltic_desc;Divided we will wall fall victim to our neighbors, but united
 PER;Persia;;;;;;;;;;;;;x
 PER_ADJ;Persian;;;;;;;;;;;;;x
 PER_absolute_monarchy;Sassanid Empire;;;;;;;;;;;;;x
-GER_absolute_monarchy;Teudiskaz;;;;;;;;;;;;;x
-GER_prussian_constitutionalism;Teudiskaz;;;;;;;;;;;;;x
-GER_hms_government;Teudiskaz;;;;;;;;;;;;x
+GER_absolute_monarchy;Germanic Empire;;;;;;;;;;;;;x
+GER_prussian_constitutionalism;Germanic Empire;;;;;;;;;;;;;x
+GER_hms_government;Germanic Empire;;;;;;;;;;;;x
 PER_absolute_monarchy_ADJ;Sassanid;;;;;;;;;;;;;x
 PER_prussian_constitutionalism;Persia;;;;;;;;;;;;;x
 PER_hms_government;Persia;;;;;;;;;;;;x

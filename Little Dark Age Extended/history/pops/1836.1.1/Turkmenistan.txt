@@ -15,7 +15,7 @@ religion = animist
 	}
 
 	artisans = {
-		culture = khwarezmian
+		culture = sogdian
 religion = zoroastrianism
 		size = 112
 	}
@@ -27,14 +27,14 @@ religion = animist
 	}
 
 	farmers = {
-		culture = khwarezmian
+		culture = sogdian
 religion = zoroastrianism
 		size = 1300
 	}
 	
 	farmers = {
-		culture = parthian
-religion = zoroastrianism
+		culture = turkic
+religion = animist
 		size = 1000
 	}
 }

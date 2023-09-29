@@ -251,61 +251,61 @@ religion = animist
 #Abha (50400/12600 POPS)
 1155 = {
 	aristocrats = {
-culture = bedouin
+culture = south_arabian
 religion = animist
 		size = 90
 	}
 
 	clergymen = {
-culture = bedouin
+culture = south_arabian
 religion = animist
 		size = 44
 	}
 
 	artisans = {
-culture = bedouin
+culture = south_arabian
 religion = animist
 		size = 270
 	}
 
 	soldiers = {
-culture = bedouin
+culture = south_arabian
 religion = animist
 		size = 990
 	}
 
 	farmers = {
-culture = bedouin
+culture = south_arabian
 religion = animist
 		size = 4094
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = south_arabian
 religion = animist
 		size = 134
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = south_arabian
 religion = animist
 		size = 66
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = south_arabian
 religion = animist
 		size = 314
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = south_arabian
 religion = animist
 		size = 66
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = south_arabian
 religion = animist
 		size = 6570
 	}

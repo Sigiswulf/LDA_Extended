@@ -195,7 +195,7 @@ religion = zoroastrianism
 	}
 
 	aristocrats = {
-		culture = bactrian
+		culture = parthian
 religion = zoroastrianism
 		size = 12
 	}
@@ -249,8 +249,8 @@ religion = animist
 	}
 
 	farmers = {
-		culture = turkic
-religion = animist
+		culture = parthian
+religion = zoroastrianism
 		size = 1612
 	}
 }

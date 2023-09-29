@@ -3,67 +3,67 @@
 #Muscat (57600/14400 POPS)   
 1166 = {
 	aristocrats = {
-		culture = bedouin
+		culture = south_arabian
 religion = zoroastrianism
 		size = 268
 	}
 
 	bureaucrats = {
-		culture = bedouin
+		culture = south_arabian
 religion = zoroastrianism
 		size = 44
 	}
 
 	officers = {
-		culture = bedouin
+		culture = south_arabian
 religion = zoroastrianism
 		size = 88
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = south_arabian
 religion = zoroastrianism
 		size = 88
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = south_arabian
 religion = zoroastrianism
 		size = 180
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = south_arabian
 religion = zoroastrianism
 		size = 1980
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = south_arabian
 religion = zoroastrianism
 		size = 1124
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = south_arabian
 religion = animist
 		size = 44
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = south_arabian
 religion = animist
 		size = 180
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = south_arabian
 religion = animist
 		size = 44
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = south_arabian
 religion = animist
 		size = 3328
 	}
@@ -113,31 +113,31 @@ religion = zoroastrianism
 #Suhar (28800/7200 POPS)   
 1169 = {
 	aristocrats = {
-		culture = bedouin
+		culture = south_arabian
 religion = zoroastrianism
 		size = 88
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = south_arabian
 religion = zoroastrianism
 		size = 132
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = south_arabian
 religion = zoroastrianism
 		size = 360
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = south_arabian
 religion = zoroastrianism
 		size = 88
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = south_arabian
 religion = zoroastrianism
 		size = 6524
 	}
@@ -145,55 +145,55 @@ religion = zoroastrianism
 #Nizwa (43200/10800 POPS)   
 1170 = {
 	aristocrats = {
-		culture = bedouin
+		culture = south_arabian
 religion = zoroastrianism
 		size = 132
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = south_arabian
 religion = zoroastrianism
 		size = 88
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = south_arabian
 religion = zoroastrianism
 		size = 448
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = south_arabian
 religion = zoroastrianism
 		size = 88
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = south_arabian
 religion = zoroastrianism
 		size = 8232
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = south_arabian
 religion = animist
 		size = 24
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = south_arabian
 religion = animist
 		size = 88
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = south_arabian
 religion = animist
 		size = 16
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = south_arabian
 religion = animist
 		size = 1664
 	}
@@ -201,55 +201,55 @@ religion = animist
 #Sur (43200/10800 POPS)   
 1171 = {
 	aristocrats = {
-		culture = bedouin
+		culture = south_arabian
 religion = zoroastrianism
 		size = 44
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = south_arabian
 religion = zoroastrianism
 		size = 88
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = south_arabian
 religion = zoroastrianism
 		size = 180
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = south_arabian
 religion = zoroastrianism
 		size = 44
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = south_arabian
 religion = zoroastrianism
 		size = 3240
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = south_arabian
 religion = animist
 		size = 44
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = south_arabian
 religion = animist
 		size = 180
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = south_arabian
 religion = animist
 		size = 44
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = south_arabian
 religion = animist
 		size = 3328
 	}
@@ -281,49 +281,49 @@ religion = animist
 #Duqm (36000/9000 POPS)   
 1172 = {
 	aristocrats = {
-		culture = bedouin
+		culture = south_arabian
 religion = zoroastrianism
 		size = 132
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = south_arabian
 religion = zoroastrianism
 		size = 132
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = south_arabian
 religion = zoroastrianism
 		size = 360
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = south_arabian
 religion = zoroastrianism
 		size = 88
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = south_arabian
 religion = zoroastrianism
 		size = 6480
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = south_arabian
 religion = animist
 		size = 44
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = south_arabian
 religion = animist
 		size = 88
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = south_arabian
 religion = animist
 		size = 1664
 	}
@@ -333,61 +333,61 @@ religion = animist
 #Salalah (36000/9000 POPS)   
 1174 = {
 	aristocrats = {
-		culture = bedouin
+		culture = south_arabian
 religion = zoroastrianism
 		size = 116
 	}
 
 	bureaucrats = {
-		culture = bedouin
+		culture = south_arabian
 religion = zoroastrianism
 		size = 8
 	}
 
 	officers = {
-		culture = bedouin
+		culture = south_arabian
 religion = zoroastrianism
 		size = 8
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = south_arabian
 religion = zoroastrianism
 		size = 132
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = south_arabian
 religion = zoroastrianism
 		size = 360
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = south_arabian
 religion = zoroastrianism
 		size = 88
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = south_arabian
 religion = zoroastrianism
 		size = 6480
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = south_arabian
 religion = animist
 		size = 44
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = south_arabian
 religion = animist
 		size = 88
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = south_arabian
 religion = animist
 		size = 1664
 	}

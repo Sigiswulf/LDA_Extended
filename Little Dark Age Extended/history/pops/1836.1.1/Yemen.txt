@@ -3,43 +3,43 @@
 #Mukalla (28800/7200 POPS)   
 1173 = {
 	aristocrats = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 120
 	}
 
 	bureaucrats = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 12
 	}
 
 	officers = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 22
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 66
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 360
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 990
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 5714
 	}
@@ -47,31 +47,31 @@ religion = jewish
 #Ghaydah (18000/4500 POPS)   
 1175 = {
 	aristocrats = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 90
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 44
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 224
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 44
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 4184
 	}
@@ -79,31 +79,31 @@ religion = jewish
 #Bayda (61200/15300 POPS)   
 1176 = {
 	aristocrats = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 246
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 156
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 764
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 156
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 13972
 	}
@@ -112,31 +112,31 @@ religion = jewish
 #Socotra (14400/3600 POPS)   
 1177 = {
 	aristocrats = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 44
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 44
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 134
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 22
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 2496
 	}
@@ -152,73 +152,73 @@ religion = jewish
 #Sana (111600/27900 POPS)   
 1178 = {
 	aristocrats = {
-culture = bedouin
+culture = south_arabian
 religion = jewish
 		size = 426
 	}
 
 	bureaucrats = {
-culture = bedouin
+culture = south_arabian
 religion = jewish
 		size = 44
 	}
 
 	officers = {
-culture = bedouin
+culture = south_arabian
 religion = jewish
 		size = 66
 	}
 
 	clergymen = {
-culture = bedouin
+culture = south_arabian
 religion = jewish
 		size = 224
 	}
 
 	artisans = {
-culture = bedouin
+culture = south_arabian
 religion = jewish
 		size = 1146
 	}
 
 	soldiers = {
-culture = bedouin
+culture = south_arabian
 religion = jewish
 		size = 3600
 	}
 
 	farmers = {
-culture = bedouin
+culture = south_arabian
 religion = jewish
 		size = 17436
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 66
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 66
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 134
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 44
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 3284
 	}
@@ -238,61 +238,61 @@ religion = jewish
 #Hodeida (43200/10800 POPS)   
 1179 = {
 	aristocrats = {
-culture = bedouin
+culture = south_arabian
 religion = jewish
 		size = 134
 	}
 
 	clergymen = {
-culture = bedouin
+culture = south_arabian
 religion = jewish
 		size = 90
 	}
 
 	artisans = {
-culture = bedouin
+culture = south_arabian
 religion = jewish
 		size = 450
 	}
 
 	soldiers = {
-culture = bedouin
+culture = south_arabian
 religion = jewish
 		size = 990
 	}
 
 	farmers = {
-culture = bedouin
+culture = south_arabian
 religion = jewish
 		size = 7424
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 22
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 44
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 90
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 22
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 1620
 	}
@@ -300,61 +300,61 @@ religion = jewish
 #Taizz (46800/11700 POPS)   
 1180 = {
 	aristocrats = {
-culture = bedouin
+culture = south_arabian
 religion = jewish
 		size = 990
 	}
 
 	clergymen = {
-culture = bedouin
+culture = south_arabian
 religion = jewish
 		size = 44
 	}
 
 	artisans = {
-culture = bedouin
+culture = south_arabian
 religion = jewish
 		size = 224
 	}
 
 	soldiers = {
-culture = bedouin
+culture = south_arabian
 religion = jewish
 		size = 990
 	}
 
 	farmers = {
-culture = bedouin
+culture = south_arabian
 religion = jewish
 		size = 3262
 	}
 
 	aristocrats = {
-culture = bedouin
+culture = south_arabian
 religion = jewish
 		size = 112
 	}
 
 	clergymen = {
-culture = bedouin
+culture = south_arabian
 religion = jewish
 		size = 66
 	}
 
 	artisans = {
-culture = bedouin
+culture = south_arabian
 religion = jewish
 		size = 360
 	}
 
 	soldiers = {
-culture = bedouin
+culture = south_arabian
 religion = jewish
 		size = 66
 	}
 
 	farmers = {
-culture = bedouin
+culture = south_arabian
 religion = jewish
 		size = 5760
 	}
@@ -362,91 +362,91 @@ religion = jewish
 #Aden (36000/9000 POPS)   
 1412 = {
 	aristocrats = {
-culture = bedouin
+culture = south_arabian
 religion = jewish
 		size = 66
 	}
 
 	clergymen = {
-culture = bedouin
+culture = south_arabian
 religion = jewish
 		size = 44
 	}
 
 	artisans = {
-culture = bedouin
+culture = south_arabian
 religion = jewish
 		size = 224
 	}
 
 	soldiers = {
-culture = bedouin
+culture = south_arabian
 religion = jewish
 		size = 44
 	}
 
 	farmers = {
-culture = bedouin
+culture = south_arabian
 religion = jewish
 		size = 3262
 	}
 
 	aristocrats = {
-culture = bedouin
+culture = south_arabian
 religion = jewish
 		size = 44
 	}
 
 	clergymen = {
-culture = bedouin
+culture = south_arabian
 religion = jewish
 		size = 66
 	}
 
 	artisans = {
-culture = bedouin
+culture = south_arabian
 religion = jewish
 		size = 134
 	}
 
 	soldiers = {
-culture = bedouin
+culture = south_arabian
 religion = jewish
 		size = 990
 	}
 
 	farmers = {
-culture = bedouin
+culture = south_arabian
 religion = jewish
 		size = 2406
 	}
 
 	aristocrats = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 22
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 22
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 90
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 22
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = south_arabian
 religion = jewish
 		size = 1642
 	}

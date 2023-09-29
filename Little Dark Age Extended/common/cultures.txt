@@ -1723,18 +1723,14 @@ arab = {
 	afro_asiatic = {
 		color = {74 140 243}
 		first_names = { 
-			"Abd Allah" "Abd al-Karim" "Abd al-Malik" "Abd al-Qadir" "Abd al-Rahman" "Abu Bakr" Ahmad Ali 
-			Fawzi Fuad Halil Hasan Hisham Ibrahim Ishaq Iskandar Ja'far Jamal Kamil Khalid 
-			Muhammad Mustafa "Nur al-Din" "Sa'd al-Din" Salim  Sa'ud Shukri
-			Tawfiq Umar Uthman Yahya Yusuf Zafir 		
+			Amare Dahnay Desta Getachew Geteye Girma Iskinder Abai Abebe Afework Aman Assefa Atoberhan Azmera Bekele Benaim Berhanu Berhanua Berihun Berta Bworo Daniachew Dawit Demissie Eremias Ezana Fasilidas Fethee Gabra Gebereal Gebre Gondar Hackeem Haeran Hagos Hakeem Hakiem Hakim Hakym Iskander Iskinder_Alexander Iyasu Jima Kafa Kaleb Kelile Kelyle Kifle Lebna Lema Loua Mamo Mekonnen Melaku Mengesha Merille Miruts Negash Negasi Negus Ogbae Ogbai Oromo Rahad Selassie Semer Semere Sisay Tamirat Tariku Taye Tefere Teferi Teka Tekle Tengene Teruworq Tesfaye Tessema Tewodros Yacob Yohannas Yonas Zula		
 			}
 		
 		last_names = { 
-			"ibn Abd Allah" "ibn Abd al-Qadir" "ibn Abu Bakr" "ibn Ahmad" "ibn Ali"
-			"ibn Fuad" "ibn Halil" "ibn Hasan" "ibn Hisham" "ibn Ishaq" "ibn Ja'far" "ibm Kamil" "ibn Khalid" 
-			"ibn Muhammad" "ibn Mustafa" "ibn Salim"  
-			"ibn Umar" "ibn Uthman" "ibn Yusuf"
-			"al-Najdi" "al-Hijazi"   
+			Selemoni Darod Azim Marisi Muqurri Pakhoras Ramli Sebsibi Kebedi Bekeli Abati Sabrai
+			Astatki Habeshi Dubé Gobena Selassie Zagwe Dengel Mesafint Sehul Daw Alwa Na'akwelo
+			Yost Merkuri Shamumun Desta Sentiko Mena Dahnay Gideon Assabi Afari Tamirat Mengesha
+			Teka Getachew Zoskales Alod
 			}
 			radicalism = 10
 		}
@@ -1806,6 +1802,27 @@ arab = {
 			"al-Najdi" "al-Hijazi"   
 			}
 			radicalism = 10
+		}
+	south_arabian = {
+		color = {106 145 123}
+		first_names = { 
+			Yúsuf "Yúsuf As'ar" Sumúyafa Luhi'ah "Luhi'ah Yanuf" Mu'di "Mu'di Karib"
+			"'Abd-Kalal" Sharhabil Hassán Abú "Abú Karíb" Dhara'amar "Maliki Karib"
+			Tharin Zamir "Zamir Ali" Karib'íl Watar "Karib'íl Watar" Yásir Yarim 
+			Shammar "Shammar Yuhar'ish" Sa'd "Sa'd Um" Nawfan "Íl Iz Nawfan" 
+			"Rab Shams" Shahar "Karib Athat" "Hutar Athat" "Amdan Bayin" Shamdar
+			"Tharin Ya'ib" Murthid "Sa'd Shams" "Nasha Karib" "Karib'íl Watar"
+			"Hayu Athtar" Yazil "Íl Sharih" Sha'ram Far'am Alhan Anmar Wahab'íl
+			Nasir Wahab "Wahab Shamsam" Karib Samah'ali "Yatha' Amar" Yada'il
+			"Yakrib Malek" Ílsharih "Akh Karib" "Yada' Ab" "Yatha' Amr"		
+			}
+		
+		last_names = { 
+			Yath'ar Ashwa Yanuf "Dhi-Hasbah" Yan'im Yafar Yuha'min "al-Himyári" Karíb
+			"ibn Hassán" Ayman Aymin Yakrib Ayfi' Yuharhib "bin Yásir" Namran Yuhasdiq
+			Namran Yuhaqbiz Yafish Yahbir Asri' "Yuha'min Yuharhib" Zarih Yazi' Yahdhib
+			Awtar Yanhab Nahfan Yahiz "Íl Yahiz" Watar Dzarah Ab
+			}
 		}
 	berber = {
 		color = {51 75 70}
@@ -2367,7 +2384,7 @@ native_american = {
 	}
 	pueblo = {
 		color = {222 238 156}
-		first_names = { Cochise Mangas Loco Taza Nana chihuahua Geronimo Alchesay Naiche Victorio
+		first_names = { Cochise Mangas Loco Taza Nana Chihuahua Geronimo Alchesay Naiche Victorio
 		}
 		last_names = { Arivaipa Cibecue Coyotero Jicarilla Llanero Mescalero Nateges Tonto
 		}
@@ -2665,12 +2682,47 @@ central_african = {
 	unit = AfricanGC
 	nilo_saharan = {
 		color = {229 212 43}
-		first_names = { Abdul Abu-Sekkin Burkomanda Ngarmane "Abd al-Rahman" Uthman Muhammad Malam Ngarmaba
+		first_names = { 
+			Aarón Aberikos Abraam Añgelos Andreas Athanasios Baló Bartholomaios Birél Chael Christophoros Dauid Dimetheos
+			Dioskoros Diónisios Eliezer Eionkouda Emmanouel Enóch Ephanné Epimachos Epiphanios Gabriel Gabrielkouda Gabrielophorou Gennatios
+			Geórgios Hélias Howase Howassi Howasse Iacob Ieremias Iésous Iésousinkouda Ióannou Ióannés Iordanes Ioseph Kalinikos Kollouthos
+			Krisanthos Kuriakos Kurillos Lazaros Leon Leontios Makarios Mariana Mariankouda Marianos Marios Markos Marturophoros
+			Mashanñal Maththias Mélénkouda Mena Menankouda Merkourios Michaél Michaélkouda Mouses Orna Panigiros Papasinen Papasinkouda Patrikios
+			Paulos Petros Petrou Philotheos Philemon Prochoros Raphael Raphaelkouda Samson Senouthios Sentiko Sergios Simeoni Soizuros Solomón Sotinkouda Stephanos
+			Stephanou Thadeosi Theodóros Theodosios Theodote Thoma Tophéna Tirsakouni Zacharias Zosima
+			
+			Addae Adeben Adofo Adom Adousa Agyei Agyeman Agyemang Akron Akwasi Amowa Amowani Ampah Anan Anane Ankoma Anoum Asamowah Ashon Ason Atowapem Awotwe Awotwi Badou Berko Bowadi Bodoua Donkor Doubakou Ebo Ekow Enou Fiifi Gyasi Jojo Kobby Kobena Kobi Kobina Kodjo Koffi Kofi Kojo Komla Komlan Kontar Kosi Kow Kwabena Kwadwo Kwakou Kwame Kwasi Kwaw Kwekou Kwesi Kwodwo Kyere Manou Minkah Nkrouma Nsia Nsonowa Ntonni Ogyam Okoto Okyin Osei Owousou Owousouwao Pereko Siisi Tano Yaba Yao Yaw Yawo Yoofi
 		}
 
-		last_names = { Ermanala Gawrang Qadir as-Saghir Mohammed al-Mahdi al-Kabir Bira
+		last_names = { 
+			Hadaatar Handiwa Hadendowa Hidarib Hedareb Atbai Amarar Bisharyeen Bisariab 
 		}
 	}
+	cushitic = {
+		color = {190 62 86}
+		first_names = { 
+			#Somalis
+			Barkaale Bootaan Bucaale Beynakh Bille Beyle Ayaanle Arbooshe 
+			Abroon Warsame Cigaal Roble Rigle 
+			Faarakh Shirdoon Sharmaake Guuleed Shirwakh Samakab Samatalis Samadon Libaan Shire 
+			Raage Waranle Xildiid Samatar Areys Artan Aideed Abtidon Diriye Geldon Geedi Kenadid Mire Mirale Nalaye Nageeye 	
+			
+			#Afars
+			Aydahis Badlay Basu Dileita Gaas Garad Gashaw Hanfere Illalta Jasa Netsanet Redo Shamsa
+			}
+		
+		last_names = { 
+			#Somalis
+			Barkaali Bootaani Bucaali Beynakhi Billi Beyli Ayaanli Arbooshi 
+			Abrooni Warsami Cigaali Robli Rigli 
+			Faarakhi Shirdooni Sharmaaki Guuleedi Shirwakhi Samakabi Samatalisi Samadoni Libaani Shiri 
+			Raagi Waranli Xildiidi Samatari Areysi Artani Aideedi Abtidoni Diriyi Geldoni Geedi Kenadidi Miri Mirali Nalayi Nageeyi 	
+			
+			#Afars
+			Aydahisi Badlayi Basi Dileiti Gaasi Garadi Gashawi Hanferi Illalti Jasi Netsaneti Redi Shamsi
+			}
+			radicalism = 10
+		}
 	bantu = {
 		color = {233 134 28}
 		first_names = { Poaty Loembe M'voudoukousala Pratt N'Gangue M'voumbe Mfutila Kivuzi Nteve Kenje

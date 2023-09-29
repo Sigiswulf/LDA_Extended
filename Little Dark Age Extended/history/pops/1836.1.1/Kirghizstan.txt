@@ -151,7 +151,12 @@ religion = zoroastrianism
 	farmers = {
 		culture = turkic
 		religion = animist
-		size = 1143
+		size = 643
+	}
+	farmers = {
+		culture = sogdian
+		religion = zoroastrianism
+		size = 500
 	}
 
 	aristocrats = {

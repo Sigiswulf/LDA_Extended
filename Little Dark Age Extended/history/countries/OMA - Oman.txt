@@ -1,5 +1,5 @@
 capital = 1166
-primary_culture = bedouin
+primary_culture = south_arabian
 religion = zoroastrianism
 government = absolute_monarchy
 plurality = 0.0

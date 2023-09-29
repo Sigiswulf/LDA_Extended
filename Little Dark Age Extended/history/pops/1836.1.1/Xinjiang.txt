@@ -363,8 +363,8 @@ religion = animist
 	}
 
 	artisans = {
-		culture = turkic
-religion = animist
+		culture = tocharian
+religion = mahayana
 		size = 600
 	}
 
@@ -376,8 +376,14 @@ religion = animist
 
 	farmers = {
 		culture = tocharian
+religion = mahayana
+		size = 5912
+	}
+	
+	farmers = {
+		culture = turkic
 religion = animist
-		size = 10912
+		size = 5000
 	}
 }
 #Khotan (22000/5500 POPS)
@@ -396,7 +402,7 @@ religion = animist
 
 	artisans = {
 		culture = tocharian
-religion = animist
+religion = mahayana
 		size = 275
 	}
 
@@ -408,8 +414,14 @@ religion = animist
 
 	farmers = {
 		culture = tocharian
+religion = mahayana
+		size = 2606
+	}
+	
+	farmers = {
+		culture = turkic
 religion = animist
-		size = 5006
+		size = 2400
 	}
 }
 #Kumul (47000/11750 POPS)
@@ -666,7 +678,7 @@ religion = animist
 
 	artisans = {
 		culture = tocharian
-religion = animist
+religion = mahayana
 		size = 62
 	}
 
@@ -678,8 +690,14 @@ religion = animist
 
 	farmers = {
 		culture = tocharian
+religion = mahayana
+		size = 643
+	}
+	
+	farmers = {
+		culture = turkic
 religion = animist
-		size = 1143
+		size = 500
 	}
 
 	aristocrats = {

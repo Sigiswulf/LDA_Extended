@@ -1,5 +1,5 @@
 capital = 1852
-primary_culture = afro_asiatic
+primary_culture = nilo_saharan
 religion = coptic
 government = absolute_monarchy
 plurality = 0.0
