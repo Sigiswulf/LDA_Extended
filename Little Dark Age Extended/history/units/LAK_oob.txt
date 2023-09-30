@@ -1,0 +1,27 @@
+army = {
+	name = "Army of the Lakhmid King"
+	location = 929
+	regiment = {
+		name= "1.Hashid"
+		type = irregular
+		home = 929
+	}
+
+	regiment = {
+		name= "2.Hashid"
+		type = irregular
+		home = 929
+	}
+
+	regiment = {
+		name= "1.Bakil"
+		type = irregular
+		home = 929
+	}
+
+	regiment = {
+		name= "2.Bakil"
+		type = irregular
+		home = 929
+	}
+}

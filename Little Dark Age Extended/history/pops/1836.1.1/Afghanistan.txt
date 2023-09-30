@@ -646,55 +646,55 @@ religion = zoroastrianism
 1210 = {
 	aristocrats = {
 		culture = bactrian
-religion = zoroastrian
+religion = zoroastrianism
 		size = 120
 	}
 
 	clergymen = {
 		culture = bactrian
-religion = zoroastrian
+religion = zoroastrianism
 		size = 57
 	}
 
 	artisans = {
 		culture = bactrian
-religion = zoroastrian
+religion = zoroastrianism
 		size = 338
 	}
 
 	soldiers = {
 		culture = bactrian
-religion = zoroastrian
+religion = zoroastrianism
 		size = 1072
 	}
 
 	farmers = {
 		culture = bactrian
-religion = zoroastrian
+religion = zoroastrianism
 		size = 5382
 	}
 
 	aristocrats = {
 		culture = bactrian
-religion = zoroastrian
+religion = zoroastrianism
 		size = 1608
 	}
 
 	clergymen = {
 		culture = bactrian
-religion = zoroastrian
+religion = zoroastrianism
 		size = 752
 	}
 
 	artisans = {
 		culture = bactrian
-religion = zoroastrian
+religion = zoroastrianism
 		size = 3658
 	}
 
 	soldiers = {
 		culture = bactrian
-religion = zoroastrian
+religion = zoroastrianism
 		size = 3906
 	}
 
@@ -705,7 +705,7 @@ religion = animist
 	}
 	farmers = {
 		culture = bactrian
-religion = zoroastrian
+religion = zoroastrianism
 		size = 40000
 	}
 

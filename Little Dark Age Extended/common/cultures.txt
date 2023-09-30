@@ -1814,14 +1814,15 @@ arab = {
 			"Tharin Ya'ib" Murthid "Sa'd Shams" "Nasha Karib" "Karib'íl Watar"
 			"Hayu Athtar" Yazil "Íl Sharih" Sha'ram Far'am Alhan Anmar Wahab'íl
 			Nasir Wahab "Wahab Shamsam" Karib Samah'ali "Yatha' Amar" Yada'il
-			"Yakrib Malek" Ílsharih "Akh Karib" "Yada' Ab" "Yatha' Amr"		
+			"Yakrib Malek" Ílsharih "Akh Karib" "Yada' Ab" "Yatha' Amr"	
+			Sumuhu'ali Yitha'amar
 			}
 		
 		last_names = { 
 			Yath'ar Ashwa Yanuf "Dhi-Hasbah" Yan'im Yafar Yuha'min "al-Himyári" Karíb
 			"ibn Hassán" Ayman Aymin Yakrib Ayfi' Yuharhib "bin Yásir" Namran Yuhasdiq
 			Namran Yuhaqbiz Yafish Yahbir Asri' "Yuha'min Yuharhib" Zarih Yazi' Yahdhib
-			Awtar Yanhab Nahfan Yahiz "Íl Yahiz" Watar Dzarah Ab
+			Awtar Yanhab Nahfan Yahiz "Íl Yahiz" Watar Dzarah Ab "Dhu'l-Kala" "Dhu Asbah"
 			}
 		}
 	berber = {

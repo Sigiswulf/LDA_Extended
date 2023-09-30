@@ -1,0 +1,27 @@
+army = {
+	name = "Army of the Ghassanid King"
+	location = 908
+	regiment = {
+		name= "1.Hashid"
+		type = irregular
+		home = 908
+	}
+
+	regiment = {
+		name= "2.Hashid"
+		type = irregular
+		home = 908
+	}
+
+	regiment = {
+		name= "1.Bakil"
+		type = irregular
+		home = 908
+	}
+
+	regiment = {
+		name= "2.Bakil"
+		type = irregular
+		home = 908
+	}
+}

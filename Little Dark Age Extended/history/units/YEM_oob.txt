@@ -1,0 +1,39 @@
+army = {
+	name = "Army of the King of Himyar"
+	location = 1178
+	regiment = {
+		name= "1. Liwa' Alfursan"
+		type = dragoon
+		home = 1178
+	}
+
+	regiment = {
+		name= "2. Liwa' Alfursan"
+		type = hussar
+		home = 1179
+	}
+
+	regiment = {
+		name= "1. Liwa' Almushaat"
+		type = infantry_offensive
+		home = 1178
+	}
+
+	regiment = {
+		name= "2. Liwa' Almushaat"
+		type = infantry_offensive
+		home = 1180
+	}
+	
+	regiment = {
+		name= "3. Liwa' Almushaat"
+		type = infantry_offensive
+		home = 1412
+	}
+	
+	regiment = {
+		name= "4. Liwa' Almushaat"
+		type = infantry_offensive
+		home = 1173
+	}
+}
