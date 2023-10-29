@@ -2361,13 +2361,32 @@ native_american = {
 	leader = nativeamerican
 	mayan = {
 		color = {98 88 142}
-		first_names = { Agustín Akbal Alejandro Andrés Aníbal Antonio Armando Bernardo Carlos Crescencio
-		Cristóbal Cuautéhmoc Diego Felipe Gaspar Hernando Hilario Humberto Ignacio Jacinto 
-		Jesús Luis Marcial Martín Miguel Ramiro Rodolfo Rolando Santiago Yumil }
+		first_names = { 
+		Akbal Chak B'alam Cuautéhmoc K'an K'inich Man Ucha'an "Ucha'an K'an" Tan Te' "Tan Te'" Til "Til Man" Yaxkin Yumil Lachan K'awiil Ajaw "Lachan K'awiil Ajaw" Aj Yash "Aj Yash" Jasaw Chan
+		"Jasaw Chan" Olnal "Aj Olnal" "Aj Chan" Vinakhab Nak'ey "Aj Nak'ey" Bahlam Sak Teleh
+		"Aj Sak Teleh" Yuknoom Tuun K'ab' "Tuun K'ab'" Ut Chanal "Ut Chanal" "Yax Yopaat" "Uneh Chan"
+		"Yuknoom Ti'" "Tajoom Uk'ab" Yich'aak "Yuknoom Yich'aak" Took' "Yuknoom Took'" Wamaw
+		Bolon Pet Tajal "Tajal Chan" Kan Te' K'ahk' Ujol "K'ahk' Ujol" Yajaw "Yajaw Te'"
+		K'an Knot "Knot Ajaw" Tum Yohl "Tum Yohl" Joy "K'inich Joy" Toob'il "K'inich Toob'il"
+		Yu'npik Che'enal Bahlam Sihyaj "Sihyaj Chan" Xaman Mat Uxman Taj "Yopaat Taj Naaj"
+		K'aloomte Yax K'uk "Yax K'uk" Popol Ku Muyal Wil Ohl "Wil Ohl" "Sak-Lu" "Tzi-Bahlam"
+		"Chan Imix" Uaxaclajuun Ub'aah "Uaxaclajuun Ub'aah" Joplaj "K'ak' Joplaj Chan" Yipyaj
+		"K'ak' Yipyaj Chan" Pasaj "Yax Pasaj Chan" Ukit Itzamnaaj B'alaj K'in "Unen-K'awiil"
+		"Kal-Chan-Chaak" "Ukit Kan Le'k" "Janaab Yook" "Aj-Koht-Chowa" "Vilaan Chak Tok"
+		"Sakhb Chan" "K’inich Tacal" "Aj Yaxjal" "Yas-tu-Chaak" "Tacal-Mo'" "Sihyaj K'in Ich'aak"
+		"Ets'nab-Chaak" "Juun Tsak-Took" "Aj Ho' Baak" "Ti-Chaak" K'uxaj "K'ahk' Xiiw Chan"
+		"Wak Chanil" "K'ak' Tiliw Chan" "Yax Mayuy" "K'ahk' Ukalaw" "Waxaklajuun Ub'aah"
+		"Ahkal Mo' Nahb"
+		}
 
-		last_names = { Ak'ab'al Cal Canek Canul Carrillo Ceh Chee Chi Choc Coc
-		Curruchic Ixquiac López Manzanero Mas Menchú Mérida Mes Osorio Pek
-		Poot Pop Puk Shal Sho Tecú Teul Tuyuc Xicara Xiloj }
+		last_names = { 
+		Ak'ab'al Cal Canek Canul Carrillo Ceh Chee Chi Choc Coc
+		Curruchic Ixquiac Lakamtuun Mas Menchú Mes Pek
+		Poot Pop Puk Shal Sho Tecú Teul Tuyuc Xicara Xiloj 
+		K'inich B'alam Bot Punim Muwaan Tok' Bonampak Ch'een Hix
+		Chan K'ahk' K'awiil Ahk Maax Ek' Yopaat Naaj Mo' Hol Ix
+		Jol Nehn Took Nahkaan Tun B'aak Ich'aak Chaahk
+		}
 	}
 	dakota = {
 		color = {66 78 134}
@@ -2487,25 +2506,213 @@ neo_european_cultures = {
 	}
 }
 
-latin_american_cultures = {
+latin_american_cultures = { #Some native Mexicans
 	leader = southamerican
-	mexican = {
+	mexican = { #Nahuatl
 		color = {51 117 62}
-		first_names = { Adrián Agustín Álvaro Anastasio Andrés Ángel Antonio Bernardo Emiliano Emilio
-		Enrique Ernesto Felipe Félix Francisco "Francisco Javier" Gabriel Gaspar Gregorio Ignacio
-		Jerónimo Joaquín José "José Manuel" "José María" Juan "Juan Bautista" Justo Lázaro Manuel
-		Mariano Martín Melchor Miguel Nicolás Pablo Pascual Pedro Porfirio Ramón
-		Ricardo Rómulo Salvador Sebastián Tomás Valentín Valeriano Venustiano Vicente Victoriano
+		first_names = { 
+		Yaotl Matlalihuitl Nochehuatl Coatl Tototl Cuauhtl Tochtli Zolin Matlal Xochitl
+		Mazatl Cuetzpalli Olli Itzcuintli Tlalli Huitzitl Ocelotl Ozomatli Cuetlachtli
+		Tecolotl Miztli Cipac Ocuil Cuixtli Tapayaxi Cozahtli Necuametl Huitztecol
+		Eloxochitl Xochipepe Omacatl Tecuetlaza Itzcuin Xichiquen Yaquica Quenmachoc
+		Teuhcatl Quaquauh Pantli Huehuetl Acotlehuac Temilo Tecocoa Tlatlazaloc
+		Tlapoca Quauhtemoc Poton Pacoatl Olopatzicatl Mimich Cihuacoatl Nacxitl Tochhua
+		Pihuiyol Nauhyotl Tenicahuehue Mito Axolin Quiachton Quauhtlapochin Tlacuiton
+		Ecaton Nochhuetl Huehuetecatl Ilcahualoc Chichiton Tenoch Telpoch Ticocnahuacatl
+		Huecamecatl Tlilli Tetzauh Itzocotocatl Popocatl Motolinia Cuilol Chichatlapal
+		Tetepon Mecahuehue Quetzal Mizyaotl Xiuhcozcatl Acatlo Ollacatl Chuicnahuacatl
+		Huelitl Elotl Huitznahuatl Zacahuehue Chimalpepech Acopa Tezcacoacatl Toqual 
+		Caltecatl Tlilquen Tepeyacan Chalmecatl Tlillanhuehuw Milli Pozon Xochihua Mexicatl
+		Teuctlamacazqui Molotecatl Tlailotlac Yaotlhuehue Coyolton Tecocol Tlacateotl
+		Tlilpotonqui Cuima Tlacatecpanecatl Nequametl Yaonemitl Tenahuac Aquahuitl Tlapayauh
+		Xochiteotl Tlohui Molotl Quennel Huetl Tematl Cihuatecpanecatl Chatl Itzmalli 
+		Tziuhcoatl Epcoatl Cozauh Xolotecatl Tenan Coyotl Xochinahual Cihuapan Chicotl
+		Ihhuitl Tonal Mamaz Maceuhqui Amiztlato Cecuiztli Tequitl Tonecocal Mixcoatl
+		Ecatl Quauhtliztac Chalchiuh Tlahtol Quahuitl Acol Tlahuizcal Xelhuan Nencahuitl
+		Itzmiquiztli Yopicatl Tozmacue Tozcuecuexcatl Macuilhuehue
+		Tetlacatl Tolnahuacatl Mixcoatlailotlac Anahuaca Moyotl 
 		}
 
-		last_names = { Almonte Álvarez Arista Barragán Bocanegra Bravo Bustamante Canalizo Carranza Caserta
-		Cervantes Corona Corra "de Ampudia" "de Cos" "de Itúrbide" Díaz Echeverría Escandón Escobedo
-		Fagoaga "Fernández del Valle" Flores Gómez González Guerrero Huerta Kosterlitzky "López de Santa Ana" Lozada
-		"Martínez del Río" Mejía Miramón Múzquiz Obregón Pedraza Pimentel Reyes "Rincón Gallardo" Robles
-		Ruíz Salas Sánchez "Sarmaniego del Castillo" "Vázquez de la Cadena" Villa Woll Zapata Zaragoza Zuloaga
+		last_names = { 
+		Aca Acxotlan Amaxal Azcatl Chapul Chapula Chapulin Coatl Cocolo Cocolotl Colexcua
+		Colomoxca Coyol Coyopotl Cuahtzon Cuahuey Cuahuizo Cuahutenco Cuahutle Cuapa
+		Cuatle Cuatlehua Cuatli Quauhtli Cuaxiloa Ehecatl Huepa Hueytletl Huitle Huitzil 
+		Huitztlacatl Itzcoatl Itzcua Itzmoyotl Memehua Mixca Naxi Nocelotl Ocotoxtle
+		Pancoatl Panecatl Papaqui Patee Petlacalco Quia Quitl Tecaxco Tequaltili
+		Tequampiltontli Tecuanhuehue Tentle Teotl Tepanecatl Tepetl Tepeyahuitl Tepntla
+		Tetzopa Teutle Tlahuizo Tlalolin Tlapa Tlapaltotoli Tlapanco Tlatehui Tlatoa Tocal 
+		Tochihuilt Tochimani Tolama Totozintle Cuacuas Toxqui Toxtle Xicale Xique Xochitecatl
+		Zacatzontetl Zempoaltecatl Zepahua Zitlal Cuachayo Ixehuatl Coyotecatl Colex
+		Cuateco Cuatzo Huitletl Ocotoxtle Patle Tlahuex Ahuatl Atenco Atzin Caloch Chilaca
+		Chilchoa Cocoletzi Cocone Cuahonte Cuahquentzi Cuahquentzi Cuahuizo Cuamatla
+		Cuamatzi Cuapa Cuate Cuatlapantzi Quauhtli Cuayahuitl Huexolotl Ixehuatl Ixtaccihuatl
+		Mitzi Mitnahuatl Ocomatl Pelaxtla Piantzi Popotl Popoca Quechol Quecholac Quitl Techalotzi
+		Tecpa Tecuanhuey Tecuapetla Temoatzin Tenahua Tepale Tepetzi Tepoztli Texcalli
+		Textle Tezontli Timal Tlacotia Tlacoxolal Tlacuatl Tlaque Tlahuetl Tlaltelpa
+		Tlapalama Tlila Tochihuitl Tonacatl Tochtlipan Xahuentitla Xaltenco Xoampil
+		Xochitiotzi Xolalpa Xolo Zahuantitla Zontlimatzi Cianenemi Guauhchoca Tlalpachito
+		Tlatoa Chalchi Xoletl Tecuapetla Tlatelpa Xical Tlaxcaltecatl Cuamani Toxcoyoa
+		Tecanhuey Tonanchintan
 		}
 	}
-	central_american = {
+	totonac = { #Using Nahuatl names since I couldn't find any Totonac names
+		color = {204 54 24}
+		first_names = { 
+		Yaotl Matlalihuitl Nochehuatl Coatl Tototl Cuauhtl Tochtli Zolin Matlal Xochitl
+		Mazatl Cuetzpalli Olli Itzcuintli Tlalli Huitzitl Ocelotl Ozomatli Cuetlachtli
+		Tecolotl Miztli Cipac Ocuil Cuixtli Tapayaxi Cozahtli Necuametl Huitztecol
+		Eloxochitl Xochipepe Omacatl Tecuetlaza Itzcuin Xichiquen Yaquica Quenmachoc
+		Teuhcatl Quaquauh Pantli Huehuetl Acotlehuac Temilo Tecocoa Tlatlazaloc
+		Tlapoca Quauhtemoc Poton Pacoatl Olopatzicatl Mimich Cihuacoatl Nacxitl Tochhua
+		Pihuiyol Nauhyotl Tenicahuehue Mito Axolin Quiachton Quauhtlapochin Tlacuiton
+		Ecaton Nochhuetl Huehuetecatl Ilcahualoc Chichiton Tenoch Telpoch Ticocnahuacatl
+		Huecamecatl Tlilli Tetzauh Itzocotocatl Popocatl Motolinia Cuilol Chichatlapal
+		Tetepon Mecahuehue Quetzal Mizyaotl Xiuhcozcatl Acatlo Ollacatl Chuicnahuacatl
+		Huelitl Elotl Huitznahuatl Zacahuehue Chimalpepech Acopa Tezcacoacatl Toqual 
+		Caltecatl Tlilquen Tepeyacan Chalmecatl Tlillanhuehuw Milli Pozon Xochihua Mexicatl
+		Teuctlamacazqui Molotecatl Tlailotlac Yaotlhuehue Coyolton Tecocol Tlacateotl
+		Tlilpotonqui Cuima Tlacatecpanecatl Nequametl Yaonemitl Tenahuac Aquahuitl Tlapayauh
+		Xochiteotl Tlohui Molotl Quennel Huetl Tematl Cihuatecpanecatl Chatl Itzmalli 
+		Tziuhcoatl Epcoatl Cozauh Xolotecatl Tenan Coyotl Xochinahual Cihuapan Chicotl
+		Ihhuitl Tonal Mamaz Maceuhqui Amiztlato Cecuiztli Tequitl Tonecocal Mixcoatl
+		Ecatl Quauhtliztac Chalchiuh Tlahtol Quahuitl Acol Tlahuizcal Xelhuan Nencahuitl
+		Itzmiquiztli Yopicatl Tozmacue Tozcuecuexcatl Macuilhuehue
+		Tetlacatl Tolnahuacatl Mixcoatlailotlac Anahuaca Moyotl 
+		}
+
+		last_names = { 
+		Aca Acxotlan Amaxal Azcatl Chapul Chapula Chapulin Coatl Cocolo Cocolotl Colexcua
+		Colomoxca Coyol Coyopotl Cuahtzon Cuahuey Cuahuizo Cuahutenco Cuahutle Cuapa
+		Cuatle Cuatlehua Cuatli Quauhtli Cuaxiloa Ehecatl Huepa Hueytletl Huitle Huitzil 
+		Huitztlacatl Itzcoatl Itzcua Itzmoyotl Memehua Mixca Naxi Nocelotl Ocotoxtle
+		Pancoatl Panecatl Papaqui Patee Petlacalco Quia Quitl Tecaxco Tequaltili
+		Tequampiltontli Tecuanhuehue Tentle Teotl Tepanecatl Tepetl Tepeyahuitl Tepntla
+		Tetzopa Teutle Tlahuizo Tlalolin Tlapa Tlapaltotoli Tlapanco Tlatehui Tlatoa Tocal 
+		Tochihuilt Tochimani Tolama Totozintle Cuacuas Toxqui Toxtle Xicale Xique Xochitecatl
+		Zacatzontetl Zempoaltecatl Zepahua Zitlal Cuachayo Ixehuatl Coyotecatl Colex
+		Cuateco Cuatzo Huitletl Ocotoxtle Patle Tlahuex Ahuatl Atenco Atzin Caloch Chilaca
+		Chilchoa Cocoletzi Cocone Cuahonte Cuahquentzi Cuahquentzi Cuahuizo Cuamatla
+		Cuamatzi Cuapa Cuate Cuatlapantzi Quauhtli Cuayahuitl Huexolotl Ixehuatl Ixtaccihuatl
+		Mitzi Mitnahuatl Ocomatl Pelaxtla Piantzi Popotl Popoca Quechol Quecholac Quitl Techalotzi
+		Tecpa Tecuanhuey Tecuapetla Temoatzin Tenahua Tepale Tepetzi Tepoztli Texcalli
+		Textle Tezontli Timal Tlacotia Tlacoxolal Tlacuatl Tlaque Tlahuetl Tlaltelpa
+		Tlapalama Tlila Tochihuitl Tonacatl Tochtlipan Xahuentitla Xaltenco Xoampil
+		Xochitiotzi Xolalpa Xolo Zahuantitla Zontlimatzi Cianenemi Guauhchoca Tlalpachito
+		Tlatoa Chalchi Xoletl Tecuapetla Tlatelpa Xical Tlaxcaltecatl Cuamani Toxcoyoa
+		Tecanhuey Tonanchintan
+		}
+	}
+	tarascan = { #Purepecha, unable to find surnames, first names duplicated as placeholder last names
+		color = {212 239 56}
+		first_names = { 
+			Hireticatame Sicuirancha Tariacuri Pavacume Hiqugage Hiripan Tangaxoan Tzitzicpandacuare Zangua Uresqua Cando Sica Zinaquambi Quama Quatamaripe Equandira Chague Cando Ticatame Tucuruan Paguingata Trimaransco Cuini Sirangua Zincicha Tigame Tagani Patamu Chuicico Caracomoco Tariaran Cacapu Aramen Vaspe Terazi Cariqua Tupuri Hivacha Zinzumi Hanzivia Cavujancha Tarando Horohta Vanzan Hutaco Hozi Tuinchumbra Yzniquanto Hapunduri Zapivatame Xoropiti Tarequesinguata
+			Tangaxuan Erandi Irepani Erendirani Shanarani
+		}
+
+		last_names = { 
+			Hireticatame Sicuirancha Tariacuri Pavacume Hiqugage Hiripan Tangaxoan Tzitzicpandacuare Zangua Uresqua Cando Sica Zinaquambi Quama Quatamaripe Equandira Chague Cando Ticatame Tucuruan Paguingata Trimaransco Cuini Sirangua Zincicha Tigame Tagani Patamu Chuicico Caracomoco Tariaran Cacapu Aramen Vaspe Terazi Cariqua Tupuri Hivacha Zinzumi Hanzivia Cavujancha Tarando Horohta Vanzan Hutaco Hozi Tuinchumbra Yzniquanto Hapunduri Zapivatame Xoropiti Tarequesinguata
+			Tangaxuan Erandi Irepani Erendirani Shanarani
+		}
+	}
+	zapotec = { #only found Xquenda for Zapotec names, rest are Nahuatl placeholders
+		color = {243 190 68}
+		first_names = { 
+			Xquenda
+			
+			Yaotl Matlalihuitl Nochehuatl Coatl Tototl Cuauhtl Tochtli Zolin Matlal Xochitl
+			Mazatl Cuetzpalli Olli Itzcuintli Tlalli Huitzitl Ocelotl Ozomatli Cuetlachtli
+			Tecolotl Miztli Cipac Ocuil Cuixtli Tapayaxi Cozahtli Necuametl Huitztecol
+			Eloxochitl Xochipepe Omacatl Tecuetlaza Itzcuin Xichiquen Yaquica Quenmachoc
+			Teuhcatl Quaquauh Pantli Huehuetl Acotlehuac Temilo Tecocoa Tlatlazaloc
+			Tlapoca Quauhtemoc Poton Pacoatl Olopatzicatl Mimich Cihuacoatl Nacxitl Tochhua
+			Pihuiyol Nauhyotl Tenicahuehue Mito Axolin Quiachton Quauhtlapochin Tlacuiton
+			Ecaton Nochhuetl Huehuetecatl Ilcahualoc Chichiton Tenoch Telpoch Ticocnahuacatl
+			Huecamecatl Tlilli Tetzauh Itzocotocatl Popocatl Motolinia Cuilol Chichatlapal
+			Tetepon Mecahuehue Quetzal Mizyaotl Xiuhcozcatl Acatlo Ollacatl Chuicnahuacatl
+			Huelitl Elotl Huitznahuatl Zacahuehue Chimalpepech Acopa Tezcacoacatl Toqual 
+			Caltecatl Tlilquen Tepeyacan Chalmecatl Tlillanhuehuw Milli Pozon Xochihua Mexicatl
+			Teuctlamacazqui Molotecatl Tlailotlac Yaotlhuehue Coyolton Tecocol Tlacateotl
+			Tlilpotonqui Cuima Tlacatecpanecatl Nequametl Yaonemitl Tenahuac Aquahuitl Tlapayauh
+			Xochiteotl Tlohui Molotl Quennel Huetl Tematl Cihuatecpanecatl Chatl Itzmalli 
+			Tziuhcoatl Epcoatl Cozauh Xolotecatl Tenan Coyotl Xochinahual Cihuapan Chicotl
+			Ihhuitl Tonal Mamaz Maceuhqui Amiztlato Cecuiztli Tequitl Tonecocal Mixcoatl
+			Ecatl Quauhtliztac Chalchiuh Tlahtol Quahuitl Acol Tlahuizcal Xelhuan Nencahuitl
+			Itzmiquiztli Yopicatl Tozmacue Tozcuecuexcatl Macuilhuehue
+			Tetlacatl Tolnahuacatl Mixcoatlailotlac Anahuaca Moyotl 
+		}
+
+		last_names = { 
+			Xquenda
+			
+			Aca Acxotlan Amaxal Azcatl Chapul Chapula Chapulin Coatl Cocolo Cocolotl Colexcua
+			Colomoxca Coyol Coyopotl Cuahtzon Cuahuey Cuahuizo Cuahutenco Cuahutle Cuapa
+			Cuatle Cuatlehua Cuatli Quauhtli Cuaxiloa Ehecatl Huepa Hueytletl Huitle Huitzil 
+			Huitztlacatl Itzcoatl Itzcua Itzmoyotl Memehua Mixca Naxi Nocelotl Ocotoxtle
+			Pancoatl Panecatl Papaqui Patee Petlacalco Quia Quitl Tecaxco Tequaltili
+			Tequampiltontli Tecuanhuehue Tentle Teotl Tepanecatl Tepetl Tepeyahuitl Tepntla
+			Tetzopa Teutle Tlahuizo Tlalolin Tlapa Tlapaltotoli Tlapanco Tlatehui Tlatoa Tocal 
+			Tochihuilt Tochimani Tolama Totozintle Cuacuas Toxqui Toxtle Xicale Xique Xochitecatl
+			Zacatzontetl Zempoaltecatl Zepahua Zitlal Cuachayo Ixehuatl Coyotecatl Colex
+			Cuateco Cuatzo Huitletl Ocotoxtle Patle Tlahuex Ahuatl Atenco Atzin Caloch Chilaca
+			Chilchoa Cocoletzi Cocone Cuahonte Cuahquentzi Cuahquentzi Cuahuizo Cuamatla
+			Cuamatzi Cuapa Cuate Cuatlapantzi Quauhtli Cuayahuitl Huexolotl Ixehuatl Ixtaccihuatl
+			Mitzi Mitnahuatl Ocomatl Pelaxtla Piantzi Popotl Popoca Quechol Quecholac Quitl Techalotzi
+			Tecpa Tecuanhuey Tecuapetla Temoatzin Tenahua Tepale Tepetzi Tepoztli Texcalli
+			Textle Tezontli Timal Tlacotia Tlacoxolal Tlacuatl Tlaque Tlahuetl Tlaltelpa
+			Tlapalama Tlila Tochihuitl Tonacatl Tochtlipan Xahuentitla Xaltenco Xoampil
+			Xochitiotzi Xolalpa Xolo Zahuantitla Zontlimatzi Cianenemi Guauhchoca Tlalpachito
+			Tlatoa Chalchi Xoletl Tecuapetla Tlatelpa Xical Tlaxcaltecatl Cuamani Toxcoyoa
+			Tecanhuey Tonanchintan
+		}
+	}
+	mixtec = { #Unable to find Mixtec names, Nahuatl used instead
+		color = {37 85 131}
+		first_names = { 
+			Yaotl Matlalihuitl Nochehuatl Coatl Tototl Cuauhtl Tochtli Zolin Matlal Xochitl
+			Mazatl Cuetzpalli Olli Itzcuintli Tlalli Huitzitl Ocelotl Ozomatli Cuetlachtli
+			Tecolotl Miztli Cipac Ocuil Cuixtli Tapayaxi Cozahtli Necuametl Huitztecol
+			Eloxochitl Xochipepe Omacatl Tecuetlaza Itzcuin Xichiquen Yaquica Quenmachoc
+			Teuhcatl Quaquauh Pantli Huehuetl Acotlehuac Temilo Tecocoa Tlatlazaloc
+			Tlapoca Quauhtemoc Poton Pacoatl Olopatzicatl Mimich Cihuacoatl Nacxitl Tochhua
+			Pihuiyol Nauhyotl Tenicahuehue Mito Axolin Quiachton Quauhtlapochin Tlacuiton
+			Ecaton Nochhuetl Huehuetecatl Ilcahualoc Chichiton Tenoch Telpoch Ticocnahuacatl
+			Huecamecatl Tlilli Tetzauh Itzocotocatl Popocatl Motolinia Cuilol Chichatlapal
+			Tetepon Mecahuehue Quetzal Mizyaotl Xiuhcozcatl Acatlo Ollacatl Chuicnahuacatl
+			Huelitl Elotl Huitznahuatl Zacahuehue Chimalpepech Acopa Tezcacoacatl Toqual 
+			Caltecatl Tlilquen Tepeyacan Chalmecatl Tlillanhuehuw Milli Pozon Xochihua Mexicatl
+			Teuctlamacazqui Molotecatl Tlailotlac Yaotlhuehue Coyolton Tecocol Tlacateotl
+			Tlilpotonqui Cuima Tlacatecpanecatl Nequametl Yaonemitl Tenahuac Aquahuitl Tlapayauh
+			Xochiteotl Tlohui Molotl Quennel Huetl Tematl Cihuatecpanecatl Chatl Itzmalli 
+			Tziuhcoatl Epcoatl Cozauh Xolotecatl Tenan Coyotl Xochinahual Cihuapan Chicotl
+			Ihhuitl Tonal Mamaz Maceuhqui Amiztlato Cecuiztli Tequitl Tonecocal Mixcoatl
+			Ecatl Quauhtliztac Chalchiuh Tlahtol Quahuitl Acol Tlahuizcal Xelhuan Nencahuitl
+			Itzmiquiztli Yopicatl Tozmacue Tozcuecuexcatl Macuilhuehue
+			Tetlacatl Tolnahuacatl Mixcoatlailotlac Anahuaca Moyotl 
+		}
+
+		last_names = { 
+			Aca Acxotlan Amaxal Azcatl Chapul Chapula Chapulin Coatl Cocolo Cocolotl Colexcua
+			Colomoxca Coyol Coyopotl Cuahtzon Cuahuey Cuahuizo Cuahutenco Cuahutle Cuapa
+			Cuatle Cuatlehua Cuatli Quauhtli Cuaxiloa Ehecatl Huepa Hueytletl Huitle Huitzil 
+			Huitztlacatl Itzcoatl Itzcua Itzmoyotl Memehua Mixca Naxi Nocelotl Ocotoxtle
+			Pancoatl Panecatl Papaqui Patee Petlacalco Quia Quitl Tecaxco Tequaltili
+			Tequampiltontli Tecuanhuehue Tentle Teotl Tepanecatl Tepetl Tepeyahuitl Tepntla
+			Tetzopa Teutle Tlahuizo Tlalolin Tlapa Tlapaltotoli Tlapanco Tlatehui Tlatoa Tocal 
+			Tochihuilt Tochimani Tolama Totozintle Cuacuas Toxqui Toxtle Xicale Xique Xochitecatl
+			Zacatzontetl Zempoaltecatl Zepahua Zitlal Cuachayo Ixehuatl Coyotecatl Colex
+			Cuateco Cuatzo Huitletl Ocotoxtle Patle Tlahuex Ahuatl Atenco Atzin Caloch Chilaca
+			Chilchoa Cocoletzi Cocone Cuahonte Cuahquentzi Cuahquentzi Cuahuizo Cuamatla
+			Cuamatzi Cuapa Cuate Cuatlapantzi Quauhtli Cuayahuitl Huexolotl Ixehuatl Ixtaccihuatl
+			Mitzi Mitnahuatl Ocomatl Pelaxtla Piantzi Popotl Popoca Quechol Quecholac Quitl Techalotzi
+			Tecpa Tecuanhuey Tecuapetla Temoatzin Tenahua Tepale Tepetzi Tepoztli Texcalli
+			Textle Tezontli Timal Tlacotia Tlacoxolal Tlacuatl Tlaque Tlahuetl Tlaltelpa
+			Tlapalama Tlila Tochihuitl Tonacatl Tochtlipan Xahuentitla Xaltenco Xoampil
+			Xochitiotzi Xolalpa Xolo Zahuantitla Zontlimatzi Cianenemi Guauhchoca Tlalpachito
+			Tlatoa Chalchi Xoletl Tecuapetla Tlatelpa Xical Tlaxcaltecatl Cuamani Toxcoyoa
+			Tecanhuey Tonanchintan
+		}
+	}
+	central_american = { #Unused
 		color = {101 164 172}
 		first_names = { Alejandro Andrés Aniceto Arturo Bartolomé Basilio Benito Benjamín Bernardo Carlos
 		Daniel Diego Doroteo Eduardo Eugenio Felipe Félix Fermín Fernando Francisco
@@ -2522,7 +2729,7 @@ latin_american_cultures = {
 		}
 		radicalism = 15
 	}
-	caribeno = {
+	caribeno = { #Unused
 		color = {122 11 74}
 		first_names = { Alberto Alejandro Alfredo Ambrosio Anselmo Antonio Arturo Benigno Buenaventura Calixto
 		Carlos Ceferino Cesáreo Demetrio Desiderio Dionisio Domingo Eugenio Federico Felipe
@@ -2538,7 +2745,7 @@ latin_american_cultures = {
 		Pelletier Pimentel Puello Santana Sosa Trujillo Valverde Vásquez Vázquez Zayas
 		}
 	}
-	north_andean = {
+	north_andean = { #Unused
 		color = {146 156 116}
 		first_names = { Antonio Camilo Carlos Cipriano Demetrio Diego Domingo Eloy Eusebio Eustorgio
 		Ezequiel Federico Fernando Florentino Franciso "Francisco Javier" "Francisco José" "Francisco de Paula" Froilán Gabriel
@@ -2554,7 +2761,7 @@ latin_american_cultures = {
 		Reyes Robles Rocafuerte Rojas Salgar Santander Soublette Urbina Villegas Zaldúa
 		}
 	}
-	south_andean = {
+	south_andean = { #Andean
 		color = {116 156 146}
 		first_names = { Adolfo Agustín Alejandro Andrés Aníbal Antonio Bartolomé Bernardo David Diego
 		Domingo Eduardo Emiliano Emilio Enrique Esteban Eusebio Federico Felipe Francisco
@@ -2570,7 +2777,7 @@ latin_american_cultures = {
 		Pezet Rebolledo Ruíz-Tagle Salaverry "Santa María" Siles Sotomayor Toro Valencia Zañartu Zapata
 		}
 	}
-	platinean = {
+	platinean = { #Unused
 		color = {199 232 151}
 		first_names = { Agustín Antonio Atanasio Baltasar Bartolomé Bernardino Bernardo Cándido Carlos Cecilio
 		Cirilo Claudio Domingo Emiliano Esteban Eugenio Evaristo Facundo Faustino Feliciano
@@ -2586,7 +2793,7 @@ latin_american_cultures = {
 		Santos Sarmineto Solano Tajes Uriburu Viamonte Vidal Williman Wisner Yrigoyen
 		}
 	}
-	brazilian = {
+	brazilian = { #Unused
 		color = {0 112 66}
 		first_names = { Afonso Antônio Artur Augusto Aurélio Benjamin Cândido Carlos Celso Custódio
 		Delfim Deodoro Eduardo Emílio Epitácio Ernesto Fábio Fernando Filipe Floriano

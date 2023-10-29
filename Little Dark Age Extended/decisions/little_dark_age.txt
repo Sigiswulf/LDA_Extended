@@ -35,7 +35,7 @@ potential = {tag = POR NOT = { has_country_flag = cultural_prominence} }
 
 allow = {ideological_thought = 1}
 
-effect = { add_accepted_culture = suebian
+effect = { add_accepted_culture = south_german
 primary_culture = romano_hispanic set_country_flag = cultural_prominence} }
 
 

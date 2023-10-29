@@ -1,37 +1,20 @@
 political_decisions = {	
 	aleman_acceptance = { 
 	potential = { 
-	OR = { tag = MEC tag = SAX }
+	OR = { tag = SAX }
 	NOT = { accepted_culture = south_german }
 	NOT = { has_country_flag = aleman_acc }
 	}
 	
 	allow = { 
 	ideological_thought = 1 
-	any_owned_province = { is_core = WUR }
+	any_owned_province = { 
+		OR = { is_core = WUR is_core = MEC }
 	}
 	
 	effect = { 
 	set_country_flag = aleman_acc
 	add_accepted_culture = south_german 
-	}
-	
-	}
-	thrung_acceptance = { 
-	potential = { 
-	OR = { tag = WUR tag = SAX }
-	NOT = { accepted_culture = czech }
-	NOT = { has_country_flag = thrung_acc }
-	}
-	
-	allow = { 
-	ideological_thought = 1 
-	any_owned_province = { is_core = MEC }
-	}
-	
-	effect = { 
-	set_country_flag = thrung_acc
-	add_accepted_culture = czech
 	}
 	
 	}
@@ -49,7 +32,7 @@ political_decisions = {
 	
 	effect = { 
 	set_country_flag = saxon_acc
-	add_accepted_culture = south_german 
+	add_accepted_culture = north_german 
 	}
 	
 	}

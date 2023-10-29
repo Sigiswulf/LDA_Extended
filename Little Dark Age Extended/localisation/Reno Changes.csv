@@ -276,6 +276,11 @@ nahua;Nahua;;;;;;;;;x;;;;
 maghrebi;African;;;;;;;;;x;;;;
 south_arabian;Sayhadic;;;;;;;;;x;;;;
 cushitic;Cushitic;;;;;;;;;x;;;;
+mexican;Nahuatl;;;;;;;;;;;;;x 
+totonac;Totonac;;;;;;;;;x;;;;
+zapotec;Zapotec;;;;;;;;;x;;;;
+mixtec;Mixtec;;;;;;;;;x;;;;
+tarascan;Purepecha;;;;;;;;;x;;;;
 #############################################;;;;;;;;;;;;;;x
 #Additional Generic Fixes and Additions;;;;;;;;;;;;;;x
 #############################################;;;;;;;;;;;;;;x
@@ -728,29 +733,29 @@ PER_liberal;Constitutionalist Party;;;;;;;;;;;;;x
 PER_liberal_2;National Front;;;;;;;;;;;;;x
 AFG_1211;Northern Afghanistan;;;;;;;;;;;;;x
 emishi;Emishi;;;;;;;;;;;;;x
-aleman_acceptance_title;Alemanni Acceptance ;;;;;;;;;;;;;x 
-aleman_acceptance_desc;Our quest towards the integration of Duetland has seen our state gaining the control of many territories in Alemmania. With our hold secured on these areas we can surely gain the approval and cooperation of the locals! ;;;;;;;;;;;;;x
-thrung_acceptance_title;Thrungian Acceptance ;;;;;;;;;;;;;x 
-thrung_acceptance_desc;Our quest towards the integration of Duetland has seen our state gaining the control of many territories in Thrungia. With our hold secured on these areas we can surely gain the approval and cooperation of the locals! ;;;;;;;;;;;;;x
-saxon_acceptance_title;Saxon Acceptance;;;;;;;;;;;;;x 
-saxon_acceptance_desc;Our quest towards the integration of Duetland has seen our state gaining the control of many territories in Saxonia. With our hold secured on these areas we can surely gain the approval and cooperation of the locals!  ;;;;;;;;;;;;;x
+aleman_acceptance_title;Irminonic Acceptance ;;;;;;;;;;;;;x 
+aleman_acceptance_desc;Our quest towards the integration of Germania has seen our state gaining the control of many territories populated by Irminonic Germans. With our hold secured on these areas we can surely gain the approval and cooperation of the locals! ;;;;;;;;;;;;;x
+thrung_acceptance_title;DEFUNCT ;;;;;;;;;;;;;x 
+thrung_acceptance_desc;DEFUNCT ;;;;;;;;;;;;;x
+saxon_acceptance_title;Ingvaeonic Acceptance;;;;;;;;;;;;;x 
+saxon_acceptance_desc;Our quest towards the integration of Germania has seen our state gaining the control of many territories populated by Ingvaeonic Germans. With our hold secured on these areas we can surely gain the approval and cooperation of the locals!  ;;;;;;;;;;;;;x
 raetian;Raetian;;;;;;;;;;;;;x 
 rateian_prominence_title;Raetian Prominence;;;;;;;;;;;;;x 
-rateian_prominence_desc;The Securing of the Alps can not be done without the help and support of the Raetian;;;;;;;;;;;;;x  
+rateian_prominence_desc;The Securing of the Alps can not be done without the help and support of the Raetian people.;;;;;;;;;;;;;x  
 japan_assim;Rapid Assimilation;;;;;;;;;;;;;x 
 south_andean;Andean;;;;;;;;;;;;;x 
 form_etheopian_state_title;Unite the Horn of Africa;;;;;;;;;;;;;x  
 form_etheopian_state_desc;If we seek to survive with the expansion of Rome and the Sassanid Empire it is necessary to form a unitary state with our leadership.;;;;;;;;;;;;;x  
-ILY;Ilyria;;;;;;;;;;;;;x  
+ILY;Illyria;;;;;;;;;;;;;x  
 ILY_ADJ;Illyrian;;;;;;;;;;;;;x  
 christian_india_title;Convert to Christianity;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 christian_india_desc;Our troubles with the Persians and our influental Christian class from Karelia have convinced the King and his court to consider following the path of the Christians;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 zoroastrian_india_title;Convert to Zoroastrianism;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-zoroastrian_india_desc;Our neighbor to our west, Persia, has reformed their Religion to allow and encourage conversions, in the interests of our regional security, we might consider the path of the Lord of Wisdom;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+zoroastrian_india_desc;Our neighbor to our west, Persia, has reformed their Religion to allow and encourage conversions, in the interests of our regional security, we might consider the path of the Lord of Wisdom.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 christian_steppe_title;Convert to Christianity;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-christian_steppe_desc;Our troubles with the Persians and Christian missions from Rome have made following the path of the Christians an enticing one, our King and Court are considering hearing its message ;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+christian_steppe_desc;Our troubles with the Persians and Christian missions from Rome have made following the path of the Christians an enticing one, and our King and Court are considering hearing its message. ;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 zoroastrian_steppe_title;Convert to Zoroastrianism;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
-zoroastrian_steppe_desc;Our neighbor to our south, Persia, has reformed their Religion to allow and encourage conversions, in the interests of our regional security, we might consider the path of the Lord of Wisdom;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
+zoroastrian_steppe_desc;Our neighbor to our south, Persia, has reformed their Religion to allow and encourage conversions, in the interests of our regional security, we might consider the path of the Lord of Wisdom.;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 BUL;Thracia;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 BUL_ADJ;Thracian;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,
 TIB;Zhangzhung;;;;;;;;;;;;;x,,,,,,,,,,,,,,,,,,,,,,

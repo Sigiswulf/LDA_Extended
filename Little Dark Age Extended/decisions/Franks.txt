@@ -94,7 +94,7 @@ owns = 375
 owns = 386
 }
 
-effect = { add_accepted_culture = dutch
+effect = { 
 		NET_375 = { 
 					add_core  = THIS
 			}
