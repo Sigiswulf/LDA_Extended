@@ -913,9 +913,9 @@ iberian = {
 	basque = {
 		color = {220 170 30}
 		first_names = { 
-			Abain Ahoztar Aio Andos Apalo Arixo Arixoni Azeari Azubeli Balcoe Bals Beila Belasco_Vasco Belas Blasco_Vasco Cison Enneco
+			Abain Ahoztar Aio Andos Apalo Arixo Arixoni Azeari Azubeli Balcoe Bals Beila Belasco Belas Blasco Cison Enneco
 			Ereti Erramel Erramon Erramos Garsia Hanna Haros Harsi Heraus Ilun Iluntso Ilintso Ilunosi Ilurde Iaun Iaunti Leheren 
-			Lohis Obeco Otxoa_Ochoa Sembe Selatse Munino Monioni Nabar Ubeltso Txaran Txatzel Txipi Urdin Yssuri Cigor Cilar 
+			Lohis Obeco Otxoa Sembe Selatse Munino Monioni Nabar Ubeltso Txaran Txatzel Txipi Urdin Yssuri Cigor Cilar 
 			}
 		
 		last_names = { Aguirre Ajuriaguerra Aldecoa Arana Aranzadi Arizmendiarrieta Armendáriz Aznar Balenciaga Berasategui 
